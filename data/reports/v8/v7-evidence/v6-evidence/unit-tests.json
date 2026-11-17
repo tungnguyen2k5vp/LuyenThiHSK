@@ -1,0 +1,11 @@
+{
+  "at": "2026-10-16T05:40:41.582Z",
+  "status": "PASS",
+  "assertions": 1733,
+  "questionTypes": 13,
+  "questions": 396,
+  "matching": "canonical map + partial/duplicate validation",
+  "recovery": "real storage read/write + immutable snapshot",
+  "mastery": "latest unique question not repeated attempts",
+  "mockVariants": 2
+}

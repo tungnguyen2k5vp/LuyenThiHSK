@@ -1,0 +1,318 @@
+{
+  "source": {
+    "sourceId": "src-b49f24fe5e9f",
+    "name": "profesorm/hsk30",
+    "baseUrl": "https://github.com/profesorm/hsk30",
+    "sourceType": "GITHUB",
+    "organization": "profesorm",
+    "accessedAt": "2026-10-25T04:51:03.184Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "NOASSERTION",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "LEGAL_REVIEW_REQUIRED",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition."
+    ],
+    "repo": "profesorm/hsk30",
+    "defaultBranch": "main",
+    "sourceRevision": "f3163ca6edff5d6b1e81afb1cd716bb78f5a958a",
+    "licenseEvidence": [
+      "registry/evidence/src-b49f24fe5e9f-LICENCE.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "LICENCE",
+        "status": 200,
+        "evidence": "registry/evidence/src-b49f24fe5e9f-LICENCE.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-b49f24fe5e9f-README.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "data/hsk_grammar.csv",
+        "bytes": 168833
+      },
+      {
+        "path": "data/hsk_grammar_compact.json",
+        "bytes": 236432
+      },
+      {
+        "path": "data/hsk_grammar_pretty.json",
+        "bytes": 273791
+      },
+      {
+        "path": "data/hsk_grammar_raw.json",
+        "bytes": 232217
+      },
+      {
+        "path": "data/hsk_hanzi.csv",
+        "bytes": 54775
+      },
+      {
+        "path": "data/hsk_hanzi_compact.json",
+        "bytes": 260802
+      },
+      {
+        "path": "data/hsk_hanzi_pretty.json",
+        "bytes": 415170
+      },
+      {
+        "path": "data/hsk_hanzi_raw.json",
+        "bytes": 230722
+      },
+      {
+        "path": "data/hsk_task.csv",
+        "bytes": 126731
+      },
+      {
+        "path": "data/hsk_task_compact.json",
+        "bytes": 180467
+      },
+      {
+        "path": "data/hsk_task_pretty.json",
+        "bytes": 210977
+      },
+      {
+        "path": "data/hsk_task_raw.json",
+        "bytes": 175657
+      },
+      {
+        "path": "data/hsk_topic.csv",
+        "bytes": 22737
+      },
+      {
+        "path": "data/hsk_topic_compact.json",
+        "bytes": 65170
+      },
+      {
+        "path": "data/hsk_topic_pretty.json",
+        "bytes": 88228
+      },
+      {
+        "path": "data/hsk_topic_raw.json",
+        "bytes": 62117
+      },
+      {
+        "path": "data/hsk_vocabulary.csv",
+        "bytes": 416903
+      },
+      {
+        "path": "data/hsk_vocabulary_compact.json",
+        "bytes": 1279651
+      },
+      {
+        "path": "data/hsk_vocabulary_pretty.json",
+        "bytes": 1968511
+      },
+      {
+        "path": "data/hsk_vocabulary_raw.json",
+        "bytes": 1202587
+      }
+    ]
+  },
+  "tree": [
+    {
+      "path": "LICENCE",
+      "type": "blob",
+      "size": 785
+    },
+    {
+      "path": "README.md",
+      "type": "blob",
+      "size": 3096
+    },
+    {
+      "path": "data",
+      "type": "tree"
+    },
+    {
+      "path": "data/hsk_grammar.csv",
+      "type": "blob",
+      "size": 168833
+    },
+    {
+      "path": "data/hsk_grammar_compact.json",
+      "type": "blob",
+      "size": 236432
+    },
+    {
+      "path": "data/hsk_grammar_pretty.json",
+      "type": "blob",
+      "size": 273791
+    },
+    {
+      "path": "data/hsk_grammar_raw.json",
+      "type": "blob",
+      "size": 232217
+    },
+    {
+      "path": "data/hsk_hanzi.csv",
+      "type": "blob",
+      "size": 54775
+    },
+    {
+      "path": "data/hsk_hanzi_compact.json",
+      "type": "blob",
+      "size": 260802
+    },
+    {
+      "path": "data/hsk_hanzi_pretty.json",
+      "type": "blob",
+      "size": 415170
+    },
+    {
+      "path": "data/hsk_hanzi_raw.json",
+      "type": "blob",
+      "size": 230722
+    },
+    {
+      "path": "data/hsk_task.csv",
+      "type": "blob",
+      "size": 126731
+    },
+    {
+      "path": "data/hsk_task_compact.json",
+      "type": "blob",
+      "size": 180467
+    },
+    {
+      "path": "data/hsk_task_pretty.json",
+      "type": "blob",
+      "size": 210977
+    },
+    {
+      "path": "data/hsk_task_raw.json",
+      "type": "blob",
+      "size": 175657
+    },
+    {
+      "path": "data/hsk_topic.csv",
+      "type": "blob",
+      "size": 22737
+    },
+    {
+      "path": "data/hsk_topic_compact.json",
+      "type": "blob",
+      "size": 65170
+    },
+    {
+      "path": "data/hsk_topic_pretty.json",
+      "type": "blob",
+      "size": 88228
+    },
+    {
+      "path": "data/hsk_topic_raw.json",
+      "type": "blob",
+      "size": 62117
+    },
+    {
+      "path": "data/hsk_vocabulary.csv",
+      "type": "blob",
+      "size": 416903
+    },
+    {
+      "path": "data/hsk_vocabulary_compact.json",
+      "type": "blob",
+      "size": 1279651
+    },
+    {
+      "path": "data/hsk_vocabulary_pretty.json",
+      "type": "blob",
+      "size": 1968511
+    },
+    {
+      "path": "data/hsk_vocabulary_raw.json",
+      "type": "blob",
+      "size": 1202587
+    },
+    {
+      "path": "scripts",
+      "type": "tree"
+    },
+    {
+      "path": "scripts/grammar.py",
+      "type": "blob",
+      "size": 400
+    },
+    {
+      "path": "scripts/hanzi.py",
+      "type": "blob",
+      "size": 394
+    },
+    {
+      "path": "scripts/hanzi_pretty.py",
+      "type": "blob",
+      "size": 430
+    },
+    {
+      "path": "scripts/json_compact.py",
+      "type": "blob",
+      "size": 901
+    },
+    {
+      "path": "scripts/json_multi_compact.py",
+      "type": "blob",
+      "size": 1162
+    },
+    {
+      "path": "scripts/json_multi_pretty.py",
+      "type": "blob",
+      "size": 609
+    },
+    {
+      "path": "scripts/json_pretty.py",
+      "type": "blob",
+      "size": 405
+    },
+    {
+      "path": "scripts/json_to_csv.py",
+      "type": "blob",
+      "size": 525
+    },
+    {
+      "path": "scripts/json_to_csv_special_crlf.py",
+      "type": "blob",
+      "size": 774
+    },
+    {
+      "path": "scripts/task.py",
+      "type": "blob",
+      "size": 413
+    },
+    {
+      "path": "scripts/test.py",
+      "type": "blob",
+      "size": 242
+    },
+    {
+      "path": "scripts/topic.py",
+      "type": "blob",
+      "size": 393
+    },
+    {
+      "path": "scripts/vocabulary.py",
+      "type": "blob",
+      "size": 408
+    }
+  ]
+}

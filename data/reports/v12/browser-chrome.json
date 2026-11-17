@@ -1,0 +1,202 @@
+{
+  "at": "2026-10-19T06:24:45.519Z",
+  "status": "PASS",
+  "browser": "Chrome",
+  "checks": [
+    "Stage persisted and preview loaded",
+    "Missing audio stays unavailable",
+    "HSK2 navigation",
+    "246 HSK2 question drafts",
+    "76 playable part questions",
+    "Workbench loaded 40 real transcripts",
+    "Internal sixty-question fixture",
+    "Listening buttons disabled",
+    "Guided TTS labelled and missing-voice fallback",
+    "Real practice images decoded and alt text present",
+    "Image error state and retry reachable",
+    "Fast question switch keeps current image binding",
+    "Separate correct/wrong/blank/ungraded",
+    "Mixed six compatible playable questions",
+    "Mixed includes reading and writing",
+    "Manual answer retained ungraded",
+    "New V12 grammar lesson examples",
+    "New V12 lesson launches independent V12 questions",
+    "New grammar result returns to available weakness practice",
+    "V12 word overlay retains canonical SRS/bookmark ID",
+    "Plan excludes missing audio"
+  ],
+  "offlineReview": {
+    "status": "PASS",
+    "records": 1339,
+    "flaggedFilter": 308,
+    "batchA": 20,
+    "hsk2": 246,
+    "notesRestore": true,
+    "casExport": true,
+    "humanApproval": false
+  },
+  "microphone": {
+    "status": "PASS",
+    "duration": 1.86,
+    "format": "PCM16 WAV mono 24kHz",
+    "capture": "Chrome/Edge fake device; never actual user microphone or human speech",
+    "playback": "Native control click; currentTime advances; muted headless output, not human listening",
+    "explicitClick": true,
+    "permissionDenied": true,
+    "draftRestore": true,
+    "newRecordingScopesReset": true,
+    "tracksStopped": true,
+    "uploadedToMain": false,
+    "humanApproval": false
+  },
+  "mobileGrammar": {
+    "status": "PASS",
+    "checks": [
+      "Dialog labelled and aria-modal",
+      "Native Tab and Shift+Tab wrap, including summary controls",
+      "Long lesson scrolls and real practice CTA available",
+      "Escape closes, restores opener focus and page scroll"
+    ],
+    "screenReader": "NOT_TESTED",
+    "realDevice": false
+  },
+  "nativeVoiceInventory": [
+    {
+      "name": "Microsoft David - English (United States)",
+      "lang": "en-US",
+      "localService": true,
+      "default": true
+    },
+    {
+      "name": "Microsoft Mark - English (United States)",
+      "lang": "en-US",
+      "localService": true,
+      "default": false
+    },
+    {
+      "name": "Microsoft Zira - English (United States)",
+      "lang": "en-US",
+      "localService": true,
+      "default": false
+    },
+    {
+      "name": "Google Deutsch",
+      "lang": "de-DE",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google US English",
+      "lang": "en-US",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google UK English Female",
+      "lang": "en-GB",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google UK English Male",
+      "lang": "en-GB",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google español",
+      "lang": "es-ES",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google español de Estados Unidos",
+      "lang": "es-US",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google français",
+      "lang": "fr-FR",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google हिन्दी",
+      "lang": "hi-IN",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google Bahasa Indonesia",
+      "lang": "id-ID",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google italiano",
+      "lang": "it-IT",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google 日本語",
+      "lang": "ja-JP",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google 한국의",
+      "lang": "ko-KR",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google Nederlands",
+      "lang": "nl-NL",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google polski",
+      "lang": "pl-PL",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google português do Brasil",
+      "lang": "pt-BR",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google русский",
+      "lang": "ru-RU",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google 普通话（中国大陆）",
+      "lang": "zh-CN",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google 粤語（香港）",
+      "lang": "zh-HK",
+      "localService": false,
+      "default": false
+    },
+    {
+      "name": "Google 國語（臺灣）",
+      "lang": "zh-TW",
+      "localService": false,
+      "default": false
+    }
+  ],
+  "realDevice": "NOT_TESTED",
+  "ime": "Real Unicode browser input plus composition-event fixture; physical IME NOT_TESTED",
+  "screenshots": 20,
+  "liveEditorialMutations": 0,
+  "paidCalls": 0
+}

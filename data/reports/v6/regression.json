@@ -1,0 +1,104 @@
+{
+  "at": "2026-10-16T05:40:56.140Z",
+  "results": [
+    {
+      "script": "typecheck",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 576
+    },
+    {
+      "script": "lint",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 525
+    },
+    {
+      "script": "test",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 3417
+    },
+    {
+      "script": "test:v2",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 3556
+    },
+    {
+      "script": "test:v3",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 3764
+    },
+    {
+      "script": "test:v3-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 783
+    },
+    {
+      "script": "test:v4",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 4545
+    },
+    {
+      "script": "test:v5",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 410
+    },
+    {
+      "script": "test:v5-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2723
+    },
+    {
+      "script": "test:v6",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 4255
+    },
+    {
+      "script": "test:v6-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 6294
+    },
+    {
+      "script": "test:account",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2029
+    },
+    {
+      "script": "test:admin",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 580
+    },
+    {
+      "script": "check:content",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 3371
+    },
+    {
+      "script": "build",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2211
+    }
+  ],
+  "backup": {
+    "path": ".runtime/backups/before-v6-2026-10-16/hsk-content.sqlite",
+    "integrity": {
+      "integrity_check": "ok"
+    },
+    "rows": 1222,
+    "restoreToLive": "NOT_PERFORMED_NO_RESET_REQUESTED"
+  },
+  "browser": "Reported separately by browser scripts"
+}

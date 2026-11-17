@@ -1,0 +1,298 @@
+import type { Vocabulary } from "./models";
+
+interface CommonSurname {
+  id: string;
+  simplified: string;
+  traditional: string;
+  pinyin: string;
+  pinyinNumeric: string;
+  vietnamese: string;
+  aliases?: string[];
+  english: string;
+  radical: string;
+  strokeCount: number;
+}
+
+function makeSurnameVocabulary(item: CommonSurname): Vocabulary {
+  const vocabularyId = `supplement-name-${item.id}`;
+  const aliases = item.aliases ?? [];
+  return {
+    id: vocabularyId,
+    simplified: item.simplified,
+    traditional: item.traditional,
+    pinyin: item.pinyin,
+    pinyinNumeric: item.pinyinNumeric,
+    primaryMeaningVi: `${item.vietnamese}; họ ${item.vietnamese}`,
+    meaningsVi: [
+      item.vietnamese,
+      ...aliases,
+      `họ ${item.vietnamese}`,
+      ...aliases.map((alias) => `họ ${alias}`),
+      "họ người Trung Quốc",
+    ],
+    meaningsEn: [item.english, "Chinese surname"],
+    pos: ["họ", "danh từ riêng"],
+    hskBand: 4,
+    frequencyRank: null,
+    classifiers: [],
+    radical: item.radical,
+    strokeCount: item.strokeCount,
+    visualType: "none",
+    imageUri: null,
+    imageSource: null,
+    imageLicense: null,
+    imageAttribution: null,
+    audioUri: null,
+    source: "HanZi curated Vietnamese names",
+    sourceVersion: "2026-09-18",
+    sourceUrl: "local://supplemental-names",
+    translationStatus: "verified",
+    examples: [{
+      id: `${vocabularyId}-ex-1`,
+      vocabularyId,
+      chinese: `他姓${item.simplified}。`,
+      pinyin: `Tā xìng ${item.pinyin}.`,
+      vietnamese: `Anh ấy họ ${item.vietnamese}.`,
+      difficulty: 2,
+    }],
+  };
+}
+
+interface BeginnerCountry {
+  id: string;
+  simplified: string;
+  traditional: string;
+  pinyin: string;
+  pinyinNumeric: string;
+  vietnamese: string;
+  aliases?: string[];
+}
+
+function makeBeginnerCountry(item: BeginnerCountry): Vocabulary {
+  const vocabularyId = `supplement-country-${item.id}`;
+  return {
+    id: vocabularyId,
+    simplified: item.simplified,
+    traditional: item.traditional,
+    pinyin: item.pinyin,
+    pinyinNumeric: item.pinyinNumeric,
+    primaryMeaningVi: item.vietnamese,
+    meaningsVi: [item.vietnamese, `nước ${item.vietnamese}`, ...(item.aliases ?? [])],
+    meaningsEn: [],
+    pos: ["danh từ riêng", "tên quốc gia"],
+    hskBand: 2,
+    frequencyRank: null,
+    classifiers: [],
+    radical: null,
+    strokeCount: null,
+    visualType: "none",
+    imageUri: null,
+    imageSource: null,
+    imageLicense: null,
+    imageAttribution: null,
+    audioUri: null,
+    source: "HanZi curated beginner countries",
+    sourceVersion: "2026-09-18",
+    sourceUrl: "local://supplemental-hsk12",
+    translationStatus: "verified",
+    examples: [{
+      id: `${vocabularyId}-ex-1`,
+      vocabularyId,
+      chinese: `我来自${item.simplified}。`,
+      pinyin: `Wǒ láizì ${item.pinyin}.`,
+      vietnamese: `Tôi đến từ ${item.vietnamese}.`,
+      difficulty: 2,
+    }],
+  };
+}
+
+/**
+ * Small, verified supplement for common Vietnamese name queries.  This is
+ * inserted for both new and existing databases, so users do not have to clear
+ * app data after an update.
+ */
+export const supplementalVocabulary: Vocabulary[] = [
+  ...[
+    { id: "wang", simplified: "王", traditional: "王", pinyin: "wáng", pinyinNumeric: "wang2", vietnamese: "Vương", english: "Wang", radical: "王", strokeCount: 4 },
+    { id: "zhang", simplified: "张", traditional: "張", pinyin: "zhāng", pinyinNumeric: "zhang1", vietnamese: "Trương", english: "Zhang", radical: "弓", strokeCount: 7 },
+    { id: "chen", simplified: "陈", traditional: "陳", pinyin: "chén", pinyinNumeric: "chen2", vietnamese: "Trần", english: "Chen", radical: "阝", strokeCount: 7 },
+    { id: "liu", simplified: "刘", traditional: "劉", pinyin: "liú", pinyinNumeric: "liu2", vietnamese: "Lưu", english: "Liu", radical: "刂", strokeCount: 6 },
+    { id: "yang", simplified: "杨", traditional: "楊", pinyin: "yáng", pinyinNumeric: "yang2", vietnamese: "Dương", english: "Yang", radical: "木", strokeCount: 7 },
+    { id: "huang", simplified: "黄", traditional: "黃", pinyin: "huáng", pinyinNumeric: "huang2", vietnamese: "Hoàng", english: "Huang", radical: "黄", strokeCount: 11 },
+    { id: "wu", simplified: "吴", traditional: "吳", pinyin: "wú", pinyinNumeric: "wu2", vietnamese: "Ngô", english: "Wu", radical: "口", strokeCount: 7 },
+    { id: "zhao", simplified: "赵", traditional: "趙", pinyin: "zhào", pinyinNumeric: "zhao4", vietnamese: "Triệu", english: "Zhao", radical: "走", strokeCount: 9 },
+    { id: "zhou", simplified: "周", traditional: "周", pinyin: "zhōu", pinyinNumeric: "zhou1", vietnamese: "Châu", english: "Zhou", radical: "口", strokeCount: 8 },
+    { id: "lin", simplified: "林", traditional: "林", pinyin: "lín", pinyinNumeric: "lin2", vietnamese: "Lâm", english: "Lin", radical: "木", strokeCount: 8 },
+    { id: "xie", simplified: "谢", traditional: "謝", pinyin: "xiè", pinyinNumeric: "xie4", vietnamese: "Tạ", english: "Xie", radical: "讠", strokeCount: 12 },
+    { id: "he", simplified: "何", traditional: "何", pinyin: "hé", pinyinNumeric: "he2", vietnamese: "Hà", english: "He", radical: "亻", strokeCount: 7 },
+    { id: "deng", simplified: "邓", traditional: "鄧", pinyin: "dèng", pinyinNumeric: "deng4", vietnamese: "Đặng", english: "Deng", radical: "阝", strokeCount: 4 },
+    { id: "fan", simplified: "范", traditional: "范", pinyin: "fàn", pinyinNumeric: "fan4", vietnamese: "Phạm", english: "Fan", radical: "艹", strokeCount: 8 },
+    { id: "du", simplified: "杜", traditional: "杜", pinyin: "dù", pinyinNumeric: "du4", vietnamese: "Đỗ", english: "Du", radical: "木", strokeCount: 7 },
+    { id: "wu-vietnamese", simplified: "武", traditional: "武", pinyin: "wǔ", pinyinNumeric: "wu3", vietnamese: "Vũ", aliases: ["Võ"], english: "Wu", radical: "止", strokeCount: 8 },
+    { id: "pei", simplified: "裴", traditional: "裴", pinyin: "péi", pinyinNumeric: "pei2", vietnamese: "Bùi", english: "Pei", radical: "衣", strokeCount: 14 },
+    { id: "gao", simplified: "高", traditional: "高", pinyin: "gāo", pinyinNumeric: "gao1", vietnamese: "Cao", english: "Gao", radical: "高", strokeCount: 10 },
+    { id: "sun", simplified: "孙", traditional: "孫", pinyin: "sūn", pinyinNumeric: "sun1", vietnamese: "Tôn", english: "Sun", radical: "子", strokeCount: 6 },
+    { id: "song", simplified: "宋", traditional: "宋", pinyin: "sòng", pinyinNumeric: "song4", vietnamese: "Tống", english: "Song", radical: "宀", strokeCount: 7 },
+    { id: "luo", simplified: "罗", traditional: "羅", pinyin: "luó", pinyinNumeric: "luo2", vietnamese: "La", english: "Luo", radical: "罒", strokeCount: 8 },
+    { id: "phung", simplified: "冯", traditional: "馮", pinyin: "féng", pinyinNumeric: "feng2", vietnamese: "Phùng", english: "Feng", radical: "冫", strokeCount: 5 },
+    { id: "ngo-vietnamese", simplified: "伍", traditional: "伍", pinyin: "wǔ", pinyinNumeric: "wu3", vietnamese: "Ngũ", english: "Wu", radical: "亻", strokeCount: 6 },
+    { id: "dam", simplified: "谭", traditional: "譚", pinyin: "tán", pinyinNumeric: "tan2", vietnamese: "Đàm", english: "Tan", radical: "讠", strokeCount: 14 },
+  ].map(makeSurnameVocabulary),
+  ...[
+    { id: "vietnam", simplified: "越南", traditional: "越南", pinyin: "Yuènán", pinyinNumeric: "Yue4nan2", vietnamese: "Việt Nam" },
+    { id: "usa", simplified: "美国", traditional: "美國", pinyin: "Měiguó", pinyinNumeric: "Mei3guo2", vietnamese: "Mỹ", aliases: ["Hoa Kỳ", "Hoa Kì"] },
+    { id: "uk", simplified: "英国", traditional: "英國", pinyin: "Yīngguó", pinyinNumeric: "Ying1guo2", vietnamese: "Anh", aliases: ["Anh Quốc", "Vương quốc Anh"] },
+    { id: "france", simplified: "法国", traditional: "法國", pinyin: "Fǎguó", pinyinNumeric: "Fa3guo2", vietnamese: "Pháp" },
+    { id: "germany", simplified: "德国", traditional: "德國", pinyin: "Déguó", pinyinNumeric: "De2guo2", vietnamese: "Đức" },
+    { id: "japan", simplified: "日本", traditional: "日本", pinyin: "Rìběn", pinyinNumeric: "Ri4ben3", vietnamese: "Nhật Bản", aliases: ["Nhật"] },
+    { id: "south-korea", simplified: "韩国", traditional: "韓國", pinyin: "Hánguó", pinyinNumeric: "Han2guo2", vietnamese: "Hàn Quốc", aliases: ["Nam Hàn"] },
+    { id: "thailand", simplified: "泰国", traditional: "泰國", pinyin: "Tàiguó", pinyinNumeric: "Tai4guo2", vietnamese: "Thái Lan" },
+    { id: "laos", simplified: "老挝", traditional: "老撾", pinyin: "Lǎowō", pinyinNumeric: "Lao3wo1", vietnamese: "Lào" },
+    { id: "cambodia", simplified: "柬埔寨", traditional: "柬埔寨", pinyin: "Jiǎnpǔzhài", pinyinNumeric: "Jian3pu3zhai4", vietnamese: "Campuchia", aliases: ["Cam-pu-chia"] },
+    { id: "singapore", simplified: "新加坡", traditional: "新加坡", pinyin: "Xīnjiāpō", pinyinNumeric: "Xin1jia1po1", vietnamese: "Singapore", aliases: ["Xin-ga-po"] },
+    { id: "malaysia", simplified: "马来西亚", traditional: "馬來西亞", pinyin: "Mǎláixīyà", pinyinNumeric: "Ma3lai2xi1ya4", vietnamese: "Malaysia", aliases: ["Ma-lai-xi-a"] },
+    { id: "canada", simplified: "加拿大", traditional: "加拿大", pinyin: "Jiānádà", pinyinNumeric: "Jia1na2da4", vietnamese: "Canada", aliases: ["Ca-na-đa"] },
+    { id: "australia", simplified: "澳大利亚", traditional: "澳大利亞", pinyin: "Àodàlìyà", pinyinNumeric: "Ao4da4li4ya4", vietnamese: "Úc", aliases: ["Australia", "Ô-xtrây-li-a"] },
+    { id: "russia", simplified: "俄罗斯", traditional: "俄羅斯", pinyin: "Éluósī", pinyinNumeric: "E2luo2si1", vietnamese: "Nga", aliases: ["Liên bang Nga"] },
+    { id: "india", simplified: "印度", traditional: "印度", pinyin: "Yìndù", pinyinNumeric: "Yin4du4", vietnamese: "Ấn Độ" },
+    { id: "indonesia", simplified: "印度尼西亚", traditional: "印度尼西亞", pinyin: "Yìndùníxīyà", pinyinNumeric: "Yin4du4ni2xi1ya4", vietnamese: "Indonesia", aliases: ["In-đô-nê-xi-a"] },
+    { id: "philippines", simplified: "菲律宾", traditional: "菲律賓", pinyin: "Fēilǜbīn", pinyinNumeric: "Fei1lü4bin1", vietnamese: "Philippines", aliases: ["Phi-líp-pin"] },
+    { id: "myanmar", simplified: "缅甸", traditional: "緬甸", pinyin: "Miǎndiàn", pinyinNumeric: "Mian3dian4", vietnamese: "Myanmar", aliases: ["Miến Điện"] },
+  ].map(makeBeginnerCountry),
+  {
+    id: "supplement-name-li",
+    simplified: "李",
+    traditional: "李",
+    pinyin: "lǐ",
+    pinyinNumeric: "li3",
+    primaryMeaningVi: "Lý; họ Lý",
+    meaningsVi: ["Lý", "họ Lý", "cây mận"],
+    meaningsEn: ["Li (surname)", "plum"],
+    pos: ["họ", "danh từ riêng"],
+    hskBand: 2,
+    frequencyRank: 700,
+    classifiers: [],
+    radical: "木",
+    strokeCount: 7,
+    visualType: "none",
+    imageUri: null,
+    imageSource: null,
+    imageLicense: null,
+    imageAttribution: null,
+    audioUri: null,
+    source: "HanZi curated Vietnamese names",
+    sourceVersion: "2026-09-17",
+    sourceUrl: "local://supplemental-names",
+    translationStatus: "verified",
+    examples: [{
+      id: "supplement-name-li-ex-1",
+      vocabularyId: "supplement-name-li",
+      chinese: "他姓李。",
+      pinyin: "Tā xìng Lǐ.",
+      vietnamese: "Anh ấy họ Lý.",
+      difficulty: 2,
+    }],
+  },
+  {
+    id: "supplement-name-jun",
+    simplified: "君",
+    traditional: "君",
+    pinyin: "jūn",
+    pinyinNumeric: "jun1",
+    primaryMeaningVi: "Quân; tên người",
+    meaningsVi: ["Quân", "quân tử", "ngài"],
+    meaningsEn: ["Jun (given name)", "gentleman", "lord"],
+    pos: ["tên riêng", "danh từ"],
+    hskBand: 4,
+    frequencyRank: 1800,
+    classifiers: [],
+    radical: "口",
+    strokeCount: 7,
+    visualType: "none",
+    imageUri: null,
+    imageSource: null,
+    imageLicense: null,
+    imageAttribution: null,
+    audioUri: null,
+    source: "HanZi curated Vietnamese names",
+    sourceVersion: "2026-09-17",
+    sourceUrl: "local://supplemental-names",
+    translationStatus: "verified",
+    examples: [{
+      id: "supplement-name-jun-ex-1",
+      vocabularyId: "supplement-name-jun",
+      chinese: "他的名字叫君。",
+      pinyin: "Tā de míngzi jiào Jūn.",
+      vietnamese: "Tên của anh ấy là Quân.",
+      difficulty: 4,
+    }],
+  },
+  {
+    id: "supplement-army-jun",
+    simplified: "军",
+    traditional: "軍",
+    pinyin: "jūn",
+    pinyinNumeric: "jun1",
+    primaryMeaningVi: "quân; quân đội",
+    meaningsVi: ["quân", "quân đội"],
+    meaningsEn: ["army", "military"],
+    pos: ["danh từ"],
+    hskBand: 4,
+    frequencyRank: 900,
+    classifiers: [],
+    radical: "冖",
+    strokeCount: 6,
+    visualType: "none",
+    imageUri: null,
+    imageSource: null,
+    imageLicense: null,
+    imageAttribution: null,
+    audioUri: null,
+    source: "HanZi curated Vietnamese names",
+    sourceVersion: "2026-09-17",
+    sourceUrl: "local://supplemental-names",
+    translationStatus: "verified",
+    examples: [{
+      id: "supplement-army-jun-ex-1",
+      vocabularyId: "supplement-army-jun",
+      chinese: "他在军队工作。",
+      pinyin: "Tā zài jūnduì gōngzuò.",
+      vietnamese: "Anh ấy làm việc trong quân đội.",
+      difficulty: 4,
+    }],
+  },
+  {
+    id: "supplement-reason-li",
+    simplified: "理",
+    traditional: "理",
+    pinyin: "lǐ",
+    pinyinNumeric: "li3",
+    primaryMeaningVi: "lý; lý lẽ",
+    meaningsVi: ["lý", "lý lẽ", "đạo lý"],
+    meaningsEn: ["reason", "principle"],
+    pos: ["danh từ"],
+    hskBand: 4,
+    frequencyRank: 1000,
+    classifiers: [],
+    radical: "王",
+    strokeCount: 11,
+    visualType: "none",
+    imageUri: null,
+    imageSource: null,
+    imageLicense: null,
+    imageAttribution: null,
+    audioUri: null,
+    source: "HanZi curated Vietnamese names",
+    sourceVersion: "2026-09-17",
+    sourceUrl: "local://supplemental-names",
+    translationStatus: "verified",
+    examples: [{
+      id: "supplement-reason-li-ex-1",
+      vocabularyId: "supplement-reason-li",
+      chinese: "他说得有理。",
+      pinyin: "Tā shuō de yǒulǐ.",
+      vietnamese: "Anh ấy nói có lý.",
+      difficulty: 4,
+    }],
+  },
+];

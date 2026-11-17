@@ -1,0 +1,1 @@
+import {readFile} from 'node:fs/promises';const a=JSON.parse(await readFile('data/reports/v7/accessibility-chrome.json','utf8'));console.log(JSON.stringify({textScale:a.textScale,failed:a.dom.contrast.filter(c=>!c.pass)},null,2));

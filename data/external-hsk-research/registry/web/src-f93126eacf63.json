@@ -1,0 +1,35 @@
+{
+  "source": {
+    "sourceId": "src-f93126eacf63",
+    "name": "CTI syllabus",
+    "baseUrl": "https://www.chinesetest.cn/syllabus",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.chinesetest.cn/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "ROBOTS_DISALLOW"
+    ],
+    "accessStatus": "SKIPPED"
+  },
+  "error": "ROBOTS_DISALLOW"
+}

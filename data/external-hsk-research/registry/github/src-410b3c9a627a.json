@@ -1,0 +1,173 @@
+{
+  "source": {
+    "sourceId": "src-410b3c9a627a",
+    "name": "ayman-ezz/hsk-3.0-word-list",
+    "baseUrl": "https://github.com/ayman-ezz/hsk-3.0-word-list",
+    "sourceType": "GITHUB",
+    "organization": "ayman-ezz",
+    "accessedAt": "2026-10-25T04:50:51.701Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "NOASSERTION",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "LEGAL_REVIEW_REQUIRED",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition."
+    ],
+    "repo": "ayman-ezz/hsk-3.0-word-list",
+    "defaultBranch": "main",
+    "sourceRevision": "8c79c71915c25a80e5e68aacec940449b36060d8",
+    "licenseEvidence": [
+      "registry/evidence/src-410b3c9a627a-LICENSE.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "LICENSE",
+        "status": 200,
+        "evidence": "registry/evidence/src-410b3c9a627a-LICENSE.json"
+      },
+      {
+        "path": "NOTICE",
+        "status": 200,
+        "evidence": "registry/evidence/src-410b3c9a627a-NOTICE.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-410b3c9a627a-README.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "data/all.jsonl",
+        "bytes": 1530487
+      },
+      {
+        "path": "data/hsk30-band1.csv",
+        "bytes": 21784
+      },
+      {
+        "path": "data/hsk30-band2.csv",
+        "bytes": 35649
+      },
+      {
+        "path": "data/hsk30-band3.csv",
+        "bytes": 45620
+      },
+      {
+        "path": "data/hsk30-band4.csv",
+        "bytes": 46419
+      },
+      {
+        "path": "data/hsk30-band5.csv",
+        "bytes": 50181
+      },
+      {
+        "path": "data/hsk30-band6.csv",
+        "bytes": 54002
+      },
+      {
+        "path": "data/hsk30-band7-9.csv",
+        "bytes": 301093
+      },
+      {
+        "path": "source/hsk30-official.csv",
+        "bytes": 269166
+      }
+    ]
+  },
+  "tree": [
+    {
+      "path": "LICENSE",
+      "type": "blob",
+      "size": 1562
+    },
+    {
+      "path": "NOTICE",
+      "type": "blob",
+      "size": 1129
+    },
+    {
+      "path": "README.md",
+      "type": "blob",
+      "size": 4027
+    },
+    {
+      "path": "data",
+      "type": "tree"
+    },
+    {
+      "path": "data/all.jsonl",
+      "type": "blob",
+      "size": 1530487
+    },
+    {
+      "path": "data/hsk30-band1.csv",
+      "type": "blob",
+      "size": 21784
+    },
+    {
+      "path": "data/hsk30-band2.csv",
+      "type": "blob",
+      "size": 35649
+    },
+    {
+      "path": "data/hsk30-band3.csv",
+      "type": "blob",
+      "size": 45620
+    },
+    {
+      "path": "data/hsk30-band4.csv",
+      "type": "blob",
+      "size": 46419
+    },
+    {
+      "path": "data/hsk30-band5.csv",
+      "type": "blob",
+      "size": 50181
+    },
+    {
+      "path": "data/hsk30-band6.csv",
+      "type": "blob",
+      "size": 54002
+    },
+    {
+      "path": "data/hsk30-band7-9.csv",
+      "type": "blob",
+      "size": 301093
+    },
+    {
+      "path": "scripts",
+      "type": "tree"
+    },
+    {
+      "path": "scripts/build.py",
+      "type": "blob",
+      "size": 2958
+    },
+    {
+      "path": "source",
+      "type": "tree"
+    },
+    {
+      "path": "source/hsk30-official.csv",
+      "type": "blob",
+      "size": 269166
+    }
+  ]
+}

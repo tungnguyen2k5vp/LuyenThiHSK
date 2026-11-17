@@ -1,0 +1,7 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const p='src/services/cloudSync.ts';let s=await readFile(p,'utf8');s=s.replace("add('attempts',a.id,a);", "{add('attempts',a.id,{...a,selfRatings:{}});add('results',a.id,{selfRatings:a.selfRatings??{}});}");
+s=s.replace("for(const r of d.reviewItems)add('mistakes',r.id,r);", "for(const r of d.reviewItems)if(!r.id.startsWith('preview:'))add('mistakes',r.id,r);");
+s=s.replace("if(shadow[id]===value)continue;", "if(shadow[id]===value||['attempts','srs_events'].includes(e.kind)&&shadow[id]==='#IMMUTABLE_CAPTURED')continue;");s=s.replace("shadow[id]=value;}const sourceOwns", "shadow[id]=['attempts','srs_events'].includes(e.kind)?'#IMMUTABLE_CAPTURED':value;}const sourceOwns");
+s=s.replace("window.dispatchEvent(new Event('hsk-sync-updated'));retryDelay=5000;", "localStorage.setItem(key(owner,'queue'),JSON.stringify(syncQueue(owner).filter(q=>q.status!=='ACKNOWLEDGED')));window.dispatchEvent(new Event('hsk-sync-updated'));retryDelay=5000;");
+s=s.replace("if(r.kind==='mistakes'){study.reviewItems", "if(r.kind==='results'&&!r.deleted_at){const a=study.attempts.find((a:{id:string})=>a.id===r.id);if(a)a.selfRatings=r.payload.selfRatings??{};}if(r.kind==='mistakes'){study.reviewItems");await writeFile(p,s);
+const t='scripts/test-account.mjs';let test=await readFile(t,'utf8');test=test.replace('sync.syncQueue().length,1','sync.syncQueue().filter(q=>q.kind===\'attempts\').length,1');await writeFile(t,test);console.log('Immutable attempt body separated from self ratings; acknowledged payloads compacted.');

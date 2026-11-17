@@ -1,0 +1,1714 @@
+[
+  {
+    "filename": "v7-desktop-homepage.png",
+    "route": "/?view=dashboard",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:20:57.981Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-homepage.png",
+    "route": "/?view=dashboard",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:20:58.067Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-account-guest.png",
+    "route": "/?view=settings",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:20:58.480Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-account-guest.png",
+    "route": "/?view=settings",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:20:58.553Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-today.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:00.137Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-today.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:00.212Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-vocabulary.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:00.454Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-vocabulary.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:00.554Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-vocabulary-detail.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:00.875Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-vocabulary-detail.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:00.963Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-grammar.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:01.349Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-grammar.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:01.456Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-grammar-practice.png",
+    "route": "/?view=preview&previewSession=preview-session-6aabdc41-5698-4c17-9bfa-103a91e72d0d",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:01.687Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-grammar-practice.png",
+    "route": "/?view=preview&previewSession=preview-session-6aabdc41-5698-4c17-9bfa-103a91e72d0d",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:01.758Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-practice.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:02.324Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-practice.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 382,
+      "height": 828
+    },
+    "timestamp": "2026-10-19T06:21:02.398Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-picture-question.png",
+    "route": "/?view=preview&previewSession=preview-session-d1ca2e73-9e89-4ece-8f54-5e355ed0e168",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:03.127Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-picture-question.png",
+    "route": "/?view=preview&previewSession=preview-session-d1ca2e73-9e89-4ece-8f54-5e355ed0e168",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:03.191Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-listening.png",
+    "route": "/?view=preview&previewSession=preview-session-d1ca2e73-9e89-4ece-8f54-5e355ed0e168",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:03.281Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-listening.png",
+    "route": "/?view=preview&previewSession=preview-session-d1ca2e73-9e89-4ece-8f54-5e355ed0e168",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:03.357Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-practice-feedback.png",
+    "route": "/?view=preview&previewSession=preview-session-d1ca2e73-9e89-4ece-8f54-5e355ed0e168",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:03.703Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-practice-feedback.png",
+    "route": "/?view=preview&previewSession=preview-session-d1ca2e73-9e89-4ece-8f54-5e355ed0e168",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:03.770Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-matching-question.png",
+    "route": "/?view=preview&previewSession=preview-session-f81e8e1a-4c56-4b74-b572-72741665c3c2",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:05.479Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-matching-question.png",
+    "route": "/?view=preview&previewSession=preview-session-f81e8e1a-4c56-4b74-b572-72741665c3c2",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:05.541Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-shared-option-bank.png",
+    "route": "/?view=preview&previewSession=preview-session-f81e8e1a-4c56-4b74-b572-72741665c3c2",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:08.533Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-shared-option-bank.png",
+    "route": "/?view=preview&previewSession=preview-session-f81e8e1a-4c56-4b74-b572-72741665c3c2",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:08.607Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-320-matching.png",
+    "route": "/?view=preview&previewSession=preview-session-f81e8e1a-4c56-4b74-b572-72741665c3c2",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:08.693Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-matching-incomplete-warning.png",
+    "route": "/?view=preview&previewSession=preview-session-70191293-e021-4bd4-9cb7-4e4c5069683d",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:10.236Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-matching-incomplete-warning.png",
+    "route": "/?view=preview&previewSession=preview-session-70191293-e021-4bd4-9cb7-4e4c5069683d",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:10.305Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-multi-matching.png",
+    "route": "/?view=preview&previewSession=preview-session-70191293-e021-4bd4-9cb7-4e4c5069683d",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:11.183Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-multi-matching.png",
+    "route": "/?view=preview&previewSession=preview-session-70191293-e021-4bd4-9cb7-4e4c5069683d",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:11.259Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-image-failure.png",
+    "route": "/?view=preview&previewSession=preview-session-22e8eb04-aa97-4b2a-b2c4-f099a43ea423",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:12.166Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-image-failure.png",
+    "route": "/?view=preview&previewSession=preview-session-22e8eb04-aa97-4b2a-b2c4-f099a43ea423",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:12.256Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-slow-media.png",
+    "route": "/?view=preview&previewSession=preview-session-47137dfd-42c4-48ce-b45d-3c6a2c775c04",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:16.353Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-slow-media.png",
+    "route": "/?view=preview&previewSession=preview-session-47137dfd-42c4-48ce-b45d-3c6a2c775c04",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:16.419Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-full-mock-setup.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:17.683Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-full-mock-setup.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 380,
+      "height": 823
+    },
+    "timestamp": "2026-10-19T06:21:17.778Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-full-mock.png",
+    "route": "/?view=preview&previewSession=preview-session-7f5a0c0e-9920-492c-b63a-1bb2b26df5d9",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:18.316Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-full-mock.png",
+    "route": "/?view=preview&previewSession=preview-session-7f5a0c0e-9920-492c-b63a-1bb2b26df5d9",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:18.403Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-full-mock-reading.png",
+    "route": "/?view=preview&previewSession=preview-session-7f5a0c0e-9920-492c-b63a-1bb2b26df5d9",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:21.104Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-full-mock-reading.png",
+    "route": "/?view=preview&previewSession=preview-session-7f5a0c0e-9920-492c-b63a-1bb2b26df5d9",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:21.227Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-results.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:23.212Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-results.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:23.330Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-mistakes.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:23.901Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-mistakes.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:24.013Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-weakness.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:24.314Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-weakness.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:24.447Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-today-after-practice.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:24.741Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-today-after-practice.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:24.810Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-review-queue.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:34.652Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-review-queue.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:34.760Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-image-review.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:36.308Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-image-review.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:36.399Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-question-review.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:38.370Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-mobile-question-review.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 375,
+      "height": 812
+    },
+    "timestamp": "2026-10-19T06:21:38.492Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-desktop-original-image-contact-sheet.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 1650
+    },
+    "timestamp": "2026-10-19T06:21:42.144Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-hsk2-foundation.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:43.049Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-part-L1.png",
+    "route": "/?view=preview&previewSession=preview-session-10d3aa4f-a407-40f3-b88f-4a30392871b0",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:43.665Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-audio-retry-ten-cycles.png",
+    "route": "/?view=preview&previewSession=preview-session-10d3aa4f-a407-40f3-b88f-4a30392871b0",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:45.162Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-part-L2.png",
+    "route": "/?view=preview&previewSession=preview-session-ed78f6e3-cc9c-4154-9e6c-68919e82c05d",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:45.579Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-part-L3.png",
+    "route": "/?view=preview&previewSession=preview-session-d2075bd3-485a-4aaa-94ee-739b4a673e79",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:46.573Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-part-L4.png",
+    "route": "/?view=preview&previewSession=preview-session-c7085b12-4e83-44e9-b3b2-405e48803b0d",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:46.955Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-part-R1.png",
+    "route": "/?view=preview&previewSession=preview-session-5ea4ca90-53de-4ae4-a2b1-36e8aebff5a2",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:47.857Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-question-navigator-keyboard-focus.png",
+    "route": "/?view=preview&previewSession=preview-session-5ea4ca90-53de-4ae4-a2b1-36e8aebff5a2",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "timestamp": "2026-10-19T06:21:47.975Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-part-R2.png",
+    "route": "/?view=preview&previewSession=preview-session-aba2a5df-4e54-4b50-9836-a8c091e7dc09",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:48.515Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-part-R3.png",
+    "route": "/?view=preview&previewSession=preview-session-57132d49-6d3d-4e43-be92-c5350e2b42e9",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:48.916Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-part-R4.png",
+    "route": "/?view=preview&previewSession=preview-session-f80fef4b-d148-4172-87f7-0aa0d907dc30",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:49.315Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-image-failure-timer-paused.png",
+    "route": "/?view=preview&previewSession=preview-session-3edb3dc2-1316-443e-973e-40643cb5e8e1",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:50.775Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-image-recovered.png",
+    "route": "/?view=preview&previewSession=preview-session-3edb3dc2-1316-443e-973e-40643cb5e8e1",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:52.204Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-media-compensation-exhausted.png",
+    "route": "/?view=preview&previewSession=preview-session-3edb3dc2-1316-443e-973e-40643cb5e8e1",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:52.974Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-keyboard-submit-dialog.png",
+    "route": "/?view=preview&previewSession=preview-session-3edb3dc2-1316-443e-973e-40643cb5e8e1",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:53.426Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-part-results.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:53.625Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-review-dashboard.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:59.062Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-review-detail-diff.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:59.243Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-revision-comparison.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:21:59.324Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-reviewer-gate.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:00.562Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-review-width-320.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:00.673Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-review-width-375.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 375,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:00.759Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-review-width-390.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:00.828Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-review-width-430.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 430,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:00.892Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-review-width-768.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 768,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:01.027Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-review-width-1280.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:01.145Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-text-scale-200.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:02.084Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v7-forced-colors.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:02.335Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-landing-reading-list.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:03.774Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-reading-feedback.png",
+    "route": "/?view=preview&previewSession=preview-session-c53746a2-6c3e-43a7-861a-892d54f4978f",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:04.117Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-writing-components.png",
+    "route": "/?view=preview&previewSession=preview-session-1f805deb-bb58-495f-a6d8-2cd97364ea54",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:04.525Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-writing-hanzi-input.png",
+    "route": "/?view=preview&previewSession=preview-session-3e5157ac-b8b9-4c07-a7fd-05257f638160",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:04.874Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-writing-resumed.png",
+    "route": "/?view=preview&previewSession=preview-session-3e5157ac-b8b9-4c07-a7fd-05257f638160",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:05.650Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-submit-confirm.png",
+    "route": "/?view=preview&previewSession=preview-session-3e5157ac-b8b9-4c07-a7fd-05257f638160",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:05.835Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-writing-unscored-result.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:06.038Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-part-breakdown-unscored.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:06.115Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-listening-media-unavailable.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:06.575Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-limitations.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:06.691Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-width-320.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 415,
+      "height": 1168
+    },
+    "timestamp": "2026-10-19T06:22:06.785Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-width-375.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 413,
+      "height": 992
+    },
+    "timestamp": "2026-10-19T06:22:06.863Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-width-390.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 413,
+      "height": 951
+    },
+    "timestamp": "2026-10-19T06:22:06.928Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-width-430.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 430,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:06.997Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-width-768.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 768,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:07.125Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-hsk2-width-1280.png",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:07.236Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-review-resolution-dashboard.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:10.760Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-review-high-risk.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:11.039Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-review-batch-a.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:11.333Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-review-question-split-preview.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:11.632Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-review-checklist.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:11.722Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-review-revision-diff.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:11.794Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  },
+  {
+    "filename": "v8-publication-human-blocked.png",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-19T06:22:11.877Z",
+    "overflow": false,
+    "browser": "Chrome",
+    "contentSource": "Private editorial V6 + original V8 draft pilot; isolated learner profile",
+    "build": "V8 filesystem",
+    "theme": "light unless filename states forced colors",
+    "testFixture": "Isolated learner attempts; media faults explicitly named",
+    "qaResult": "AUTOMATED_CAPTURE_LAYOUT_CHECK"
+  }
+]

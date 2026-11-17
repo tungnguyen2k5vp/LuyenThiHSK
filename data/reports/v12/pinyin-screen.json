@@ -1,0 +1,1228 @@
+{
+  "method": "Local pypinyin 0.55 dictionary + tone_sandhi, whitespace/punctuation/case ignored; not phonetic/human certification",
+  "checked": 122,
+  "matches": 56,
+  "rows": [
+    {
+      "id": "v12-lesson-00001",
+      "zh": "书在桌子上面。",
+      "authored": "Shū zài zhuōzi shàngmian.",
+      "dictionary": "shūzàizhuōzishàngmiàn",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00001",
+      "zh": "学校后面有一家商店。",
+      "authored": "Xuéxiào hòumian yǒu yì jiā shāngdiàn.",
+      "dictionary": "xuéxiàohòumiànyǒuyìjiāshāngdiàn",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00001",
+      "zh": "请在外面等我。",
+      "authored": "Qǐng zài wàimian děng wǒ.",
+      "dictionary": "qǐngzàiwàimiànděngwǒ",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00002",
+      "zh": "请往右走。",
+      "authored": "Qǐng wǎng yòu zǒu.",
+      "dictionary": "qǐngwǎngyòuzǒu",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00002",
+      "zh": "药店在学校左边。",
+      "authored": "Yàodiàn zài xuéxiào zuǒbian.",
+      "dictionary": "yàodiànzàixuéxiàozuǒbiān",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00002",
+      "zh": "右手拿笔。",
+      "authored": "Yòu shǒu ná bǐ.",
+      "dictionary": "yòushǒunábǐ",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00003",
+      "zh": "你看看这本书。",
+      "authored": "Nǐ kànkan zhè běn shū.",
+      "dictionary": "nǐkànkànzhèběnshū",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00003",
+      "zh": "我想休息休息。",
+      "authored": "Wǒ xiǎng xiūxi xiūxi.",
+      "dictionary": "wǒxiǎngxiūxīxiūxī",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00003",
+      "zh": "请想一想再说。",
+      "authored": "Qǐng xiǎng yi xiǎng zài shuō.",
+      "dictionary": "qǐngxiǎngyīxiǎngzàishuō",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00004",
+      "zh": "明天可能下雨。",
+      "authored": "Míngtiān kěnéng xià yǔ.",
+      "dictionary": "míngtiānkěnéngxiàyǔ",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00004",
+      "zh": "他可能不在家。",
+      "authored": "Tā kěnéng bú zài jiā.",
+      "dictionary": "tākěnéngbúzàijiā",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00004",
+      "zh": "这可能是姐姐的书。",
+      "authored": "Zhè kěnéng shì jiějie de shū.",
+      "dictionary": "zhèkěnéngshìjiějiědeshū",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00008",
+      "zh": "每个学生都有笔。",
+      "authored": "Měi ge xuésheng dōu yǒu bǐ.",
+      "dictionary": "měigèxuéshēngdōuyǒubǐ",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00008",
+      "zh": "我每天走路上班。",
+      "authored": "Wǒ měi tiān zǒu lù shàng bān.",
+      "dictionary": "wǒměitiānzǒulùshàngbān",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00008",
+      "zh": "她每周去两次医院。",
+      "authored": "Tā měi zhōu qù liǎng cì yīyuàn.",
+      "dictionary": "tāměizhōuqùliǎngcìyīyuàn",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00011",
+      "zh": "这条路很长。",
+      "authored": "Zhè tiáo lù hěn cháng.",
+      "dictionary": "zhètiáolùhěnzhǎng",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "BASE_PINYIN_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00011",
+      "zh": "那位医生是我爸爸。",
+      "authored": "Nà wèi yīshēng shì wǒ bàba.",
+      "dictionary": "nàwèiyīshēngshìwǒbàbà",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00011",
+      "zh": "学校有十间教室。",
+      "authored": "Xuéxiào yǒu shí jiān jiàoshì.",
+      "dictionary": "xuéxiàoyǒushíjiānjiàoshì",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00014",
+      "zh": "这三本书，我最喜欢这本。",
+      "authored": "Zhè sān běn shū, wǒ zuì xǐhuan zhè běn.",
+      "dictionary": "zhèsānběnshūwǒzuìxǐhuānzhèběn",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00014",
+      "zh": "我们班他最高。",
+      "authored": "Wǒmen bān tā zuì gāo.",
+      "dictionary": "wǒmenbāntāzuìgāo",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00014",
+      "zh": "这家饭馆的菜最好吃。",
+      "authored": "Zhè jiā fànguǎn de cài zuì hǎochī.",
+      "dictionary": "zhèjiāfànguǎndecàizuìhǎochī",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00022",
+      "zh": "请往前走。",
+      "authored": "Qǐng wǎng qián zǒu.",
+      "dictionary": "qǐngwǎngqiánzǒu",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00022",
+      "zh": "他往学校走。",
+      "authored": "Tā wǎng xuéxiào zǒu.",
+      "dictionary": "tāwǎngxuéxiàozǒu",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00022",
+      "zh": "车站在右边，往右走吧。",
+      "authored": "Chēzhàn zài yòubian, wǎng yòu zǒu ba.",
+      "dictionary": "chēzhànzàiyòubiānwǎngyòuzǒuba",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00026",
+      "zh": "我跟姐姐一起买菜。",
+      "authored": "Wǒ gēn jiějie yìqǐ mǎi cài.",
+      "dictionary": "wǒgēnjiějiěyìqǐmǎicài",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00026",
+      "zh": "他跟老师学习中文。",
+      "authored": "Tā gēn lǎoshī xuéxí Zhōngwén.",
+      "dictionary": "tāgēnlǎoshīxuéxízhōngwén",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00026",
+      "zh": "你想跟谁去？",
+      "authored": "Nǐ xiǎng gēn shéi qù?",
+      "dictionary": "nǐxiǎnggēnshuíqù",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "BASE_PINYIN_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00030",
+      "zh": "孩子高兴地笑了。",
+      "authored": "Háizi gāoxìng de xiào le.",
+      "dictionary": "háizigāoxìngdìxiàole",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "BASE_PINYIN_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00030",
+      "zh": "他跑得很快。",
+      "authored": "Tā pǎo de hěn kuài.",
+      "dictionary": "tāpǎodéhěnkuài",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00030",
+      "zh": "她慢慢地说。",
+      "authored": "Tā mànmàn de shuō.",
+      "dictionary": "tāmànmàndìshuō",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "BASE_PINYIN_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00032",
+      "zh": "门开着。",
+      "authored": "Mén kāizhe.",
+      "dictionary": "ménkāizhe",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00032",
+      "zh": "他手里拿着笔。",
+      "authored": "Tā shǒu lǐ názhe bǐ.",
+      "dictionary": "tāshǒulǐnázhuóbǐ",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "BASE_PINYIN_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00032",
+      "zh": "她穿着红色的衣服。",
+      "authored": "Tā chuānzhe hóngsè de yīfu.",
+      "dictionary": "tāchuānzhehóngsèdeyīfú",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00042",
+      "zh": "太晚了，我们还是回家吧。",
+      "authored": "Tài wǎn le, wǒmen háishi huí jiā ba.",
+      "dictionary": "tàiwǎnlewǒmenháishìhuíjiāba",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00042",
+      "zh": "天气冷，还是喝热水吧。",
+      "authored": "Tiānqì lěng, háishi hē rè shuǐ ba.",
+      "dictionary": "tiānqìlěngháishìhērèshuǐba",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00042",
+      "zh": "你不舒服，还是休息吧。",
+      "authored": "Nǐ bù shūfu, háishi xiūxi ba.",
+      "dictionary": "nǐbùshūfúháishìxiūxība",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00043",
+      "zh": "火车快要到了。",
+      "authored": "Huǒchē kuàiyào dào le.",
+      "dictionary": "huǒchēkuàiyàodàole",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00043",
+      "zh": "快要下雨了。",
+      "authored": "Kuàiyào xià yǔ le.",
+      "dictionary": "kuàiyàoxiàyǔle",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00043",
+      "zh": "我们就要开学了。",
+      "authored": "Wǒmen jiùyào kāixué le.",
+      "dictionary": "wǒmenjiùyàokāixuéle",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00066",
+      "zh": "老师请小王读书。",
+      "authored": "Lǎoshī qǐng Xiǎo Wáng dú shū.",
+      "dictionary": "lǎoshīqǐngxiǎowángdúshū",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00066",
+      "zh": "妈妈叫弟弟洗手。",
+      "authored": "Māma jiào dìdi xǐ shǒu.",
+      "dictionary": "māmājiàodìdixíshǒu",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-lesson-00066",
+      "zh": "爸爸让我拿书。",
+      "authored": "Bàba ràng wǒ ná shū.",
+      "dictionary": "bàbàràngwǒnáshū",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-400",
+      "zh": "门开着呢。",
+      "authored": "Mén kāizhe ne.",
+      "dictionary": "ménkāizhene",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-358",
+      "zh": "妈妈喜欢红色的花。",
+      "authored": "Māma xǐhuan hóngsè de huā.",
+      "dictionary": "māmāxǐhuānhóngsèdehuā",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-410",
+      "zh": "那个男孩儿在踢足球。",
+      "authored": "Nàge nánháir zài tī zúqiú.",
+      "dictionary": "nàgenánháierzàitīzúqiú",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "ERHUA_SEGMENTATION",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-412",
+      "zh": "这个女孩儿喜欢画画。",
+      "authored": "Zhège nǚháir xǐhuan huà huà.",
+      "dictionary": "zhègenǚháiérxǐhuānhuàhuà",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "ERHUA_SEGMENTATION",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-431",
+      "zh": "来时请给我打电话。",
+      "authored": "Lái shí qǐng gěi wǒ dǎ diànhuà.",
+      "dictionary": "láishíqǐnggěiwǒdǎdiànhuà",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-449",
+      "zh": "我们学校有一万本书。",
+      "authored": "Wǒmen xuéxiào yǒu yí wàn běn shū.",
+      "dictionary": "wǒmenxuéxiàoyǒuyīwànběnshū",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-461",
+      "zh": "小孩儿已经睡了。",
+      "authored": "Xiǎoháir yǐjīng shuì le.",
+      "dictionary": "xiǎoháiéryǐjīngshuìle",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "ERHUA_SEGMENTATION",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-463",
+      "zh": "看见爸爸回家，孩子笑了。",
+      "authored": "Kànjiàn bàba huí jiā, háizi xiào le.",
+      "dictionary": "kànjiànbàbàhuíjiāháizixiàole",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-405",
+      "zh": "请拿一本书给我。",
+      "authored": "Qǐng ná yì běn shū gěi wǒ.",
+      "dictionary": "qǐngnáyīběnshūgěiwǒ",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-442",
+      "zh": "今天的题我都做完了。",
+      "authored": "Jīntiān de tí wǒ dōu zuò wán le.",
+      "dictionary": "jīntiāndetíwǒdōuzuòwánle",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-477",
+      "zh": "这条鱼游得很快。",
+      "authored": "Zhè tiáo yú yóu de hěn kuài.",
+      "dictionary": "zhètiáoyúyóudéhěnkuài",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-357",
+      "zh": "买这本书花了二十块钱。",
+      "authored": "Mǎi zhè běn shū huā le èrshí kuài qián.",
+      "dictionary": "mǎizhèběnshūhuāleèrshíkuàiqián",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-389",
+      "zh": "我家离学校很近。",
+      "authored": "Wǒ jiā lí xuéxiào hěn jìn.",
+      "dictionary": "wǒjiālíxuéxiàohěnjìn",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-391",
+      "zh": "教室在二楼。",
+      "authored": "Jiàoshì zài èr lóu.",
+      "dictionary": "jiàoshìzàièrlóu",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-392",
+      "zh": "这条路上有一家药店。",
+      "authored": "Zhè tiáo lù shang yǒu yì jiā yàodiàn.",
+      "dictionary": "zhètiáolùshàngyǒuyìjiāyàodiàn",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-332",
+      "zh": "姐姐唱得很好听。",
+      "authored": "Jiějie chàng de hěn hǎotīng.",
+      "dictionary": "jiějiěchàngdéhěnhǎotīng",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-376",
+      "zh": "我吃完饭就去上课。",
+      "authored": "Wǒ chī wán fàn jiù qù shàng kè.",
+      "dictionary": "wǒchīwánfànjiùqùshàngkè",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-474",
+      "zh": "这个词是什么意思？",
+      "authored": "Zhège cí shì shénme yìsi?",
+      "dictionary": "zhègecíshìshénmeyìsi",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-422",
+      "zh": "老师让我们写名字。",
+      "authored": "Lǎoshī ràng wǒmen xiě míngzi.",
+      "dictionary": "lǎoshīràngwǒmenxiěmíngzì",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-418",
+      "zh": "他从椅子上站起来了。",
+      "authored": "Tā cóng yǐzi shang zhàn qǐlái le.",
+      "dictionary": "tācóngyǐzishàngzhànqǐláile",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-336",
+      "zh": "我们点了鱼和肉。",
+      "authored": "Wǒmen diǎn le yú hé ròu.",
+      "dictionary": "wǒmendiǎnleyúhéròu",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-302",
+      "zh": "我的爱好是游泳。",
+      "authored": "Wǒ de àihào shì yóuyǒng.",
+      "dictionary": "wǒdeàihàoshìyóuyǒng",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-378",
+      "zh": "电影八点开始。",
+      "authored": "Diànyǐng bā diǎn kāishǐ.",
+      "dictionary": "diànyǐngbādiǎnkāishǐ",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-409",
+      "zh": "奶奶每天早上喝茶。",
+      "authored": "Nǎinai měi tiān zǎoshang hē chá.",
+      "dictionary": "nǎinǎiměitiānzǎoshànghēchá",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-411",
+      "zh": "那只鸟飞得很高。",
+      "authored": "Nà zhī niǎo fēi de hěn gāo.",
+      "dictionary": "nàzhǐniǎofēidéhěngāo",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-421",
+      "zh": "球在桌子下面。",
+      "authored": "Qiú zài zhuōzi xiàmian.",
+      "dictionary": "qiúzàizhuōzixiàmiàn",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-424",
+      "zh": "这个商场里有书店。",
+      "authored": "Zhège shāngchǎng lǐ yǒu shūdiàn.",
+      "dictionary": "zhègeshāngchǎnglǐyǒushūdiàn",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-432",
+      "zh": "这件事情我想自己做。",
+      "authored": "Zhè jiàn shìqing wǒ xiǎng zìjǐ zuò.",
+      "dictionary": "zhèjiànshìqíngwǒxiǎngzìjǐzuò",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-445",
+      "zh": "我的头有点儿疼。",
+      "authored": "Wǒ de tóu yǒudiǎnr téng.",
+      "dictionary": "wǒdetóuyóudiǎnérténg",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "ERHUA_SEGMENTATION",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-485",
+      "zh": "爸爸喜欢做运动。",
+      "authored": "Bàba xǐhuan zuò yùndòng.",
+      "dictionary": "bàbàxǐhuānzuòyùndòng",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-492",
+      "zh": "这周我们有两次考试。",
+      "authored": "Zhè zhōu wǒmen yǒu liǎng cì kǎoshì.",
+      "dictionary": "zhèzhōuwǒmenyǒuliǎngcìkǎoshì",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-416",
+      "zh": "我的票在书包里。",
+      "authored": "Wǒ de piào zài shūbāo lǐ.",
+      "dictionary": "wǒdepiàozàishūbāolǐ",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-433",
+      "zh": "吃饭前要洗手。",
+      "authored": "Chī fàn qián yào xǐ shǒu.",
+      "dictionary": "chīfànqiányàoxíshǒu",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-321",
+      "zh": "小猫在床上睡觉。",
+      "authored": "Xiǎo māo zài chuáng shang shuì jiào.",
+      "dictionary": "xiǎomāozàichuángshàngshuìjiào",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-359",
+      "zh": "妹妹画的花真好看。",
+      "authored": "Mèimei huà de huā zhēn hǎokàn.",
+      "dictionary": "mèimèihuàdehuāzhēnhǎokàn",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-497",
+      "zh": "星期天我们去踢足球。",
+      "authored": "Xīngqītiān wǒmen qù tī zúqiú.",
+      "dictionary": "xīngqītiānwǒmenqùtīzúqiú",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-339",
+      "zh": "饭馆在车站的右边。",
+      "authored": "Fànguǎn zài chēzhàn de yòubian.",
+      "dictionary": "fànguǎnzàichēzhàndeyòubiān",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-354",
+      "zh": "我喝红茶，不喝咖啡。",
+      "authored": "Wǒ hē hóngchá, bù hē kāfēi.",
+      "dictionary": "wǒhēhóngchábùhēkāfēi",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-368",
+      "zh": "学生都在教室里。",
+      "authored": "Xuésheng dōu zài jiàoshì lǐ.",
+      "dictionary": "xuéshēngdōuzàijiàoshìlǐ",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-377",
+      "zh": "我今天不想喝咖啡。",
+      "authored": "Wǒ jīntiān bù xiǎng hē kāfēi.",
+      "dictionary": "wǒjīntiānbùxiǎnghēkāfēi",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-387",
+      "zh": "哥哥打篮球打得很好。",
+      "authored": "Gēge dǎ lánqiú dǎ de hěn hǎo.",
+      "dictionary": "gēgēdǎlánqiúdǎdéhěnhǎo",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-401",
+      "zh": "我们在门口等你。",
+      "authored": "Wǒmen zài ménkǒu děng nǐ.",
+      "dictionary": "wǒmenzàiménkǒuděngnǐ",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-417",
+      "zh": "他的妻子是医生。",
+      "authored": "Tā de qīzi shì yīshēng.",
+      "dictionary": "tādeqīzǐshìyīshēng",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-446",
+      "zh": "她在外国学习中文。",
+      "authored": "Tā zài wàiguó xuéxí Zhōngwén.",
+      "dictionary": "tāzàiwàiguóxuéxízhōngwén",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-455",
+      "zh": "我希望明天不下雨。",
+      "authored": "Wǒ xīwàng míngtiān bú xià yǔ.",
+      "dictionary": "wǒxīwàngmíngtiānbúxiàyǔ",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-470",
+      "zh": "爷爷坐在椅子上看书。",
+      "authored": "Yéye zuò zài yǐzi shang kàn shū.",
+      "dictionary": "yéyézuòzàiyǐzishàngkànshū",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-487",
+      "zh": "她丈夫在学校工作。",
+      "authored": "Tā zhàngfu zài xuéxiào gōngzuò.",
+      "dictionary": "tāzhàngfūzàixuéxiàogōngzuò",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-381",
+      "zh": "这次考试我考得很好。",
+      "authored": "Zhè cì kǎoshì wǒ kǎo de hěn hǎo.",
+      "dictionary": "zhècìkǎoshìwǒkǎodéhěnhǎo",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-430",
+      "zh": "今天是妈妈的生日。",
+      "authored": "Jīntiān shì māma de shēngrì.",
+      "dictionary": "jīntiānshìmāmādeshēngrì",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-314",
+      "zh": "这条裤子太长了。",
+      "authored": "Zhè tiáo kùzi tài cháng le.",
+      "dictionary": "zhètiáokùzitàizhǎngle",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "BASE_PINYIN_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-365",
+      "zh": "你还记得他的名字吗？",
+      "authored": "Nǐ hái jìde tā de míngzi ma?",
+      "dictionary": "nǐháijìdetādemíngzìma",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-333",
+      "zh": "她高兴地笑了。",
+      "authored": "Tā gāoxìng de xiào le.",
+      "dictionary": "tāgāoxìngdìxiàole",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "BASE_PINYIN_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-476",
+      "zh": "因为下雨，我们不出门了。",
+      "authored": "Yīnwèi xià yǔ, wǒmen bù chū mén le.",
+      "dictionary": "yīnwèixiàyǔwǒmenbùchūménle",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-495",
+      "zh": "我们走路去学校吧。",
+      "authored": "Wǒmen zǒu lù qù xuéxiào ba.",
+      "dictionary": "wǒmenzǒulùqùxuéxiàoba",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-447",
+      "zh": "外面很冷，穿上衣服吧。",
+      "authored": "Wàimian hěn lěng, chuān shang yīfu ba.",
+      "dictionary": "wàimiànhěnlěngchuānshàngyīfúba",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-399",
+      "zh": "每个学生都有一本书。",
+      "authored": "Měi ge xuésheng dōu yǒu yì běn shū.",
+      "dictionary": "měigèxuéshēngdōuyǒuyīběnshū",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-319",
+      "zh": "天很冷，我今天不想出门。",
+      "authored": "Tiān hěn lěng, wǒ jīntiān bù xiǎng chū mén.",
+      "dictionary": "tiānhěnlěngwǒjīntiānbùxiǎngchūmén",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-479",
+      "zh": "这本书很有意思。",
+      "authored": "Zhè běn shū hěn yǒu yìsi.",
+      "dictionary": "zhèběnshūhěnyǒuyìsi",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-439",
+      "zh": "学校很近，所以我走路去。",
+      "authored": "Xuéxiào hěn jìn, suǒyǐ wǒ zǒu lù qù.",
+      "dictionary": "xuéxiàohěnjìnsuǒyǐwǒzǒulùqù",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-478",
+      "zh": "天热的时候，他经常去游泳。",
+      "authored": "Tiān rè de shíhou, tā jīngcháng qù yóuyǒng.",
+      "dictionary": "tiānrèdeshíhòutājīngchángqùyóuyǒng",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-384",
+      "zh": "火车快到了。",
+      "authored": "Huǒchē kuài dào le.",
+      "dictionary": "huǒchēkuàidàole",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-312",
+      "zh": "这家饭馆的菜不错。",
+      "authored": "Zhè jiā fànguǎn de cài búcuò.",
+      "dictionary": "zhèjiāfànguǎndecàibúcuò",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-313",
+      "zh": "不好意思，我来晚了。",
+      "authored": "Bù hǎoyìsi, wǒ lái wǎn le.",
+      "dictionary": "bùhǎoyìsīwǒláiwǎnle",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-316",
+      "zh": "请从这个门出去。",
+      "authored": "Qǐng cóng zhège mén chūqù.",
+      "dictionary": "qǐngcóngzhègeménchūqù",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-338",
+      "zh": "请坐好，别动。",
+      "authored": "Qǐng zuò hǎo, bié dòng.",
+      "dictionary": "qǐngzuòhǎobiédòng",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-344",
+      "zh": "她个子不高。",
+      "authored": "Tā gèzi bù gāo.",
+      "dictionary": "tāgèzibùgāo",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-348",
+      "zh": "请过来坐。",
+      "authored": "Qǐng guòlái zuò.",
+      "dictionary": "qǐngguòláizuò",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-350",
+      "zh": "过去我住在北京。",
+      "authored": "Guòqù wǒ zhù zài Běijīng.",
+      "dictionary": "guòqùwǒzhùzàiběijīng",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-360",
+      "zh": "我的手表坏了。",
+      "authored": "Wǒ de shǒubiǎo huài le.",
+      "dictionary": "wǒdeshǒubiǎohuàile",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-375",
+      "zh": "这个酒店离机场不远。",
+      "authored": "Zhège jiǔdiàn lí jīchǎng bù yuǎn.",
+      "dictionary": "zhègejiǔdiànlíjīchǎngbùyuǎn",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-379",
+      "zh": "我们学校九月开学。",
+      "authored": "Wǒmen xuéxiào jiǔ yuè kāixué.",
+      "dictionary": "wǒmenxuéxiàojiǔyuèkāixué",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-388",
+      "zh": "今天走了很多路，我很累。",
+      "authored": "Jīntiān zǒu le hěn duō lù, wǒ hěn lèi.",
+      "dictionary": "jīntiānzǒulehěnduōlùwǒhěnlèi",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-398",
+      "zh": "一个人在家真没意思。",
+      "authored": "Yí ge rén zài jiā zhēn méi yìsi.",
+      "dictionary": "yígèrénzàijiāzhēnméiyìsi",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-406",
+      "zh": "这件衣服没有那么贵。",
+      "authored": "Zhè jiàn yīfu méiyǒu nàme guì.",
+      "dictionary": "zhèjiànyīfúméiyǒunàmeguì",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-423",
+      "zh": "今天晚饭有鱼，也有肉。",
+      "authored": "Jīntiān wǎnfàn yǒu yú, yě yǒu ròu.",
+      "dictionary": "jīntiānwǎnfànyǒuyúyěyǒuròu",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-428",
+      "zh": "我上网买了机票。",
+      "authored": "Wǒ shàng wǎng mǎi le jīpiào.",
+      "dictionary": "wǒshàngwǎngmǎilejīpiào",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-437",
+      "zh": "这是朋友送我的书。",
+      "authored": "Zhè shì péngyou sòng wǒ de shū.",
+      "dictionary": "zhèshìpéngyǒusòngwǒdeshū",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-453",
+      "zh": "那位老师教我们中文。",
+      "authored": "Nà wèi lǎoshī jiāo wǒmen Zhōngwén.",
+      "dictionary": "nàwèilǎoshījiàowǒmenzhōngwén",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-458",
+      "zh": "楼上太热了，你下来吧。",
+      "authored": "Lóu shang tài rè le, nǐ xiàlái ba.",
+      "dictionary": "lóushàngtàirèlenǐxiàláiba",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v12-vocab-cti25-v-481",
+      "zh": "从门口往右走。",
+      "authored": "Cóng ménkǒu wǎng yòu zǒu.",
+      "dictionary": "cóngménkǒuwǎngyòuzǒu",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    }
+  ],
+  "humanReviewed": 0
+}

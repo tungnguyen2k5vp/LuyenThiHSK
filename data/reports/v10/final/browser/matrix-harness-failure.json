@@ -1,0 +1,30 @@
+{
+  "at": "2026-10-18T02:03:02.413Z",
+  "phase": "final",
+  "results": [
+    {
+      "name": "v8-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 54530
+    },
+    {
+      "name": "v8-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 71987
+    },
+    {
+      "name": "v10-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 7900
+    },
+    {
+      "name": "v10-edge",
+      "status": "FAIL",
+      "exitCode": 1,
+      "durationMs": 22032
+    }
+  ]
+}

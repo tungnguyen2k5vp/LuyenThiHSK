@@ -1,0 +1,242 @@
+[
+  {
+    "filename": "v12-hsk2-hub.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:19.825Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-media-rights.png",
+    "browser": "Chrome",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:22.114Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-audio-workbench.png",
+    "browser": "Chrome",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:22.191Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-rights-attestation.png",
+    "browser": "Chrome",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:22.298Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-microphone-draft.png",
+    "browser": "Chrome",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:24.828Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-review-queue.png",
+    "browser": "Chrome",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:27.133Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-listening-blocked.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:36.255Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-images-loaded.png",
+    "browser": "Chrome",
+    "route": "?view=preview&previewSession=preview-session-a3442f86-37e3-4cba-a9ea-a6040afbcfaa",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:37.115Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-image-error.png",
+    "browser": "Chrome",
+    "route": "?view=preview&previewSession=preview-session-a3442f86-37e3-4cba-a9ea-a6040afbcfaa",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:37.875Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-reading-result.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:41.828Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-mixed-mini.png",
+    "browser": "Chrome",
+    "route": "?view=preview&previewSession=preview-session-aac53caf-8674-4d22-beba-b46fafba6574",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:42.021Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-writing-restored.png",
+    "browser": "Chrome",
+    "route": "?view=preview&previewSession=preview-session-5af6c8f6-0558-4b53-add1-d3e7eccbe736",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:43.439Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-mobile-writing.png",
+    "browser": "Chrome",
+    "route": "?view=preview&previewSession=preview-session-5af6c8f6-0558-4b53-add1-d3e7eccbe736",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:43.530Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-writing-ungraded.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:43.676Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-grammar-lesson.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:43.941Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-vocabulary-detail.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:44.317Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-study-plan.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:44.402Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-mobile-hub.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:44.537Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-mobile-home.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:44.622Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v12-mobile-grammar.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "at": "2026-10-19T06:24:45.472Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  }
+]

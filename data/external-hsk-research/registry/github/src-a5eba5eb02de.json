@@ -1,0 +1,478 @@
+{
+  "source": {
+    "sourceId": "src-a5eba5eb02de",
+    "name": "uranbekanarbaev/hsk-3.0-vocabulary-dataset",
+    "baseUrl": "https://github.com/uranbekanarbaev/hsk-3.0-vocabulary-dataset",
+    "sourceType": "GITHUB",
+    "organization": "uranbekanarbaev",
+    "accessedAt": "2026-10-25T04:50:40.363Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "MIT",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "LEGAL_REVIEW_REQUIRED",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition."
+    ],
+    "repo": "uranbekanarbaev/hsk-3.0-vocabulary-dataset",
+    "defaultBranch": "main",
+    "sourceRevision": "6859875bf3ba3b7209dee3b23171f893f7493776",
+    "licenseEvidence": [
+      "registry/evidence/src-a5eba5eb02de-LICENSE.md.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "LICENSE.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-a5eba5eb02de-LICENSE.md.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-a5eba5eb02de-README.md.json"
+      },
+      {
+        "path": "SOURCES.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-a5eba5eb02de-SOURCES.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "data/by-level/hsk-1.csv",
+        "bytes": 11247
+      },
+      {
+        "path": "data/by-level/hsk-1.json",
+        "bytes": 63941
+      },
+      {
+        "path": "data/by-level/hsk-2.csv",
+        "bytes": 7953
+      },
+      {
+        "path": "data/by-level/hsk-2.json",
+        "bytes": 43035
+      },
+      {
+        "path": "data/by-level/hsk-3.csv",
+        "bytes": 19974
+      },
+      {
+        "path": "data/by-level/hsk-3.json",
+        "bytes": 107872
+      },
+      {
+        "path": "data/by-level/hsk-4.csv",
+        "bytes": 42125
+      },
+      {
+        "path": "data/by-level/hsk-4.json",
+        "bytes": 218003
+      },
+      {
+        "path": "data/by-level/hsk-5.csv",
+        "bytes": 67334
+      },
+      {
+        "path": "data/by-level/hsk-5.json",
+        "bytes": 348776
+      },
+      {
+        "path": "data/by-level/hsk-6.csv",
+        "bytes": 75920
+      },
+      {
+        "path": "data/by-level/hsk-6.json",
+        "bytes": 392590
+      },
+      {
+        "path": "data/by-level/hsk-7-9.csv",
+        "bytes": 267736
+      },
+      {
+        "path": "data/by-level/hsk-7-9.json",
+        "bytes": 1253170
+      },
+      {
+        "path": "data/cumulative/hsk-1.csv",
+        "bytes": 11247
+      },
+      {
+        "path": "data/cumulative/hsk-1.json",
+        "bytes": 63941
+      },
+      {
+        "path": "data/cumulative/hsk-2.csv",
+        "bytes": 19115
+      },
+      {
+        "path": "data/cumulative/hsk-2.json",
+        "bytes": 106973
+      },
+      {
+        "path": "data/cumulative/hsk-3.csv",
+        "bytes": 39004
+      },
+      {
+        "path": "data/cumulative/hsk-3.json",
+        "bytes": 214842
+      },
+      {
+        "path": "data/cumulative/hsk-4.csv",
+        "bytes": 81044
+      },
+      {
+        "path": "data/cumulative/hsk-4.json",
+        "bytes": 432842
+      },
+      {
+        "path": "data/cumulative/hsk-5.csv",
+        "bytes": 148293
+      },
+      {
+        "path": "data/cumulative/hsk-5.json",
+        "bytes": 781615
+      },
+      {
+        "path": "data/cumulative/hsk-6.csv",
+        "bytes": 224128
+      },
+      {
+        "path": "data/cumulative/hsk-6.json",
+        "bytes": 1174202
+      },
+      {
+        "path": "data/cumulative/hsk-7-9.csv",
+        "bytes": 491779
+      },
+      {
+        "path": "data/cumulative/hsk-7-9.json",
+        "bytes": 2427369
+      },
+      {
+        "path": "data/hsk-3.0-all.csv",
+        "bytes": 491779
+      },
+      {
+        "path": "data/hsk-3.0-all.json",
+        "bytes": 2427369
+      }
+    ]
+  },
+  "tree": [
+    {
+      "path": ".gitignore",
+      "type": "blob",
+      "size": 32
+    },
+    {
+      "path": "LICENSE.md",
+      "type": "blob",
+      "size": 2252
+    },
+    {
+      "path": "README.md",
+      "type": "blob",
+      "size": 10527
+    },
+    {
+      "path": "SOURCES.md",
+      "type": "blob",
+      "size": 1984
+    },
+    {
+      "path": "assets",
+      "type": "tree"
+    },
+    {
+      "path": "assets/cover.svg",
+      "type": "blob",
+      "size": 1114
+    },
+    {
+      "path": "assets/how-to-download.svg",
+      "type": "blob",
+      "size": 2329
+    },
+    {
+      "path": "assets/vocabulary-preview.png",
+      "type": "blob",
+      "size": 100132
+    },
+    {
+      "path": "browse.html",
+      "type": "blob",
+      "size": 1776223
+    },
+    {
+      "path": "data",
+      "type": "tree"
+    },
+    {
+      "path": "data/by-level",
+      "type": "tree"
+    },
+    {
+      "path": "data/by-level/hsk-1.csv",
+      "type": "blob",
+      "size": 11247
+    },
+    {
+      "path": "data/by-level/hsk-1.json",
+      "type": "blob",
+      "size": 63941
+    },
+    {
+      "path": "data/by-level/hsk-2.csv",
+      "type": "blob",
+      "size": 7953
+    },
+    {
+      "path": "data/by-level/hsk-2.json",
+      "type": "blob",
+      "size": 43035
+    },
+    {
+      "path": "data/by-level/hsk-3.csv",
+      "type": "blob",
+      "size": 19974
+    },
+    {
+      "path": "data/by-level/hsk-3.json",
+      "type": "blob",
+      "size": 107872
+    },
+    {
+      "path": "data/by-level/hsk-4.csv",
+      "type": "blob",
+      "size": 42125
+    },
+    {
+      "path": "data/by-level/hsk-4.json",
+      "type": "blob",
+      "size": 218003
+    },
+    {
+      "path": "data/by-level/hsk-5.csv",
+      "type": "blob",
+      "size": 67334
+    },
+    {
+      "path": "data/by-level/hsk-5.json",
+      "type": "blob",
+      "size": 348776
+    },
+    {
+      "path": "data/by-level/hsk-6.csv",
+      "type": "blob",
+      "size": 75920
+    },
+    {
+      "path": "data/by-level/hsk-6.json",
+      "type": "blob",
+      "size": 392590
+    },
+    {
+      "path": "data/by-level/hsk-7-9.csv",
+      "type": "blob",
+      "size": 267736
+    },
+    {
+      "path": "data/by-level/hsk-7-9.json",
+      "type": "blob",
+      "size": 1253170
+    },
+    {
+      "path": "data/cumulative",
+      "type": "tree"
+    },
+    {
+      "path": "data/cumulative/hsk-1.csv",
+      "type": "blob",
+      "size": 11247
+    },
+    {
+      "path": "data/cumulative/hsk-1.json",
+      "type": "blob",
+      "size": 63941
+    },
+    {
+      "path": "data/cumulative/hsk-2.csv",
+      "type": "blob",
+      "size": 19115
+    },
+    {
+      "path": "data/cumulative/hsk-2.json",
+      "type": "blob",
+      "size": 106973
+    },
+    {
+      "path": "data/cumulative/hsk-3.csv",
+      "type": "blob",
+      "size": 39004
+    },
+    {
+      "path": "data/cumulative/hsk-3.json",
+      "type": "blob",
+      "size": 214842
+    },
+    {
+      "path": "data/cumulative/hsk-4.csv",
+      "type": "blob",
+      "size": 81044
+    },
+    {
+      "path": "data/cumulative/hsk-4.json",
+      "type": "blob",
+      "size": 432842
+    },
+    {
+      "path": "data/cumulative/hsk-5.csv",
+      "type": "blob",
+      "size": 148293
+    },
+    {
+      "path": "data/cumulative/hsk-5.json",
+      "type": "blob",
+      "size": 781615
+    },
+    {
+      "path": "data/cumulative/hsk-6.csv",
+      "type": "blob",
+      "size": 224128
+    },
+    {
+      "path": "data/cumulative/hsk-6.json",
+      "type": "blob",
+      "size": 1174202
+    },
+    {
+      "path": "data/cumulative/hsk-7-9.csv",
+      "type": "blob",
+      "size": 491779
+    },
+    {
+      "path": "data/cumulative/hsk-7-9.json",
+      "type": "blob",
+      "size": 2427369
+    },
+    {
+      "path": "data/hsk-3.0-all.csv",
+      "type": "blob",
+      "size": 491779
+    },
+    {
+      "path": "data/hsk-3.0-all.json",
+      "type": "blob",
+      "size": 2427369
+    },
+    {
+      "path": "downloads",
+      "type": "tree"
+    },
+    {
+      "path": "downloads/hsk-3.0-vocabulary-study-pack.zip",
+      "type": "blob",
+      "size": 8812479
+    },
+    {
+      "path": "pdf",
+      "type": "tree"
+    },
+    {
+      "path": "pdf/hsk-1-9-complete-vocabulary.pdf",
+      "type": "blob",
+      "size": 2368711
+    },
+    {
+      "path": "pdf/hsk-1-vocabulary.pdf",
+      "type": "blob",
+      "size": 170574
+    },
+    {
+      "path": "pdf/hsk-2-vocabulary.pdf",
+      "type": "blob",
+      "size": 228108
+    },
+    {
+      "path": "pdf/hsk-3-vocabulary.pdf",
+      "type": "blob",
+      "size": 394601
+    },
+    {
+      "path": "pdf/hsk-4-vocabulary.pdf",
+      "type": "blob",
+      "size": 653392
+    },
+    {
+      "path": "pdf/hsk-5-vocabulary.pdf",
+      "type": "blob",
+      "size": 981795
+    },
+    {
+      "path": "pdf/hsk-6-vocabulary.pdf",
+      "type": "blob",
+      "size": 1327786
+    },
+    {
+      "path": "pdf/hsk-7-9-vocabulary.pdf",
+      "type": "blob",
+      "size": 1731205
+    },
+    {
+      "path": "word-lists",
+      "type": "tree"
+    },
+    {
+      "path": "word-lists/hsk-1.md",
+      "type": "blob",
+      "size": 12908
+    },
+    {
+      "path": "word-lists/hsk-2.md",
+      "type": "blob",
+      "size": 9673
+    },
+    {
+      "path": "word-lists/hsk-3.md",
+      "type": "blob",
+      "size": 21008
+    },
+    {
+      "path": "word-lists/hsk-4.md",
+      "type": "blob",
+      "size": 41550
+    },
+    {
+      "path": "word-lists/hsk-5.md",
+      "type": "blob",
+      "size": 65058
+    },
+    {
+      "path": "word-lists/hsk-6.md",
+      "type": "blob",
+      "size": 72916
+    },
+    {
+      "path": "word-lists/hsk-7-9.md",
+      "type": "blob",
+      "size": 240116
+    }
+  ]
+}

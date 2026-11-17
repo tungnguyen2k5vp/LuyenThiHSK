@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-18T15:53:12.186Z",
+  "error": "Error: UI timeout document.querySelector(\".focused-app\")\n[]\nHmmm… can't reach this page\n\n127.0.0.1 refused to connect.\n\nTry:\n\nSearch the web for 127 0 0 1\nChecking the connection\nChecking the proxy and the firewall\nERR_CONNECTION_REFUSED\nRefresh\nMicrosoft Edge\n    at waitFor (file:///D:/ReactJS/LuyenThiHSK/scripts/exam-browser-check.mjs:49:162)\n    at async nav (file:///D:/ReactJS/LuyenThiHSK/scripts/v12-browser-flows.mjs:11:567)\n    at async runV12BrowserFlows (file:///D:/ReactJS/LuyenThiHSK/scripts/v12-browser-flows.mjs:16:2)\n    at async file:///D:/ReactJS/LuyenThiHSK/scripts/exam-browser-check.mjs:64:218",
+  "lastAction": {
+    "method": "Runtime.evaluate",
+    "url": null,
+    "expression": "JSON.stringify([...document.querySelectorAll(\"audio\")].map(a=>({duration:a.duration,time:a.currentTi",
+    "at": "2026-10-18T15:53:12.184Z"
+  },
+  "exceptions": [],
+  "consoleErrors": []
+}

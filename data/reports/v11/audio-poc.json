@@ -1,0 +1,200 @@
+{
+  "at": "2026-10-18T02:57:29.777Z",
+  "status": "BLOCKED_PROVIDER_RIGHTS_AND_RUNTIME",
+  "generated": 0,
+  "decodable": 0,
+  "rightsReviewed": 0,
+  "pronunciationReviewed": 0,
+  "playable": 0,
+  "mockEligible": 0,
+  "paidCalls": 0,
+  "downloadedModels": 0,
+  "hardware": {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12500H",
+    "logicalCPU": 16,
+    "memoryGiB": 16,
+    "gpu": "Windows CIM: RTX3050 Laptop, approx 4GiB dedicated VRAM; inference NOT_BENCHMARKED"
+  },
+  "localFiles": [
+    {
+      "file": ".runtime/tts/zh_CN-huayan-medium.onnx",
+      "bytes": 63201294,
+      "rights": "UNKNOWN_TRAINING_VOICE_RIGHTS"
+    },
+    {
+      "file": ".runtime/tts/zh_CN-huayan-medium.onnx.json",
+      "bytes": 4822,
+      "rights": "UNKNOWN_TRAINING_VOICE_RIGHTS"
+    }
+  ],
+  "blockers": [
+    "Qwen runtime/weights not installed; no sufficiently established voice/output rights evidence",
+    "Azure disabled/unconfigured; no paid request consent or account terms verification",
+    "Existing Huayan training/voice rights remain unknown",
+    "MeloTTS not installed; model/library MIT does not establish separate voice/output asset rights",
+    "No human pronunciation reviewer; no human approval claimed"
+  ],
+  "samples": [
+    {
+      "questionId": "v10-hsk2-L1-001",
+      "questionRevision": 2,
+      "transcriptRevision": {
+        "questionId": "v10-hsk2-L1-001",
+        "revision": 2,
+        "sha256": "318837ac5395e5b4d803232ad428aa137d0b464a4c6114d3d8638b497c97f56f"
+      },
+      "transcript": "明天上午的飞机太早了，我今天晚上就去机场旁边住。问：我明天坐什么？",
+      "pinyin": "",
+      "purpose": "PRACTICE",
+      "sourceType": "AI_GENERATED",
+      "provider": "NOT_SELECTED_RIGHTS_PENDING",
+      "voice": null,
+      "generationParameters": {
+        "language": "Chinese",
+        "format": "PCM16_WAV",
+        "speed": 1
+      },
+      "technicalStatus": "NOT_GENERATED",
+      "rightsStatus": "PENDING",
+      "pronunciationStatus": "BLOCKED_FOR_HUMAN_REVIEW",
+      "publicationEligible": false,
+      "reviewChecklist": [
+        "Exact transcript; no extra/missing words",
+        "Mandarin tones, sandhi and polyphones",
+        "Speed, clarity, pauses and intonation",
+        "Speaker consistency across these five samples",
+        "PCM16 8–48kHz, 1–90s, hash/duration/clipping/silence",
+        "Separate model/voice/output/private/commercial/redistribution rights evidence"
+      ]
+    },
+    {
+      "questionId": "v10-hsk2-L2-001",
+      "questionRevision": 3,
+      "transcriptRevision": {
+        "questionId": "v10-hsk2-L2-001",
+        "revision": 3,
+        "sha256": "4b515a0647f3c962710d3eb672aa57072b71aa030240285887d59eeb1b02b1be"
+      },
+      "transcript": "家人还没有回来，他正在做饭，等大家回来就能吃了。",
+      "pinyin": "",
+      "purpose": "PRACTICE",
+      "sourceType": "AI_GENERATED",
+      "provider": "NOT_SELECTED_RIGHTS_PENDING",
+      "voice": null,
+      "generationParameters": {
+        "language": "Chinese",
+        "format": "PCM16_WAV",
+        "speed": 1
+      },
+      "technicalStatus": "NOT_GENERATED",
+      "rightsStatus": "PENDING",
+      "pronunciationStatus": "BLOCKED_FOR_HUMAN_REVIEW",
+      "publicationEligible": false,
+      "reviewChecklist": [
+        "Exact transcript; no extra/missing words",
+        "Mandarin tones, sandhi and polyphones",
+        "Speed, clarity, pauses and intonation",
+        "Speaker consistency across these five samples",
+        "PCM16 8–48kHz, 1–90s, hash/duration/clipping/silence",
+        "Separate model/voice/output/private/commercial/redistribution rights evidence"
+      ]
+    },
+    {
+      "questionId": "v10-hsk2-L3-001",
+      "questionRevision": 2,
+      "transcriptRevision": {
+        "questionId": "v10-hsk2-L3-001",
+        "revision": 2,
+        "sha256": "3d3f344e9227367b6ae120d3ac0464775f2821dd63235089dce8cff65c6d5ffc"
+      },
+      "transcript": "女：我去买菜，晚上在家做饭吧。男：好，我来洗菜。问：他们晚上在哪里吃饭？",
+      "pinyin": "",
+      "purpose": "PRACTICE",
+      "sourceType": "AI_GENERATED",
+      "provider": "NOT_SELECTED_RIGHTS_PENDING",
+      "voice": null,
+      "generationParameters": {
+        "language": "Chinese",
+        "format": "PCM16_WAV",
+        "speed": 1
+      },
+      "technicalStatus": "NOT_GENERATED",
+      "rightsStatus": "PENDING",
+      "pronunciationStatus": "BLOCKED_FOR_HUMAN_REVIEW",
+      "publicationEligible": false,
+      "reviewChecklist": [
+        "Exact transcript; no extra/missing words",
+        "Mandarin tones, sandhi and polyphones",
+        "Speed, clarity, pauses and intonation",
+        "Speaker consistency across these five samples",
+        "PCM16 8–48kHz, 1–90s, hash/duration/clipping/silence",
+        "Separate model/voice/output/private/commercial/redistribution rights evidence"
+      ]
+    },
+    {
+      "questionId": "v10-hsk2-L3-002",
+      "questionRevision": 2,
+      "transcriptRevision": {
+        "questionId": "v10-hsk2-L3-002",
+        "revision": 2,
+        "sha256": "7eea1877e042f4de2cf94d299c5b6c82c1b467bb4c56c2c0688ee503ae8bd8ac"
+      },
+      "transcript": "男：你不是说十点来吗？女：对不起，我的手表慢了十分钟。问：女的为什么来晚了？",
+      "pinyin": "",
+      "purpose": "PRACTICE",
+      "sourceType": "AI_GENERATED",
+      "provider": "NOT_SELECTED_RIGHTS_PENDING",
+      "voice": null,
+      "generationParameters": {
+        "language": "Chinese",
+        "format": "PCM16_WAV",
+        "speed": 1
+      },
+      "technicalStatus": "NOT_GENERATED",
+      "rightsStatus": "PENDING",
+      "pronunciationStatus": "BLOCKED_FOR_HUMAN_REVIEW",
+      "publicationEligible": false,
+      "reviewChecklist": [
+        "Exact transcript; no extra/missing words",
+        "Mandarin tones, sandhi and polyphones",
+        "Speed, clarity, pauses and intonation",
+        "Speaker consistency across these five samples",
+        "PCM16 8–48kHz, 1–90s, hash/duration/clipping/silence",
+        "Separate model/voice/output/private/commercial/redistribution rights evidence"
+      ]
+    },
+    {
+      "questionId": "v10-hsk2-L3-003",
+      "questionRevision": 2,
+      "transcriptRevision": {
+        "questionId": "v10-hsk2-L3-003",
+        "revision": 2,
+        "sha256": "d323ec8714b6dec3906428347b704cee9c51fd53f1de9c92fc77bffc79b4ceee"
+      },
+      "transcript": "女：这件衣服是给你的吗？男：不是，是给我妹妹的，她明天过生日。问：衣服是给谁的？",
+      "pinyin": "",
+      "purpose": "PRACTICE",
+      "sourceType": "AI_GENERATED",
+      "provider": "NOT_SELECTED_RIGHTS_PENDING",
+      "voice": null,
+      "generationParameters": {
+        "language": "Chinese",
+        "format": "PCM16_WAV",
+        "speed": 1
+      },
+      "technicalStatus": "NOT_GENERATED",
+      "rightsStatus": "PENDING",
+      "pronunciationStatus": "BLOCKED_FOR_HUMAN_REVIEW",
+      "publicationEligible": false,
+      "reviewChecklist": [
+        "Exact transcript; no extra/missing words",
+        "Mandarin tones, sandhi and polyphones",
+        "Speed, clarity, pauses and intonation",
+        "Speaker consistency across these five samples",
+        "PCM16 8–48kHz, 1–90s, hash/duration/clipping/silence",
+        "Separate model/voice/output/private/commercial/redistribution rights evidence"
+      ]
+    }
+  ],
+  "fixtures": "Existing v10-fixtures.mjs PCM tones remain isolated QA only; never listening content"
+}

@@ -1,0 +1,220 @@
+{
+  "at": "2026-10-19T06:13:53.531Z",
+  "status": "PASS",
+  "scope": "Current full source, all handed-off UI included, legacy regressions and V13 isolated tests",
+  "results": [
+    {
+      "name": "typecheck",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 624
+    },
+    {
+      "name": "lint",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 665
+    },
+    {
+      "name": "test",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 20589
+    },
+    {
+      "name": "test:v2",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 16474
+    },
+    {
+      "name": "test:v3",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 17708
+    },
+    {
+      "name": "test:v3-api",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 806
+    },
+    {
+      "name": "test:v4",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 18115
+    },
+    {
+      "name": "test:v5",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 427
+    },
+    {
+      "name": "test:v5-api",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 2639
+    },
+    {
+      "name": "test:v6",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 17516
+    },
+    {
+      "name": "test:v6-api",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 4464
+    },
+    {
+      "name": "test:account",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 1230
+    },
+    {
+      "name": "test:admin",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 591
+    },
+    {
+      "name": "check:content",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 16798
+    },
+    {
+      "name": "test:v7",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 2633
+    },
+    {
+      "name": "test:v7-api",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 2568
+    },
+    {
+      "name": "test:v7-account",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 293
+    },
+    {
+      "name": "test:v7-sync",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 1464
+    },
+    {
+      "name": "test:v8",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 1105
+    },
+    {
+      "name": "test:v8-api",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 1656
+    },
+    {
+      "name": "test:v8-grading",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 433
+    },
+    {
+      "name": "test:v8-grammar",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 17381
+    },
+    {
+      "name": "build",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 2213
+    },
+    {
+      "name": "test:v9",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 17078
+    },
+    {
+      "name": "test:v9-api",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 1251
+    },
+    {
+      "name": "test:v10",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 17023
+    },
+    {
+      "name": "test:v10-api",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 2154
+    },
+    {
+      "name": "test:v11",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 17340
+    },
+    {
+      "name": "test:v11-api",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 2627
+    },
+    {
+      "name": "test:v12",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 17483
+    },
+    {
+      "name": "test:v12-api",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 6802
+    },
+    {
+      "name": "test:v12-journey",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 16455
+    },
+    {
+      "name": "test:v13-contract",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 16811
+    },
+    {
+      "name": "test:v13-content",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 547
+    },
+    {
+      "name": "test:v13-api",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 3570
+    }
+  ],
+  "logs": "data/reports/v13/final/regression-1792390165979",
+  "retries": 0,
+  "ci": "NOT_RUN_NO_GIT_OR_CI"
+}

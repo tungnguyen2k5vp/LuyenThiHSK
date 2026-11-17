@@ -1,0 +1,124 @@
+{
+  "source": {
+    "sourceId": "src-fd80908e99ad",
+    "name": "ivankra/hsk30",
+    "baseUrl": "https://github.com/ivankra/hsk30",
+    "sourceType": "GITHUB",
+    "organization": "ivankra",
+    "accessedAt": "2026-10-25T04:50:47.078Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "MIT",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "LEGAL_REVIEW_REQUIRED",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition."
+    ],
+    "repo": "ivankra/hsk30",
+    "defaultBranch": "master",
+    "sourceRevision": "4ff9e3915ce87baaecd7ebe263085573a4ea3192",
+    "licenseEvidence": [
+      "registry/evidence/src-fd80908e99ad-LICENSE.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "LICENSE",
+        "status": 200,
+        "evidence": "registry/evidence/src-fd80908e99ad-LICENSE.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-fd80908e99ad-README.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "data/variants.csv",
+        "bytes": 2392
+      },
+      {
+        "path": "hsk30-chars.csv",
+        "bytes": 108366
+      },
+      {
+        "path": "hsk30-expanded.csv",
+        "bytes": 941057
+      },
+      {
+        "path": "hsk30-grammar.csv",
+        "bytes": 38801
+      },
+      {
+        "path": "hsk30.csv",
+        "bytes": 948891
+      }
+    ]
+  },
+  "tree": [
+    {
+      "path": ".gitignore",
+      "type": "blob",
+      "size": 47
+    },
+    {
+      "path": "LICENSE",
+      "type": "blob",
+      "size": 1129
+    },
+    {
+      "path": "README.md",
+      "type": "blob",
+      "size": 5443
+    },
+    {
+      "path": "data",
+      "type": "tree"
+    },
+    {
+      "path": "data/variants.csv",
+      "type": "blob",
+      "size": 2392
+    },
+    {
+      "path": "hsk30-chars.csv",
+      "type": "blob",
+      "size": 108366
+    },
+    {
+      "path": "hsk30-expanded.csv",
+      "type": "blob",
+      "size": 941057
+    },
+    {
+      "path": "hsk30-grammar.csv",
+      "type": "blob",
+      "size": 38801
+    },
+    {
+      "path": "hsk30.csv",
+      "type": "blob",
+      "size": 948891
+    },
+    {
+      "path": "hsk30.ipynb",
+      "type": "blob",
+      "size": 49209
+    }
+  ]
+}

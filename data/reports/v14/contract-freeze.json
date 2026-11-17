@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-19T09:41:35.676Z",
+  "status": "FROZEN",
+  "version": "14.0",
+  "signal": "CONTRACT_READY_V14",
+  "file": "src/contracts/ui-v14.ts",
+  "sha256": "26482f41c4ddf3acf95666bd521205f1cd419585aa5820468c79c5463fca3bb0",
+  "tests": {
+    "at": "2026-10-19T09:40:06.339Z",
+    "status": "PASS",
+    "assertions": 5413,
+    "contractSha256": "26482f41c4ddf3acf95666bd521205f1cd419585aa5820468c79c5463fca3bb0",
+    "scope": "Real HSK1 base release and all HSK2 questions; whitelist, mode feedback, partial matching, clock recovery, catalog authorization, command rechecks, Unicode, ungraded, overlapping start"
+  }
+}

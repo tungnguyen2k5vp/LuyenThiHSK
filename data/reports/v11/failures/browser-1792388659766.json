@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-19T05:44:19.766Z",
+  "error": "Error: UI timeout document.querySelector(\".room-question audio\")?.readyState>=2\n[{\"duration\":null,\"time\":0,\"paused\":true,\"ended\":false,\"ready\":0},{\"duration\":null,\"time\":0,\"paused\":true,\"ended\":false,\"ready\":0}]\nNội dung đang được thử nghiệm và chưa kiểm duyệt chuyên môn.\nⓘ Thông tin học thử\nThoát\nQA INTERNAL FIXTURE · 60 câu · không phải nội dung học\nHSK 3.0 · Nghe · Câu 1/60\nTạm dừng · 17:00\nNộp bài\nÂm thanh chưa sẵn sàng — đồng hồ đã tạm dừng, bài làm được giữ nguyên.\n\nTự tiếp tục khi media bắt buộc tải xong. Nếu phát âm thanh lỗi, cần nghe kiểm tra và xác nhận. Ngân sách bù giờ tối đa 5 phút cho cả lượt; quá giới hạn sẽ giữ bài để thoát hoặc chuyển sang luyện không giờ.\n\nPhát âm thanh\nĐang tải âm thanh…\nAudio của bài · được nghe lại\n\nKhi đã nghe được âm thanh, hãy xác nhận để tiếp tục. Bài vẫn tạm dừng cho đến khi bạn xác nhận và mọi media bắt buộc sẵn sàng.\n\nĐã nghe được · Tiếp tục tính giờChuyển sang luyện không giờLưu và thoát\nNghe · L1\n0/5 câu hoàn tất\nChuyển nhóm câu \nL1\nL2\nL3\nCâu 1\nĐánh dấu\n\nNghe rồi chọn đáp án phù hợp\n\nThử phát lại\nKhông phát được âm thanh. Kiểm tra giọng tiếng Trung hoặc thiết bị âm thanh.\nAudio của bài · 0/2 lượt nghe\n\nNghe âm thanh rồi chọn đáp án.\n\nA\n1\nB\n2\nC\n3\nCâu trước\nCâu sau\nChuyển phần\n\nTự lưu trên thiết bị · Bài luyện có giờ tùy chỉnh\n\nDanh sách câu\nNghe\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nĐọc\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\nViết\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n0/60 đã trả lời · ⚑ đánh dấu\n    at waitFor (file:///D:/ReactJS/LuyenThiHSK/scripts/exam-browser-check.mjs:51:162)\n    at async runV11MockFixture (file:///D:/ReactJS/LuyenThiHSK/scripts/v11-mock-browser.mjs:11:277)\n    at async runV11BrowserFlows (file:///D:/ReactJS/LuyenThiHSK/scripts/v11-browser-flows.mjs:24:106)\n    at async file:///D:/ReactJS/LuyenThiHSK/scripts/exam-browser-check.mjs:67:576",
+  "lastAction": {
+    "method": "Runtime.evaluate",
+    "url": null,
+    "expression": "Boolean(document.querySelector(\".focused-app\"))",
+    "at": "2026-10-19T05:44:19.557Z"
+  },
+  "exceptions": [],
+  "consoleErrors": []
+}

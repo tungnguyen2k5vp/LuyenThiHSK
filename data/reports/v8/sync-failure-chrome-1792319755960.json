@@ -1,0 +1,6 @@
+{
+  "at": "2026-10-18T10:35:55.960Z",
+  "error": "Error: Runtime.evaluate timeout\n    at Timeout._onTimeout (file:///D:/ReactJS/LuyenThiHSK/scripts/v8-sync-browser.mjs:4:1112)\n    at listOnTimeout (node:internal/timers:605:17)\n    at process.processTimers (node:internal/timers:541:7)",
+  "assertions": 0,
+  "requests": []
+}

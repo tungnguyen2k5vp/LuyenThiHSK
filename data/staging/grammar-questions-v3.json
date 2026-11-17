@@ -1,0 +1,482 @@
+[
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "draft-grammar-00024",
+    "number": 1,
+    "hskLevel": "1",
+    "skill": "reading",
+    "section": "reading",
+    "part": 1,
+    "type": "fill-blank",
+    "questionType": "fill-blank",
+    "difficulty": "easy",
+    "topicIds": [],
+    "grammarIds": [
+      "HSK30-2025-GRA-HSK1-00024"
+    ],
+    "vocabularyIds": [],
+    "hanziIds": [],
+    "passageId": null,
+    "audioAssetId": null,
+    "instruction": "Chọn từ phù hợp để hoàn thành câu.",
+    "promptZh": "这是___书。",
+    "options": [
+      {
+        "id": "A",
+        "text": "我"
+      },
+      {
+        "id": "B",
+        "text": "我的"
+      },
+      {
+        "id": "C",
+        "text": "我是"
+      }
+    ],
+    "correctOptionId": "B",
+    "correctAnswer": "B",
+    "alternativeAnswers": [],
+    "answerVerified": false,
+    "explanation": "Trong cụm 我的书, 的 nối 我 với 书.",
+    "scoring": "choice",
+    "estimatedTimeSeconds": 45,
+    "qualityScore": 0,
+    "createdAt": "2026-10-15T00:00:00Z",
+    "updatedAt": "2026-10-15T00:00:00Z",
+    "publishedAt": null
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "draft-grammar-00047",
+    "number": 1,
+    "hskLevel": "1",
+    "skill": "reading",
+    "section": "reading",
+    "part": 1,
+    "type": "fill-blank",
+    "questionType": "fill-blank",
+    "difficulty": "easy",
+    "topicIds": [],
+    "grammarIds": [
+      "HSK30-2025-GRA-HSK1-00047"
+    ],
+    "vocabularyIds": [
+      "cti25-v-107"
+    ],
+    "hanziIds": [],
+    "passageId": null,
+    "audioAssetId": null,
+    "instruction": "Chọn từ phù hợp để hoàn thành câu.",
+    "promptZh": "你是老师___？",
+    "options": [
+      {
+        "id": "A",
+        "text": "吗"
+      },
+      {
+        "id": "B",
+        "text": "的"
+      },
+      {
+        "id": "C",
+        "text": "很"
+      }
+    ],
+    "correctOptionId": "A",
+    "correctAnswer": "A",
+    "alternativeAnswers": [],
+    "answerVerified": false,
+    "explanation": "吗 đặt cuối câu để tạo câu hỏi có/không.",
+    "scoring": "choice",
+    "estimatedTimeSeconds": 45,
+    "qualityScore": 0,
+    "createdAt": "2026-10-15T00:00:00Z",
+    "updatedAt": "2026-10-15T00:00:00Z",
+    "publishedAt": null
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "draft-grammar-00053",
+    "number": 1,
+    "hskLevel": "1",
+    "skill": "reading",
+    "section": "reading",
+    "part": 1,
+    "type": "fill-blank",
+    "questionType": "fill-blank",
+    "difficulty": "easy",
+    "topicIds": [],
+    "grammarIds": [
+      "HSK30-2025-GRA-HSK1-00053"
+    ],
+    "vocabularyIds": [],
+    "hanziIds": [],
+    "passageId": null,
+    "audioAssetId": null,
+    "instruction": "Chọn từ phù hợp để hoàn thành câu.",
+    "promptZh": "我___车。",
+    "options": [
+      {
+        "id": "A",
+        "text": "不是"
+      },
+      {
+        "id": "B",
+        "text": "没有"
+      },
+      {
+        "id": "C",
+        "text": "不有"
+      }
+    ],
+    "correctOptionId": "B",
+    "correctAnswer": "B",
+    "alternativeAnswers": [],
+    "answerVerified": false,
+    "explanation": "没有 là dạng phủ định của 有 trong câu nói về sở hữu.",
+    "scoring": "choice",
+    "estimatedTimeSeconds": 45,
+    "qualityScore": 0,
+    "createdAt": "2026-10-15T00:00:00Z",
+    "updatedAt": "2026-10-15T00:00:00Z",
+    "publishedAt": null
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "draft-grammar-00064",
+    "number": 1,
+    "hskLevel": "1",
+    "skill": "reading",
+    "section": "reading",
+    "part": 1,
+    "type": "fill-blank",
+    "questionType": "fill-blank",
+    "difficulty": "easy",
+    "topicIds": [],
+    "grammarIds": [
+      "HSK30-2025-GRA-HSK1-00064"
+    ],
+    "vocabularyIds": [
+      "cti25-v-114",
+      "cti25-v-286"
+    ],
+    "hanziIds": [],
+    "passageId": null,
+    "audioAssetId": null,
+    "instruction": "Chọn từ phù hợp để hoàn thành câu.",
+    "promptZh": "妈妈正在___。",
+    "options": [
+      {
+        "id": "A",
+        "text": "做饭"
+      },
+      {
+        "id": "B",
+        "text": "昨天"
+      },
+      {
+        "id": "C",
+        "text": "很"
+      }
+    ],
+    "correctOptionId": "A",
+    "correctAnswer": "A",
+    "alternativeAnswers": [],
+    "answerVerified": false,
+    "explanation": "Sau 正在 cần cụm động từ; 做饭 là nấu cơm.",
+    "scoring": "choice",
+    "estimatedTimeSeconds": 45,
+    "qualityScore": 0,
+    "createdAt": "2026-10-15T00:00:00Z",
+    "updatedAt": "2026-10-15T00:00:00Z",
+    "publishedAt": null
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "draft-grammar-00004",
+    "number": 1,
+    "hskLevel": "1",
+    "skill": "reading",
+    "section": "reading",
+    "part": 1,
+    "type": "fill-blank",
+    "questionType": "fill-blank",
+    "difficulty": "easy",
+    "topicIds": [],
+    "grammarIds": [
+      "HSK30-2025-GRA-HSK1-00004"
+    ],
+    "vocabularyIds": [],
+    "hanziIds": [],
+    "passageId": null,
+    "audioAssetId": null,
+    "instruction": "Chọn từ phù hợp để hoàn thành câu.",
+    "promptZh": "他学过游泳，所以他___游泳。",
+    "options": [
+      {
+        "id": "A",
+        "text": "会"
+      },
+      {
+        "id": "B",
+        "text": "是"
+      },
+      {
+        "id": "C",
+        "text": "在"
+      }
+    ],
+    "correctOptionId": "A",
+    "correctAnswer": "A",
+    "alternativeAnswers": [],
+    "answerVerified": false,
+    "explanation": "Ngữ cảnh đã học bơi phù hợp với 会 chỉ kỹ năng.",
+    "scoring": "choice",
+    "estimatedTimeSeconds": 45,
+    "qualityScore": 0,
+    "createdAt": "2026-10-15T00:00:00Z",
+    "updatedAt": "2026-10-15T00:00:00Z",
+    "publishedAt": null
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "draft-grammar-00015",
+    "number": 1,
+    "hskLevel": "1",
+    "skill": "reading",
+    "section": "reading",
+    "part": 1,
+    "type": "fill-blank",
+    "questionType": "fill-blank",
+    "difficulty": "easy",
+    "topicIds": [],
+    "grammarIds": [
+      "HSK30-2025-GRA-HSK1-00015"
+    ],
+    "vocabularyIds": [
+      "cti25-v-94",
+      "cti25-v-208"
+    ],
+    "hanziIds": [],
+    "passageId": null,
+    "audioAssetId": null,
+    "instruction": "Chọn từ phù hợp để hoàn thành câu.",
+    "promptZh": "今天天气___好。",
+    "options": [
+      {
+        "id": "A",
+        "text": "是"
+      },
+      {
+        "id": "B",
+        "text": "很"
+      },
+      {
+        "id": "C",
+        "text": "的"
+      }
+    ],
+    "correctOptionId": "B",
+    "correctAnswer": "B",
+    "alternativeAnswers": [],
+    "answerVerified": false,
+    "explanation": "很 nối với tính từ 好 trong câu miêu tả cơ bản.",
+    "scoring": "choice",
+    "estimatedTimeSeconds": 45,
+    "qualityScore": 0,
+    "createdAt": "2026-10-15T00:00:00Z",
+    "updatedAt": "2026-10-15T00:00:00Z",
+    "publishedAt": null
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "draft-grammar-00012",
+    "number": 1,
+    "hskLevel": "1",
+    "skill": "reading",
+    "section": "reading",
+    "part": 1,
+    "type": "fill-blank",
+    "questionType": "fill-blank",
+    "difficulty": "easy",
+    "topicIds": [],
+    "grammarIds": [
+      "HSK30-2025-GRA-HSK1-00012"
+    ],
+    "vocabularyIds": [],
+    "hanziIds": [],
+    "passageId": null,
+    "audioAssetId": null,
+    "instruction": "Chọn từ phù hợp để hoàn thành câu.",
+    "promptZh": "我买了两___书。",
+    "options": [
+      {
+        "id": "A",
+        "text": "本"
+      },
+      {
+        "id": "B",
+        "text": "杯"
+      },
+      {
+        "id": "C",
+        "text": "口"
+      }
+    ],
+    "correctOptionId": "A",
+    "correctAnswer": "A",
+    "alternativeAnswers": [],
+    "answerVerified": false,
+    "explanation": "本 là lượng từ dùng với sách.",
+    "scoring": "choice",
+    "estimatedTimeSeconds": 45,
+    "qualityScore": 0,
+    "createdAt": "2026-10-15T00:00:00Z",
+    "updatedAt": "2026-10-15T00:00:00Z",
+    "publishedAt": null
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "draft-grammar-00070",
+    "number": 1,
+    "hskLevel": "1",
+    "skill": "reading",
+    "section": "reading",
+    "part": 1,
+    "type": "fill-blank",
+    "questionType": "fill-blank",
+    "difficulty": "easy",
+    "topicIds": [],
+    "grammarIds": [
+      "HSK30-2025-GRA-HSK1-00070"
+    ],
+    "vocabularyIds": [],
+    "hanziIds": [],
+    "passageId": null,
+    "audioAssetId": null,
+    "instruction": "Chọn từ phù hợp để hoàn thành câu.",
+    "promptZh": "八点半是八点___分。",
+    "options": [
+      {
+        "id": "A",
+        "text": "三十"
+      },
+      {
+        "id": "B",
+        "text": "十五"
+      },
+      {
+        "id": "C",
+        "text": "五十"
+      }
+    ],
+    "correctOptionId": "A",
+    "correctAnswer": "A",
+    "alternativeAnswers": [],
+    "answerVerified": false,
+    "explanation": "半 sau giờ tương đương ba mươi phút.",
+    "scoring": "choice",
+    "estimatedTimeSeconds": 45,
+    "qualityScore": 0,
+    "createdAt": "2026-10-15T00:00:00Z",
+    "updatedAt": "2026-10-15T00:00:00Z",
+    "publishedAt": null
+  }
+]

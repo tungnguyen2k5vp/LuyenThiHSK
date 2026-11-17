@@ -1,0 +1,13 @@
+{
+  "url": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/README.md",
+  "status": 200,
+  "at": "2026-10-25T04:51:18.082Z",
+  "sha256": "e682a6485ca67834f6c5e360c56c4918d91b2f74aafaba5903f047eb1c0753f5",
+  "bytes": 2480,
+  "title": null,
+  "licenseExcerpts": [
+    "- This data is licensed separately from the Hanzi Writer source code.",
+    "## License",
+    "This data comes from the [Make Me A Hanzi](https://github.com/skishore/makemeahanzi) project, which extracted the data from fonts by [Arphic Technology](http://www.arphic.com/), a Taiwanese font forge that released their work under a permissive license in 1999. You can redistribute and/or modify this data under the terms of the Arphic Public License as published by Arphic Technology Co., Ltd. A copy of this license can be found in [ARPHICPL.TXT](https://raw.githubusercontent.com/chanind/hanzi-writer-data/master/ARPHICPL.TXT)."
+  ]
+}

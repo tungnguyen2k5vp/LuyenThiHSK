@@ -1,0 +1,1195 @@
+{
+  "checkedAt": "2026-10-15T17:07:41.515Z",
+  "syllabus": "hsk3-2025",
+  "method": "Longest dictionary match against all 11000 stored CTI-aligned headwords; flags possible above-level words and unknown Hanzi; not expert linguistic validation",
+  "itemsFlagged": 64,
+  "findings": [
+    {
+      "id": "cti25-v-17",
+      "field": "examples.0",
+      "text": "我想喝一杯茶。",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-36",
+      "field": "examples.0",
+      "text": "我用电脑学习。",
+      "flags": [
+        {
+          "word": "用",
+          "id": "cti25-v-941",
+          "level": "3"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-44",
+      "field": "examples.0",
+      "text": "你说得对。",
+      "flags": [
+        {
+          "word": "得",
+          "id": "cti25-v-332",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-55",
+      "field": "examples.0",
+      "text": "现在是八点十分。",
+      "flags": [
+        {
+          "word": "十分",
+          "id": "cti25-v-1657",
+          "level": "4"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-56",
+      "field": "examples.0",
+      "text": "请等五分钟。",
+      "flags": [
+        {
+          "word": "等",
+          "id": "cti25-v-334",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-58",
+      "field": "examples.0",
+      "text": "这首歌很好听。",
+      "flags": [
+        {
+          "word": "首",
+          "id": "cti25-v-1681",
+          "level": "4"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-61",
+      "field": "examples.0",
+      "text": "请给我一杯水。",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-77",
+      "field": "examples.0",
+      "text": "你喝茶还是喝水？",
+      "flags": [
+        {
+          "word": "还是",
+          "id": "cti25-v-352",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-80",
+      "field": "examples.0",
+      "text": "学校后面有一家书店。",
+      "flags": [
+        {
+          "word": "后面",
+          "id": "cti25-v-356",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-86",
+      "field": "examples.0",
+      "text": "我家在学校前面。",
+      "flags": [
+        {
+          "word": "前面",
+          "id": "cti25-v-419",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-97",
+      "field": "examples.0",
+      "text": "请开门。",
+      "flags": [
+        {
+          "word": "门",
+          "id": "cti25-v-400",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-107",
+      "field": "examples.0",
+      "text": "我们的老师姓王。",
+      "flags": [
+        {
+          "word": "姓",
+          "id": "cti25-v-464",
+          "level": "2"
+        },
+        {
+          "word": "王",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-110",
+      "field": "examples.0",
+      "text": "书在包里。",
+      "flags": [
+        {
+          "word": "包",
+          "id": "cti25-v-307",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-127",
+      "field": "examples.0",
+      "text": "我想吃一碗面条儿。",
+      "flags": [
+        {
+          "word": "碗",
+          "id": "cti25-v-869",
+          "level": "3"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-129",
+      "field": "examples.0",
+      "text": "明天你有时间吗？",
+      "flags": [
+        {
+          "word": "有时",
+          "id": "cti25-v-480",
+          "level": "2"
+        },
+        {
+          "word": "间",
+          "id": "cti25-v-366",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-147",
+      "field": "examples.0",
+      "text": "你好，我叫小王。",
+      "flags": [
+        {
+          "word": "王",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-151",
+      "field": "examples.0",
+      "text": "我每天喝牛奶。",
+      "flags": [
+        {
+          "word": "每",
+          "id": "cti25-v-399",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-155",
+      "field": "examples.0",
+      "text": "王女士，您好！",
+      "flags": [
+        {
+          "word": "王",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-161",
+      "field": "examples.0",
+      "text": "你每天几点起床？",
+      "flags": [
+        {
+          "word": "每",
+          "id": "cti25-v-399",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-163",
+      "field": "examples.0",
+      "text": "我在学校前面。",
+      "flags": [
+        {
+          "word": "前面",
+          "id": "cti25-v-419",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-164",
+      "field": "examples.0",
+      "text": "我没有钱买新手机。",
+      "flags": [
+        {
+          "word": "新手",
+          "id": "cti25-v-9955",
+          "level": "7-9"
+        },
+        {
+          "word": "机",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-194",
+      "field": "examples.0",
+      "text": "孩子已经睡了。",
+      "flags": [
+        {
+          "word": "已经",
+          "id": "cti25-v-472",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-220",
+      "field": "examples.0",
+      "text": "这个问题很难。",
+      "flags": [
+        {
+          "word": "难",
+          "id": "cti25-v-775",
+          "level": "3"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-222",
+      "field": "examples.0",
+      "text": "我们一起去吧。",
+      "flags": [
+        {
+          "word": "一起",
+          "id": "cti25-v-473",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-231",
+      "field": "examples.0",
+      "text": "王先生在公司吗？",
+      "flags": [
+        {
+          "word": "王",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-237",
+      "field": "examples.0",
+      "text": "这是一所小学。",
+      "flags": [
+        {
+          "word": "所",
+          "id": "cti25-v-3098",
+          "level": "5"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-249",
+      "field": "examples.0",
+      "text": "我们每天学习汉语。",
+      "flags": [
+        {
+          "word": "每",
+          "id": "cti25-v-399",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-250",
+      "field": "examples.0",
+      "text": "学校在我家前面。",
+      "flags": [
+        {
+          "word": "前面",
+          "id": "cti25-v-419",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-257",
+      "field": "examples.0",
+      "text": "医院在商店后面。",
+      "flags": [
+        {
+          "word": "后面",
+          "id": "cti25-v-356",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-260",
+      "field": "examples.0",
+      "text": "这把椅子是新的。",
+      "flags": [
+        {
+          "word": "把",
+          "id": "cti25-v-506",
+          "level": "3"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-270",
+      "field": "examples.0",
+      "text": "请再说一次。",
+      "flags": [
+        {
+          "word": "再说",
+          "id": "cti25-v-1915",
+          "level": "4"
+        },
+        {
+          "word": "次",
+          "id": "cti25-v-323",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-273",
+      "field": "examples.0",
+      "text": "你今天来得很早。",
+      "flags": [
+        {
+          "word": "得",
+          "id": "cti25-v-332",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-291",
+      "field": "examples.0",
+      "text": "中午我们一起吃饭。",
+      "flags": [
+        {
+          "word": "一起",
+          "id": "cti25-v-473",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-292",
+      "field": "examples.0",
+      "text": "我在这所中学上学。",
+      "flags": [
+        {
+          "word": "所",
+          "id": "cti25-v-3098",
+          "level": "5"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "cti25-v-298",
+      "field": "examples.0",
+      "text": "请坐这把椅子。",
+      "flags": [
+        {
+          "word": "把",
+          "id": "cti25-v-506",
+          "level": "3"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00001",
+      "field": "examples.0",
+      "text": "小王是我的朋友。",
+      "flags": [
+        {
+          "word": "王",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00013",
+      "field": "examples.0",
+      "text": "请给我一杯水。",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00013",
+      "field": "examples.1",
+      "text": "我想喝两杯茶。",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00018",
+      "field": "examples.0",
+      "text": "请再说一次。",
+      "flags": [
+        {
+          "word": "再说",
+          "id": "cti25-v-1915",
+          "level": "4"
+        },
+        {
+          "word": "次",
+          "id": "cti25-v-323",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00025",
+      "field": "examples.1",
+      "text": "他喝了一杯水。",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00027",
+      "field": "examples.1",
+      "text": "喂，你是小王吗？",
+      "flags": [
+        {
+          "word": "王",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00032",
+      "field": "examples.1",
+      "text": "请给我一杯水。",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00041",
+      "field": "examples.0",
+      "text": "请再说一次。",
+      "flags": [
+        {
+          "word": "再说",
+          "id": "cti25-v-1915",
+          "level": "4"
+        },
+        {
+          "word": "次",
+          "id": "cti25-v-323",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00041",
+      "field": "examples.1",
+      "text": "我看了两次。",
+      "flags": [
+        {
+          "word": "次",
+          "id": "cti25-v-323",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00054",
+      "field": "examples.0",
+      "text": "我前面是老师。",
+      "flags": [
+        {
+          "word": "前面",
+          "id": "cti25-v-419",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00054",
+      "field": "examples.1",
+      "text": "学校后面是医院。",
+      "flags": [
+        {
+          "word": "后面",
+          "id": "cti25-v-356",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00058",
+      "field": "examples.1",
+      "text": "妈妈给他一杯水。",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00062",
+      "field": "examples.0",
+      "text": "我喝了一杯水。",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-lesson-00070",
+      "field": "examples.1",
+      "text": "我八点十分上课。",
+      "flags": [
+        {
+          "word": "十分",
+          "id": "cti25-v-1657",
+          "level": "4"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-gq-00005",
+      "field": "promptZh",
+      "text": "我___喝一杯茶。",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-gq-00005",
+      "field": "candidatePromptZh",
+      "text": "我___喝一杯茶。",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-gq-00018",
+      "field": "promptZh",
+      "text": "请___说一次。",
+      "flags": [
+        {
+          "word": "次",
+          "id": "cti25-v-323",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-gq-00018",
+      "field": "candidatePromptZh",
+      "text": "请___说一次。",
+      "flags": [
+        {
+          "word": "次",
+          "id": "cti25-v-323",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-gq-00041",
+      "field": "promptZh",
+      "text": "请再说一___。",
+      "flags": [
+        {
+          "word": "再说",
+          "id": "cti25-v-1915",
+          "level": "4"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-gq-00041",
+      "field": "candidatePromptZh",
+      "text": "请再说一___。",
+      "flags": [
+        {
+          "word": "再说",
+          "id": "cti25-v-1915",
+          "level": "4"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-gq-00054",
+      "field": "promptZh",
+      "text": "学校后面___医院。（xác định địa điểm phía sau）",
+      "flags": [
+        {
+          "word": "后面",
+          "id": "cti25-v-356",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-gq-00054",
+      "field": "candidatePromptZh",
+      "text": "学校后面___医院。（xác định địa điểm phía sau）",
+      "flags": [
+        {
+          "word": "后面",
+          "id": "cti25-v-356",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-001",
+      "field": "promptZh",
+      "text": "我叫小王，我是学生。",
+      "flags": [
+        {
+          "word": "王",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-017",
+      "field": "promptZh",
+      "text": "我买了两杯茶和一杯牛奶。",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-017",
+      "field": "candidatePromptZh",
+      "text": "他买了几杯茶？",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-018",
+      "field": "promptZh",
+      "text": "这件衣服很好看，但是太贵了，我不买了。",
+      "flags": [
+        {
+          "word": "但是",
+          "id": "cti25-v-331",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-019",
+      "field": "promptZh",
+      "text": "我认识小李，他是我的大学同学。",
+      "flags": [
+        {
+          "word": "李",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-019",
+      "field": "candidatePromptZh",
+      "text": "小李是他的什么人？",
+      "flags": [
+        {
+          "word": "李",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-020",
+      "field": "promptZh",
+      "text": "我现在有时间，可以和你去超市。",
+      "flags": [
+        {
+          "word": "有时",
+          "id": "cti25-v-480",
+          "level": "2"
+        },
+        {
+          "word": "间",
+          "id": "cti25-v-366",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-022",
+      "field": "promptZh",
+      "text": "你先坐一下，我去给你拿一杯水。",
+      "flags": [
+        {
+          "word": "先",
+          "id": "cti25-v-890",
+          "level": "3"
+        },
+        {
+          "word": "拿",
+          "id": "cti25-v-405",
+          "level": "2"
+        },
+        {
+          "word": "杯",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-022",
+      "field": "candidatePromptZh",
+      "text": "他要给对方什么？",
+      "flags": [
+        {
+          "word": "对方",
+          "id": "cti25-v-1174",
+          "level": "4"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-028",
+      "field": "candidatePromptZh",
+      "text": "他想买哪种水果？",
+      "flags": [
+        {
+          "word": "种",
+          "id": "cti25-v-984",
+          "level": "3"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-030",
+      "field": "promptZh",
+      "text": "我们学校前面是商店，后面是医院。",
+      "flags": [
+        {
+          "word": "前面",
+          "id": "cti25-v-419",
+          "level": "2"
+        },
+        {
+          "word": "后面",
+          "id": "cti25-v-356",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-030",
+      "field": "candidatePromptZh",
+      "text": "学校后面是什么？",
+      "flags": [
+        {
+          "word": "后面",
+          "id": "cti25-v-356",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-041",
+      "field": "promptZh",
+      "text": "小王是医生。他在医院工作。他妹妹是学生，在学校学习。\n小王在哪里工作？",
+      "flags": [
+        {
+          "word": "王",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-041",
+      "field": "candidatePromptZh",
+      "text": "小王是医生。他在医院工作。他妹妹是学生，在学校学习。\n小王在哪里工作？",
+      "flags": [
+        {
+          "word": "王",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-046",
+      "field": "promptZh",
+      "text": "小李每天六点起床，七点吃早饭，八点上班。\n小李几点吃早饭？",
+      "flags": [
+        {
+          "word": "李",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        },
+        {
+          "word": "每",
+          "id": "cti25-v-399",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-046",
+      "field": "candidatePromptZh",
+      "text": "小李每天六点起床，七点吃早饭，八点上班。\n小李几点吃早饭？",
+      "flags": [
+        {
+          "word": "李",
+          "level": "UNMAPPED_CHARACTER_OR_NAME"
+        },
+        {
+          "word": "每",
+          "id": "cti25-v-399",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-049",
+      "field": "promptZh",
+      "text": "学校前面有一家商店，后面有一家医院。我家在学校里。\n学校前面有什么？",
+      "flags": [
+        {
+          "word": "前面",
+          "id": "cti25-v-419",
+          "level": "2"
+        },
+        {
+          "word": "后面",
+          "id": "cti25-v-356",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-049",
+      "field": "candidatePromptZh",
+      "text": "学校前面有一家商店，后面有一家医院。我家在学校里。\n学校前面有什么？",
+      "flags": [
+        {
+          "word": "前面",
+          "id": "cti25-v-419",
+          "level": "2"
+        },
+        {
+          "word": "后面",
+          "id": "cti25-v-356",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-053",
+      "field": "promptZh",
+      "text": "他没有车，学校又不在家前面。他今天坐出租车上学。\n他今天怎么去学校？",
+      "flags": [
+        {
+          "word": "又",
+          "id": "cti25-v-949",
+          "level": "3"
+        },
+        {
+          "word": "前面",
+          "id": "cti25-v-419",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-053",
+      "field": "candidatePromptZh",
+      "text": "他没有车，学校又不在家前面。他今天坐出租车上学。\n他今天怎么去学校？",
+      "flags": [
+        {
+          "word": "又",
+          "id": "cti25-v-949",
+          "level": "3"
+        },
+        {
+          "word": "前面",
+          "id": "cti25-v-419",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-054",
+      "field": "promptZh",
+      "text": "这件衣服很漂亮，但是太小了。那件大一点儿，我要买那件。\n他要买哪件衣服？",
+      "flags": [
+        {
+          "word": "但是",
+          "id": "cti25-v-331",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-054",
+      "field": "candidatePromptZh",
+      "text": "这件衣服很漂亮，但是太小了。那件大一点儿，我要买那件。\n他要买哪件衣服？",
+      "flags": [
+        {
+          "word": "但是",
+          "id": "cti25-v-331",
+          "level": "2"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-055",
+      "field": "promptZh",
+      "text": "小张的女儿今年七岁，是小学生。他的儿子今年二十岁，是大学生。\n谁是小学生？",
+      "flags": [
+        {
+          "word": "张",
+          "id": "cti25-v-967",
+          "level": "3"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    },
+    {
+      "id": "v4-cq-055",
+      "field": "candidatePromptZh",
+      "text": "小张的女儿今年七岁，是小学生。他的儿子今年二十岁，是大学生。\n谁是小学生？",
+      "flags": [
+        {
+          "word": "张",
+          "id": "cti25-v-967",
+          "level": "3"
+        }
+      ],
+      "reviewStatus": "NEEDS_REVIEW",
+      "note": "Greedy dictionary segmentation is a screening heuristic; proper names, grammar support words and segmentation require a human decision."
+    }
+  ]
+}

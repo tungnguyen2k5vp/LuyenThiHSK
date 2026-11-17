@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-16T16:28:44.623Z",
+  "dryRun": true,
+  "backup": ".runtime/backups/before-v9-2026-10-16T16-05-47-730Z",
+  "plan": {
+    "dryRun": true,
+    "planned": 65,
+    "planHash": "9933a2971128f0321f99192af111c2991fb0102c2b3e90fcceac5dfb86169b7b",
+    "changed": 0,
+    "published": 0
+  },
+  "result": null
+}

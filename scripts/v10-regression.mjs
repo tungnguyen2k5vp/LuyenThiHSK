@@ -1,0 +1,7 @@
+import {mkdir,writeFile} from 'node:fs/promises';
+import {spawn} from 'node:child_process';
+import path from 'node:path';
+const phase=process.argv.includes('--baseline')?'baseline':'final',dir='data/reports/v10/'+phase;await mkdir(dir,{recursive:true});
+const scripts=['typecheck','lint','test','test:v2','test:v3','test:v3-api','test:v4','test:v5','test:v5-api','test:v6','test:v6-api','test:account','test:admin','check:content','test:v7','test:v7-api','test:v7-account','test:v7-sync','test:v8','test:v8-api','test:v8-grading','test:v8-grammar','build',...['test:v9','test:v9-api'],...(phase==='final'?['test:v10','test:v10-api']:[])],results=[];
+for(const name of scripts){const start=Date.now(),child=spawn(process.execPath,[path.join(path.dirname(process.execPath),'node_modules/npm/bin/npm-cli.js'),'run',name],{windowsHide:true,stdio:['ignore','pipe','pipe']});let log='';child.stdout.on('data',b=>log+=b);child.stderr.on('data',b=>log+=b);const code=await new Promise((resolve,reject)=>{child.on('error',reject);child.on('exit',resolve);});await writeFile(dir+'/'+name.replaceAll(':','-')+'.log',log);results.push({script:name,status:code===0?'PASS':'FAIL',exitCode:code,durationMs:Date.now()-start});console.log(name+': '+code);}
+await writeFile(dir+'/regression.json',JSON.stringify({at:new Date().toISOString(),phase,results},null,2));if(results.some(r=>r.status!=='PASS'))process.exitCode=1;

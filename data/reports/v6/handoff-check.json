@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-16T06:15:22.811Z",
+  "status": "PASS",
+  "checks": 88,
+  "mandatoryReports": 14,
+  "liveRecords": 883,
+  "humanReviewed": 0,
+  "published": 0,
+  "web": "http://127.0.0.1:4173/?view=preview",
+  "account": "NOT_CONFIGURED_NOT_DEPLOYED",
+  "secretsInBundle": false,
+  "consolidatedFolder": "TAI_LIEU_TONG_HOP_HSK"
+}

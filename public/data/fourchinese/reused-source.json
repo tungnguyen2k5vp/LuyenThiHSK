@@ -1,0 +1,87 @@
+[
+    {
+        "source":  "services/stats/calendar.ts",
+        "target":  "src/chinese/reused/calendar.ts",
+        "sha256":  "2589c9d0dc79cf0bd0f018c8e2dbe0d6b3a78a5d587b93292094b38f27cfa3dc"
+    },
+    {
+        "source":  "services/hsk/hsk30-source.ts",
+        "target":  "src/chinese/reused/hsk30-source.ts",
+        "sha256":  "cc8cb01b48d235cda0d73db2df2c563663435ceb1fdf6712bf9bc9c56c5f060b"
+    },
+    {
+        "source":  "data/supplemental-vocabulary.ts",
+        "target":  "src/chinese/reused/supplemental-vocabulary.ts",
+        "sha256":  "0d38fe7e0c1cef85d09a487ec3da1e2bbf7d6be425d39f57df66476729880b46"
+    },
+    {
+        "source":  "services/stats/heatmap.ts",
+        "target":  "src/chinese/reused/heatmap.ts",
+        "sha256":  "28d5ca479de9a051d1e9004753b7f8aedc89e93eafe24defdb5ad9f108f50e50"
+    },
+    {
+        "source":  "types/models.ts",
+        "target":  "src/chinese/reused/models.ts",
+        "sha256":  "eb3f17de4c142375a85e25d2946a702a9567680fc4f68e133199fb956c718b11"
+    },
+    {
+        "source":  "services/learning/session-limit.ts",
+        "target":  "src/chinese/reused/session-limit.ts",
+        "sha256":  "9b7c55e2c98b4875e850acb67cd2136cfc63a0ab34a404c98933ad24a2258f7e"
+    },
+    {
+        "source":  "services/vocabulary/lexical-reading.ts",
+        "target":  "src/chinese/reused/lexical-reading.ts",
+        "sha256":  "72d5c44ecf8795631632ccb599bc3e8d6c463e573174182fdfd82030a4193555"
+    },
+    {
+        "source":  "services/community/catalog.ts",
+        "target":  "src/chinese/reused/catalog.ts",
+        "sha256":  "4e976504122459a47811291dd5d456b6b11044916157d193a50db7b85046efe3"
+    },
+    {
+        "source":  "services/stats/study-time.ts",
+        "target":  "src/chinese/reused/study-time.ts",
+        "sha256":  "e7b82e74faeab0e267ba7d426815d97aa5e5e22e6019282bee05aae2ee52dc78"
+    },
+    {
+        "source":  "services/review/skill-mastery.ts",
+        "target":  "src/chinese/reused/skill-mastery.ts",
+        "sha256":  "a00bba75de6b500b12ae6b0ff6a37d88f1af6da8d6101f3dcd140737e396cb7f"
+    },
+    {
+        "source":  "services/vocabulary/identity.ts",
+        "target":  "src/chinese/reused/identity.ts",
+        "sha256":  "4a07713a489c0769969881233e3b50cfab8b32751d2d56b8c5f3daaf16d59de3"
+    },
+    {
+        "source":  "services/srs/scheduler.ts",
+        "target":  "src/chinese/reused/scheduler.ts",
+        "sha256":  "f70ba300e1f3a8c8a0095a3fc0d9b7fa280aac090d645a30fd130f942fca6f74"
+    },
+    {
+        "source":  "services/community/api.ts",
+        "target":  "src/chinese/reused/community-api.ts",
+        "sha256":  "ae5e1a83f113884d9fa3712d6f227d29e0940ec50bc40f32459cb9886159cb18"
+    },
+    {
+        "source":  "data/starter-vocabulary.ts",
+        "target":  "src/chinese/reused/starter-vocabulary.ts",
+        "sha256":  "33e04a1c9a0a6859456a252b5b52b70a1c10e6c279e72524b0eae3399faa1d33"
+    },
+    {
+        "source":  "services/pinyin/pinyin.ts",
+        "target":  "src/chinese/reused/pinyin.ts",
+        "sha256":  "0b6a393edff6d3c9d005686b2179c6c929dbb6ca3d13246f37575a7833d5bdbb"
+    },
+    {
+        "source":  "services/vocabulary/quality.ts",
+        "target":  "src/chinese/reused/quality.ts",
+        "sha256":  "1c429273df2cb40a872a5fad086d48611ee51addf23d3bde0e88e596527096be"
+    },
+    {
+        "source":  "services/learning/vocabulary-topics.ts",
+        "target":  "src/chinese/reused/vocabulary-topics.ts",
+        "sha256":  "7c9f4dfbb76a956954eb9b2edcdb2f762e10477a0d94d742093f3a6d57b79c8e"
+    }
+]

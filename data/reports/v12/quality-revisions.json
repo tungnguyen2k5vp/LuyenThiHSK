@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-18T11:00:07.088Z",
+  "receipts": [
+    {
+      "id": "v12-hsk2-grammar-00043-1",
+      "from": 1,
+      "to": 2,
+      "reason": "Balanced answer lengths; same B answer and rationale; human review still pending"
+    }
+  ],
+  "humanReviewed": 0
+}

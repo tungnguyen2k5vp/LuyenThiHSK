@@ -1,0 +1,46 @@
+{
+  "at": "2026-10-19T06:33:07.280Z",
+  "id": "qa-browser-1792391184328",
+  "revision": 1,
+  "status": "ARCHIVED",
+  "payloadHash": "0e99928088de7d07d0396f90ab0bf8becd5e23917050045e21f5fc7e203c996b",
+  "reviewsHash": "d02c392dc6c171ce5ae7bc2e5c594c6a1e37bf7f87ede8814925e7d5d4868ea9",
+  "reviewIds": [
+    624,
+    625,
+    626
+  ],
+  "reviews": [
+    {
+      "id": 624,
+      "entity_id": "qa-browser-1792391184328",
+      "revision": 1,
+      "stage": "NEEDS_REVIEW",
+      "reviewer": "local-admin",
+      "comment": "Explicit local review",
+      "created_at": "2026-10-19T06:26:25.274Z"
+    },
+    {
+      "id": 625,
+      "entity_id": "qa-browser-1792391184328",
+      "revision": 1,
+      "stage": "APPROVED",
+      "reviewer": "local-admin",
+      "comment": "Explicit local review",
+      "created_at": "2026-10-19T06:26:25.417Z"
+    },
+    {
+      "id": 626,
+      "entity_id": "qa-browser-1792391184328",
+      "revision": 1,
+      "stage": "ARCHIVED",
+      "reviewer": "local-admin",
+      "comment": "Explicit local review",
+      "created_at": "2026-10-19T06:26:25.541Z"
+    }
+  ],
+  "reason": "Legacy V1-V3 browser test imported a generic fixture into main before isolation was added; publish was never reached. Finally archived it. Preserve audit trail; no deletion/reset and never count as expert approval.",
+  "expertHumanApproval": false,
+  "published": false,
+  "futureTests": "Disposable SQLite and fetch routing during the legacy admin scenario only"
+}

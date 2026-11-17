@@ -1,0 +1,6 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const file='src/components/preparation/HSK2Today.tsx';let s=await readFile(file,'utf8');
+s=s.replace('v11-hsk2:','v12-hsk2:').replace('const next=buildStudyPlan(scoped,',"const writingReady=ready.filter(q=>q.skill==='writing').length;const next=buildStudyPlan({...scoped,profile:{...scoped.profile,minutesPerDay:Math.max(3,scoped.profile.minutesPerDay-(writingReady&&scoped.profile.minutesPerDay>=9?3:0))}},");
+s=s.replace('commit(p=>({...p,plans:',"if(writingReady&&scoped.profile.minutesPerDay>=9)next.tasks.push({id:'writing',title:'Luyện viết · '+Math.min(3,writingReady)+' câu',kind:'practice',skill:'writing',count:Math.min(3,writingReady),minutes:3,page:'parts',reason:'Bài viết lưu để tự đối chiếu; câu chưa chấm không tính sai.'});commit(p=>({...p,plans:");
+s=s.replace('<details><summary>Tiến độ học thử</summary>',`<p>{ready.filter(q=>q.skill==='reading').length} câu đọc · {ready.filter(q=>q.skill==='writing').length} câu viết khả dụng.</p><div className="dialog-actions">{['reading','writing'].filter(skill=>ready.some(q=>q.skill===skill)).map(skill=><button key={skill} className="btn btn-secondary" onClick={()=>practice(skill)}>{skill==='reading'?'Luyện đọc':'Luyện viết'} · tối đa 3 câu</button>)}</div><details><summary>Tiến độ học thử</summary>`);
+await writeFile(file,s);

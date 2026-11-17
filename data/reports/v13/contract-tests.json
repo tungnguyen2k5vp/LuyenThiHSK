@@ -1,0 +1,10 @@
+{
+  "at": "2026-10-19T06:13:48.330Z",
+  "status": "PASS",
+  "assertions": 2867,
+  "questionFixtures": 246,
+  "contract": "13.0",
+  "contractSha256": "5bbe35804a57e168b6bc90fb23327caea05eeaff3bbea64be69223fff93a5942",
+  "scope": "Pure DTO adapters and callback delegates; existing V12 content, no UI authoring imported, no database writes",
+  "humanReview": "NOT_PERFORMED"
+}

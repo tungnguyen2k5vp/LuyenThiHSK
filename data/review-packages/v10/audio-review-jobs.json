@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "v10-audio-job-v8-hsk2-L1-001",
+    "questionId": "v8-hsk2-L1-001",
+    "questionRevision": 1,
+    "sourceFingerprint": "25ad95735e9fa63865e6406ae9d111c48833d1608bb72167782dc35486c8ffb7",
+    "contentSignature": "c4dd774ec344e3be51dcdcae34c34900c28a859381bb041ae02c92382f49cdbf",
+    "transcript": "妈妈今天坐火车去看朋友。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v8-hsk2-L1-002",
+    "questionId": "v8-hsk2-L1-002",
+    "questionRevision": 1,
+    "sourceFingerprint": "e6a23709d7adeffe0ad6f177899a8c73efd80cedd56a59b8d226f65351bb63fa",
+    "contentSignature": "ea9798f0b3ee36e9a1750a31f0991fbdaa9cd521e932e7063cc26cfdf09a9ab8",
+    "transcript": "孩子已经睡了，请小声说话。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v8-hsk2-L1-003",
+    "questionId": "v8-hsk2-L1-003",
+    "questionRevision": 1,
+    "sourceFingerprint": "324f92bbbdef101e99d801eb4b38daeb56c5c843c6979e331223a3cd1f4cfccc",
+    "contentSignature": "869bf2139fe916753f4411f38a916bba60815542db328501db0a56d081fad152",
+    "transcript": "外面下雨了，别忘了带伞。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v8-hsk2-L2-004",
+    "questionId": "v8-hsk2-L2-004",
+    "questionRevision": 1,
+    "sourceFingerprint": "954147cf30a41b357a3d0f4218920150b3c3ef07d4069dbfe0c887cec3543de9",
+    "contentSignature": "a127331e06197661cc97369ef52498ca1bf6548bc584daa55da517e7c2ab4866",
+    "transcript": "他每天在家做晚饭。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v8-hsk2-L2-005",
+    "questionId": "v8-hsk2-L2-005",
+    "questionRevision": 1,
+    "sourceFingerprint": "50dcb276299f9b5607386581e097f4bcc9f3b1fa87ac16cde519c0532bcb5120",
+    "contentSignature": "482f011d250a4671b226e0e41b11766dd2b2ff8c21d08b6000cad1b6005e3457",
+    "transcript": "她给朋友打电话。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v8-hsk2-L2-006",
+    "questionId": "v8-hsk2-L2-006",
+    "questionRevision": 1,
+    "sourceFingerprint": "17f1beb2f0215ad26ab528d1da97c5f96c74d8383e4dcad856b47bbef2b9f0b1",
+    "contentSignature": "ecd143a13350a5fe7c6b693e141b18372e43ff9f57295b8e9cd456d6042f8e36",
+    "transcript": "他吃完饭就去学校。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v8-hsk2-L3-007",
+    "questionId": "v8-hsk2-L3-007",
+    "questionRevision": 1,
+    "sourceFingerprint": "b63b1f31ecff86073de457934e1c4adc4780fd5b3e5256e2fffaa644e1611e41",
+    "contentSignature": "bfcd5ad80703e0d321dadab49e9772f1062b5a41dc537167f41754cd9265f1ad",
+    "transcript": "女：你为什么不喝牛奶？男：我已经喝了一杯，现在想喝水。问：男的现在想喝什么？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v8-hsk2-L3-008",
+    "questionId": "v8-hsk2-L3-008",
+    "questionRevision": 1,
+    "sourceFingerprint": "0d15b46671d7a05c63782d74c80457bbf3ab3667ebd8b0b9b7eb8f4275378db8",
+    "contentSignature": "e37739ea9b1d3c9c0c332a9ff56a673b1cb72b546e417fae51501b5b111990f0",
+    "transcript": "男：今天一起去买书，好吗？女：今天我要上班，明天可以。问：女的什么时候可以买书？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v8-hsk2-L3-009",
+    "questionId": "v8-hsk2-L3-009",
+    "questionRevision": 1,
+    "sourceFingerprint": "0d9e5258cac0014191493457911ab598da077713081a3e9b8c46735495fa5c5a",
+    "contentSignature": "86fc89cbd6f281d00249744e8194aa31963cec326cd0cf87b47419cd8781a51e",
+    "transcript": "女：这两件衣服，你喜欢哪件？男：蓝色的比白色的好看。问：男的更喜欢什么颜色？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v9-hsk2-L1-001",
+    "questionId": "v9-hsk2-L1-001",
+    "questionRevision": 1,
+    "sourceFingerprint": "ff3f5dc9c390a3f7b1dd011f877b5d7462be49cdce435eee24d3dad5bf7cdc95",
+    "contentSignature": "7b5b6adb81ae51cbe53c6239f79e164dd8b5201140be7231fd69e98e8d455d7e",
+    "transcript": "昨天我去医院看病，医生让我今天在家休息。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v9-hsk2-L1-002",
+    "questionId": "v9-hsk2-L1-002",
+    "questionRevision": 1,
+    "sourceFingerprint": "ecd9ce3a4d8906ebe865ca2b2d1ba4e6d83de3ebfbb6422d85f7c5254a1f82fd",
+    "contentSignature": "1c1bdd8d8f54c0e3a481cb9829ca3e8becabc04d751a619de98c33462e8b8dcf",
+    "transcript": "我正在电脑上看电影，没有看电视。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v9-hsk2-L1-003",
+    "questionId": "v9-hsk2-L1-003",
+    "questionRevision": 1,
+    "sourceFingerprint": "c1b72db4e1e9d273c8d17c3930547754a7478d8820db5e0553642bf76586f512",
+    "contentSignature": "f8de190c5f3e7f484f75a1188fc0629104edec8b24a7e41e75bb892aeaa87209",
+    "transcript": "爸爸给了我一杯牛奶，让我喝完再走。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v9-hsk2-L2-004",
+    "questionId": "v9-hsk2-L2-004",
+    "questionRevision": 1,
+    "sourceFingerprint": "ac480f1b74def49f907df53cf503f34f81c20f7a7c146f3359a87604c75e12e6",
+    "contentSignature": "1db5e2f1ef8823b70589392b19d8b432942e670aed8ced92ed00fdf13aa8b3ea",
+    "transcript": "明天有汉语课，他正在看一本汉语书。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v9-hsk2-L2-005",
+    "questionId": "v9-hsk2-L2-005",
+    "questionRevision": 1,
+    "sourceFingerprint": "367ccd55943e5cb702e43b4fc305424b7bf829a6260f87c54bdb10e33f56b2d1",
+    "contentSignature": "906ecb22ff46586e62345be9cf8a906cd6959eca3b213c02fa8a6395c813d1d6",
+    "transcript": "请等一下，他正开车，现在不能打电话。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v9-hsk2-L2-006",
+    "questionId": "v9-hsk2-L2-006",
+    "questionRevision": 1,
+    "sourceFingerprint": "a7cd0fe6c171be15c97add4d0bd5cf518f32e06de203597a7fdec3def65a3ecd",
+    "contentSignature": "7fd88224168632ad214c680ea4478dbfc1104d56965f32136541c1dfe9106bea",
+    "transcript": "她不是在看书，是在写明天上课的东西。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v9-hsk2-L3-007",
+    "questionId": "v9-hsk2-L3-007",
+    "questionRevision": 1,
+    "sourceFingerprint": "84695f46dac0d5a5eafe936651f6a0f33f5b7c02cf4fe39bdf008b0e96568d08",
+    "contentSignature": "1015165cbd8078ec6b76afee3f30008d3c20e51045f0cc35cb9dae0bc55b2b49",
+    "transcript": "男：电影七点开始，我们六点半在门口见？女：好，我去买票。问：他们几点见面？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v9-hsk2-L3-008",
+    "questionId": "v9-hsk2-L3-008",
+    "questionRevision": 1,
+    "sourceFingerprint": "af7f12ad4b7e2844582a783cd3b57ce21a3cee0058b2f9bd4badeb799cb884ff",
+    "contentSignature": "a334d7f3cdc969c08e3ff1a0e535ac42fc533f4b810f7206d825402e0324df53",
+    "transcript": "女：这个包比那个小，为什么还贵？男：这个是新的，那个已经买了一年了。问：哪个包是新的？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v9-hsk2-L3-009",
+    "questionId": "v9-hsk2-L3-009",
+    "questionRevision": 1,
+    "sourceFingerprint": "e45e4490edea09bde45bae7dc06c7093917398839280b7441258eaa8cb73376e",
+    "contentSignature": "b42373e259f4b1e5f777bb58616ca898deaa223a26781af2c4edf5751c463371",
+    "transcript": "男：你怎么还不走？女：我在等姐姐，她说十分钟后到。问：女的为什么没有走？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L1-001",
+    "questionId": "v10-hsk2-L1-001",
+    "questionRevision": 2,
+    "sourceFingerprint": "8d9d4c7c81f11e9f926720a05f9546af36c0e8fd37659512cc1f380524e4c3a6",
+    "contentSignature": "539afe8d087c9c2658366fd8167f02e7c1d6f8ab86126e8c61d5f6f38a0498ee",
+    "transcript": "明天上午的飞机太早了，我今天晚上就去机场旁边住。问：我明天坐什么？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L1-002",
+    "questionId": "v10-hsk2-L1-002",
+    "questionRevision": 2,
+    "sourceFingerprint": "58c9e03f2043855c34c6084206bbd1aac8e5db1c8485899c0a84a95de30d3d22",
+    "contentSignature": "44ab693fa175463166c4788e13823976c0fabe6e9745e813f1921c7fb80b4ca9",
+    "transcript": "外面下雨了，衣服还在外面，我得去拿回来。问：外面的天气怎么样？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L1-003",
+    "questionId": "v10-hsk2-L1-003",
+    "questionRevision": 2,
+    "sourceFingerprint": "007b579fb44a62b03176ff92694733e13b42b4f091c8d9c3a66de8a3a1a46322",
+    "contentSignature": "8693aa3fa728fcfe41beef21bf2db863ff9760d73d63210c9e2cd38024ef8470",
+    "transcript": "老师说，不能只看手机，今天晚上要看一本书。问：老师让我们看什么？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L1-004",
+    "questionId": "v10-hsk2-L1-004",
+    "questionRevision": 2,
+    "sourceFingerprint": "623fa76000fcd24a8a93f9978d3438f9d49d354cb58deb27760a8a24b1327964",
+    "contentSignature": "4e32a198140d21c12e9f53a414bb067e6b29fa6ec2befa4003daa357e7b00383",
+    "transcript": "姐姐跟我去商店买衣服，不是去公司上班。问：我们去哪里？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L1-005",
+    "questionId": "v10-hsk2-L1-005",
+    "questionRevision": 3,
+    "sourceFingerprint": "75279efc6b52ef4db3249df8ac52b1be95eb3d5732bf9c6725c6fb5f34c96107",
+    "contentSignature": "65196199c73625ab3b902eae994552ec1c7b8b6033a28a16ca871209844c59c6",
+    "transcript": "小狗不能喝茶，我给它喝了一点儿水。问：喝水的是猫还是狗？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L1-006",
+    "questionId": "v10-hsk2-L1-006",
+    "questionRevision": 2,
+    "sourceFingerprint": "7429738c740892d53547fb860c70cfe14fca10508f07cca0936ef60e826247da",
+    "contentSignature": "fd4108ed625852b0ffe1267dcba9c93396bf1d15ecab2d7539eacba8fdf32543",
+    "transcript": "椅子太小了，爸爸坐不下，让孩子坐吧。问：什么东西太小了？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L2-001",
+    "questionId": "v10-hsk2-L2-001",
+    "questionRevision": 3,
+    "sourceFingerprint": "a6567df204b904b5fec6e7a5bf43249b5ca4a7138eebf3af8aebd897bebe73f2",
+    "contentSignature": "3d8ffefc0b3dfaed6a1ffbc2dc77296930fa386e9a0d56556f95709df80d2ac4",
+    "transcript": "家人还没有回来，他正在做饭，等大家回来就能吃了。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L2-002",
+    "questionId": "v10-hsk2-L2-002",
+    "questionRevision": 3,
+    "sourceFingerprint": "829b775f6b3d993f05c443794457888feb04ada70d93658f6ce7c1247c851345",
+    "contentSignature": "1c13365a409d04d620e2195177263852e86ddd896bfb9222f865cf33dbe978aa",
+    "transcript": "她说吃完早饭再吃药。现在还没有吃完早饭。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L2-003",
+    "questionId": "v10-hsk2-L2-003",
+    "questionRevision": 3,
+    "sourceFingerprint": "98c6d417a0dc7ae02a6b4cf7642e302a20464dafa1bd1d752e2678a5cd488be0",
+    "contentSignature": "4501a1075a4d9d7062834e91856079fa829d7fa876e06372cd9416df1e1e092c",
+    "transcript": "这本书明天就要还，他今天晚上还在看。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L2-004",
+    "questionId": "v10-hsk2-L2-004",
+    "questionRevision": 3,
+    "sourceFingerprint": "0c6fd55900749be332c5e1349c0ddf4e306d6261fc7833d4b778672c4c93b02f",
+    "contentSignature": "f0383402db9bffd8acfbf036c5cfb179fee41f93db7b858f16ba40ada37d0de0",
+    "transcript": "明天要买的东西很多，我都写在本子上，就不会忘了。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L2-005",
+    "questionId": "v10-hsk2-L2-005",
+    "questionRevision": 3,
+    "sourceFingerprint": "dd6e1254fe251e8be6ed6586621399996e82c4f326e9797967497f0c133756c0",
+    "contentSignature": "73b8da1c2e90848288a64d87e80c2036fc1fcef7d7465429aaeff0e1d4595a3e",
+    "transcript": "孩子下课后没有见到爸爸，给他打电话问他在哪儿。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L2-006",
+    "questionId": "v10-hsk2-L2-006",
+    "questionRevision": 3,
+    "sourceFingerprint": "ffa19b882164961b9e0e1d78ac4f69ac6b1dbd38bd4bfe5550c1c0f7f674460d",
+    "contentSignature": "fd81b7394fb7a24cec8124293c3254613dfcbfb055db7124ce0099f9d90e1311",
+    "transcript": "他没有坐在后面休息，是坐在前面开车。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L2-007",
+    "questionId": "v10-hsk2-L2-007",
+    "questionRevision": 3,
+    "sourceFingerprint": "3877c2e0ceee9f11174bdd4f542ff0bc49c1297f0fe775713f4d749bca36249f",
+    "contentSignature": "1d7e29cbc2d4a3b99b8cc53697a30f0cdee3fa770299a6e2995185055dd81fca",
+    "transcript": "老师问的字他不认识，正在书里找。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L2-008",
+    "questionId": "v10-hsk2-L2-008",
+    "questionRevision": 3,
+    "sourceFingerprint": "14614689d311b23eda87df2c6ce7c305a83c0b3ac7b217ba2043def06fd3ba07",
+    "contentSignature": "243f6eab118042f0a805c9d859ea07fe7e75d79558b711185e929c62ea3cebcd",
+    "transcript": "这个字我会写，但不知道怎么读。我写给你看。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L2-009",
+    "questionId": "v10-hsk2-L2-009",
+    "questionRevision": 3,
+    "sourceFingerprint": "74b6930410fd58c54b24ac1a5db171edf7ce499b9b202c12e82d02ffcc9ba439",
+    "contentSignature": "2c999771d76ebe91207337f02dc73e3abbf541611d26f29705ea4df0c44d752e",
+    "transcript": "妈妈不在家，孩子给她打电话，问她什么时候回来。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L2-010",
+    "questionId": "v10-hsk2-L2-010",
+    "questionRevision": 3,
+    "sourceFingerprint": "fe3dfff4eb6317bfd16aa334e4dacd09e1416ce3672f6c26d9a2654006c230c4",
+    "contentSignature": "16bd5451a8893277e83c264d4aa9d5b3d50a09d819151abeadb386cc439d54f7",
+    "transcript": "他吃完米饭，还想吃水果，现在吃苹果。",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L3-001",
+    "questionId": "v10-hsk2-L3-001",
+    "questionRevision": 2,
+    "sourceFingerprint": "8902c4a307525c7b8abcc18b7cfbee5bbdb84e3cb958339337146e0e3f281d29",
+    "contentSignature": "efd97c9e687a23dba7e2a27e26c796cba869702dc0c6088e05ef3c4a52132f07",
+    "transcript": "女：我去买菜，晚上在家做饭吧。男：好，我来洗菜。问：他们晚上在哪里吃饭？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L3-002",
+    "questionId": "v10-hsk2-L3-002",
+    "questionRevision": 2,
+    "sourceFingerprint": "e938023822f77bed667ef14025013d987be3d37445e948e5b4885783b27501be",
+    "contentSignature": "dc22d485670e042c4d136f9a4acc15ca9ecc73b3e15c07d2ac957122fd502821",
+    "transcript": "男：你不是说十点来吗？女：对不起，我的手表慢了十分钟。问：女的为什么来晚了？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L3-003",
+    "questionId": "v10-hsk2-L3-003",
+    "questionRevision": 2,
+    "sourceFingerprint": "792431e575b7176f8cd942684a9cb55381e6b3425d1f7b69a925096577f0f313",
+    "contentSignature": "1b71b4e1c0217d151f7216abd20c0d914db5fadbf91b01dba912f0ef72765dd9",
+    "transcript": "女：这件衣服是给你的吗？男：不是，是给我妹妹的，她明天过生日。问：衣服是给谁的？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L3-004",
+    "questionId": "v10-hsk2-L3-004",
+    "questionRevision": 2,
+    "sourceFingerprint": "9527c9dd042ce7b2de4880f807d97e178c4354599a471cc02eee4023033eba36",
+    "contentSignature": "a6b71593c4537412752ba454de6bce4ebde341fe5fadb9d7adf3d09d55094b22",
+    "transcript": "男：你去过北京吗？女：去过两次，但是没去过上海。问：女的去过哪里？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L3-005",
+    "questionId": "v10-hsk2-L3-005",
+    "questionRevision": 2,
+    "sourceFingerprint": "15deec16fbde904e247d9f37948a95ab5e56bf006773eb919770c9ca6f8508ab",
+    "contentSignature": "f71bc35e3244b226130969f4e7c4044b5f9eb663243a0955c9dc69d583b5bbed",
+    "transcript": "女：今天的课是不是八点开始？男：昨天说八点，但今天老师说九点开始。问：今天几点上课？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  },
+  {
+    "id": "v10-audio-job-v10-hsk2-L3-006",
+    "questionId": "v10-hsk2-L3-006",
+    "questionRevision": 2,
+    "sourceFingerprint": "dddb7d517e9962a514aa039bff3d07a4d7655f3e9986ff40bdca111501b1dd78",
+    "contentSignature": "ad41ecb70d5851c0305e4ad02d02763b5e867000e44acff55d87e624e74d1e87",
+    "transcript": "男：你游得比上个月快多了。女：我每天都游，已经一个月了。问：女的为什么游得快了？",
+    "transcriptPinyin": "",
+    "sourceType": "SYNTHETIC",
+    "provider": null,
+    "voice": null,
+    "durationMs": null,
+    "asset": null,
+    "mediaReviewSignature": null,
+    "reviewStatus": "DRAFT",
+    "rightsStatus": "RIGHTS_PENDING",
+    "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+    "state": "TRANSCRIPT_DRAFT",
+    "readiness": {
+      "available": false,
+      "errors": [
+        "NO_AUDIO_ASSET"
+      ],
+      "sourceType": null,
+      "provider": null,
+      "voice": null,
+      "productionReady": false
+    }
+  }
+]

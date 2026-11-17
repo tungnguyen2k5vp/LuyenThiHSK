@@ -1,0 +1,135 @@
+# type|prompt|correct|distractor1|distractor2|Vietnamese explanation|grammar suffixes
+fill-blank|我是学生，这是我的___一课。|第|们|吗|第 đặt trước số đếm để chỉ thứ tự; 们 chỉ số nhiều của người.|00001,00068
+grammar-practice|选择称呼：王老师说，同学们可以叫他什么？|王老师|老师王|们王|Họ đứng trước chức danh 老师; không gắn 们 sau một họ đơn lẻ.|00001,00029,00039
+fill-blank|李老师，___张今天来上课吗？|小|第|们|小 đứng trước họ 张 để gọi thân mật. Không suy ra rằng mọi hoàn cảnh đều nên dùng cách gọi này.|00001
+fill-blank|她___都是中国人。|们|边|第|她们 là đại từ số nhiều; 都 đứng trước vị ngữ, chỉ toàn bộ nhóm.|00002,00009,00016
+fill-blank|学校在我家前___。|边|们|吗|前边 là từ phương vị. 边 không làm hậu tố số nhiều của người.|00002,00003,00034
+sentence-order|选择正确的句子。|他们在外边等我。|他们在边外等我。|他边们在外等我。|们 gắn với đại từ 他; 外边 là một đơn vị phương vị.|00002,00021,00034
+fill-blank|书不在桌子上，在桌子___。|下|们|岁|上 và 下 đối lập về vị trí; đặt sau danh từ làm mốc.|00003,00034
+fill-blank|你___开车吗？我没有学过，不会。|会|想|要|Phản hồi 不会 cho biết câu hỏi đang hỏi kỹ năng đã học, dùng 会.|00004,00047
+grammar-practice|小李会开车，但今天生病了，不能开车。哪句正确？|他有开车的能力，今天不能开。|他不会开车。|他今天能开车。|会 nói kỹ năng; 能 trong ngữ cảnh này nói điều kiện thực tế của hôm nay.|00004,00059
+fill-blank|我___喝水，可以给我一杯吗？|想|是|在|想 đứng trước động từ để nói mong muốn. 是 không nối trực tiếp với hành động 喝水.|00005,00006,00013
+fill-blank|A：我___坐这里吗？B：可以，请坐。|可以|都|也|Dùng 可以 để xin phép; câu trả lời xác nhận cho phép.|00006,00047,00050
+grammar-practice|老师说“可以回家了”。这句话表示什么？|老师同意学生回家。|老师不会回家。|老师没有家。|可以 ở đây cho phép một hành động, không nói kỹ năng hay sở hữu.|00006
+sentence-order|选择正确的句子。|你可以用我的电脑。|你我的电脑可以用的。|可以你我的电脑。|Chủ ngữ + 可以 + động từ + tân ngữ; 我的 bổ nghĩa cho 电脑.|00006,00024,00042
+fill-blank|我给妈妈打___，说我今天回家。|电话|上班|睡觉|打电话 là động từ ly hợp; 打 đi cùng thành tố 电话.|00007,00030
+grammar-practice|“他在睡觉。”中的“睡觉”表示什么？|一个动作。|一个地方。|一个人的名字。|睡觉 diễn đạt hành động ngủ, không phải tên nơi chốn hoặc tên người.|00007,00017,00030
+sentence-order|选择正确的句子。|我们今天见面。|我们见今天的面是。|今天的面我们是见。|见面 là động từ ly hợp; trạng ngữ thời gian đặt trước cụm động từ.|00007,00042,00046
+fill-blank|A：你___名字？B：我叫小林。|叫什么|在哪儿|多少|叫 nhận tân ngữ 名字; câu trả lời cung cấp tên gọi.|00008,00048
+fill-blank|A：___是你的汉语老师？B：那个人。|谁|几|怎么|谁 thay cho người cần xác định và giữ vị trí chủ ngữ.|00008,00035,00048
+grammar-practice|“你住哪儿？”应该回答什么？|我住学校里。|我二十岁。|我喜欢汉语。|哪儿 hỏi nơi ở; tuổi và sở thích không trả lời thông tin được hỏi.|00008,00021,00048
+fill-blank|王先生是我的爸爸，___在医院上班。|他|她|它|他 dùng để nói về người nam đã được nhắc; không dùng 它 cho bố.|00009,00031,00035
+fill-blank|这是一只猫，___很小。|它|我|你|它 thay cho con vật; 我 và 你 đổi người được nói tới.|00009,00031,00043
+sentence-order|选择正确的句子。|我和她都是学生。|我和它都是妈妈。|她和们都是我学生。|我 và 她 chỉ người; 都 bao quát hai người đứng trước.|00009,00016,00023,00028
+fill-blank|___本书是我的，那本是老师的。|这|谁|几|这 bản gần đối lập với 那 bản xa; lượng từ 本 đi trước 书.|00010,00012,00024
+grammar-practice|小李说“那个人是我哥哥”。他说的是谁？|较远的那个人。|所有的人。|他自己。|那 chỉ đối tượng được chỉ ra ở xa hơn trong ngữ cảnh; không chỉ cả nhóm.|00010,00029
+sentence-order|选择正确的句子。|那件衣服很好看。|那衣服件很好看。|件那衣服很好看。|Cấu trúc 那 + lượng từ 件 + danh từ 衣服; lượng từ không đặt sau danh từ.|00010,00012,00039
+fill-blank|我有___个姐姐，哥哥没有。|两|第二|们|两 dùng trước lượng từ 个 để nói số lượng; 第二 chỉ thứ tự.|00011,00012,00053
+grammar-practice|电话里的号码“二零二”有几个数字？|三个。|两个。|一个。|Đọc chữ số dùng 二; chuỗi 二、零、二 gồm ba chữ số.|00011,00032
+fill-blank|这里有两___水，一杯是我的，一杯是你的。|杯|本|只|杯 là lượng từ cho đồ uống; 本 đếm sách, 只 thường đếm một số con vật.|00012,00013,00032,00055
+sentence-order|选择正确的句子。|我想买一杯茶。|我想买一茶杯。|我想买杯一茶。|Số + lượng từ 杯 + đồ uống, không đảo thứ tự.|00005,00013,00032
+grammar-practice|妈妈喝了一杯牛奶，爸爸也喝了一杯。一共有几杯？|两杯。|一杯。|三杯。|Mỗi người một cốc, tổng cộng hai cốc; liên kết 也 không làm thay đổi lượng từ.|00013,00019,00025,00062
+fill-blank|姐姐今年二十二___，她在医院工作。|岁|点|块|岁 đi với tuổi; 点 nói giờ, 块 nói tiền trong ngữ cảnh này.|00014,00036,00044
+fill-blank|现在七___半，我要去学校。|点|岁|年|点 chỉ giờ đồng hồ; 半 ở đây là nửa giờ.|00014,00070
+fill-blank|这杯水___热，我现在不能喝。|太|在|也|太 + tính từ diễn đạt mức độ quá cao; ngữ cảnh 不能喝 cho biết nước quá nóng.|00015,00043,00051
+grammar-practice|“他很高兴”是哪一种表达？|说他的心情。|问他在哪里。|说他有多少钱。|很 đứng trước tính từ 高兴 để miêu tả trạng thái tâm lý.|00015,00037,00043
+sentence-order|选择正确的句子。|今天真冷啊！|今天冷真啊！|真今天啊冷！|真 đứng trước tính từ 冷; câu có giọng cảm thán.|00015,00043,00051
+fill-blank|爸爸妈妈___在家，我也在家。|都|第|本|都 có phạm vi là cả bố lẫn mẹ; 也 thêm người nói vào thông tin song song.|00016,00019,00028,00060
+fill-blank|别打电话，他正在___呢。|睡觉|昨天|学校|正在 cần một hành động theo sau; 呢 có thể nhấn mạnh sự tiếp diễn.|00017,00064,00065,00066
+sentence-order|选择正确的句子。|我正在吃饭呢。|我吃正在呢饭。|正在我饭呢吃。|正在 đứng trước động từ; 呢 đặt cuối câu, không chen giữa động từ và tân ngữ.|00017,00030,00064,00065
+grammar-practice|A：小李在做什么？B：他在看电视呢。小李现在做什么？|看电视。|去上班。|买电视。|在 + động từ và 呢 xác định hành động đang diễn ra, không phải dự định.|00017,00064,00065,00066
+fill-blank|这本书很好，我想___看一次。|再|第|们|再 đứng trước động từ để nói làm thêm một lần; 次 là lượng từ động tác.|00018,00041
+fill-blank|我现在没有时间，明天___说吧。|再|已经|很|再 nói lần thực hiện sau; câu đề nghị hoãn đến ngày mai.|00018,00026
+grammar-practice|A：请再读一次。B应该怎么做？|把刚才的内容读一遍。|马上回家。|不用读了。|再读一次 yêu cầu đọc lại thêm một lần; lời giải dùng diễn đạt bổ trợ, không dùng làm đề thi.|00018,00041,00050
+fill-blank|小李是老师，我___是老师。|也|都|的|也 nối thông tin giống nhau về hai chủ ngữ khác nhau; 都 cần phạm vi số nhiều trước nó.|00019,00052,00060
+fill-blank|我吃了米饭，___想吃一个苹果。|还|们|第|还 bổ sung một nhu cầu tiếp theo sau việc đã nêu.|00019,00061
+grammar-practice|“他有书，也有电脑。”哪句相同？|他有书和电脑。|他只有书。|他没有电脑。|也 nối hai thông tin sở hữu cùng đúng, không phủ định vế sau.|00019,00053,00060,00061
+fill-blank|我昨天___去学校，在家休息。|没|不|不要|Phủ định hành động đã không xảy ra dùng 没; 不要 thường là yêu cầu đừng làm.|00020,00046
+fill-blank|孩子睡觉了，___说话！|不要|没|很|不要 + hành động diễn đạt ngăn cấm hoặc yêu cầu đừng làm.|00020,00026,00050
+fill-blank|老师___学校教汉语。|在|是|有|在 + nơi chốn đặt trước hành động 教汉语.|00021,00033
+sentence-order|选择正确的句子。|我在家喝茶。|我喝在家茶。|我家在喝茶。|Chủ ngữ 我 + trạng ngữ 在家 + động tân 喝茶.|00021,00030,00033,00042
+fill-blank|老师___我们很好，我们很喜欢她。|对|在|从|对 giới thiệu đối tượng được đối xử; 很好 miêu tả thái độ đối với chúng tôi.|00022,00033
+fill-blank|我想___朋友一起去看电影。|和|对|在|和 giới thiệu người cùng thực hiện hành động; 对 không có nghĩa cùng làm ở đây.|00022,00033,00056
+sentence-order|选择正确的句子。|我对妈妈说谢谢。|我谢谢对说妈妈。|我对谢谢妈妈说。|对 + người nhận lời nói đặt trước động từ 说.|00022,00033,00045
+fill-blank|我买了苹果___面包。|和|吗|在|和 nối hai danh từ cùng làm tân ngữ của 买.|00023,00028,00038
+grammar-practice|“老师和学生都在学校。”谁在学校？|老师、学生。|只有老师。|只有学生。|和 nối hai thành phần đẳng lập; 都 bao quát cả hai nhóm.|00023,00028,00035
+sentence-order|选择正确的句子。|哥哥和姐姐都喜欢汉语。|哥哥姐姐都和喜欢汉语。|和哥哥都姐姐喜欢汉语。|和 nối hai danh từ trước 都; không đặt vào giữa chủ ngữ và vị ngữ.|00023,00028
+fill-blank|这是老师___书，不是我的。|的|了|吗|的 nối người sở hữu 老师 với vật được sở hữu 书.|00024,00029,00039
+fill-blank|我喝___一杯水，现在不想喝了。|了|的|们|了 sau 喝 đánh dấu hành động đã hoàn tất; không phải 的 sở hữu.|00025,00062
+grammar-practice|“他买了三本书。”买书这件事怎么样？|已经发生了。|还没有发生。|不允许发生。|了 sau động từ thể hiện hành động đã xảy ra; không tự cho biết ngày cụ thể.|00025,00062
+sentence-order|选择正确的句子。|姐姐给我买了一件衣服。|姐姐给我了买一件衣服。|姐姐给买我一件衣服了的。|了 gắn sau động từ 买; người nhận đứng sau 给.|00025,00058,00062
+fill-blank|我们明天去公园，好___？|吗|的|们|好吗 dùng để hỏi sự đồng ý; 吗 ở cuối câu hỏi có/không.|00026,00047
+fill-blank|A：我很好，你___？B：我也很好。|呢|了|的|呢 rút gọn một câu hỏi tương ứng về người đối thoại.|00026,00048
+fill-blank|___，您好！请问是李老师吗？|喂|再|第|喂 là tiếng mở đầu thường dùng khi nói điện thoại.|00027,00045
+grammar-practice|电话通了，哪句话适合开始说？|喂，你好。|三本书。|在桌子上。|喂，你好 phù hợp mở đầu cuộc gọi; các cụm còn lại không phải lời chào.|00027,00045
+sentence-order|选择电话里自然的开头。|喂，请问小王在吗？|小王喂请问吗在？|吗小王在喂请问？|喂 mở đầu, 请问 mở lời hỏi, 吗 đặt cuối câu hỏi.|00027,00047
+fill-blank|红色___衣服是妈妈的。|的|了|呢|Cụm miêu tả 红色 bổ nghĩa cho danh từ 衣服 qua 的.|00029,00039
+grammar-practice|“我的汉语老师”说的是谁？|教我汉语的老师。|我的学生。|我的中文书。|Các thành phần trước danh từ trung tâm 老师 lần lượt giới hạn người được nói tới.|00029,00039
+fill-blank|我每天吃___，也喝水。|饭|在|很|吃 nhận tân ngữ 饭 tạo cụm động tân; 在 và 很 không là tân ngữ đồ ăn.|00030,00038,00042
+sentence-order|选择正确的句子。|弟弟喝牛奶。|弟弟牛奶喝的。|喝弟弟的牛奶吗的。|Chủ ngữ + động từ 喝 + danh từ làm tân ngữ 牛奶.|00030,00031,00037,00038
+grammar-practice|“天气很好”里，说的是哪个对象？|天气。|很好。|很。|天气 là chủ thể được miêu tả; 很好 là vị ngữ.|00031,00035,00037
+fill-blank|A：今天星期几？B：今天___。|星期四|四本|四杯|Ngày và thứ có thể trực tiếp làm vị ngữ danh từ; không phải lượng sách hoặc nước.|00036,00044,00069
+sentence-order|选择正确的句子。|她今年十岁。|她今年岁十。|她岁今年十。|今年 là thời gian, 十岁 là cụm tuổi làm vị ngữ danh từ.|00014,00036,00044
+grammar-practice|“我吃饭，他看书。”有几个主语？|两个：我、他。|一个：饭。|一个：书。|Hai mệnh đề độc lập có hai chủ ngữ, không lấy tân ngữ làm chủ ngữ.|00031,00035,00059
+fill-blank|这里有三___书。|本|岁|点|三本 là cụm số lượng đứng trước danh từ 书.|00012,00032,00055
+grammar-practice|“一个人”中的“一个”是什么？|数量。|地方。|时间。|一 + 个 tạo cụm số lượng, kết hợp với 人.|00012,00032
+sentence-order|选择正确的句子。|桌子前边有一把椅子。|桌子有前边椅子一把。|前边桌子有一椅子把。|桌子前边 là cụm phương vị; câu minh họa classifier 把 cần reviewer xác nhận phù hợp trước xuất bản.|00003,00034,00055
+grammar-practice|“学校后边”说的是什么？|学校后面的地方。|学校里的老师。|上学的时间。|Phương vị 后边 đặt sau danh từ làm mốc 学校.|00003,00034
+fill-blank|爸爸___老师，他在学校工作。|是|很|在|是 nối hai danh ngữ 爸爸 và 老师; không thêm 很 trước danh từ nghề nghiệp.|00035,00037,00052
+fill-blank|我想买___。|电脑|很|在|Danh từ 电脑 là vật được mua, làm tân ngữ của 买.|00038,00042
+fill-blank|___苹果是我的，那些不是。|这两个|这两们|这两岁|Cụm 这两个 đứng trước danh từ 苹果 làm định ngữ; 们 không thay lượng từ 个.|00010,00011,00032,00039
+fill-blank|今天我给妈妈打了两___电话。|次|本|杯|次 đếm số lần thực hiện hành động; 本 đếm sách và 杯 đếm đồ uống.|00007,00025,00041,00062
+grammar-practice|A：请读三次。B读了一次，还要读几次？|两次。|三次。|一次。|Yêu cầu tổng ba lần, đã làm một lần nên còn hai lần.|00011,00041,00050
+sentence-order|选择正确的句子。|我今天去了两次商店。|我两今天商店次去了。|我去了商店的两次们。|Cụm 两次 bổ nghĩa số lần cho hành động 去; câu gắn với thời gian 今天.|00025,00041,00062
+fill-blank|今天的天气很___。|好|是|有|Vị ngữ tính từ thường có phó từ mức độ 很; 是 và 有 không phải tính từ.|00037,00043
+grammar-practice|下面哪句在说年龄？|她今年六岁。|她在六点回家。|她有六本书。|六岁 nói tuổi; 六点 là giờ, 六本 là số lượng sách.|00014,00036,00044
+grammar-practice|“谢谢！”适合哪一种情况？|别人给了你帮助。|告诉别人你的年龄。|问火车在哪里。|谢谢 là lời cảm ơn dùng như câu phi chủ vị trong đối thoại.|00045
+grammar-practice|哪句话是在陈述一件事？|我今天在学校。|你今天在学校吗？|请来学校！|Câu trần thuật cung cấp thông tin; hai câu còn lại lần lượt hỏi và yêu cầu.|00046,00047,00050
+sentence-order|把陈述句写正确。|小李今天不上班。|小李上班今天吗？|请小李今天上班。|Câu thứ nhất kể việc không đi làm hôm nay, không hỏi hoặc ra lệnh.|00020,00042,00046
+fill-blank|你喜欢茶___？|吗|的|了的|吗 đặt cuối câu trần thuật để tạo câu hỏi có/không.|00026,00047
+fill-blank|A：你的书在哪儿？B：___。|在椅子上|我三岁|这是医生|哪儿 hỏi vị trí của quyển sách, không hỏi tuổi hoặc nghề nghiệp.|00003,00048
+fill-blank|你今天忙___忙？|不|没|很|Câu hỏi chính phản lặp tính từ với 不 ở giữa: 忙不忙.|00049
+fill-blank|A：你去___去商店？B：我去。|不|没|都|去不去 là câu hỏi chính phản; không thêm 吗 vào mẫu này.|00049,00056
+grammar-practice|哪句是自然的正反问句？|你是不是学生？|你是吗不是学生吗？|你学生是不是吗吗？|是 + 不 + 是 tạo câu hỏi chính phản; không đồng thời chồng nhiều 吗.|00049,00052
+fill-blank|___在这里写名字。|请|谁|几|请 đứng đầu lời yêu cầu lịch sự, theo sau là hành động.|00050
+fill-blank|这个电影太好看___！|了|的|们|太 + tính từ + 了 diễn đạt cảm thán về mức độ.|00015,00026,00051
+grammar-practice|哪句表达赞叹？|这个苹果真大！|这个苹果在哪儿？|这是谁的苹果？|真 + tính từ 大 thể hiện cảm thán; hai câu còn lại hỏi thông tin.|00015,00051
+fill-blank|她___三个孩子。|有|是|在|有 biểu đạt sở hữu; không dùng 是 để nói có ba người con.|00053
+fill-blank|我没有电脑，但我___手机。|有|是|在|Phủ định 没有 và khẳng định 有 cùng nói sở hữu, vật khác nhau.|00020,00053
+grammar-practice|“她有两个姐姐”哪句话正确？|她不是家里唯一的孩子。|她没有姐姐。|她只有一个姐姐。|两个姐姐 xác định có hai chị; lời giải dài là hỗ trợ học, không đưa vào mock.|00011,00053
+fill-blank|学校前边___书店，不是医院。|是|很|的|Nơi chốn + 是 xác định vật/cơ sở ở vị trí đó; câu đối chiếu với 医院.|00054
+grammar-practice|“桌子上是我的书。”哪句相同？|桌上的书是我的。|我的书不在桌上。|桌子是我的书。|是 trong câu xác định vật ở một nơi; không đồng nhất cái bàn với sách.|00024,00054
+sentence-order|选择正确的句子。|我家后边是学校。|我家是学校后边的很。|学校是我家后边了的。|我家后边 là cụm nơi chốn đứng đầu, 是学校 xác định cơ sở ở đó.|00034,00054
+fill-blank|房间里___两个人。|有|是的|很|有 giới thiệu sự hiện diện của người ở một nơi.|00032,00055
+grammar-practice|“学校里有商店。”表达什么？|学校里面可以找到商店。|学校就是商店。|学校里没有商店。|有 giới thiệu sự tồn tại, không đồng nhất 学校 với 商店.|00055
+fill-blank|我去医院___。|看病|吃米饭|看电影|医院 và mục đích 看病 tương ứng; đây là bài luyện ngữ cảnh có hướng dẫn.|00056
+sentence-order|选择正确的句子。|他到书店买书。|他书店买到书的是。|他买书店到书的。|到 + nơi chốn + hành động mục đích; không đảo danh từ 书店 vào vị trí tân ngữ của 买.|00056
+fill-blank|我家离学校很远，我坐___去学校。|公共汽车|衣服|牛奶|坐 + phương tiện + 去 nơi đến diễn đạt cách di chuyển; 离/远 cần rà cấp trước xuất bản.|00057
+sentence-order|选择正确的句子。|姐姐坐飞机去北京。|姐姐去飞机坐北京。|姐姐坐北京去飞机。|坐飞机 là phương thức, 去北京 là hướng tới địa điểm.|00057
+grammar-practice|“我走路去公司”回答哪个问题？|你怎么去公司？|你在公司做什么？|公司有几个人？|Cấu trúc chuỗi hành động nêu cách đi, tương ứng với 怎么去.|00048,00057
+fill-blank|老师给___一本书，我说谢谢。|我|书|很|给 có người nhận 我 rồi vật 一本书; không đặt vật vào cả hai vị trí.|00058
+sentence-order|选择正确的句子。|妈妈给弟弟十块钱。|妈妈给十块钱弟弟的。|妈妈弟弟十块给钱。|Động từ 给 nhận người nhận 弟弟 và vật/số tiền 十块钱.|00058,00067
+grammar-practice|“小李给小王一本书。”谁收到书？|小王。|小李。|老师。|Người đứng sau 给 là người nhận; 小李 là người đưa.|00058
+fill-blank|我在家，爸爸___在家。|也|们|第|Hai mệnh đề đẳng lập được liên kết bằng 也, biểu đạt cùng trạng thái.|00019,00059,00060
+grammar-practice|“姐姐喜欢茶，哥哥喜欢水。”哪句正确？|两个人喜欢的饮料不同。|两个人都喜欢茶。|两个人都不喜欢水。|Hai mệnh đề song song nói hai sở thích khác nhau, không gộp thành cùng một sở thích.|00059
+fill-blank|我学汉语，他___学汉语。|也|第|本|也 đứng trước động từ trong vế sau để thể hiện tương đồng.|00019,00060
+sentence-order|选择正确的句子。|爸爸去，妈妈也去。|爸爸去，妈妈去也的。|爸爸也去，妈妈的去也。|也 đứng sau chủ ngữ vế hai, trước động từ 去.|00019,00060
+fill-blank|我想买苹果，___想买面包。|还|吗|的|还 nối thêm một nhu cầu của cùng chủ ngữ đã nêu.|00005,00019,00061
+grammar-practice|“我有书，还有电脑。”哪句正确？|我有两种东西。|我只有电脑。|我没有书。|还 biểu thị thêm vào điều đã nói, không phủ định vế trước.|00019,00053,00061
+sentence-order|选择正确的句子。|我们看了电影，还吃了饭。|我们还看了电影，吃饭了还的。|我们电影看还了饭。|还 đứng trước cụm vị ngữ của hành động bổ sung; 了 đánh dấu từng hành động hoàn tất.|00025,00061,00062
+fill-blank|他在___汉字呢，不要叫他。|写|昨天|多少|在 + động từ + 呢 biểu đạt hành động đang diễn ra.|00017,00064,00065,00066
+fill-blank|A：妈妈呢？B：她___做饭呢。|在|是|有|在 ở trước 做饭 là dấu hiệu tiếp diễn, khác 在 + nơi chốn.|00017,00064,00065
+grammar-practice|“他看书呢。”哪句最符合？|他现在在读书。|他明天才买书。|他从来不读书。|呢 ở cuối câu hành động trong ngữ cảnh này diễn đạt tiếp diễn; distractor có từ bổ trợ cần rà cấp.|00066
+sentence-order|选择正确的句子。|弟弟吃饭呢。|弟弟呢饭吃。|呢弟弟饭吃。|呢 đứng cuối sau cụm động tân 吃饭, không chèn vào giữa.|00030,00065,00066
+fill-blank|这本书十二___钱。|块|岁|本|块 ở đây là đơn vị tiền; 十二块钱 là giá quyển sách.|00067
+grammar-practice|一杯茶五元，两杯茶多少钱？|十元。|五元。|两元。|Hai cốc, mỗi cốc năm tệ, tổng mười tệ; không đổi số lượng thành giá tiền.|00011,00013,00067
+fill-blank|今天是___三天，明天是第四天。|第|这|们|第 + số đếm tạo thứ tự; đối chiếu 第四天 của ngày mai.|00001,00068
+grammar-practice|“第一本书”表示什么？|顺序最前的一本。|一共有一本。|一共有十本。|第一 chỉ thứ tự đầu tiên, không cho biết tổng số sách.|00068
+sentence-order|选择正确的句子。|这是我的第二个手机。|这是我的两个第手机。|这是我的第手机二个。|Sở hữu + 第 + số + lượng từ + danh từ, giữ 第二个 thành một cụm.|00010,00024,00068
+fill-blank|今天星期一，明天星期___。|二|日|五|Thứ sau 星期一 là 星期二; dùng số hai trong chuỗi ngày.|00011,00069
+grammar-practice|“三月五号”是哪一天？|3月5日。|5月3日。|3点5分。|Trong ngày tháng tiếng Trung, tháng đứng trước ngày, không phải giờ phút.|00014,00069
+fill-blank|现在八点五十，十分钟后是___。|九点|八点|十点|Cộng mười phút vào 8:50 được 9:00; chữ 后/分钟 cần kiểm tra theo bảng từ và cấu trúc.|00014,00070
+grammar-practice|“下午两点半”是几点？|14:30。|02:00。|12:30。|下午 xác định buổi chiều, 点半 là giờ rưỡi.|00014,00070
+grammar-practice|小王、小李是两个人。“他们在里边”中的“们”和“边”分别表示什么？|复数的人、方位。|一个人、价格。|时间、年龄。|们 tạo đại từ số nhiều; 边 gắn với 里 tạo phương vị. Đây là câu nhận biết có hướng dẫn.|00002,00009,00034
+grammar-practice|“我和老师说话”与“老师对我很好”中，“和”和“对”能直接交换吗？|不能，两个词的作用不同。|能，意思完全一样。|两个句子都没有对象。|和 chỉ người tham gia giao tiếp cùng; 对 giới thiệu đối tượng được đối xử. Hai vai trò không đổi tự do.|00022,00033
+fill-blank|___，李老师，我是小王。您现在有时间吗？|喂|两杯|第十|Ngữ cảnh gọi điện dùng 喂 để mở lời, tiếp theo xác định người gọi và hỏi thời gian.|00027,00045,00047

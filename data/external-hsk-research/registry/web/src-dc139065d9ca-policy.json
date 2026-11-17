@@ -1,0 +1,37 @@
+{
+  "source": {
+    "sourceId": "src-dc139065d9ca",
+    "name": "Migii HSK",
+    "baseUrl": "https://hsk.migii.net/vi/",
+    "sourceType": "WEBSITE",
+    "organization": "Migii",
+    "accessedAt": "2026-10-25T05:09:45.787Z",
+    "termsUrl": null,
+    "robotsUrl": "https://hsk.migii.net/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": false,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only public metadata; no login, credentials, commercial questions or recordings."
+    ],
+    "publicEvidence": "registry/evidence/src-dc139065d9ca-public-page.json",
+    "publicStatus": 200,
+    "publicDatasetLinks": [],
+    "policyEvidence": []
+  }
+}

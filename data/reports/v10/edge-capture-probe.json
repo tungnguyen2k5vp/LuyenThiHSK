@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-18T02:19:02.758Z",
+  "results": [
+    {
+      "name": "edge-probe",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 8559
+    }
+  ],
+  "retries": 0
+}

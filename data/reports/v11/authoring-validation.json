@@ -1,0 +1,339 @@
+{
+  "at": "2026-10-18T03:12:47.626Z",
+  "records": 52,
+  "screen": [
+    {
+      "id": "v11-lesson-00006",
+      "kind": "grammar",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-lesson-00007",
+      "kind": "grammar",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-lesson-00035",
+      "kind": "grammar",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-lesson-00036",
+      "kind": "grammar",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00006-1",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00006-2",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00006-3",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00006-4",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00006-5",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00007-1",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00007-2",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00007-3",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00007-4",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00007-5",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00035-1",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00035-2",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00035-3",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00035-4",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00035-5",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00036-1",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00036-2",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00036-3",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00036-4",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00036-5",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00018-1",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00018-2",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00048-1",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-hsk2-grammar-00048-2",
+      "kind": "questions",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-304",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-305",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-307",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-308",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-322",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-326",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-341",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-468",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-475",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-483",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-499",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-498",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-454",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-382",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-450",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-352",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-494",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-490",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-335",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-315",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-466",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-467",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-310",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v11-vocab-cti25-v-456",
+      "kind": "vocabulary",
+      "tokens": [],
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    }
+  ],
+  "diagnostics": {
+    "checked": 24,
+    "issues": [],
+    "nearDuplicates": [
+      {
+        "a": "v11-hsk2-grammar-00006-4",
+        "b": "v11-hsk2-grammar-00035-4",
+        "score": 0.552,
+        "status": "NEEDS_REVIEW"
+      }
+    ],
+    "answerPositions": {
+      "A": 10,
+      "B": 8,
+      "C": 6,
+      "D": 0
+    },
+    "method": "Structural and character-bigram heuristics; no semantic or expert quality certification"
+  },
+  "humanReviewed": 0,
+  "published": 0
+}

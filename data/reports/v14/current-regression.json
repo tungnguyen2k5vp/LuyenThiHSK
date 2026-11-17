@@ -1,0 +1,203 @@
+{
+  "at": "2026-10-19T11:28:16.780Z",
+  "phase": "current",
+  "uiHandedOff": true,
+  "authoringExclusions": [],
+  "baseline": "2026-10-19T09:27:19.986Z",
+  "workspace": "D:\\ReactJS\\LuyenThiHSK\\.tmp\\v14-regression-1792409185141",
+  "status": "PASS",
+  "results": [
+    {
+      "name": "typecheck",
+      "exitCode": 0,
+      "durationMs": 967
+    },
+    {
+      "name": "lint",
+      "exitCode": 0,
+      "durationMs": 950
+    },
+    {
+      "name": "test",
+      "exitCode": 0,
+      "durationMs": 3352
+    },
+    {
+      "name": "test:v2",
+      "exitCode": 0,
+      "durationMs": 3221
+    },
+    {
+      "name": "test:v3",
+      "exitCode": 0,
+      "durationMs": 2817
+    },
+    {
+      "name": "test:v3-api",
+      "exitCode": 0,
+      "durationMs": 1280
+    },
+    {
+      "name": "test:v4",
+      "exitCode": 0,
+      "durationMs": 4314
+    },
+    {
+      "name": "test:v5",
+      "exitCode": 0,
+      "durationMs": 483
+    },
+    {
+      "name": "test:v5-api",
+      "exitCode": 0,
+      "durationMs": 3073
+    },
+    {
+      "name": "test:v6",
+      "exitCode": 0,
+      "durationMs": 3283
+    },
+    {
+      "name": "test:v6-api",
+      "exitCode": 0,
+      "durationMs": 4679
+    },
+    {
+      "name": "test:account",
+      "exitCode": 0,
+      "durationMs": 1798
+    },
+    {
+      "name": "test:admin",
+      "exitCode": 0,
+      "durationMs": 924
+    },
+    {
+      "name": "check:content",
+      "exitCode": 0,
+      "durationMs": 2735
+    },
+    {
+      "name": "test:v7",
+      "exitCode": 0,
+      "durationMs": 2541
+    },
+    {
+      "name": "test:v7-api",
+      "exitCode": 0,
+      "durationMs": 2836
+    },
+    {
+      "name": "test:v7-account",
+      "exitCode": 0,
+      "durationMs": 366
+    },
+    {
+      "name": "test:v7-sync",
+      "exitCode": 0,
+      "durationMs": 1076
+    },
+    {
+      "name": "test:v8",
+      "exitCode": 0,
+      "durationMs": 1240
+    },
+    {
+      "name": "test:v8-api",
+      "exitCode": 0,
+      "durationMs": 1796
+    },
+    {
+      "name": "test:v8-grading",
+      "exitCode": 0,
+      "durationMs": 509
+    },
+    {
+      "name": "test:v8-grammar",
+      "exitCode": 0,
+      "durationMs": 3606
+    },
+    {
+      "name": "build",
+      "exitCode": 0,
+      "durationMs": 3228
+    },
+    {
+      "name": "test:v9",
+      "exitCode": 0,
+      "durationMs": 2776
+    },
+    {
+      "name": "test:v9-api",
+      "exitCode": 0,
+      "durationMs": 1504
+    },
+    {
+      "name": "test:v10",
+      "exitCode": 0,
+      "durationMs": 2853
+    },
+    {
+      "name": "test:v10-api",
+      "exitCode": 0,
+      "durationMs": 2844
+    },
+    {
+      "name": "test:v11",
+      "exitCode": 0,
+      "durationMs": 4251
+    },
+    {
+      "name": "test:v11-api",
+      "exitCode": 0,
+      "durationMs": 3715
+    },
+    {
+      "name": "test:v12",
+      "exitCode": 0,
+      "durationMs": 3104
+    },
+    {
+      "name": "test:v12-api",
+      "exitCode": 0,
+      "durationMs": 7781
+    },
+    {
+      "name": "test:v12-journey",
+      "exitCode": 0,
+      "durationMs": 3478
+    },
+    {
+      "name": "test:v13-contract",
+      "exitCode": 0,
+      "durationMs": 3856
+    },
+    {
+      "name": "test:v13-content",
+      "exitCode": 0,
+      "durationMs": 993
+    },
+    {
+      "name": "test:v13-api",
+      "exitCode": 0,
+      "durationMs": 3590
+    },
+    {
+      "name": "test:v14-contract",
+      "exitCode": 0,
+      "durationMs": 3436
+    },
+    {
+      "name": "test:v14-api",
+      "exitCode": 0,
+      "durationMs": 6443
+    },
+    {
+      "name": "test:v14-import",
+      "exitCode": 0,
+      "durationMs": 295
+    }
+  ],
+  "logs": "data/reports/v14/current-regression-1792409194766",
+  "scope": "Isolated source/data copy; API suites use disposable DBs. No V13 evidence overwritten."
+}

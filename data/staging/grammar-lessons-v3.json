@@ -1,0 +1,410 @@
+[
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "lesson-HSK30-2025-GRA-HSK1-00024",
+    "grammarPointId": "HSK30-2025-GRA-HSK1-00024",
+    "title": "的 — nói về sở hữu",
+    "shortMeaningVi": "của; thuộc về",
+    "pattern": "Người sở hữu + 的 + danh từ",
+    "category": "助词",
+    "detail": "",
+    "usage": "Đọc cấu trúc, so sánh hai ví dụ rồi luyện câu liên quan.",
+    "explanationVi": "Dùng 的 để nối người sở hữu với sự vật. Với quan hệ thân thuộc gần gũi, 的 có thể được lược trong một số cách nói.",
+    "examples": [
+      {
+        "zh": "我的书在桌子上。",
+        "pinyin": "Wǒ de shū zài zhuōzi shàng.",
+        "vi": "Sách của tôi ở trên bàn.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      },
+      {
+        "zh": "这是老师的杯子。",
+        "pinyin": "Zhè shì lǎoshī de bēizi.",
+        "vi": "Đây là cốc của giáo viên.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      }
+    ],
+    "commonMistakes": [
+      "Không đặt 的 sau danh từ được sở hữu."
+    ],
+    "comparisons": [
+      "的 nối định ngữ; 得 thường đứng sau động từ để dẫn bổ ngữ."
+    ],
+    "prerequisites": [],
+    "relatedGrammarIds": [],
+    "relatedQuestionIds": [
+      "draft-grammar-00024"
+    ]
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "lesson-HSK30-2025-GRA-HSK1-00047",
+    "grammarPointId": "HSK30-2025-GRA-HSK1-00047",
+    "title": "吗 — hỏi có hay không",
+    "shortMeaningVi": "biến câu trần thuật thành câu hỏi",
+    "pattern": "Câu trần thuật + 吗？",
+    "category": "句类",
+    "detail": "",
+    "usage": "Đọc cấu trúc, so sánh hai ví dụ rồi luyện câu liên quan.",
+    "explanationVi": "Giữ trật tự câu trần thuật rồi thêm 吗. Khi đã có từ hỏi như 什么 hoặc 谁, thường không thêm 吗 cho câu hỏi tìm thông tin.",
+    "examples": [
+      {
+        "zh": "你是学生吗？",
+        "pinyin": "Nǐ shì xuésheng ma?",
+        "vi": "Bạn có phải là học sinh không?",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      },
+      {
+        "zh": "你喜欢喝茶吗？",
+        "pinyin": "Nǐ xǐhuan hē chá ma?",
+        "vi": "Bạn có thích uống trà không?",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      }
+    ],
+    "commonMistakes": [
+      "Không ghép 什么…吗 khi muốn hỏi thông tin thông thường."
+    ],
+    "comparisons": [
+      "吗 hỏi đúng/sai; 呢 có thể hỏi lại về chủ đề đã có."
+    ],
+    "prerequisites": [],
+    "relatedGrammarIds": [],
+    "relatedQuestionIds": [
+      "draft-grammar-00047"
+    ]
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "lesson-HSK30-2025-GRA-HSK1-00053",
+    "grammarPointId": "HSK30-2025-GRA-HSK1-00053",
+    "title": "有 — diễn đạt sở hữu",
+    "shortMeaningVi": "có",
+    "pattern": "Chủ ngữ + 有 + tân ngữ",
+    "category": "特殊句型",
+    "detail": "",
+    "usage": "Đọc cấu trúc, so sánh hai ví dụ rồi luyện câu liên quan.",
+    "explanationVi": "Dùng 有 để nói một người có thứ gì. Phủ định thường dùng 没有, không dùng 不有 trong cấu trúc này.",
+    "examples": [
+      {
+        "zh": "我有一本书。",
+        "pinyin": "Wǒ yǒu yì běn shū.",
+        "vi": "Tôi có một quyển sách.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      },
+      {
+        "zh": "她没有车。",
+        "pinyin": "Tā méiyǒu chē.",
+        "vi": "Cô ấy không có xe.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      }
+    ],
+    "commonMistakes": [
+      "Phủ định 有 bằng 没有."
+    ],
+    "comparisons": [
+      "有 nói về sở hữu; 是 xác định danh tính hoặc phân loại."
+    ],
+    "prerequisites": [],
+    "relatedGrammarIds": [],
+    "relatedQuestionIds": [
+      "draft-grammar-00053"
+    ]
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "lesson-HSK30-2025-GRA-HSK1-00064",
+    "grammarPointId": "HSK30-2025-GRA-HSK1-00064",
+    "title": "正在 — hành động đang diễn ra",
+    "shortMeaningVi": "đang",
+    "pattern": "Chủ ngữ + 正在 + động từ + tân ngữ",
+    "category": "动作的态",
+    "detail": "",
+    "usage": "Đọc cấu trúc, so sánh hai ví dụ rồi luyện câu liên quan.",
+    "explanationVi": "正在 nhấn mạnh hành động xảy ra tại thời điểm nói. Không thêm 是 trước 正在 trong câu diễn đạt hành động thông thường.",
+    "examples": [
+      {
+        "zh": "我正在看书。",
+        "pinyin": "Wǒ zhèngzài kàn shū.",
+        "vi": "Tôi đang đọc sách.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      },
+      {
+        "zh": "妈妈正在做饭。",
+        "pinyin": "Māma zhèngzài zuò fàn.",
+        "vi": "Mẹ đang nấu cơm.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      }
+    ],
+    "commonMistakes": [
+      "Không nói 我是正在看书 trong cấu trúc cơ bản."
+    ],
+    "comparisons": [
+      "在 cũng có thể chỉ hành động đang diễn ra; 正在 nhấn mạnh thời điểm hơn."
+    ],
+    "prerequisites": [],
+    "relatedGrammarIds": [],
+    "relatedQuestionIds": [
+      "draft-grammar-00064"
+    ]
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "lesson-HSK30-2025-GRA-HSK1-00004",
+    "grammarPointId": "HSK30-2025-GRA-HSK1-00004",
+    "title": "会 và 能 — kỹ năng và khả năng",
+    "shortMeaningVi": "biết làm; có khả năng làm",
+    "pattern": "Chủ ngữ + 会/能 + động từ",
+    "category": "动词",
+    "detail": "",
+    "usage": "Đọc cấu trúc, so sánh hai ví dụ rồi luyện câu liên quan.",
+    "explanationVi": "会 thường chỉ kỹ năng đã học; 能 thường chỉ khả năng hoặc điều kiện cho phép. Ngữ cảnh quyết định cách chọn, không thay thế máy móc mọi trường hợp.",
+    "examples": [
+      {
+        "zh": "我会说汉语。",
+        "pinyin": "Wǒ huì shuō Hànyǔ.",
+        "vi": "Tôi biết nói tiếng Trung.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      },
+      {
+        "zh": "今天我不能去。",
+        "pinyin": "Jīntiān wǒ bù néng qù.",
+        "vi": "Hôm nay tôi không thể đi.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      }
+    ],
+    "commonMistakes": [
+      "Không thêm 是 trước 会/能 để diễn đạt khả năng thông thường."
+    ],
+    "comparisons": [
+      "会 có thể nói về dự đoán tương lai ngoài nghĩa kỹ năng; bài này chỉ xét nghĩa kỹ năng."
+    ],
+    "prerequisites": [],
+    "relatedGrammarIds": [],
+    "relatedQuestionIds": [
+      "draft-grammar-00004"
+    ]
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "lesson-HSK30-2025-GRA-HSK1-00015",
+    "grammarPointId": "HSK30-2025-GRA-HSK1-00015",
+    "title": "很 + tính từ",
+    "shortMeaningVi": "nối chủ ngữ với tính từ",
+    "pattern": "Chủ ngữ + 很 + tính từ",
+    "category": "副词",
+    "detail": "",
+    "usage": "Đọc cấu trúc, so sánh hai ví dụ rồi luyện câu liên quan.",
+    "explanationVi": "Trong nhiều câu miêu tả trung tính, 很 đứng trước tính từ. Không cần 是 trước tính từ trong cấu trúc cơ bản. 很 có thể mang mức độ mạnh tùy ngữ cảnh và trọng âm.",
+    "examples": [
+      {
+        "zh": "今天天气很好。",
+        "pinyin": "Jīntiān tiānqì hěn hǎo.",
+        "vi": "Hôm nay thời tiết đẹp.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      },
+      {
+        "zh": "这本书很有意思。",
+        "pinyin": "Zhè běn shū hěn yǒu yìsi.",
+        "vi": "Quyển sách này thú vị.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      }
+    ],
+    "commonMistakes": [
+      "Tránh 我是很忙 khi chỉ muốn nói Tôi bận trong câu cơ bản."
+    ],
+    "comparisons": [
+      "非常 nhấn mạnh mức độ hơn cách dùng 很 trung tính."
+    ],
+    "prerequisites": [],
+    "relatedGrammarIds": [],
+    "relatedQuestionIds": [
+      "draft-grammar-00015"
+    ]
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "lesson-HSK30-2025-GRA-HSK1-00012",
+    "grammarPointId": "HSK30-2025-GRA-HSK1-00012",
+    "title": "Số lượng từ + lượng từ + danh từ",
+    "shortMeaningVi": "đếm sự vật bằng lượng từ",
+    "pattern": "Số + lượng từ + danh từ",
+    "category": "量词",
+    "detail": "",
+    "usage": "Đọc cấu trúc, so sánh hai ví dụ rồi luyện câu liên quan.",
+    "explanationVi": "Danh từ tiếng Trung thường đi cùng lượng từ khi có số đếm. 本 dùng với sách; 个 có phạm vi rộng nhưng không thay mọi lượng từ.",
+    "examples": [
+      {
+        "zh": "我买了两本书。",
+        "pinyin": "Wǒ mǎi le liǎng běn shū.",
+        "vi": "Tôi đã mua hai quyển sách.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      },
+      {
+        "zh": "桌子上有三个苹果。",
+        "pinyin": "Zhuōzi shàng yǒu sān ge píngguǒ.",
+        "vi": "Trên bàn có ba quả táo.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      }
+    ],
+    "commonMistakes": [
+      "Không bỏ lượng từ trong 两本书 khi đếm sách."
+    ],
+    "comparisons": [
+      "二 thường dùng trong số đếm; 两 thường đứng trước lượng từ khi chỉ hai đơn vị."
+    ],
+    "prerequisites": [],
+    "relatedGrammarIds": [],
+    "relatedQuestionIds": [
+      "draft-grammar-00012"
+    ]
+  },
+  {
+    "syllabusVersion": "hsk3-2025",
+    "level": "1",
+    "source": "Bản nháp V3 do AI hỗ trợ; chưa thẩm định",
+    "sourceName": "V3 original instructional draft",
+    "sourceType": "AI_GENERATED",
+    "sourceUrl": "local:editorial/v3",
+    "license": "Original draft; requires language/HSK/license review",
+    "licenseStatus": "UNVERIFIED",
+    "licenseEvidenceUrl": "",
+    "reviewStatus": "NEEDS_REVIEW",
+    "revision": 1,
+    "importedAt": "2026-10-15T00:00:00Z",
+    "verifiedAt": null,
+    "id": "lesson-HSK30-2025-GRA-HSK1-00070",
+    "grammarPointId": "HSK30-2025-GRA-HSK1-00070",
+    "title": "Nói giờ bằng 点 và 分",
+    "shortMeaningVi": "giờ; phút",
+    "pattern": "Số giờ + 点 + số phút + 分",
+    "category": "时间表示法",
+    "detail": "",
+    "usage": "Đọc cấu trúc, so sánh hai ví dụ rồi luyện câu liên quan.",
+    "explanationVi": "点 đứng sau số giờ, 分 đứng sau số phút. Trong hội thoại có thể lược 分 khi ngữ cảnh rõ. 半 tương đương ba mươi phút sau một mốc giờ.",
+    "examples": [
+      {
+        "zh": "现在八点十分。",
+        "pinyin": "Xiànzài bā diǎn shí fēn.",
+        "vi": "Bây giờ là tám giờ mười.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      },
+      {
+        "zh": "我们九点半上课。",
+        "pinyin": "Wǒmen jiǔ diǎn bàn shàng kè.",
+        "vi": "Chúng tôi vào học lúc chín giờ rưỡi.",
+        "sourceType": "AI_GENERATED",
+        "reviewStatus": "NEEDS_REVIEW"
+      }
+    ],
+    "commonMistakes": [
+      "Không đảo 点 và 分 khi đọc giờ/phút."
+    ],
+    "comparisons": [
+      "半 trong 九点半 là ba mươi phút, không phải nửa giờ bất kỳ trong mọi cấu trúc."
+    ],
+    "prerequisites": [],
+    "relatedGrammarIds": [],
+    "relatedQuestionIds": [
+      "draft-grammar-00070"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-19T06:13:16.093Z",
+  "status": "PASS",
+  "checks": 147,
+  "scope": "Temporary SQLite copied from V12 baseline; no main-bank tone or human approval",
+  "runtime": "C:\\Users\\Admin\\AppData\\Local\\Temp\\hsk-v12-api-8q14Zl",
+  "paidCalls": 0
+}

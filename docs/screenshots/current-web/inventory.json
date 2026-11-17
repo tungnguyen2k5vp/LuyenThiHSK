@@ -1,0 +1,192 @@
+{
+  "generatedAt": "2026-10-09T02:57:26.600Z",
+  "baseUrl": "http://127.0.0.1:4173",
+  "viewport": {
+    "desktop": "1440 × 1000 CSS px",
+    "mobile": "390 × 844 CSS px"
+  },
+  "screenshots": [
+    {
+      "id": "trang-chu",
+      "title": "Trang chủ",
+      "device": "desktop",
+      "viewportFile": "trang-chu-desktop-viewport.png",
+      "fullPageFile": "trang-chu-desktop-full.png"
+    },
+    {
+      "id": "danh-sach-bai-luyen",
+      "title": "Danh sách bài luyện và bộ lọc",
+      "device": "desktop",
+      "viewportFile": "danh-sach-bai-luyen-desktop-viewport.png",
+      "fullPageFile": "danh-sach-bai-luyen-desktop-full.png"
+    },
+    {
+      "id": "de-thi-day-du-chua-co",
+      "title": "Bộ lọc đề đầy đủ chưa có bộ câu hỏi",
+      "device": "desktop",
+      "viewportFile": "de-thi-day-du-chua-co-desktop-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "phien-luyen-co-giai-thich",
+      "title": "Phiên luyện tập có giải thích",
+      "device": "desktop",
+      "viewportFile": "phien-luyen-co-giai-thich-desktop-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "xac-nhan-nop-bai",
+      "title": "Xác nhận nộp bài",
+      "device": "desktop",
+      "viewportFile": "xac-nhan-nop-bai-desktop-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "ket-qua-luyen-tap",
+      "title": "Kết quả và phần xem lại câu trả lời",
+      "device": "desktop",
+      "viewportFile": "ket-qua-luyen-tap-desktop-viewport.png",
+      "fullPageFile": "ket-qua-luyen-tap-desktop-full.png"
+    },
+    {
+      "id": "ket-qua-loc-cau-sai",
+      "title": "Kết quả lọc câu sai và bỏ trống",
+      "device": "desktop",
+      "viewportFile": "ket-qua-loc-cau-sai-desktop-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "tien-do-hoc-tap",
+      "title": "Tiến độ học tập và lịch sử bài luyện",
+      "device": "desktop",
+      "viewportFile": "tien-do-hoc-tap-desktop-viewport.png",
+      "fullPageFile": "tien-do-hoc-tap-desktop-full.png"
+    },
+    {
+      "id": "tu-vung-flashcard",
+      "title": "Từ vựng: flashcard tương tác",
+      "device": "desktop",
+      "viewportFile": "tu-vung-flashcard-desktop-viewport.png",
+      "fullPageFile": "tu-vung-flashcard-desktop-full.png"
+    },
+    {
+      "id": "tu-vung-danh-sach",
+      "title": "Từ vựng: danh sách tra cứu",
+      "device": "desktop",
+      "viewportFile": "tu-vung-danh-sach-desktop-viewport.png",
+      "fullPageFile": "tu-vung-danh-sach-desktop-full.png"
+    },
+    {
+      "id": "tu-vung-tra-net",
+      "title": "Từ vựng: tra cứu thứ tự nét",
+      "device": "desktop",
+      "viewportFile": "tu-vung-tra-net-desktop-viewport.png",
+      "fullPageFile": "tu-vung-tra-net-desktop-full.png"
+    },
+    {
+      "id": "nguon-du-lieu",
+      "title": "Nguồn dữ liệu, giấy phép và chính sách",
+      "device": "desktop",
+      "viewportFile": "nguon-du-lieu-desktop-viewport.png",
+      "fullPageFile": "nguon-du-lieu-desktop-full.png"
+    },
+    {
+      "id": "nguon-du-lieu-mo-chi-tiet",
+      "title": "Nguồn dữ liệu: nội dung tài liệu mở rộng",
+      "device": "desktop",
+      "viewportFile": "nguon-du-lieu-mo-chi-tiet-desktop-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "trang-chu",
+      "title": "Trang chủ",
+      "device": "mobile",
+      "viewportFile": "trang-chu-mobile-viewport.png",
+      "fullPageFile": "trang-chu-mobile-full.png"
+    },
+    {
+      "id": "danh-sach-bai-luyen",
+      "title": "Danh sách bài luyện",
+      "device": "mobile",
+      "viewportFile": "danh-sach-bai-luyen-mobile-viewport.png",
+      "fullPageFile": "danh-sach-bai-luyen-mobile-full.png"
+    },
+    {
+      "id": "tu-vung-flashcard",
+      "title": "Từ vựng: flashcard tương tác",
+      "device": "mobile",
+      "viewportFile": "tu-vung-flashcard-mobile-viewport.png",
+      "fullPageFile": "tu-vung-flashcard-mobile-full.png"
+    },
+    {
+      "id": "tu-vung-danh-sach",
+      "title": "Từ vựng: danh sách tra cứu",
+      "device": "mobile",
+      "viewportFile": "tu-vung-danh-sach-mobile-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "tu-vung-tra-net",
+      "title": "Từ vựng: tra cứu thứ tự nét",
+      "device": "mobile",
+      "viewportFile": "tu-vung-tra-net-mobile-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "tien-do-hoc-tap",
+      "title": "Tiến độ học tập",
+      "device": "mobile",
+      "viewportFile": "tien-do-hoc-tap-mobile-viewport.png",
+      "fullPageFile": "tien-do-hoc-tap-mobile-full.png"
+    },
+    {
+      "id": "nguon-du-lieu",
+      "title": "Nguồn dữ liệu và bản quyền",
+      "device": "mobile",
+      "viewportFile": "nguon-du-lieu-mobile-viewport.png",
+      "fullPageFile": "nguon-du-lieu-mobile-full.png"
+    },
+    {
+      "id": "phien-luyen-co-giai-thich",
+      "title": "Phiên luyện tập",
+      "device": "mobile",
+      "viewportFile": "phien-luyen-co-giai-thich-mobile-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "xac-nhan-nop-bai",
+      "title": "Xác nhận nộp bài",
+      "device": "mobile",
+      "viewportFile": "xac-nhan-nop-bai-mobile-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "ket-qua-luyen-tap",
+      "title": "Kết quả bài luyện",
+      "device": "mobile",
+      "viewportFile": "ket-qua-luyen-tap-mobile-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "phien-thi-co-gio",
+      "title": "Phiên thi thử có giờ",
+      "device": "mobile",
+      "viewportFile": "phien-thi-co-gio-mobile-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "phien-thi-co-gio",
+      "title": "Phiên thi thử có giờ",
+      "device": "desktop",
+      "viewportFile": "phien-thi-co-gio-desktop-viewport.png",
+      "fullPageFile": null
+    },
+    {
+      "id": "tiep-tuc-bai-do",
+      "title": "Trang chủ có phiên học dở",
+      "device": "desktop",
+      "viewportFile": "tiep-tuc-bai-do-desktop-viewport.png",
+      "fullPageFile": null
+    }
+  ]
+}

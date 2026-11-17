@@ -1,0 +1,41 @@
+{
+  "source": {
+    "sourceId": "src-614097e152d3",
+    "name": "AllSet grammar",
+    "baseUrl": "https://resources.allsetlearning.com/chinese/grammar/Main_Page",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T05:09:47.910Z",
+    "termsUrl": "https://resources.allsetlearning.com/chinese/grammar/Chinese%20Grammar%20Wiki:Copyrights",
+    "robotsUrl": "https://resources.allsetlearning.com/robots.txt",
+    "licenseName": "CC BY-NC-SA 3.0; exceptions may apply",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": false,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus.",
+      "Keep metadata only; no NC grammar material mixed into commercial-use candidate data."
+    ],
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-614097e152d3-public-page.json",
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "publicDatasetLinks": [],
+    "policyEvidence": [
+      "registry/evidence/src-614097e152d3-policy-324d6dbf.json"
+    ]
+  }
+}

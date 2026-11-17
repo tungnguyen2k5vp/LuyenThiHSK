@@ -1,0 +1,218 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "timezone": "Asia/Bangkok",
+    "viewport": {
+      "width": 320,
+      "height": 740
+    },
+    "reduced_motion": "reduce"
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=vocab&level=HSK%201"
+  },
+  "storage": {
+    "local_storage": []
+  },
+  "actions": [
+    {
+      "step_id": "words_loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "start_match",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-study-banner button:has-text(\"Ghép từ nhanh\")"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "board",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".match-board"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "keyboard_word",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match-character[data-match-id=\"cti25-v-1\"]"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "wrong_meaning",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match-meaning[data-match-id=\"cti25-v-2\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "retry_feedback",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".match-message.is-retry"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "word_0",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match-character[data-match-id=\"cti25-v-1\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "meaning_0",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match-meaning[data-match-id=\"cti25-v-1\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "word_1",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match-character[data-match-id=\"cti25-v-2\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "meaning_1",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match-meaning[data-match-id=\"cti25-v-2\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "word_2",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match-character[data-match-id=\"cti25-v-3\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "meaning_2",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match-meaning[data-match-id=\"cti25-v-3\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "word_3",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match-character[data-match-id=\"cti25-v-4\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "meaning_3",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match-meaning[data-match-id=\"cti25-v-4\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "all_pairs_done",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".match-completion"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "matched_settled",
+      "action": "wait_for_timeout",
+      "duration_ms": 800
+    },
+    {
+      "step_id": "new_set",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match button:has-text(\"Đổi bộ ghép\")"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "reset_progress",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".match-progress:has-text(\"0/4 cặp\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "select_new_pair",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-match-character >> nth=0"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "new_set_settled",
+      "action": "wait_for_timeout",
+      "duration_ms": 800
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility",
+      "storage"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "storage",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

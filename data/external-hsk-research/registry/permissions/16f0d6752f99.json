@@ -1,0 +1,8 @@
+{
+  "allowed": true,
+  "text": "User-agent: *\nAllow: /\n\nSitemap: https://hearmandarin.com/sitemap.xml\n",
+  "status": 200,
+  "url": "https://hearmandarin.com/robots.txt",
+  "sha256": "6e9d750c06e2e324bfe5a54cee775cbaf94818dcf9a10af6392305fdd49f4ba5",
+  "effectiveMinIntervalMs": 2000
+}

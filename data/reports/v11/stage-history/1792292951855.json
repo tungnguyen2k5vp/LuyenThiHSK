@@ -1,0 +1,44 @@
+{
+  "receipts": [
+    {
+      "at": "2026-10-18T03:09:11.635Z",
+      "batch": "GRAMMAR",
+      "plan": {
+        "planned": 28,
+        "planHash": "aa99ca6ffb1f83fca776b0b7f6f961c37aab8354d25d1528766ae5fab92183bd",
+        "changed": 0
+      },
+      "applied": {
+        "added": 28,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "replay": {
+        "planned": 0,
+        "planHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "changed": 0
+      }
+    },
+    {
+      "at": "2026-10-18T03:09:11.853Z",
+      "batch": "VOCABULARY",
+      "plan": {
+        "planned": 24,
+        "planHash": "a3c9f68343a883e0a8145deb80be410531e0bf2f88808d01d54f05ebefd0176b",
+        "changed": 0
+      },
+      "applied": {
+        "added": 24,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "replay": {
+        "planned": 0,
+        "planHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "changed": 0
+      }
+    }
+  ],
+  "humanReviewed": 0,
+  "published": 0
+}

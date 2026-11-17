@@ -1,0 +1,133 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "timezone": "Asia/Bangkok",
+    "viewport": {
+      "width": 320,
+      "height": 740
+    },
+    "reduced_motion": "reduce"
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=vocab&level=HSK%201"
+  },
+  "storage": {
+    "local_storage": []
+  },
+  "actions": [
+    {
+      "step_id": "words_loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "start_cards",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-study-banner button:has-text(\"Học bằng thẻ\")"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "card_front",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=false]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "reduce_flip",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "reduce_back",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "reduce_answer_accessible",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[aria-label*=\"yêu\"]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "reduce_grade",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"5\"]"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "reduce_next",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".review-progress:has-text(\"đã lưu 1 từ\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "reduce_next_flip",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "reduce_settled",
+      "action": "wait_for_timeout",
+      "duration_ms": 800
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility",
+      "storage"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "storage",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

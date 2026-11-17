@@ -1,0 +1,11 @@
+{
+  "at": "2026-10-16T03:31:37.023Z",
+  "suite": "audio-performance",
+  "status": "PASS",
+  "browser": "Chrome",
+  "args": [
+    "--v5-perf"
+  ],
+  "runtimeExceptions": 0,
+  "purpose": "Automated browser assertions"
+}

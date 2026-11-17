@@ -1,0 +1,22 @@
+{
+  "at": "2026-10-19T06:23:42.841Z",
+  "status": "PASS",
+  "checks": [
+    "V10 private audio uses authenticated blob request",
+    "PCM fixture actually decoded and played",
+    "Audio failure pauses timer, retains answer, explicit heard recovery resumes",
+    "Matching/shared image bank rendered in full fixture",
+    "Section transition and fixed response bank",
+    "All 5 manual writing answers autosaved/reloaded/resumed",
+    "55 objective denominator; 5 ungraded never counted incorrect",
+    "Attempt snapshot and mistake queue persisted",
+    "Post-mock plan still uses actual available main pool"
+  ],
+  "questions": 60,
+  "objective": 55,
+  "ungraded": 5,
+  "fixtureOnly": true,
+  "mainBankMutations": 0,
+  "humanApprovals": 0,
+  "warning": "Waveform and positive review flags exist only in this disposable browser/in-memory test; not listening content or rights evidence"
+}

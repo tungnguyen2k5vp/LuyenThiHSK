@@ -1,0 +1,38 @@
+[
+  {
+    "previousPath": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-001.csv",
+    "sha256": "7183fa2263335e83779e2f2ecaaa35911ee109956e374a82262367ebc1ab0d1a",
+    "archivedPath": "archive/retired-normalized/7183fa2263335e83779e2f2ecaaa35911ee109956e374a82262367ebc1ab0d1a/normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-001.csv",
+    "reason": "No longer part of current normalized manifest; retained, not deleted"
+  },
+  {
+    "previousPath": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-001.jsonl",
+    "sha256": "c4b0f86820463a03a28390ac340d0a82952493eab1328721e8e63a46d0921f7d",
+    "archivedPath": "archive/retired-normalized/c4b0f86820463a03a28390ac340d0a82952493eab1328721e8e63a46d0921f7d/normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-001.jsonl",
+    "reason": "No longer part of current normalized manifest; retained, not deleted"
+  },
+  {
+    "previousPath": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-002.csv",
+    "sha256": "c351c99dd19e9f4255627854bacc04f4d6dc1e7f16065a5e6db5a26437789815",
+    "archivedPath": "archive/retired-normalized/c351c99dd19e9f4255627854bacc04f4d6dc1e7f16065a5e6db5a26437789815/normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-002.csv",
+    "reason": "No longer part of current normalized manifest; retained, not deleted"
+  },
+  {
+    "previousPath": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-002.jsonl",
+    "sha256": "6af3d45b0cf7b737f233cf48ab8d9ec11a1d9e761e7c92305157a543c9dfdf6b",
+    "archivedPath": "archive/retired-normalized/6af3d45b0cf7b737f233cf48ab8d9ec11a1d9e761e7c92305157a543c9dfdf6b/normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-002.jsonl",
+    "reason": "No longer part of current normalized manifest; retained, not deleted"
+  },
+  {
+    "previousPath": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-003.csv",
+    "sha256": "aa8f280954c28ac0c7dc8c48714ad069c2644422cf1e6758159a41825cbe5772",
+    "archivedPath": "archive/retired-normalized/aa8f280954c28ac0c7dc8c48714ad069c2644422cf1e6758159a41825cbe5772/normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-003.csv",
+    "reason": "No longer part of current normalized manifest; retained, not deleted"
+  },
+  {
+    "previousPath": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-003.jsonl",
+    "sha256": "f16f65d5d1596809d72e5f24f8f20654b09c1bf759fce7151340d133b0b8de81",
+    "archivedPath": "archive/retired-normalized/f16f65d5d1596809d72e5f24f8f20654b09c1bf759fce7151340d133b0b8de81/normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7/part-003.jsonl",
+    "reason": "No longer part of current normalized manifest; retained, not deleted"
+  }
+]

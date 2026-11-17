@@ -1,0 +1,116 @@
+{
+  "at": "2026-10-19T07:16:09.216Z",
+  "status": "PASS",
+  "results": [
+    {
+      "name": "v13-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 15768,
+      "carriedForward": true,
+      "sourceLog": "data/reports/v13/final/browser-matrix-1792390824991"
+    },
+    {
+      "name": "v13-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 16095,
+      "carriedForward": true,
+      "sourceLog": "data/reports/v13/final/browser-matrix-1792390824991"
+    },
+    {
+      "name": "v8-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 75131,
+      "carriedForward": true,
+      "sourceLog": "data/reports/v13/final/browser-matrix-1792390824991"
+    },
+    {
+      "name": "v8-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 76896,
+      "carriedForward": true,
+      "sourceLog": "data/reports/v13/final/browser-matrix-1792390824991"
+    },
+    {
+      "name": "v11-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 23703,
+      "carriedForward": true,
+      "sourceLog": "data/reports/v13/final/browser-matrix-1792390824991"
+    },
+    {
+      "name": "v11-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 24766,
+      "carriedForward": true,
+      "sourceLog": "data/reports/v13/final/browser-matrix-1792390824991"
+    },
+    {
+      "name": "v12-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 28277,
+      "carriedForward": true,
+      "sourceLog": "data/reports/v13/final/browser-matrix-1792390824991"
+    },
+    {
+      "name": "v12-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 30156,
+      "carriedForward": true,
+      "sourceLog": "data/reports/v13/final/browser-matrix-1792390824991"
+    },
+    {
+      "name": "v5-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 28084,
+      "carriedForward": true,
+      "sourceLog": "data/reports/v13/final/browser-matrix-1792390824991"
+    },
+    {
+      "name": "v4-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 19573,
+      "carriedForward": true,
+      "sourceLog": "data/reports/v13/final/browser-matrix-1792390824991"
+    },
+    {
+      "name": "v1-v3-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 45027
+    },
+    {
+      "name": "renderer",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 3727
+    },
+    {
+      "name": "sync-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 28402
+    },
+    {
+      "name": "sync-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 24751
+    }
+  ],
+  "logs": "data/reports/v13/final/browser-matrix-1792394067307",
+  "retries": 0,
+  "resumedFrom": "data/reports/v13/final/browser-matrix-1792390824991",
+  "productSourceStable": true,
+  "scope": "V13 plus legacy default-off browser regressions",
+  "ci": "NOT_RUN"
+}

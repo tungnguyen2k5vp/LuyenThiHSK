@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-17T06:12:29.174Z",
+  "items": 986,
+  "batches": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20
+  },
+  "flags": 199,
+  "audioJobs": 18,
+  "workNotesPreserved": true,
+  "embeddedMedia": false,
+  "humanApproval": false
+}

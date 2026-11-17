@@ -1,0 +1,39 @@
+{
+  "at": "2026-10-19T06:23:52.491Z",
+  "status": "PASS",
+  "browser": "Chrome",
+  "checks": [
+    "Stage persisted and preview loaded",
+    "Missing audio stays unavailable",
+    "HSK2 navigation",
+    "176 HSK2 question drafts",
+    "76 playable part questions",
+    "Workbench loaded 40 real transcripts",
+    "Internal sixty-question fixture",
+    "Listening buttons disabled",
+    "Real practice images decoded and alt text present",
+    "Image error state and retry reachable",
+    "Fast question switch keeps current image binding",
+    "Separate correct/wrong/blank/ungraded",
+    "Mixed six compatible playable questions",
+    "Mixed includes reading and writing",
+    "Manual answer retained ungraded",
+    "Authored grammar examples",
+    "Plan excludes missing audio"
+  ],
+  "offlineReview": {
+    "status": "PASS",
+    "records": 1175,
+    "flaggedFilter": 211,
+    "batchA": 20,
+    "hsk2": 176,
+    "notesRestore": true,
+    "casExport": true,
+    "humanApproval": false
+  },
+  "realDevice": "NOT_TESTED",
+  "ime": "Real Unicode browser input plus composition-event fixture; physical IME NOT_TESTED",
+  "screenshots": 15,
+  "liveEditorialMutations": 0,
+  "paidCalls": 0
+}

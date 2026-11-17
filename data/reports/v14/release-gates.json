@@ -1,0 +1,1537 @@
+{
+  "at": "2026-10-19T12:02:25.647Z",
+  "status": "V14_LOCAL_QA_PASSED",
+  "productionReady": false,
+  "checks": {
+    "backupRestore": true,
+    "regression": true,
+    "contract": true,
+    "api": true,
+    "imports": true,
+    "security": true,
+    "dataSafety": true,
+    "browser": true,
+    "performance": true,
+    "live": true,
+    "regressionSource": true
+  },
+  "unpassed": [],
+  "contractVersion": "14.0",
+  "handoffFiles": 52,
+  "integration": {
+    "groups": [
+      "Catalog/Intro",
+      "Room/Navigator/SectionInstructions",
+      "TrueFalse/ImageChoice/SharedMatching/Dialogue/ReadingChoice",
+      "PracticeFeedbackTabs",
+      "ResultSummary/Skills"
+    ],
+    "retainedOwners": [
+      "Authenticated native audio/image loader and recovery",
+      "Compound matching registry renderer",
+      "Writing IME/raw Unicode/native Undo",
+      "Submit dialog/lease/CAS/journal",
+      "Detailed result self-review, mistakes, SRS and study plan"
+    ]
+  },
+  "content": {
+    "questionTotal": 681,
+    "byLevel": {
+      "HSK1": 435,
+      "HSK2": 246
+    },
+    "bySource": {
+      "AI_GENERATED": 681
+    },
+    "editorial": 1359,
+    "workflow": {
+      "draft": 5,
+      "needsReview": 1354,
+      "automatedValid": 1359,
+      "internallyValidated": 0,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "dimensions": {
+      "sourceProvenanceVerified": null,
+      "sourceProvenanceUnknownReason": "No independent per-question source attestation imported in V14.",
+      "syllabusMappingVerified": null,
+      "formatVerified": null,
+      "rightsCleared": 0,
+      "humanReviewed": 0,
+      "published": 0,
+      "examSuitable": 0,
+      "note": "Unknown counts stay null. Zero rights/exam-suitable means no positively attested V14 clearance; not a claim that original drafts are forbidden."
+    },
+    "hsk1": {
+      "questionCount": 435,
+      "baseReleaseQuestions": 396,
+      "lessons": 68,
+      "qualityFlags": 199,
+      "qualityFlagsEvidence": "data/reports/v13/data-safety.json + retained V7 audit; not newly adjudicated",
+      "audioAssets": 80,
+      "images": 30,
+      "playableMockCount": 2,
+      "publiclyReleasableMockCount": 0
+    },
+    "hsk2": {
+      "questionCount": 246,
+      "partQuestions": 116,
+      "grammarQuestions": 130,
+      "lessons": 30,
+      "referenceGrammar": 71,
+      "enrichedWords": 144,
+      "referenceWords": 200,
+      "listeningTranscripts": 40,
+      "examUsableAudio": 0,
+      "playableQuestions": 206,
+      "mock": {
+        "status": "NOT_READY",
+        "fullMocksAvailable": 0,
+        "officialEquivalent": false,
+        "errors": [
+          "AUDIO_NOT_READY:v9-hsk2-L1-001",
+          "IMAGE_RIGHTS_PENDING:v6-image-hospital-72c0c06241f3",
+          "IMAGE_RIGHTS_PENDING:v6-image-company-df3e72ec20b8",
+          "IMAGE_RIGHTS_PENDING:v6-image-shop-d9be9af14da0",
+          "AUDIO_NOT_READY:v10-hsk2-L1-005",
+          "IMAGE_RIGHTS_PENDING:v6-image-dog-a7eec4c5a959",
+          "IMAGE_RIGHTS_PENDING:v6-image-cat-ae5d67c7847b",
+          "IMAGE_RIGHTS_PENDING:v6-image-tea-cb2f9b509211",
+          "AUDIO_NOT_READY:v10-hsk2-L1-003",
+          "IMAGE_RIGHTS_PENDING:v6-image-computer-8ea36c01d77e",
+          "IMAGE_RIGHTS_PENDING:v6-image-phone-b951537b3e3c",
+          "IMAGE_RIGHTS_PENDING:v6-image-book-df9916f87ab6",
+          "AUDIO_NOT_READY:v10-hsk2-L1-002",
+          "IMAGE_RIGHTS_PENDING:v6-image-shirt-01c71b00acfa",
+          "IMAGE_RIGHTS_PENDING:v6-image-rain-dc8c0a4777b0",
+          "IMAGE_RIGHTS_PENDING:v6-image-water-5aa7b423013f",
+          "AUDIO_NOT_READY:v10-hsk2-L1-006",
+          "IMAGE_RIGHTS_PENDING:v6-image-table-6566c94ab34c",
+          "IMAGE_RIGHTS_PENDING:v6-image-house-f39a0886aadd",
+          "IMAGE_RIGHTS_PENDING:v6-image-chair-c29d3e2974d9",
+          "AUDIO_NOT_READY:v10-hsk2-L2-003",
+          "IMAGE_RIGHTS_PENDING:v6-image-reading-2b4d2ae6b38c",
+          "IMAGE_RIGHTS_PENDING:v6-image-writing-189d14996dc3",
+          "IMAGE_RIGHTS_PENDING:v6-image-calling-a391e185d990",
+          "IMAGE_RIGHTS_PENDING:v6-image-cooking-ecdb34052249",
+          "IMAGE_RIGHTS_PENDING:v6-image-eating-d7d30b81407d",
+          "IMAGE_RIGHTS_PENDING:v6-image-driving-062a5bfabb12",
+          "AUDIO_NOT_READY:v10-hsk2-L2-001",
+          "AUDIO_NOT_READY:v10-hsk2-L2-004",
+          "AUDIO_NOT_READY:v10-hsk2-L2-005",
+          "AUDIO_NOT_READY:v10-hsk2-L2-002",
+          "AUDIO_NOT_READY:v10-hsk2-L2-006",
+          "AUDIO_NOT_READY:v10-hsk2-L2-008",
+          "AUDIO_NOT_READY:v10-hsk2-L2-007",
+          "AUDIO_NOT_READY:v10-hsk2-L2-009",
+          "AUDIO_NOT_READY:v10-hsk2-L2-010",
+          "AUDIO_NOT_READY:v8-hsk2-L3-009",
+          "AUDIO_NOT_READY:v10-hsk2-L3-006",
+          "AUDIO_NOT_READY:v10-hsk2-L3-002",
+          "AUDIO_NOT_READY:v10-hsk2-L3-003",
+          "AUDIO_NOT_READY:v10-hsk2-L3-001",
+          "AUDIO_NOT_READY:v8-hsk2-L3-008",
+          "AUDIO_NOT_READY:v8-hsk2-L3-007",
+          "AUDIO_NOT_READY:v10-hsk2-L3-004",
+          "AUDIO_NOT_READY:v9-hsk2-L3-009",
+          "AUDIO_NOT_READY:v9-hsk2-L3-008",
+          "IMAGE_RIGHTS_PENDING:v6-image-plane-a2d8ccad1896",
+          "IMAGE_RIGHTS_PENDING:v6-image-train-c7243219bdaa",
+          "IMAGE_RIGHTS_PENDING:v6-image-rice-748e01963474",
+          "EXAM_AUDIO_PURPOSE_PENDING:v9-hsk2-L1-001",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-005",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-003",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-002",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-006",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-003",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-001",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-004",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-005",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-002",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-006",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-008",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-007",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-009",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-010",
+          "EXAM_AUDIO_PURPOSE_PENDING:v8-hsk2-L3-009",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-006",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-002",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-003",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-001",
+          "EXAM_AUDIO_PURPOSE_PENDING:v8-hsk2-L3-008",
+          "EXAM_AUDIO_PURPOSE_PENDING:v8-hsk2-L3-007",
+          "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-004",
+          "EXAM_AUDIO_PURPOSE_PENDING:v9-hsk2-L3-009",
+          "EXAM_AUDIO_PURPOSE_PENDING:v9-hsk2-L3-008",
+          "PRONUNCIATION_PENDING:v9-hsk2-L1-001",
+          "PRONUNCIATION_PENDING:v10-hsk2-L1-005",
+          "PRONUNCIATION_PENDING:v10-hsk2-L1-003",
+          "PRONUNCIATION_PENDING:v10-hsk2-L1-002",
+          "PRONUNCIATION_PENDING:v10-hsk2-L1-006",
+          "PRONUNCIATION_PENDING:v10-hsk2-L2-003",
+          "PRONUNCIATION_PENDING:v10-hsk2-L2-001",
+          "PRONUNCIATION_PENDING:v10-hsk2-L2-004",
+          "PRONUNCIATION_PENDING:v10-hsk2-L2-005",
+          "PRONUNCIATION_PENDING:v10-hsk2-L2-002",
+          "PRONUNCIATION_PENDING:v10-hsk2-L2-006",
+          "PRONUNCIATION_PENDING:v10-hsk2-L2-008",
+          "PRONUNCIATION_PENDING:v10-hsk2-L2-007",
+          "PRONUNCIATION_PENDING:v10-hsk2-L2-009",
+          "PRONUNCIATION_PENDING:v10-hsk2-L2-010",
+          "PRONUNCIATION_PENDING:v8-hsk2-L3-009",
+          "PRONUNCIATION_PENDING:v10-hsk2-L3-006",
+          "PRONUNCIATION_PENDING:v10-hsk2-L3-002",
+          "PRONUNCIATION_PENDING:v10-hsk2-L3-003",
+          "PRONUNCIATION_PENDING:v10-hsk2-L3-001",
+          "PRONUNCIATION_PENDING:v8-hsk2-L3-008",
+          "PRONUNCIATION_PENDING:v8-hsk2-L3-007",
+          "PRONUNCIATION_PENDING:v10-hsk2-L3-004",
+          "PRONUNCIATION_PENDING:v9-hsk2-L3-009",
+          "PRONUNCIATION_PENDING:v9-hsk2-L3-008",
+          "LANGUAGE_REVIEW_PENDING:v9-hsk2-L1-001",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-005",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-003",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-002",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-006",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-003",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-001",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-004",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-005",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-002",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-006",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-008",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-007",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-009",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-010",
+          "LANGUAGE_REVIEW_PENDING:v8-hsk2-L3-009",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-006",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-002",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-003",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-001",
+          "LANGUAGE_REVIEW_PENDING:v8-hsk2-L3-008",
+          "LANGUAGE_REVIEW_PENDING:v8-hsk2-L3-007",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-004",
+          "LANGUAGE_REVIEW_PENDING:v9-hsk2-L3-009",
+          "LANGUAGE_REVIEW_PENDING:v9-hsk2-L3-008",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-001",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-002",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-006",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-004",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-003",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-003",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-001",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-006",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-004",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-002",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-005",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-002",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-001",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-004",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-003",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-009",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-008",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-010",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-006",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-007",
+          "LANGUAGE_REVIEW_PENDING:v9-hsk2-R4-021",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-R4-001",
+          "LANGUAGE_REVIEW_PENDING:v8-hsk2-R4-021",
+          "LANGUAGE_REVIEW_PENDING:v8-hsk2-R4-019",
+          "LANGUAGE_REVIEW_PENDING:v9-hsk2-R4-019",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-006",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-002",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-003",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-001",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-004",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-001",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-004",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-002",
+          "LANGUAGE_REVIEW_PENDING:v8-hsk2-W2-026",
+          "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-006",
+          "LEVEL_REVIEW_PENDING:v9-hsk2-L1-001",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L1-005",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L1-003",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L1-002",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L1-006",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L2-003",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L2-001",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L2-004",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L2-005",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L2-002",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L2-006",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L2-008",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L2-007",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L2-009",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L2-010",
+          "LEVEL_REVIEW_PENDING:v8-hsk2-L3-009",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L3-006",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L3-002",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L3-003",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L3-001",
+          "LEVEL_REVIEW_PENDING:v8-hsk2-L3-008",
+          "LEVEL_REVIEW_PENDING:v8-hsk2-L3-007",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-L3-004",
+          "LEVEL_REVIEW_PENDING:v9-hsk2-L3-009",
+          "LEVEL_REVIEW_PENDING:v9-hsk2-L3-008",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R1-001",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R1-002",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R1-006",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R1-004",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R1-003",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R2-003",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R2-001",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R2-006",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R2-004",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R2-002",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R3-005",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R3-002",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R3-001",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R3-004",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R3-003",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R3-009",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R3-008",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R3-010",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R3-006",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R3-007",
+          "LEVEL_REVIEW_PENDING:v9-hsk2-R4-021",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-R4-001",
+          "LEVEL_REVIEW_PENDING:v8-hsk2-R4-021",
+          "LEVEL_REVIEW_PENDING:v8-hsk2-R4-019",
+          "LEVEL_REVIEW_PENDING:v9-hsk2-R4-019",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-W1-006",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-W1-002",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-W1-003",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-W1-001",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-W1-004",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-W2-001",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-W2-004",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-W2-002",
+          "LEVEL_REVIEW_PENDING:v8-hsk2-W2-026",
+          "LEVEL_REVIEW_PENDING:v10-hsk2-W2-006"
+        ],
+        "template": {
+          "id": "v10-hsk2-platform-paper-sample-r1",
+          "revision": 1,
+          "level": "2",
+          "syllabusVersion": "hsk3-2025",
+          "authority": "PLATFORM_PRACTICE",
+          "officialEquivalent": false,
+          "totalQuestions": 60,
+          "parts": [
+            {
+              "partId": "L1",
+              "skill": "listening",
+              "type": "picture-choice",
+              "count": 5,
+              "groups": null,
+              "source": {
+                "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+                "archiveMember": "HSK/HSK（二级）样卷.pdf",
+                "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+                "pdfPages": [
+                  3,
+                  4
+                ],
+                "note": "Three image choices",
+                "checkedAt": "2026-10-16",
+                "scope": "PAPER_SAMPLE_ONLY"
+              }
+            },
+            {
+              "partId": "L2",
+              "skill": "listening",
+              "type": "matching",
+              "count": 10,
+              "groups": [
+                {
+                  "count": 5,
+                  "options": 6
+                },
+                {
+                  "count": 5,
+                  "options": 5
+                }
+              ],
+              "source": {
+                "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+                "archiveMember": "HSK/HSK（二级）样卷.pdf",
+                "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+                "pdfPages": [
+                  5,
+                  6
+                ],
+                "note": "Two fixed picture banks; bank sizes differ",
+                "checkedAt": "2026-10-16",
+                "scope": "PAPER_SAMPLE_ONLY"
+              }
+            },
+            {
+              "partId": "L3",
+              "skill": "listening",
+              "type": "dialogue",
+              "count": 10,
+              "groups": null,
+              "source": {
+                "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+                "archiveMember": "HSK/HSK（二级）样卷.pdf",
+                "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+                "pdfPages": [
+                  7
+                ],
+                "note": "Dialogue and question, three textual choices",
+                "checkedAt": "2026-10-16",
+                "scope": "PAPER_SAMPLE_ONLY"
+              }
+            },
+            {
+              "partId": "R1",
+              "skill": "reading",
+              "type": "matching",
+              "count": 5,
+              "groups": [
+                {
+                  "count": 5,
+                  "options": 6
+                }
+              ],
+              "source": {
+                "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+                "archiveMember": "HSK/HSK（二级）样卷.pdf",
+                "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+                "pdfPages": [
+                  10
+                ],
+                "note": "Sentence to shared image bank",
+                "checkedAt": "2026-10-16",
+                "scope": "PAPER_SAMPLE_ONLY"
+              }
+            },
+            {
+              "partId": "R2",
+              "skill": "reading",
+              "type": "shared-options",
+              "count": 5,
+              "groups": [
+                {
+                  "count": 5,
+                  "options": 6
+                }
+              ],
+              "source": {
+                "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+                "archiveMember": "HSK/HSK（二级）样卷.pdf",
+                "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+                "pdfPages": [
+                  11
+                ],
+                "note": "Fill gaps using shared word bank",
+                "checkedAt": "2026-10-16",
+                "scope": "PAPER_SAMPLE_ONLY"
+              }
+            },
+            {
+              "partId": "R3",
+              "skill": "reading",
+              "type": "shared-options",
+              "count": 10,
+              "groups": [
+                {
+                  "count": 5,
+                  "options": 6
+                },
+                {
+                  "count": 5,
+                  "options": 5
+                }
+              ],
+              "source": {
+                "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+                "archiveMember": "HSK/HSK（二级）样卷.pdf",
+                "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+                "pdfPages": [
+                  12,
+                  13
+                ],
+                "note": "Two response banks with different sizes",
+                "checkedAt": "2026-10-16",
+                "scope": "PAPER_SAMPLE_ONLY"
+              }
+            },
+            {
+              "partId": "R4",
+              "skill": "reading",
+              "type": "short-passage",
+              "count": 5,
+              "groups": null,
+              "source": {
+                "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+                "archiveMember": "HSK/HSK（二级）样卷.pdf",
+                "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+                "pdfPages": [
+                  14,
+                  15
+                ],
+                "note": "Read short passage, choose response",
+                "checkedAt": "2026-10-16",
+                "scope": "PAPER_SAMPLE_ONLY"
+              }
+            },
+            {
+              "partId": "W1",
+              "skill": "writing",
+              "type": "shared-options",
+              "count": 5,
+              "groups": [
+                {
+                  "count": 5,
+                  "options": 6
+                }
+              ],
+              "source": {
+                "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+                "archiveMember": "HSK/HSK（二级）样卷.pdf",
+                "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+                "pdfPages": [
+                  18
+                ],
+                "note": "Select missing character component; requires authored glyph accessibility QA",
+                "checkedAt": "2026-10-16",
+                "scope": "PAPER_SAMPLE_ONLY"
+              }
+            },
+            {
+              "partId": "W2",
+              "skill": "writing",
+              "type": "short-answer",
+              "count": 5,
+              "groups": null,
+              "source": {
+                "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+                "archiveMember": "HSK/HSK（二级）样卷.pdf",
+                "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+                "pdfPages": [
+                  19
+                ],
+                "note": "Write a missing Hanzi using displayed pinyin; registered renderer path requires validation before activation",
+                "checkedAt": "2026-10-16",
+                "scope": "PAPER_SAMPLE_ONLY"
+              }
+            }
+          ],
+          "timing": {
+            "listening": 17,
+            "reading": 25,
+            "writing": 10
+          },
+          "audio": {
+            "maxPlays": 2,
+            "allowPause": false,
+            "allowSeek": false,
+            "policyAuthority": "PLATFORM_DEFINED_NOT_VERIFIED_IBT"
+          },
+          "navigation": {
+            "allowPreviousWithinSection": true,
+            "allowReturnToPreviousSection": false
+          },
+          "scoring": {
+            "officialScale": null,
+            "manualWriting": "UNSCORED_PRACTICE"
+          }
+        },
+        "parts": [
+          {
+            "partId": "L1",
+            "required": 5,
+            "total": 12,
+            "groupCompatible": true,
+            "selectedIds": [
+              "v9-hsk2-L1-001",
+              "v10-hsk2-L1-005",
+              "v10-hsk2-L1-003",
+              "v10-hsk2-L1-002",
+              "v10-hsk2-L1-006"
+            ]
+          },
+          {
+            "partId": "L2",
+            "required": 10,
+            "total": 16,
+            "groupCompatible": true,
+            "selectedIds": [
+              "v10-hsk2-L2-003",
+              "v10-hsk2-L2-001",
+              "v10-hsk2-L2-004",
+              "v10-hsk2-L2-005",
+              "v10-hsk2-L2-002",
+              "v10-hsk2-L2-006",
+              "v10-hsk2-L2-008",
+              "v10-hsk2-L2-007",
+              "v10-hsk2-L2-009",
+              "v10-hsk2-L2-010"
+            ]
+          },
+          {
+            "partId": "L3",
+            "required": 10,
+            "total": 12,
+            "groupCompatible": true,
+            "selectedIds": [
+              "v8-hsk2-L3-009",
+              "v10-hsk2-L3-006",
+              "v10-hsk2-L3-002",
+              "v10-hsk2-L3-003",
+              "v10-hsk2-L3-001",
+              "v8-hsk2-L3-008",
+              "v8-hsk2-L3-007",
+              "v10-hsk2-L3-004",
+              "v9-hsk2-L3-009",
+              "v9-hsk2-L3-008"
+            ]
+          },
+          {
+            "partId": "R1",
+            "required": 5,
+            "total": 12,
+            "groupCompatible": true,
+            "selectedIds": [
+              "v10-hsk2-R1-001",
+              "v10-hsk2-R1-002",
+              "v10-hsk2-R1-006",
+              "v10-hsk2-R1-004",
+              "v10-hsk2-R1-003"
+            ]
+          },
+          {
+            "partId": "R2",
+            "required": 5,
+            "total": 12,
+            "groupCompatible": true,
+            "selectedIds": [
+              "v10-hsk2-R2-003",
+              "v10-hsk2-R2-001",
+              "v10-hsk2-R2-006",
+              "v10-hsk2-R2-004",
+              "v10-hsk2-R2-002"
+            ]
+          },
+          {
+            "partId": "R3",
+            "required": 10,
+            "total": 16,
+            "groupCompatible": true,
+            "selectedIds": [
+              "v10-hsk2-R3-005",
+              "v10-hsk2-R3-002",
+              "v10-hsk2-R3-001",
+              "v10-hsk2-R3-004",
+              "v10-hsk2-R3-003",
+              "v10-hsk2-R3-009",
+              "v10-hsk2-R3-008",
+              "v10-hsk2-R3-010",
+              "v10-hsk2-R3-006",
+              "v10-hsk2-R3-007"
+            ]
+          },
+          {
+            "partId": "R4",
+            "required": 5,
+            "total": 12,
+            "groupCompatible": true,
+            "selectedIds": [
+              "v9-hsk2-R4-021",
+              "v10-hsk2-R4-001",
+              "v8-hsk2-R4-021",
+              "v8-hsk2-R4-019",
+              "v9-hsk2-R4-019"
+            ]
+          },
+          {
+            "partId": "W1",
+            "required": 5,
+            "total": 12,
+            "groupCompatible": true,
+            "selectedIds": [
+              "v10-hsk2-W1-006",
+              "v10-hsk2-W1-002",
+              "v10-hsk2-W1-003",
+              "v10-hsk2-W1-001",
+              "v10-hsk2-W1-004"
+            ]
+          },
+          {
+            "partId": "W2",
+            "required": 5,
+            "total": 12,
+            "groupCompatible": true,
+            "selectedIds": [
+              "v10-hsk2-W2-001",
+              "v10-hsk2-W2-004",
+              "v10-hsk2-W2-002",
+              "v8-hsk2-W2-026",
+              "v10-hsk2-W2-006"
+            ]
+          }
+        ],
+        "seed": "v10-readiness",
+        "manualWriting": 5,
+        "questionRevisions": [
+          [
+            "v9-hsk2-L1-001",
+            1
+          ],
+          [
+            "v10-hsk2-L1-005",
+            3
+          ],
+          [
+            "v10-hsk2-L1-003",
+            2
+          ],
+          [
+            "v10-hsk2-L1-002",
+            2
+          ],
+          [
+            "v10-hsk2-L1-006",
+            2
+          ],
+          [
+            "v10-hsk2-L2-003",
+            3
+          ],
+          [
+            "v10-hsk2-L2-001",
+            3
+          ],
+          [
+            "v10-hsk2-L2-004",
+            3
+          ],
+          [
+            "v10-hsk2-L2-005",
+            3
+          ],
+          [
+            "v10-hsk2-L2-002",
+            3
+          ],
+          [
+            "v10-hsk2-L2-006",
+            3
+          ],
+          [
+            "v10-hsk2-L2-008",
+            3
+          ],
+          [
+            "v10-hsk2-L2-007",
+            3
+          ],
+          [
+            "v10-hsk2-L2-009",
+            3
+          ],
+          [
+            "v10-hsk2-L2-010",
+            3
+          ],
+          [
+            "v8-hsk2-L3-009",
+            2
+          ],
+          [
+            "v10-hsk2-L3-006",
+            2
+          ],
+          [
+            "v10-hsk2-L3-002",
+            2
+          ],
+          [
+            "v10-hsk2-L3-003",
+            2
+          ],
+          [
+            "v10-hsk2-L3-001",
+            2
+          ],
+          [
+            "v8-hsk2-L3-008",
+            2
+          ],
+          [
+            "v8-hsk2-L3-007",
+            2
+          ],
+          [
+            "v10-hsk2-L3-004",
+            2
+          ],
+          [
+            "v9-hsk2-L3-009",
+            1
+          ],
+          [
+            "v9-hsk2-L3-008",
+            1
+          ],
+          [
+            "v10-hsk2-R1-001",
+            3
+          ],
+          [
+            "v10-hsk2-R1-002",
+            3
+          ],
+          [
+            "v10-hsk2-R1-006",
+            3
+          ],
+          [
+            "v10-hsk2-R1-004",
+            3
+          ],
+          [
+            "v10-hsk2-R1-003",
+            3
+          ],
+          [
+            "v10-hsk2-R2-003",
+            3
+          ],
+          [
+            "v10-hsk2-R2-001",
+            3
+          ],
+          [
+            "v10-hsk2-R2-006",
+            3
+          ],
+          [
+            "v10-hsk2-R2-004",
+            3
+          ],
+          [
+            "v10-hsk2-R2-002",
+            3
+          ],
+          [
+            "v10-hsk2-R3-005",
+            3
+          ],
+          [
+            "v10-hsk2-R3-002",
+            3
+          ],
+          [
+            "v10-hsk2-R3-001",
+            3
+          ],
+          [
+            "v10-hsk2-R3-004",
+            3
+          ],
+          [
+            "v10-hsk2-R3-003",
+            3
+          ],
+          [
+            "v10-hsk2-R3-009",
+            3
+          ],
+          [
+            "v10-hsk2-R3-008",
+            3
+          ],
+          [
+            "v10-hsk2-R3-010",
+            3
+          ],
+          [
+            "v10-hsk2-R3-006",
+            3
+          ],
+          [
+            "v10-hsk2-R3-007",
+            3
+          ],
+          [
+            "v9-hsk2-R4-021",
+            1
+          ],
+          [
+            "v10-hsk2-R4-001",
+            2
+          ],
+          [
+            "v8-hsk2-R4-021",
+            2
+          ],
+          [
+            "v8-hsk2-R4-019",
+            2
+          ],
+          [
+            "v9-hsk2-R4-019",
+            1
+          ],
+          [
+            "v10-hsk2-W1-006",
+            3
+          ],
+          [
+            "v10-hsk2-W1-002",
+            3
+          ],
+          [
+            "v10-hsk2-W1-003",
+            3
+          ],
+          [
+            "v10-hsk2-W1-001",
+            3
+          ],
+          [
+            "v10-hsk2-W1-004",
+            3
+          ],
+          [
+            "v10-hsk2-W2-001",
+            2
+          ],
+          [
+            "v10-hsk2-W2-004",
+            2
+          ],
+          [
+            "v10-hsk2-W2-002",
+            2
+          ],
+          [
+            "v8-hsk2-W2-026",
+            3
+          ],
+          [
+            "v10-hsk2-W2-006",
+            2
+          ]
+        ],
+        "humanExpertReviewed": 0,
+        "blockers": {
+          "missingAudio": [
+            "v9-hsk2-L1-001",
+            "v10-hsk2-L1-005",
+            "v10-hsk2-L1-003",
+            "v10-hsk2-L1-002",
+            "v10-hsk2-L1-006",
+            "v10-hsk2-L2-003",
+            "v10-hsk2-L2-001",
+            "v10-hsk2-L2-004",
+            "v10-hsk2-L2-005",
+            "v10-hsk2-L2-002",
+            "v10-hsk2-L2-006",
+            "v10-hsk2-L2-008",
+            "v10-hsk2-L2-007",
+            "v10-hsk2-L2-009",
+            "v10-hsk2-L2-010",
+            "v8-hsk2-L3-009",
+            "v10-hsk2-L3-006",
+            "v10-hsk2-L3-002",
+            "v10-hsk2-L3-003",
+            "v10-hsk2-L3-001",
+            "v8-hsk2-L3-008",
+            "v8-hsk2-L3-007",
+            "v10-hsk2-L3-004",
+            "v9-hsk2-L3-009",
+            "v9-hsk2-L3-008"
+          ],
+          "imageRightsPending": [
+            "v6-image-hospital-72c0c06241f3",
+            "v6-image-company-df3e72ec20b8",
+            "v6-image-shop-d9be9af14da0",
+            "v6-image-dog-a7eec4c5a959",
+            "v6-image-cat-ae5d67c7847b",
+            "v6-image-tea-cb2f9b509211",
+            "v6-image-computer-8ea36c01d77e",
+            "v6-image-phone-b951537b3e3c",
+            "v6-image-book-df9916f87ab6",
+            "v6-image-shirt-01c71b00acfa",
+            "v6-image-rain-dc8c0a4777b0",
+            "v6-image-water-5aa7b423013f",
+            "v6-image-table-6566c94ab34c",
+            "v6-image-house-f39a0886aadd",
+            "v6-image-chair-c29d3e2974d9",
+            "v6-image-reading-2b4d2ae6b38c",
+            "v6-image-writing-189d14996dc3",
+            "v6-image-calling-a391e185d990",
+            "v6-image-cooking-ecdb34052249",
+            "v6-image-eating-d7d30b81407d",
+            "v6-image-driving-062a5bfabb12",
+            "v6-image-plane-a2d8ccad1896",
+            "v6-image-train-c7243219bdaa",
+            "v6-image-rice-748e01963474"
+          ],
+          "pronunciationPending": [
+            "v9-hsk2-L1-001",
+            "v10-hsk2-L1-005",
+            "v10-hsk2-L1-003",
+            "v10-hsk2-L1-002",
+            "v10-hsk2-L1-006",
+            "v10-hsk2-L2-003",
+            "v10-hsk2-L2-001",
+            "v10-hsk2-L2-004",
+            "v10-hsk2-L2-005",
+            "v10-hsk2-L2-002",
+            "v10-hsk2-L2-006",
+            "v10-hsk2-L2-008",
+            "v10-hsk2-L2-007",
+            "v10-hsk2-L2-009",
+            "v10-hsk2-L2-010",
+            "v8-hsk2-L3-009",
+            "v10-hsk2-L3-006",
+            "v10-hsk2-L3-002",
+            "v10-hsk2-L3-003",
+            "v10-hsk2-L3-001",
+            "v8-hsk2-L3-008",
+            "v8-hsk2-L3-007",
+            "v10-hsk2-L3-004",
+            "v9-hsk2-L3-009",
+            "v9-hsk2-L3-008"
+          ],
+          "languagePending": [
+            "v9-hsk2-L1-001",
+            "v10-hsk2-L1-005",
+            "v10-hsk2-L1-003",
+            "v10-hsk2-L1-002",
+            "v10-hsk2-L1-006",
+            "v10-hsk2-L2-003",
+            "v10-hsk2-L2-001",
+            "v10-hsk2-L2-004",
+            "v10-hsk2-L2-005",
+            "v10-hsk2-L2-002",
+            "v10-hsk2-L2-006",
+            "v10-hsk2-L2-008",
+            "v10-hsk2-L2-007",
+            "v10-hsk2-L2-009",
+            "v10-hsk2-L2-010",
+            "v8-hsk2-L3-009",
+            "v10-hsk2-L3-006",
+            "v10-hsk2-L3-002",
+            "v10-hsk2-L3-003",
+            "v10-hsk2-L3-001",
+            "v8-hsk2-L3-008",
+            "v8-hsk2-L3-007",
+            "v10-hsk2-L3-004",
+            "v9-hsk2-L3-009",
+            "v9-hsk2-L3-008",
+            "v10-hsk2-R1-001",
+            "v10-hsk2-R1-002",
+            "v10-hsk2-R1-006",
+            "v10-hsk2-R1-004",
+            "v10-hsk2-R1-003",
+            "v10-hsk2-R2-003",
+            "v10-hsk2-R2-001",
+            "v10-hsk2-R2-006",
+            "v10-hsk2-R2-004",
+            "v10-hsk2-R2-002",
+            "v10-hsk2-R3-005",
+            "v10-hsk2-R3-002",
+            "v10-hsk2-R3-001",
+            "v10-hsk2-R3-004",
+            "v10-hsk2-R3-003",
+            "v10-hsk2-R3-009",
+            "v10-hsk2-R3-008",
+            "v10-hsk2-R3-010",
+            "v10-hsk2-R3-006",
+            "v10-hsk2-R3-007",
+            "v9-hsk2-R4-021",
+            "v10-hsk2-R4-001",
+            "v8-hsk2-R4-021",
+            "v8-hsk2-R4-019",
+            "v9-hsk2-R4-019",
+            "v10-hsk2-W1-006",
+            "v10-hsk2-W1-002",
+            "v10-hsk2-W1-003",
+            "v10-hsk2-W1-001",
+            "v10-hsk2-W1-004",
+            "v10-hsk2-W2-001",
+            "v10-hsk2-W2-004",
+            "v10-hsk2-W2-002",
+            "v8-hsk2-W2-026",
+            "v10-hsk2-W2-006"
+          ],
+          "levelPending": [
+            "v9-hsk2-L1-001",
+            "v10-hsk2-L1-005",
+            "v10-hsk2-L1-003",
+            "v10-hsk2-L1-002",
+            "v10-hsk2-L1-006",
+            "v10-hsk2-L2-003",
+            "v10-hsk2-L2-001",
+            "v10-hsk2-L2-004",
+            "v10-hsk2-L2-005",
+            "v10-hsk2-L2-002",
+            "v10-hsk2-L2-006",
+            "v10-hsk2-L2-008",
+            "v10-hsk2-L2-007",
+            "v10-hsk2-L2-009",
+            "v10-hsk2-L2-010",
+            "v8-hsk2-L3-009",
+            "v10-hsk2-L3-006",
+            "v10-hsk2-L3-002",
+            "v10-hsk2-L3-003",
+            "v10-hsk2-L3-001",
+            "v8-hsk2-L3-008",
+            "v8-hsk2-L3-007",
+            "v10-hsk2-L3-004",
+            "v9-hsk2-L3-009",
+            "v9-hsk2-L3-008",
+            "v10-hsk2-R1-001",
+            "v10-hsk2-R1-002",
+            "v10-hsk2-R1-006",
+            "v10-hsk2-R1-004",
+            "v10-hsk2-R1-003",
+            "v10-hsk2-R2-003",
+            "v10-hsk2-R2-001",
+            "v10-hsk2-R2-006",
+            "v10-hsk2-R2-004",
+            "v10-hsk2-R2-002",
+            "v10-hsk2-R3-005",
+            "v10-hsk2-R3-002",
+            "v10-hsk2-R3-001",
+            "v10-hsk2-R3-004",
+            "v10-hsk2-R3-003",
+            "v10-hsk2-R3-009",
+            "v10-hsk2-R3-008",
+            "v10-hsk2-R3-010",
+            "v10-hsk2-R3-006",
+            "v10-hsk2-R3-007",
+            "v9-hsk2-R4-021",
+            "v10-hsk2-R4-001",
+            "v8-hsk2-R4-021",
+            "v8-hsk2-R4-019",
+            "v9-hsk2-R4-019",
+            "v10-hsk2-W1-006",
+            "v10-hsk2-W1-002",
+            "v10-hsk2-W1-003",
+            "v10-hsk2-W1-001",
+            "v10-hsk2-W1-004",
+            "v10-hsk2-W2-001",
+            "v10-hsk2-W2-004",
+            "v10-hsk2-W2-002",
+            "v8-hsk2-W2-026",
+            "v10-hsk2-W2-006"
+          ]
+        },
+        "counts": {
+          "missingAudio": 25,
+          "imageRightsPending": 24,
+          "pronunciationPending": 25,
+          "languagePending": 60,
+          "levelPending": 60,
+          "manualWriting": 5,
+          "sourceVerificationPending": 1
+        },
+        "sourceVerification": {
+          "status": "CTI_PAPER_SAMPLE_FACTS_ONLY_IBT_RULES_UNVERIFIED",
+          "platformMinutes": 52,
+          "platformPlays": 2
+        },
+        "writingScoringStatus": "MANUAL_UNSCORED_NOT_OFFICIAL_SCORE",
+        "capabilities": {
+          "canGenerateCandidatePlan": true,
+          "canRenderInternalFixture": "SEE_ISOLATED_QA_REPORT",
+          "hasLicensedAudio": false,
+          "hasReviewedContent": false,
+          "canLaunchPrivatePractice": false,
+          "canPublish": false
+        },
+        "nextActions": [
+          "Tải/generate audio có căn cứ quyền, khớp transcript và qua PCM QA",
+          "Duyệt bằng chứng quyền ảnh hoặc tạo revision thay thế",
+          "Người có quyền nghe và duyệt phát âm từng audio revision",
+          "Duyệt ngôn ngữ và đáp án 60 câu ứng viên",
+          "Đối chiếu cấp HSK và quyết định chuyên môn",
+          "W2 cần người chấm; giữ ungraded và không quy đổi điểm HSK",
+          "Kiểm chứng quy tắc IBT với CTI; 52 phút/2 lượt nghe vẫn là platform policy"
+        ]
+      }
+    },
+    "imports": {
+      "added": 0,
+      "productionImports": 0,
+      "reason": "Research and quality audit only; no new licensed question/audio source cleared."
+    }
+  },
+  "tests": {
+    "regression": 38,
+    "contractAssertions": 5413,
+    "apiAssertions": 41,
+    "importAssertions": 22,
+    "securityChecks": 14,
+    "browsers": [
+      {
+        "browser": "chrome",
+        "groups": 26,
+        "status": "PASS"
+      },
+      {
+        "browser": "edge",
+        "groups": 26,
+        "status": "PASS"
+      }
+    ],
+    "performance": {
+      "chrome": {
+        "at": "2026-10-19T11:30:15.351Z",
+        "browser": "chrome",
+        "status": "WITHIN",
+        "probes": {
+          "navigation": {
+            "samples": {
+              "v13": [
+                67.80000001192093,
+                65.69999998807907,
+                66.40000003576279,
+                67.90000003576279,
+                65.5,
+                65.69999998807907,
+                66.30000001192093,
+                66.69999998807907,
+                66.60000002384186,
+                67.29999995231628,
+                66.89999997615814,
+                65.80000001192093,
+                67.89999997615814,
+                67.5,
+                67.10000002384186,
+                67.19999998807907,
+                67,
+                65.90000003576279,
+                68,
+                65.09999996423721
+              ],
+              "v14": [
+                65.19999998807907,
+                67.60000002384186,
+                66.29999995231628,
+                66.69999998807907,
+                67.5,
+                67.19999998807907,
+                67.30000001192093,
+                66.10000002384186,
+                67.89999997615814,
+                66.69999998807907,
+                68.59999996423721,
+                67.30000001192093,
+                66.39999997615814,
+                67.40000003576279,
+                66.5,
+                66.39999997615814,
+                66.19999998807907,
+                66.79999995231628,
+                66.80000001192093,
+                66.5
+              ]
+            },
+            "baselineP95": 67.90000003576279,
+            "currentP95": 67.89999997615814,
+            "budgetMs": 87.90000003576279,
+            "status": "WITHIN",
+            "scope": "20 alternating same-profile pairs after one warmup; same attempt/data/API, two real actions and 2 RAF paint proxy; not production Web Vitals"
+          },
+          "choices": {
+            "samples": {
+              "v13": [
+                66.59999996423721,
+                66.30000001192093,
+                66,
+                67.10000002384186,
+                66.69999998807907,
+                66.60000002384186,
+                66.10000002384186,
+                66.90000003576279,
+                66.30000001192093,
+                67.30000001192093,
+                67,
+                66.30000001192093,
+                67.59999996423721,
+                67.29999995231628,
+                66.40000003576279,
+                67.29999995231628,
+                66.69999998807907,
+                65.80000001192093,
+                68,
+                67
+              ],
+              "v14": [
+                66.69999998807907,
+                66.30000001192093,
+                67.69999998807907,
+                66.69999998807907,
+                65.69999998807907,
+                66.69999998807907,
+                66.80000001192093,
+                67.10000002384186,
+                67.30000001192093,
+                67.20000004768372,
+                65.59999996423721,
+                66.29999995231628,
+                67.20000004768372,
+                67.5,
+                67.10000002384186,
+                67,
+                66.5,
+                66.69999998807907,
+                68.19999998807907,
+                66.80000001192093
+              ]
+            },
+            "baselineP95": 67.59999996423721,
+            "currentP95": 67.69999998807907,
+            "budgetMs": 87.59999996423721,
+            "status": "WITHIN",
+            "scope": "20 alternating same-profile pairs after one warmup; same attempt/data/API, two real actions and 2 RAF paint proxy; not production Web Vitals"
+          },
+          "result": {
+            "samples": {
+              "v13": [
+                99.19999998807907,
+                93.09999996423721,
+                72,
+                93.40000003576279,
+                83.30000001192093,
+                96,
+                114.39999997615814,
+                138.10000002384186,
+                110,
+                93.60000002384186,
+                87.89999997615814,
+                82.89999997615814,
+                99.39999997615814,
+                105.5,
+                102.20000004768372,
+                127.10000002384186,
+                118.40000003576279,
+                92.5,
+                88.30000001192093,
+                65.60000002384186
+              ],
+              "v14": [
+                95.10000002384186,
+                85,
+                76.5,
+                83.5,
+                87.30000001192093,
+                100.5,
+                119,
+                123.19999998807907,
+                90.59999996423721,
+                90.5,
+                82.80000001192093,
+                84.5,
+                85.40000003576279,
+                85.40000003576279,
+                92.5,
+                96.5,
+                108.29999995231628,
+                96.30000001192093,
+                68.89999997615814,
+                88.39999997615814
+              ]
+            },
+            "baselineP95": 127.10000002384186,
+            "currentP95": 119,
+            "budgetMs": 147.10000002384186,
+            "status": "WITHIN",
+            "scope": "20 alternating same-profile pairs after one warmup; same attempt/data/API, two real actions and 2 RAF paint proxy; not production Web Vitals"
+          }
+        },
+        "catalogResourceMs": 362.60000002384186,
+        "catalogBaseline": "No equivalent V13 Catalog/Intro workflow. Fetch resource duration is unpaired descriptive evidence.",
+        "scope": "Navigation includes real image loading; choices include matching/shared options; completed result filters; existing validation retained"
+      },
+      "edge": {
+        "at": "2026-10-19T11:59:56.023Z",
+        "browser": "edge",
+        "status": "WITHIN",
+        "probes": {
+          "navigation": {
+            "samples": {
+              "v13": [
+                66.09999996423721,
+                68.10000002384186,
+                66.60000002384186,
+                66.89999997615814,
+                66.90000003576279,
+                66.80000001192093,
+                66.40000003576279,
+                67.29999995231628,
+                67.69999998807907,
+                67.10000002384186,
+                67.5,
+                65.89999997615814,
+                67.20000004768372,
+                67,
+                68.09999996423721,
+                67.29999995231628,
+                66.80000001192093,
+                66.80000001192093,
+                67.30000001192093,
+                66.80000001192093
+              ],
+              "v14": [
+                66.40000003576279,
+                65.80000001192093,
+                67.19999998807907,
+                66.60000002384186,
+                65.60000002384186,
+                66.40000003576279,
+                68.29999995231628,
+                67.89999997615814,
+                66.40000003576279,
+                66.89999997615814,
+                67.30000001192093,
+                66.19999998807907,
+                67.59999996423721,
+                65.59999996423721,
+                67.39999997615814,
+                66.69999998807907,
+                66.30000001192093,
+                65.89999997615814,
+                67.09999996423721,
+                67
+              ]
+            },
+            "baselineP95": 68.09999996423721,
+            "currentP95": 67.89999997615814,
+            "budgetMs": 88.09999996423721,
+            "status": "WITHIN",
+            "scope": "20 alternating same-profile pairs after one warmup; same attempt/data/API, two real actions and 2 RAF paint proxy; not production Web Vitals"
+          },
+          "choices": {
+            "samples": {
+              "v13": [
+                66.80000001192093,
+                67.69999998807907,
+                65.89999997615814,
+                66,
+                67.5,
+                66.5,
+                67,
+                66.40000003576279,
+                66.30000001192093,
+                66.5,
+                66.60000002384186,
+                66.89999997615814,
+                66.5,
+                66.5,
+                66.80000001192093,
+                67.59999996423721,
+                66.69999998807907,
+                66.09999996423721,
+                66.30000001192093,
+                67.30000001192093
+              ],
+              "v14": [
+                66.20000004768372,
+                67.5,
+                67,
+                66.5,
+                66,
+                66,
+                65.70000004768372,
+                67.60000002384186,
+                66.70000004768372,
+                66.89999997615814,
+                68.40000003576279,
+                65.5,
+                65.90000003576279,
+                66.40000003576279,
+                67,
+                66.79999995231628,
+                67.89999997615814,
+                66.89999997615814,
+                66.59999996423721,
+                66.5
+              ]
+            },
+            "baselineP95": 67.59999996423721,
+            "currentP95": 67.89999997615814,
+            "budgetMs": 87.59999996423721,
+            "status": "WITHIN",
+            "scope": "20 alternating same-profile pairs after one warmup; same attempt/data/API, two real actions and 2 RAF paint proxy; not production Web Vitals"
+          },
+          "result": {
+            "samples": {
+              "v13": [
+                92.40000003576279,
+                80.39999997615814,
+                82.70000004768372,
+                83.30000001192093,
+                93.69999998807907,
+                82.5,
+                90.09999996423721,
+                87.29999995231628,
+                93.10000002384186,
+                83,
+                82.80000001192093,
+                82.60000002384186,
+                82.60000002384186,
+                84.5,
+                86.10000002384186,
+                81.30000001192093,
+                84.30000001192093,
+                87.10000002384186,
+                82.39999997615814,
+                91.39999997615814
+              ],
+              "v14": [
+                86.89999997615814,
+                83,
+                89.5,
+                76.79999995231628,
+                89.89999997615814,
+                80.5,
+                112.19999998807907,
+                82.90000003576279,
+                98.40000003576279,
+                93.60000002384186,
+                91.5,
+                83.09999996423721,
+                86.20000004768372,
+                84.69999998807907,
+                90.80000001192093,
+                67.29999995231628,
+                86.5,
+                87.10000002384186,
+                106.19999998807907,
+                90.40000003576279
+              ]
+            },
+            "baselineP95": 93.10000002384186,
+            "currentP95": 106.19999998807907,
+            "budgetMs": 113.10000002384186,
+            "status": "WITHIN",
+            "scope": "20 alternating same-profile pairs after one warmup; same attempt/data/API, two real actions and 2 RAF paint proxy; not production Web Vitals"
+          }
+        },
+        "catalogResourceMs": 394.60000002384186,
+        "catalogBaseline": "No equivalent V13 Catalog/Intro workflow. Fetch resource duration is unpaired descriptive evidence.",
+        "scope": "Navigation includes real image loading; choices include matching/shared options; completed result filters; existing validation retained"
+      }
+    }
+  },
+  "sourceSha256": "7e19b9f7c0308c7992e348b766387fa048147e77b7399d259a179b81573edc93",
+  "liveUrl": "http://127.0.0.1:4173/?view=preview&ui=v14",
+  "cloud": "NOT_DEPLOYED",
+  "humanReview": "BLOCKED_FOR_HUMAN_REVIEW",
+  "knownReliabilityIssues": [
+    {
+      "status": "MONITORING_UNRESOLVED",
+      "issue": "Some long combined Chrome-to-Edge runs stalled on Catalog reload with pending API fetches. Final per-browser performance runs passed; root cause remains unproven. See TEST_REPORT_V14.md and retained failed logs."
+    }
+  ],
+  "evidenceScope": "Local technical acceptance only. Final functional and per-browser performance artifacts have separate timestamps; not a claim that every long combined run passed."
+}

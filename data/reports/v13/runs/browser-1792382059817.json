@@ -1,0 +1,9 @@
+{
+  "at": "2026-10-19T03:54:44.663Z",
+  "name": "browser",
+  "status": "FAIL",
+  "exitCode": 1,
+  "durationMs": 24847,
+  "log": "browser-1792382059817.log",
+  "retries": 0
+}

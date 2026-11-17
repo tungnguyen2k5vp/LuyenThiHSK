@@ -1,0 +1,885 @@
+﻿id,revision,level,kind,text,pinyin,meaningVi,explanation,correctAnswer,options,vocabularyIds,grammarIds,topicIds,sourceType,sourceUrl,syllabusSourceUrl,sourcePage,licenseStatus,reviewStatus,riskScore,riskReasons,levelFlags,v4FlagDecisions,validation,durationMs,audioPath,reviewer,correction,comment,disposition
+"v4-lesson-00001","2","1","grammar","Tiền tố 小 và 第","","Tiền tố 小 và 第","小 + tên; 第 + số
+
+小 thường đứng trước họ hoặc tên để gọi thân mật. 第 biến số đếm thành số thứ tự, không phải số lượng.
+
+小王是我的朋友。
+xiǎo wáng shì wǒ de péng yǒu。
+Tiểu Vương là bạn tôi.
+
+这是第一课。
+zhè shì dì yī kè。
+Đây là bài thứ nhất.
+
+Không dùng 第 để nói số lượng sách.","","","[""cti25-v-30"",""cti25-v-31"",""cti25-v-103"",""cti25-v-156"",""cti25-v-188"",""cti25-v-221"",""cti25-v-234"",""cti25-v-254"",""cti25-v-279""]","[""HSK30-2025-GRA-HSK1-00001""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","20","[""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[]","[{""field"":""examples.0"",""word"":""王"",""reportedLevel"":""UNMAPPED_CHARACTER_OR_NAME"",""category"":""PROPER_NAME"",""action"":""RETAIN_NAME_REQUIRES_CONTEXT_REVIEW"",""evidence"":""Stored CTI-aligned headword facts and sentence context; final expert decision pending""}]","{""status"":""PASSED"",""fingerprint"":""68b6924b933a75ecf80c44719116627822cb67c5b20427e86cdec7890b7e74ff"",""checkedAt"":""2026-10-16T02:44:25.767Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00002","2","1","grammar","Hậu tố 们 và 边","","Hậu tố 们 và 边","đại từ người + 们; phương hướng + 边
+
+们 tạo đại từ số nhiều như 我们. 边 đi sau từ phương hướng để chỉ một phía hoặc vị trí; hai hậu tố không thay thế nhau.
+
+我们都是学生。
+wǒ men dōu shì xué shēng。
+Chúng tôi đều là học sinh.
+
+学校在那边。
+xué xiào zài nà biān。
+Trường học ở phía kia.
+
+Không thêm 们 sau một số lượng cụ thể như 三个人.","","","[""cti25-v-11"",""cti25-v-41"",""cti25-v-124"",""cti25-v-136"",""cti25-v-137"",""cti25-v-188"",""cti25-v-221"",""cti25-v-222"",""cti25-v-247"",""cti25-v-248"",""cti25-v-250"",""cti25-v-271""]","[""HSK30-2025-GRA-HSK1-00002""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""9fe64961d2c46a1eaea51be14461d4eb5b43eb21f8dbeb8ca605eff30060f153"",""checkedAt"":""2026-10-16T02:44:25.767Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00003","2","1","grammar","Từ chỉ vị trí","","Từ chỉ vị trí","danh từ + 上/下/里/外/前/后
+
+Từ vị trí thường đứng sau sự vật làm mốc. Thêm 在 phía trước cụm vị trí để nói vật hoặc người ở đâu.
+
+书在桌子上。
+shū zài zhuō zi shàng。
+Sách ở trên bàn.
+
+猫在椅子下。
+māo zài yǐ zi xià。
+Mèo ở dưới ghế.
+
+Không đảo 上桌子 khi muốn nói trên bàn.","","","[""cti25-v-119"",""cti25-v-175"",""cti25-v-190"",""cti25-v-226"",""cti25-v-260"",""cti25-v-271"",""cti25-v-295""]","[""HSK30-2025-GRA-HSK1-00003""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""70e350d82a8cc31ed2631ed8ce5bc9cf8cbab482febfe1985094aa145107f254"",""checkedAt"":""2026-10-16T02:44:25.767Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00004","2","1","grammar","会 và 能","","会 và 能","chủ ngữ + 会/能 + động từ
+
+会 thường diễn đạt kỹ năng học được. 能 thường nói khả năng hay điều kiện thực hiện; phải xét ngữ cảnh thay vì dịch cả hai thành biết.
+
+我会说汉语。
+wǒ huì shuō hàn yǔ。
+Tôi biết nói tiếng Trung.
+
+今天我不能去学校。
+jīn tiān wǒ bù néng qù xué xiào。
+Hôm nay tôi không thể đến trường.
+
+Không dùng 会 là trong câu giới thiệu nghề nghiệp.","","","[""cti25-v-13"",""cti25-v-69"",""cti25-v-82"",""cti25-v-94"",""cti25-v-145"",""cti25-v-167"",""cti25-v-196"",""cti25-v-207"",""cti25-v-221"",""cti25-v-247"",""cti25-v-250""]","[""HSK30-2025-GRA-HSK1-00004""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","20","[""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""113864ea663b351afaeabd8c06970b761ea1bdeb02973525187b5c7712507167"",""checkedAt"":""2026-10-16T02:44:25.768Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00005","2","1","grammar","想 và 要","","想 và 要","chủ ngữ + 想/要 + động từ
+
+想 diễn đạt mong muốn hoặc dự định. 要 có thể thể hiện ý định khá rõ hoặc nhu cầu; nghĩa cụ thể phụ thuộc ngữ cảnh.
+
+我想喝水。
+wǒ xiǎng hē shuǐ。
+Tôi muốn uống nước.
+
+我要买两本书。
+wǒ yào mǎi liǎng běn shū。
+Tôi muốn mua hai quyển sách.
+
+Không đặt 想 sau động từ chính.","","","[""cti25-v-10"",""cti25-v-77"",""cti25-v-111"",""cti25-v-116"",""cti25-v-190"",""cti25-v-192"",""cti25-v-221"",""cti25-v-233"",""cti25-v-252""]","[""HSK30-2025-GRA-HSK1-00005""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""cea0fc8bfe46694084712eb725bae518fffa2021ef65773e678d8886b621df79"",""checkedAt"":""2026-10-16T02:44:25.769Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00006","2","1","grammar","可以 xin phép","","可以 xin phép","chủ ngữ + 可以 + động từ
+
+可以 diễn đạt được phép hoặc có thể làm việc gì trong điều kiện cụ thể. Dùng 可以…吗 để xin phép lịch sự.
+
+我可以坐这里吗？
+wǒ kě yǐ zuò zhè lǐ ma？
+Tôi có thể ngồi đây không?
+
+你可以看这本书。
+nǐ kě yǐ kàn zhè běn shū。
+Bạn có thể đọc quyển sách này.
+
+Không bỏ động từ sau 可以 khi ngữ cảnh chưa rõ hành động.","","","[""cti25-v-10"",""cti25-v-99"",""cti25-v-102"",""cti25-v-110"",""cti25-v-115"",""cti25-v-146"",""cti25-v-190"",""cti25-v-221"",""cti25-v-279"",""cti25-v-282"",""cti25-v-298""]","[""HSK30-2025-GRA-HSK1-00006""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""5526c9ecc1c26973f55f386d843eafb0344f275b3e75d6bfe127b5c3ef15953c"",""checkedAt"":""2026-10-16T02:44:25.769Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00007","2","1","grammar","Động từ ly hợp","","Động từ ly hợp","động từ + thành tố danh từ
+
+睡觉、说话、上课 là các tổ hợp có thể tách trong một số cấu trúc. Ở bước đầu hãy học cả cụm và tránh tự gắn tân ngữ trực tiếp phía sau.
+
+我晚上十点睡觉。
+wǒ wǎn shàng shí diǎn shuì jiào。
+Tôi đi ngủ lúc mười giờ tối.
+
+老师在和学生说话。
+lǎo shī zài hé xué shēng shuō huà。
+Giáo viên đang nói chuyện với học sinh.
+
+Không nói 说话汉语 để diễn đạt nói tiếng Trung.","","","[""cti25-v-33"",""cti25-v-78"",""cti25-v-107"",""cti25-v-175"",""cti25-v-184"",""cti25-v-194"",""cti25-v-195"",""cti25-v-196"",""cti25-v-197"",""cti25-v-215"",""cti25-v-217"",""cti25-v-221"",""cti25-v-247"",""cti25-v-248"",""cti25-v-271""]","[""HSK30-2025-GRA-HSK1-00007""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","20","[""POLYPHONE_CONTEXT"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""67299afaa0002e64d0548e1c983afb88064f7da081354632b99992d1b723ae52"",""checkedAt"":""2026-10-16T02:44:25.769Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00008","2","1","grammar","Từ nghi vấn","","Từ nghi vấn","ai/cái gì/ở đâu ở vị trí thông tin cần hỏi
+
+谁、什么、哪里 thay thế thành phần chưa biết trong câu. Trật tự thông thường vẫn được giữ; không thêm 吗 vào câu hỏi thông tin cơ bản.
+
+谁是你的老师？
+shuí shì nǐ de lǎo shī？
+Ai là giáo viên của bạn?
+
+你想吃什么？
+nǐ xiǎng chī shén me？
+Bạn muốn ăn gì?
+
+Không nói 你是谁吗 khi muốn hỏi bạn là ai.","","","[""cti25-v-21"",""cti25-v-30"",""cti25-v-107"",""cti25-v-146"",""cti25-v-181"",""cti25-v-182"",""cti25-v-188"",""cti25-v-233""]","[""HSK30-2025-GRA-HSK1-00008""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""8e182c1cde0463b9bf7676238c13f19f35b91b6ccecf068f7260a0364d3d903f"",""checkedAt"":""2026-10-16T02:44:25.769Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00009","2","1","grammar","Đại từ nhân xưng","","Đại từ nhân xưng","我/你/他/她/它 + vị ngữ
+
+我 là tôi, 你 là bạn; 您 là cách xưng hô kính trọng. 他、她、它 cùng đọc tā nhưng cách viết phân biệt người nam, người nữ và vật.
+
+我是学生。
+wǒ shì xué shēng。
+Tôi là học sinh.
+
+她是我的姐姐。
+tā shì wǒ de jiě jiě。
+Cô ấy là chị gái tôi.
+
+Không suy ra giới tính từ âm tā khi không có ngữ cảnh.","","","[""cti25-v-30"",""cti25-v-92"",""cti25-v-188"",""cti25-v-202"",""cti25-v-221"",""cti25-v-247"",""cti25-v-248""]","[""HSK30-2025-GRA-HSK1-00009""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""24852cd57259dfa0ab5696aa2a74016448534bf69f04bda2ff9e97fffcd16395"",""checkedAt"":""2026-10-16T02:44:25.769Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00010","2","1","grammar","Đại từ chỉ định","","Đại từ chỉ định","这/那 + lượng từ + danh từ
+
+这 chỉ gần người nói, 那 chỉ xa hơn theo ngữ cảnh. 这些、那些 chỉ một nhóm; 这里、那里 chỉ địa điểm.
+
+这个杯子是我的。
+zhè ge bēi zi shì wǒ de。
+Cốc này là của tôi.
+
+那些都是中文书。
+nà xiē dōu shì zhōng wén shū。
+Những quyển kia đều là sách tiếng Trung.
+
+Không bỏ lượng từ trong 这个学生.","","","[""cti25-v-9"",""cti25-v-30"",""cti25-v-41"",""cti25-v-60"",""cti25-v-136"",""cti25-v-141"",""cti25-v-188"",""cti25-v-190"",""cti25-v-221"",""cti25-v-239"",""cti25-v-279"",""cti25-v-281"",""cti25-v-290""]","[""HSK30-2025-GRA-HSK1-00010""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""230aad4b5aef879e044f815f87cc81e8aab3091a61d1f93c3a52c970b24b8c1e"",""checkedAt"":""2026-10-16T02:44:25.769Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00011","2","1","grammar","Số đếm và 二/两","","Số đếm và 二/两","số + lượng từ + danh từ
+
+二 dùng khi đếm hoặc đọc chữ số; 两 thường dùng trước lượng từ. 零 đọc vị trí trống trong số, 半 diễn đạt một nửa.
+
+我有两个杯子。
+wǒ yǒu liǎng gè bēi zi。
+Tôi có hai cái cốc.
+
+今天是二月三日。
+jīn tiān shì èr yuè sān rì。
+Hôm nay là ngày ba tháng hai.
+
+Không thay 二月 bằng 两月 khi chỉ tháng hai.","","","[""cti25-v-9"",""cti25-v-49"",""cti25-v-60"",""cti25-v-94"",""cti25-v-111"",""cti25-v-172"",""cti25-v-173"",""cti25-v-188"",""cti25-v-207"",""cti25-v-221"",""cti25-v-263"",""cti25-v-269""]","[""HSK30-2025-GRA-HSK1-00011""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""6093a57ba076a2511daab375319b34800c2c6bde9d69eba57faae555bcdba937"",""checkedAt"":""2026-10-16T02:44:25.770Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00012","3","1","grammar","Lượng từ danh từ","","Lượng từ danh từ","số + lượng từ + danh từ
+
+Chọn lượng từ theo danh từ: 一本书、一个人、一件衣服、一只猫. Không dùng 个 cho mọi trường hợp trong bài luyện chọn lượng từ chuẩn.
+
+我买了三本书。
+wǒ mǎi le sān běn shū。
+Tôi đã mua ba quyển sách.
+
+这里有两只猫。
+zhè lǐ yǒu liǎng zhǐ māo。
+Ở đây có hai con mèo.
+
+Không nói 三书 khi muốn nói ba quyển sách.","","","[""cti25-v-10"",""cti25-v-108"",""cti25-v-110"",""cti25-v-111"",""cti25-v-116"",""cti25-v-119"",""cti25-v-173"",""cti25-v-190"",""cti25-v-221"",""cti25-v-263"",""cti25-v-279"",""cti25-v-282"",""cti25-v-287""]","[""HSK30-2025-GRA-HSK1-00012""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""f7a5b857797e28cae2c7c6f620faa847df47f6766a4796a2a3490fdde4215f73"",""checkedAt"":""2026-10-16T02:53:30.571Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00013","2","1","grammar","杯 làm lượng từ","","杯 làm lượng từ","số + 杯 + đồ uống
+
+杯 vừa là đơn vị chứa vừa lượng hóa đồ uống. 一杯水 là một cốc nước; 一个杯子 nói về chính vật đựng.
+
+请给我一杯水。
+qǐng gěi wǒ yī bēi shuǐ。
+Xin cho tôi một cốc nước.
+
+我想喝两杯茶。
+wǒ xiǎng hē liǎng bēi chá。
+Tôi muốn uống hai cốc trà.
+
+Phân biệt một cốc nước với một cái cốc.","","","[""cti25-v-17"",""cti25-v-61"",""cti25-v-77"",""cti25-v-111"",""cti25-v-165"",""cti25-v-192"",""cti25-v-221"",""cti25-v-233"",""cti25-v-254""]","[""HSK30-2025-GRA-HSK1-00013""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","30","[""LEVEL_OR_SEGMENTATION_FLAGS"",""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[{""text"":""杯"",""level"":""UNKNOWN"",""cost"":40}]","[{""field"":""examples.0"",""word"":""杯"",""reportedLevel"":""UNMAPPED_CHARACTER_OR_NAME"",""category"":""CLASSIFIER_GRAMMAR_SUPPORT"",""action"":""RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE"",""evidence"":""Stored CTI grammar taxonomy for classifiers/frequency""},{""field"":""examples.1"",""word"":""杯"",""reportedLevel"":""UNMAPPED_CHARACTER_OR_NAME"",""category"":""CLASSIFIER_GRAMMAR_SUPPORT"",""action"":""RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE"",""evidence"":""Stored CTI grammar taxonomy for classifiers/frequency""}]","{""status"":""PASSED"",""fingerprint"":""0df8109cb86294ae8ef038615f4ec0aa131a81d5c17b587b9754c37a8071fd45"",""checkedAt"":""2026-10-16T02:44:25.770Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00014","2","1","grammar","Đơn vị thời gian và tuổi","","Đơn vị thời gian và tuổi","số + 年/月/日/号/岁/点/分
+
+Các đơn vị thời gian cần gắn với ý nghĩa riêng. 岁 nói tuổi; 点 nói giờ trên đồng hồ; 年 đứng sau số năm hoặc khoảng thời gian.
+
+我今年十八岁。
+wǒ jīn nián shí bā suì。
+Năm nay tôi mười tám tuổi.
+
+现在是九点。
+xiàn zài shì jiǔ diǎn。
+Bây giờ là chín giờ.
+
+Không dùng 点 để nói tuổi.","","","[""cti25-v-2"",""cti25-v-33"",""cti25-v-93"",""cti25-v-95"",""cti25-v-149"",""cti25-v-184"",""cti25-v-188"",""cti25-v-199"",""cti25-v-221"",""cti25-v-232"",""cti25-v-271""]","[""HSK30-2025-GRA-HSK1-00014""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""869f9d268520d03d87c0dbdb5022abf0b7495bdbbcf072880220d78d9cd32520"",""checkedAt"":""2026-10-16T02:44:25.771Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00015","2","1","grammar","Phó từ mức độ","","Phó từ mức độ","很/非常/太/真 + tính từ
+
+很 thường nối chủ ngữ với tính từ trong lời miêu tả trung tính. 太…了 diễn đạt mức độ cao; 有点儿 thường mang đánh giá chưa vừa ý.
+
+今天很冷。
+jīn tiān hěn lěng。
+Hôm nay rất lạnh.
+
+这件衣服太贵了。
+zhè jiàn yī fú tài guì le。
+Bộ quần áo này đắt quá.
+
+Không thêm 是 trước 很 + tính từ trong câu miêu tả cơ bản.","","","[""cti25-v-65"",""cti25-v-79"",""cti25-v-89"",""cti25-v-94"",""cti25-v-108"",""cti25-v-109"",""cti25-v-206"",""cti25-v-207"",""cti25-v-255"",""cti25-v-279""]","[""HSK30-2025-GRA-HSK1-00015""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""4a13d28dba0416f5949f5dd694bd6b85bed7d91b396982ad2244a05966c6a33b"",""checkedAt"":""2026-10-16T02:44:25.771Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00016","2","1","grammar","都 diễn đạt toàn bộ","","都 diễn đạt toàn bộ","phạm vi nhiều + 都 + vị ngữ
+
+都 đứng trước vị ngữ và thường nói toàn bộ nhóm đã nêu. Vị trí của 不 làm thay đổi nghĩa: 都不 là tất cả đều không; 不都 là không phải tất cả.
+
+我们都是学生。
+wǒ men dōu shì xué shēng。
+Chúng tôi đều là học sinh.
+
+这些书都很好看。
+zhè xiē shū dōu hěn hǎo kàn。
+Những quyển sách này đều rất hay.
+
+Không đặt 都 sau vị ngữ chính.","","","[""cti25-v-41"",""cti25-v-71"",""cti25-v-73"",""cti25-v-79"",""cti25-v-99"",""cti25-v-124"",""cti25-v-188"",""cti25-v-190"",""cti25-v-221"",""cti25-v-222"",""cti25-v-239"",""cti25-v-247"",""cti25-v-248"",""cti25-v-279"",""cti25-v-284""]","[""HSK30-2025-GRA-HSK1-00016""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","20","[""POLYPHONE_CONTEXT"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""cb79110c5ac9f62cd5d6a1af54f56237014b637b08557bf4502ede77980c723b"",""checkedAt"":""2026-10-16T02:44:25.771Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00017","2","1","grammar","在 và 正在 trước hành động","","在 và 正在 trước hành động","chủ ngữ + 在/正在 + động từ
+
+在 hoặc 正在 trước động từ đánh dấu hành động đang diễn ra. 在 đứng trước địa điểm có vai trò khác; hãy nhận diện từ ngay phía sau.
+
+妈妈正在做饭。
+mā mā zhèng zài zuò fàn。
+Mẹ đang nấu cơm.
+
+他在看书。
+tā zài kàn shū。
+Anh ấy đang đọc sách.
+
+Không coi mọi 在 đều là dấu hiệu tiếp diễn.","","","[""cti25-v-50"",""cti25-v-99"",""cti25-v-114"",""cti25-v-190"",""cti25-v-200"",""cti25-v-271"",""cti25-v-286"",""cti25-v-299"",""cti25-v-300""]","[""HSK30-2025-GRA-HSK1-00017""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""093816d1b7bb12d36001fc506d216bd9aa7c356ccfc9acfa30c11141258a66cd"",""checkedAt"":""2026-10-16T02:44:25.771Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00018","2","1","grammar","再 diễn đạt làm thêm","","再 diễn đạt làm thêm","再 + động từ
+
+再 thường chỉ hành động sẽ lặp lại hoặc thực hiện thêm sau thời điểm nói. 再见 là lời chào tạm biệt có ý hẹn gặp lại.
+
+请再说一次。
+qǐng zài shuō yī cì。
+Xin nói lại một lần.
+
+我想再买一本书。
+wǒ xiǎng zài mǎi yī běn shū。
+Tôi muốn mua thêm một quyển sách.
+
+Không dùng 再 như từ mặc định cho mọi hành động đã lặp trong quá khứ.","","","[""cti25-v-10"",""cti25-v-116"",""cti25-v-165"",""cti25-v-190"",""cti25-v-196"",""cti25-v-221"",""cti25-v-233"",""cti25-v-254"",""cti25-v-270""]","[""HSK30-2025-GRA-HSK1-00018""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","30","[""LEVEL_OR_SEGMENTATION_FLAGS"",""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[{""text"":""次"",""id"":""cti25-v-323"",""level"":""2"",""cost"":10}]","[{""field"":""examples.0"",""word"":""再说"",""reportedLevel"":""4"",""category"":""SEGMENTATION_FALSE_POSITIVE"",""action"":""USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION"",""evidence"":""Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof""},{""field"":""examples.0"",""word"":""次"",""reportedLevel"":""2"",""category"":""CLASSIFIER_GRAMMAR_SUPPORT"",""action"":""RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE"",""evidence"":""Stored CTI grammar taxonomy for classifiers/frequency""}]","{""status"":""PASSED"",""fingerprint"":""a114b3461376f3a8819f91feb365122c606b7c142bb11762388d20b06f0cb25b"",""checkedAt"":""2026-10-16T02:44:25.772Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00019","2","1","grammar","也 và 还","","也 và 还","chủ ngữ + 也/还 + vị ngữ
+
+也 thêm một trường hợp tương tự; 还 có thể bổ sung hành động hoặc nói tình trạng vẫn tiếp diễn. Cả hai thường đứng trước vị ngữ.
+
+我也喜欢喝茶。
+wǒ yě xǐ huān hē chá。
+Tôi cũng thích uống trà.
+
+他还在学校。
+tā hái zài xué xiào。
+Anh ấy vẫn ở trường.
+
+Không đặt 也 trước chủ ngữ trong câu trần thuật cơ bản.","","","[""cti25-v-17"",""cti25-v-67"",""cti25-v-77"",""cti25-v-200"",""cti25-v-221"",""cti25-v-225"",""cti25-v-247"",""cti25-v-250"",""cti25-v-253"",""cti25-v-271""]","[""HSK30-2025-GRA-HSK1-00019""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","20","[""POLYPHONE_CONTEXT"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""8bf7beee80dad8fbc7594fe720acde3a2a600f539fab16a544fcf3930b726f97"",""checkedAt"":""2026-10-16T02:44:25.772Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00020","2","1","grammar","不、没 và 不要","","不、没 và 不要","不/没 + động từ; 不要 + hành động
+
+不 phủ định thói quen, ý định hoặc trạng thái; 没 thường phủ định sự xảy ra hay sở hữu với 没有. 不要 thường dùng để yêu cầu đừng làm.
+
+我不喝茶。
+wǒ bù hē chá。
+Tôi không uống trà.
+
+我没有电脑。
+wǒ méi yǒu diàn nǎo。
+Tôi không có máy tính.
+
+Không dùng 不有 thay cho 没有.","","","[""cti25-v-13"",""cti25-v-17"",""cti25-v-36"",""cti25-v-77"",""cti25-v-122"",""cti25-v-221"",""cti25-v-263""]","[""HSK30-2025-GRA-HSK1-00020""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","20","[""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""f88b13df1dfc13a7cc776f3ece92a2a7cd2ac839430b66c7e549d8acdbca9ec5"",""checkedAt"":""2026-10-16T02:44:25.772Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00021","2","1","grammar","在 giới thiệu nơi hành động","","在 giới thiệu nơi hành động","在 + nơi chốn + động từ
+
+Cụm 在 + nơi chốn thường đứng trước động từ để cho biết hành động diễn ra ở đâu. Phân biệt với 在 là vị ngữ chỉ vị trí.
+
+我在学校学习。
+wǒ zài xué xiào xué xí。
+Tôi học ở trường.
+
+妈妈在家做饭。
+mā mā zài jiā zuò fàn。
+Mẹ nấu cơm ở nhà.
+
+Không đặt cụm nơi chốn tùy ý sau động từ học trong mẫu cơ bản.","","","[""cti25-v-50"",""cti25-v-86"",""cti25-v-114"",""cti25-v-221"",""cti25-v-247"",""cti25-v-249"",""cti25-v-250"",""cti25-v-271"",""cti25-v-299"",""cti25-v-300""]","[""HSK30-2025-GRA-HSK1-00021""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""43f8c1412c56de1f4d9545d144026d41a8a23c1944c521e96058251e6ae6a11c"",""checkedAt"":""2026-10-16T02:44:25.772Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00022","2","1","grammar","和、对 giới thiệu đối tượng","","和、对 giới thiệu đối tượng","和 + người + động từ; 对 + người + tính từ
+
+和 giới thiệu người cùng tham gia, 对 có thể giới thiệu đối tượng nhận thái độ. Chọn theo quan hệ ý nghĩa, không dịch cứng cả hai thành với.
+
+我和朋友说话。
+wǒ hé péng yǒu shuō huà。
+Tôi nói chuyện với bạn.
+
+老师对学生很好。
+lǎo shī duì xué shēng hěn hǎo。
+Giáo viên đối với học sinh rất tốt.
+
+Không thay 对 bằng 和 trong mẫu 对…很好.","","","[""cti25-v-44"",""cti25-v-71"",""cti25-v-78"",""cti25-v-79"",""cti25-v-107"",""cti25-v-156"",""cti25-v-196"",""cti25-v-197"",""cti25-v-221"",""cti25-v-247"",""cti25-v-248""]","[""HSK30-2025-GRA-HSK1-00022""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","20","[""POLYPHONE_CONTEXT"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""723419f44512ba55f9aba10eb26a3588e33268563b6a082894870ac14569f7df"",""checkedAt"":""2026-10-16T02:44:25.773Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00023","2","1","grammar","和 nối danh từ","","和 nối danh từ","danh từ A + 和 + danh từ B
+
+和 nối các danh từ hoặc đại từ cùng vai trò. Không dùng 和 như một liên từ chung để nối mọi câu hoàn chỉnh như và trong tiếng Việt.
+
+我和他是朋友。
+wǒ hé tā shì péng yǒu。
+Tôi và anh ấy là bạn.
+
+爸爸和妈妈都在家。
+bà bà hé mā mā dōu zài jiā。
+Bố và mẹ đều ở nhà.
+
+Không nối tùy tiện hai câu đầy đủ bằng 和.","","","[""cti25-v-3"",""cti25-v-41"",""cti25-v-78"",""cti25-v-86"",""cti25-v-114"",""cti25-v-156"",""cti25-v-188"",""cti25-v-200"",""cti25-v-221"",""cti25-v-271""]","[""HSK30-2025-GRA-HSK1-00023""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""20fac6c95729a0699336dc4616ed7966734aafdc307bab005e760753ca1c4a6f"",""checkedAt"":""2026-10-16T02:44:25.773Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00024","3","1","grammar","的 và sở hữu","","的 và sở hữu","người sở hữu + 的 + danh từ
+
+的 nối định ngữ với danh từ trung tâm. Với người sở hữu, nó tương ứng của; với tính từ hoặc cụm mô tả, chức năng rộng hơn sở hữu.
+
+这是我的书。
+zhè shì wǒ de shū。
+Đây là sách của tôi.
+
+老师的杯子在桌子上。
+lǎo shī de bēi zi zài zhuō zi shàng。
+Cốc của giáo viên ở trên bàn.
+
+Không đặt 的 sau danh từ được sở hữu.","","","[""cti25-v-9"",""cti25-v-30"",""cti25-v-107"",""cti25-v-175"",""cti25-v-188"",""cti25-v-190"",""cti25-v-221"",""cti25-v-271"",""cti25-v-279"",""cti25-v-295""]","[""HSK30-2025-GRA-HSK1-00024""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""c3cf14812e97438204b7fe0209dbe8b9dacab9810f831ab151255699fe98732c"",""checkedAt"":""2026-10-16T02:53:30.571Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00025","2","1","grammar","了 sau động từ","","了 sau động từ","động từ + 了 + tân ngữ
+
+了 sau động từ đánh dấu hành động được nhìn như đã hoàn tất. Nó không phải dấu quá khứ dùng cho mọi câu có hôm qua; thời điểm cần được xác định từ ngữ cảnh.
+
+我买了三本书。
+wǒ mǎi le sān běn shū。
+Tôi đã mua ba quyển sách.
+
+他喝了一杯水。
+tā hē le yī bēi shuǐ。
+Anh ấy đã uống một cốc nước.
+
+Không thêm 了 máy móc sau mọi động từ quá khứ.","","","[""cti25-v-10"",""cti25-v-77"",""cti25-v-108"",""cti25-v-116"",""cti25-v-173"",""cti25-v-190"",""cti25-v-192"",""cti25-v-200"",""cti25-v-221"",""cti25-v-254""]","[""HSK30-2025-GRA-HSK1-00025""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","30","[""LEVEL_OR_SEGMENTATION_FLAGS"",""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[{""text"":""杯"",""level"":""UNKNOWN"",""cost"":40}]","[{""field"":""examples.1"",""word"":""杯"",""reportedLevel"":""UNMAPPED_CHARACTER_OR_NAME"",""category"":""CLASSIFIER_GRAMMAR_SUPPORT"",""action"":""RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE"",""evidence"":""Stored CTI grammar taxonomy for classifiers/frequency""}]","{""status"":""PASSED"",""fingerprint"":""60f7579b92809dd4f7d5f70c1da13c16685f7cdcbeca165d7d9de8b4861bb338"",""checkedAt"":""2026-10-16T02:44:25.773Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00026","2","1","grammar","Trợ từ cuối câu","","Trợ từ cuối câu","câu + 吗/呢/吧/了
+
+吗 hỏi có hay không; 吧 thường đề nghị; 呢 có thể hỏi lại một chủ đề hay nhấn mạnh tiếp diễn; 了 cuối câu báo tình huống thay đổi. Học từng ngữ cảnh cụ thể.
+
+我们回家吧。
+wǒ men huí jiā ba。
+Chúng ta về nhà nhé.
+
+我很好，你呢？
+wǒ hěn hǎo， nǐ ne？
+Tôi khỏe, còn bạn?
+
+Không dùng 吗 và 呢 thay thế tự do.","","","[""cti25-v-4"",""cti25-v-71"",""cti25-v-79"",""cti25-v-81"",""cti25-v-86"",""cti25-v-124"",""cti25-v-144"",""cti25-v-146"",""cti25-v-221"",""cti25-v-222""]","[""HSK30-2025-GRA-HSK1-00026""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","20","[""POLYPHONE_CONTEXT"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""e16f3732c38b49e319a9b29884ceaa612034298dcf1c4f58f85b8177b5375466"",""checkedAt"":""2026-10-16T02:44:25.774Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00027","2","1","grammar","喂 khi gọi điện","","喂 khi gọi điện","喂，+ lời chào
+
+喂 dùng để bắt đầu cuộc gọi hoặc gọi sự chú ý. Kết hợp 您好 để giữ lời chào lịch sự; ngữ điệu cần được người bản xứ nghe duyệt trước phát hành.
+
+喂，您好！
+wèi， nín hǎo！
+A lô, xin chào!
+
+喂，你是小王吗？
+wèi， nǐ shì xiǎo wáng ma？
+A lô, bạn có phải Tiểu Vương không?
+
+Không dịch 喂 thành một danh từ trong lời chào điện thoại.","","","[""cti25-v-71"",""cti25-v-115"",""cti25-v-146"",""cti25-v-150"",""cti25-v-188"",""cti25-v-218"",""cti25-v-234""]","[""HSK30-2025-GRA-HSK1-00027""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","20","[""POLYPHONE_CONTEXT"",""RIGHTS_PENDING""]","[]","[{""field"":""examples.1"",""word"":""王"",""reportedLevel"":""UNMAPPED_CHARACTER_OR_NAME"",""category"":""PROPER_NAME"",""action"":""RETAIN_NAME_REQUIRES_CONTEXT_REVIEW"",""evidence"":""Stored CTI-aligned headword facts and sentence context; final expert decision pending""}]","{""status"":""PASSED"",""fingerprint"":""7ff438ae1dbe7411253a4cc57429fe25bfd82c92bc48ff7ce2e5c158df6b69a7"",""checkedAt"":""2026-10-16T02:44:25.774Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00028","2","1","grammar","Cụm đẳng lập","","Cụm đẳng lập","A + 和 + B
+
+Hai thành phần ngang hàng có thể cùng làm chủ ngữ hoặc tân ngữ. Thêm 都 khi muốn xác nhận cả nhóm có cùng đặc điểm.
+
+爸爸和妈妈都在家。
+bà bà hé mā mā dōu zài jiā。
+Bố và mẹ đều ở nhà.
+
+我喜欢苹果和牛奶。
+wǒ xǐ huān píng guǒ hé niú nǎi。
+Tôi thích táo và sữa.
+
+Không coi thành phần sau 和 là lời giải thích cho thành phần trước.","","","[""cti25-v-3"",""cti25-v-41"",""cti25-v-78"",""cti25-v-86"",""cti25-v-114"",""cti25-v-151"",""cti25-v-159"",""cti25-v-221"",""cti25-v-225"",""cti25-v-271""]","[""HSK30-2025-GRA-HSK1-00028""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""76f5847e5141d5caea93cc221bdf9dd98edb98548b42c0ebb4ca35fb82055555"",""checkedAt"":""2026-10-16T02:44:25.774Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00029","2","1","grammar","Cụm chính phụ","","Cụm chính phụ","thành phần bổ nghĩa + danh từ
+
+Thành phần bổ nghĩa đứng trước danh từ trung tâm. Có trường hợp dùng 的, có trường hợp kết hợp trực tiếp như 中文书; cần học theo cụm.
+
+这是我的中文书。
+zhè shì wǒ de zhōng wén shū。
+Đây là sách tiếng Trung của tôi.
+
+那个小杯子很好看。
+nà ge xiǎo bēi zi hěn hǎo kàn。
+Cái cốc nhỏ kia rất đẹp.
+
+Không đặt tính từ sau danh từ theo trật tự tiếng Việt.","","","[""cti25-v-9"",""cti25-v-30"",""cti25-v-60"",""cti25-v-71"",""cti25-v-73"",""cti25-v-79"",""cti25-v-99"",""cti25-v-136"",""cti25-v-138"",""cti25-v-188"",""cti25-v-190"",""cti25-v-221"",""cti25-v-234"",""cti25-v-279"",""cti25-v-290""]","[""HSK30-2025-GRA-HSK1-00029""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","20","[""POLYPHONE_CONTEXT"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""2c569557380e6205a00451879e4789b11187fa53bf20b200c49ba303c3505c84"",""checkedAt"":""2026-10-16T02:44:25.775Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00030","2","1","grammar","Cụm động tân","","Cụm động tân","động từ + tân ngữ
+
+Động từ thường đứng trước đối tượng tác động trong cụm cơ bản: 喝水、看书. Khi bổ sung thời gian và nơi chốn, vẫn giữ quan hệ này.
+
+我喜欢看书。
+wǒ xǐ huān kàn shū。
+Tôi thích đọc sách.
+
+他想喝水。
+tā xiǎng hē shuǐ。
+Anh ấy muốn uống nước.
+
+Không đảo 水喝 trong câu trung tính.","","","[""cti25-v-77"",""cti25-v-99"",""cti25-v-190"",""cti25-v-192"",""cti25-v-200"",""cti25-v-221"",""cti25-v-225"",""cti25-v-233""]","[""HSK30-2025-GRA-HSK1-00030""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""4a17c2c0f2016ffe56f775de32be24daf428b10a935dd8233ab341a71dd1e667"",""checkedAt"":""2026-10-16T02:44:25.775Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00031","2","1","grammar","Cụm chủ vị","","Cụm chủ vị","chủ thể + lời nói về chủ thể
+
+Thành phần đầu nêu người hoặc vật; thành phần sau nói điều gì về nó. Một cụm chủ vị có thể làm câu khi ngữ cảnh và ngữ điệu hoàn chỉnh.
+
+天气很好。
+tiān qì hěn hǎo。
+Thời tiết rất đẹp.
+
+妈妈在做饭。
+mā mā zài zuò fàn。
+Mẹ đang nấu cơm.
+
+Không bỏ chủ ngữ tùy ý khi người nghe chưa biết đối tượng.","","","[""cti25-v-50"",""cti25-v-71"",""cti25-v-79"",""cti25-v-114"",""cti25-v-207"",""cti25-v-208"",""cti25-v-271"",""cti25-v-299"",""cti25-v-300""]","[""HSK30-2025-GRA-HSK1-00031""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","20","[""POLYPHONE_CONTEXT"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""9bcfe0df791de58269bf92d8d8d269860bc6d429690cbe7d8d7cb515f8325752"",""checkedAt"":""2026-10-16T02:44:25.775Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00032","2","1","grammar","Cụm số lượng","","Cụm số lượng","số + lượng từ
+
+Cụm số và lượng từ bổ nghĩa cho danh từ hoặc chỉ lượng đã biết. Hai thường là 两 trước lượng từ của đồ vật.
+
+我买了两本书。
+wǒ mǎi le liǎng běn shū。
+Tôi đã mua hai quyển sách.
+
+请给我一杯水。
+qǐng gěi wǒ yī bēi shuǐ。
+Xin cho tôi một cốc nước.
+
+Không bỏ 本 trong 两本书.","","","[""cti25-v-10"",""cti25-v-61"",""cti25-v-108"",""cti25-v-111"",""cti25-v-116"",""cti25-v-165"",""cti25-v-190"",""cti25-v-192"",""cti25-v-221"",""cti25-v-254""]","[""HSK30-2025-GRA-HSK1-00032""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","30","[""LEVEL_OR_SEGMENTATION_FLAGS"",""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[{""text"":""杯"",""level"":""UNKNOWN"",""cost"":40}]","[{""field"":""examples.1"",""word"":""杯"",""reportedLevel"":""UNMAPPED_CHARACTER_OR_NAME"",""category"":""CLASSIFIER_GRAMMAR_SUPPORT"",""action"":""RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE"",""evidence"":""Stored CTI grammar taxonomy for classifiers/frequency""}]","{""status"":""PASSED"",""fingerprint"":""b1585d7616c91942bf7ee59733aa11d8d5464217bedd9b1c3ea8f87aa2c7d77f"",""checkedAt"":""2026-10-16T02:44:25.775Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00033","2","1","grammar","Cụm giới tân","","Cụm giới tân","giới từ + đối tượng
+
+Cụm như 在学校 hoặc 和朋友 bổ sung quan hệ nơi chốn hay người tham gia. Nó thường đặt trước động từ chính trong các mẫu đang học.
+
+我在家学习。
+wǒ zài jiā xué xí。
+Tôi học ở nhà.
+
+他和朋友说话。
+tā hé péng yǒu shuō huà。
+Anh ấy nói chuyện với bạn.
+
+Không nhầm 在 + nơi chốn với 在 + động từ tiếp diễn.","","","[""cti25-v-78"",""cti25-v-86"",""cti25-v-156"",""cti25-v-196"",""cti25-v-197"",""cti25-v-200"",""cti25-v-221"",""cti25-v-247"",""cti25-v-249"",""cti25-v-271""]","[""HSK30-2025-GRA-HSK1-00033""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""44b3fb0864f12d57cb99f90ef4f152a962b159833eff6e5b210054b581c302b3"",""checkedAt"":""2026-10-16T02:44:25.775Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00034","2","1","grammar","Cụm phương vị","","Cụm phương vị","vật làm mốc + phương vị
+
+Danh từ làm mốc đứng trước 上、下、里 hoặc các từ vị trí khác. Cụm này có thể đi sau 在 để làm vị ngữ vị trí.
+
+手机在桌子上。
+shǒu jī zài zhuō zi shàng。
+Điện thoại ở trên bàn.
+
+猫在椅子下。
+māo zài yǐ zi xià。
+Mèo ở dưới ghế.
+
+Không đảo 上桌子 trong ý trên bàn.","","","[""cti25-v-119"",""cti25-v-175"",""cti25-v-189"",""cti25-v-226"",""cti25-v-260"",""cti25-v-271"",""cti25-v-295""]","[""HSK30-2025-GRA-HSK1-00034""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""99f8b8bddc036bcce4e5a5c0a98870683aa8898252a0156b6e393876de090cd0"",""checkedAt"":""2026-10-16T02:44:25.776Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00035","2","1","grammar","Danh từ làm chủ ngữ","","Danh từ làm chủ ngữ","danh từ/đại từ + vị ngữ
+
+Người hoặc vật được nói đến thường xuất hiện trước vị ngữ. Chọn chủ ngữ rõ ràng để tránh người đọc phải đoán đối tượng.
+
+老师在学校。
+lǎo shī zài xué xiào。
+Giáo viên ở trường.
+
+我的朋友喜欢喝茶。
+wǒ de péng yǒu xǐ huān hē chá。
+Bạn tôi thích uống trà.
+
+Không dùng trợ từ làm chủ ngữ thay người trong câu cơ bản.","","","[""cti25-v-17"",""cti25-v-30"",""cti25-v-77"",""cti25-v-107"",""cti25-v-156"",""cti25-v-221"",""cti25-v-225"",""cti25-v-247"",""cti25-v-250"",""cti25-v-271""]","[""HSK30-2025-GRA-HSK1-00035""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""d2be2fdd7fc2e0668777152e6ab0e83fead6c33194f6f0e67489194ce9c4a1b9"",""checkedAt"":""2026-10-16T02:44:25.776Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00036","2","1","grammar","Vị ngữ danh từ","","Vị ngữ danh từ","chủ ngữ + cụm danh từ chỉ ngày/tuổi
+
+Một số câu nói tuổi hoặc ngày tháng dùng cụm số lượng làm vị ngữ mà không cần 是. Phạm vi này có giới hạn; không xóa 是 khỏi mọi câu phân loại.
+
+我今年十八岁。
+wǒ jīn nián shí bā suì。
+Năm nay tôi mười tám tuổi.
+
+今天星期三。
+jīn tiān xīng qī sān。
+Hôm nay là thứ tư.
+
+Không suy rộng rằng mọi danh từ đều làm vị ngữ không cần 是.","","","[""cti25-v-2"",""cti25-v-93"",""cti25-v-94"",""cti25-v-149"",""cti25-v-173"",""cti25-v-184"",""cti25-v-199"",""cti25-v-207"",""cti25-v-221"",""cti25-v-243""]","[""HSK30-2025-GRA-HSK1-00036""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""eed00b3f0dd7cdf7ea5201b1ed484e0dbf206c90d6c3e39c0992e23fadbe28bb"",""checkedAt"":""2026-10-16T02:44:25.776Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00037","2","1","grammar","Vị ngữ động từ và tính từ","","Vị ngữ động từ và tính từ","chủ ngữ + động từ; chủ ngữ + 很 + tính từ
+
+Động từ nói hoạt động; tính từ có thể trực tiếp làm vị ngữ với 很 trong câu miêu tả trung tính. 是 không bắt buộc trước tính từ.
+
+妈妈工作。
+mā mā gōng zuò。
+Mẹ làm việc.
+
+这个杯子很小。
+zhè ge bēi zi hěn xiǎo。
+Cái cốc này rất nhỏ.
+
+Không nói 这个杯子是很小 trong mẫu miêu tả trung tính.","","","[""cti25-v-9"",""cti25-v-60"",""cti25-v-63"",""cti25-v-79"",""cti25-v-114"",""cti25-v-234"",""cti25-v-279"",""cti25-v-281""]","[""HSK30-2025-GRA-HSK1-00037""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""f22729596f1ae08ba690d8bc194817e29d9f0f595990c28315a18918dd6c26ac"",""checkedAt"":""2026-10-16T02:44:25.777Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00038","2","1","grammar","Danh từ làm tân ngữ","","Danh từ làm tân ngữ","động từ + danh từ/đại từ
+
+Tân ngữ chỉ đối tượng sau động từ trong mẫu đang học. Loại đối tượng phải phù hợp động từ, ví dụ 喝 + đồ uống.
+
+我喝牛奶。
+wǒ hē niú nǎi。
+Tôi uống sữa.
+
+老师认识我。
+lǎo shī rèn shí wǒ。
+Giáo viên biết tôi.
+
+Không ghép 喝 với sách trong ngữ cảnh thông thường.","","","[""cti25-v-77"",""cti25-v-107"",""cti25-v-151"",""cti25-v-171"",""cti25-v-221""]","[""HSK30-2025-GRA-HSK1-00038""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""a197a98779b6dc54fbfd2bdc9a68d27f9c761c6fc8a2997a1cc0c84ce88f77c3"",""checkedAt"":""2026-10-16T02:44:25.777Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00039","2","1","grammar","Định ngữ trước danh từ","","Định ngữ trước danh từ","mô tả/số lượng + danh từ
+
+Định ngữ cho biết đặc điểm hoặc số lượng của danh từ. 的 xuất hiện theo cấu trúc; số + lượng từ thường đứng trực tiếp trước danh từ.
+
+这是一本中文书。
+zhè shì yī běn zhōng wén shū。
+Đây là một quyển sách tiếng Trung.
+
+我的新衣服很好看。
+wǒ de xīn yī fú hěn hǎo kàn。
+Quần áo mới của tôi rất đẹp.
+
+Không đặt lượng từ sau danh từ.","","","[""cti25-v-10"",""cti25-v-30"",""cti25-v-71"",""cti25-v-73"",""cti25-v-79"",""cti25-v-99"",""cti25-v-188"",""cti25-v-190"",""cti25-v-221"",""cti25-v-242"",""cti25-v-254"",""cti25-v-255"",""cti25-v-279"",""cti25-v-290""]","[""HSK30-2025-GRA-HSK1-00039""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","28","[""TONE_SANDHI_REVIEW"",""POLYPHONE_CONTEXT"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""05e6fb97cf3e1821972278e92dd8fceab7f6ebebf6b8d912a61e97bbf2668050"",""checkedAt"":""2026-10-16T02:44:25.777Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00041","2","1","grammar","Bổ ngữ động lượng","","Bổ ngữ động lượng","động từ + số + 次
+
+Cụm số + 次 sau động từ cho biết số lần. Nội dung này bám taxonomy grammar; 次 cần được đánh dấu từ hỗ trợ nếu không thuộc danh sách từ HSK 1 của bản syllabus đang dùng.
+
+请再说一次。
+qǐng zài shuō yī cì。
+Xin nói lại một lần.
+
+我看了两次。
+wǒ kàn le liǎng cì。
+Tôi đã xem hai lần.
+
+Không nhầm 次 chỉ lần với 点 chỉ giờ.","","","[""cti25-v-99"",""cti25-v-108"",""cti25-v-111"",""cti25-v-165"",""cti25-v-196"",""cti25-v-221"",""cti25-v-254"",""cti25-v-270""]","[""HSK30-2025-GRA-HSK1-00041""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","30","[""LEVEL_OR_SEGMENTATION_FLAGS"",""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[{""text"":""次"",""id"":""cti25-v-323"",""level"":""2"",""cost"":10}]","[{""field"":""examples.0"",""word"":""再说"",""reportedLevel"":""4"",""category"":""SEGMENTATION_FALSE_POSITIVE"",""action"":""USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION"",""evidence"":""Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof""},{""field"":""examples.0"",""word"":""次"",""reportedLevel"":""2"",""category"":""CLASSIFIER_GRAMMAR_SUPPORT"",""action"":""RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE"",""evidence"":""Stored CTI grammar taxonomy for classifiers/frequency""},{""field"":""examples.1"",""word"":""次"",""reportedLevel"":""2"",""category"":""CLASSIFIER_GRAMMAR_SUPPORT"",""action"":""RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE"",""evidence"":""Stored CTI grammar taxonomy for classifiers/frequency""}]","{""status"":""PASSED"",""fingerprint"":""15f49dd9a5afb03125bff618a691db6bab37663dc88ff3cb2a8c4d3550222137"",""checkedAt"":""2026-10-16T02:44:25.777Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00042","2","1","grammar","Câu vị ngữ động từ","","Câu vị ngữ động từ","chủ ngữ + động từ + tân ngữ
+
+Đây là trật tự cơ bản để kể một hành động. Thời gian thường đặt trước động từ; dùng trạng thái câu rõ để phân biệt với câu hỏi.
+
+我学习汉语。
+wǒ xué xí hàn yǔ。
+Tôi học tiếng Trung.
+
+他喜欢看电影。
+tā xǐ huān kàn diàn yǐng。
+Anh ấy thích xem phim.
+
+Không dùng 是 nối trước động từ học trong câu cơ bản.","","","[""cti25-v-38"",""cti25-v-69"",""cti25-v-99"",""cti25-v-200"",""cti25-v-221"",""cti25-v-225"",""cti25-v-247"",""cti25-v-249""]","[""HSK30-2025-GRA-HSK1-00042""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""e9779dc97143db28156a5e8f6074841cb5282df266be5bfb38fbf324392d7778"",""checkedAt"":""2026-10-16T02:44:25.777Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00043","2","1","grammar","Câu vị ngữ tính từ","","Câu vị ngữ tính từ","chủ ngữ + 很 + tính từ
+
+Dùng mẫu này để miêu tả đặc điểm. 很 đôi khi có chức năng nối tự nhiên và không nhất thiết mang nhấn mạnh rất mạnh.
+
+今天很热。
+jīn tiān hěn rè。
+Hôm nay nóng.
+
+她很高兴。
+tā hěn gāo xìng。
+Cô ấy rất vui.
+
+Không ép 是 vào trước 很.","","","[""cti25-v-57"",""cti25-v-79"",""cti25-v-94"",""cti25-v-169"",""cti25-v-202"",""cti25-v-207""]","[""HSK30-2025-GRA-HSK1-00043""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""2176b7f5fe574f88a570b47691692d7765ec6a93c31a743a881952ece7839ec6"",""checkedAt"":""2026-10-16T02:44:25.778Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00044","2","1","grammar","Câu vị ngữ danh từ","","Câu vị ngữ danh từ","chủ ngữ + thời gian/tuổi
+
+Cụm danh từ có thể làm vị ngữ trong một số câu ngày tháng hoặc tuổi. Dùng 是 vẫn có thể đúng trong một số ngữ cảnh, nên câu hỏi không coi nó luôn sai.
+
+今天星期一。
+jīn tiān xīng qī yī。
+Hôm nay là thứ hai.
+
+她今年十岁。
+tā jīn nián shí suì。
+Năm nay cô ấy mười tuổi.
+
+Không coi mẫu này là quy tắc bỏ 是 cho mọi danh từ.","","","[""cti25-v-93"",""cti25-v-94"",""cti25-v-149"",""cti25-v-184"",""cti25-v-199"",""cti25-v-202"",""cti25-v-207"",""cti25-v-243"",""cti25-v-254""]","[""HSK30-2025-GRA-HSK1-00044""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","20","[""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""c85b04f40f121972587f526772c09cee61843b00e675b1449a1d1c91802a7588"",""checkedAt"":""2026-10-16T02:44:25.778Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00045","2","1","grammar","Câu phi chủ vị","","Câu phi chủ vị","lời gọi/lời đáp/cụm ngắn
+
+Một câu giao tiếp có thể hoàn chỉnh về ý mà không có cả chủ ngữ và vị ngữ, như lời chào hay lời cảm ơn. Cần xét tình huống thay vì bắt buộc thêm 我.
+
+谢谢！
+xiè xiè！
+Cảm ơn!
+
+再见！
+zài jiàn！
+Tạm biệt!
+
+Không biến mọi lời chào thành một câu có 是.","","","[""cti25-v-88"",""cti25-v-241"",""cti25-v-270"",""cti25-v-272""]","[""HSK30-2025-GRA-HSK1-00045""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""50ed6c32b5e652e5714c81b1f6e60af6fb9e77e446960443288262448fd010a9"",""checkedAt"":""2026-10-16T02:44:25.778Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00046","2","1","grammar","Câu trần thuật","","Câu trần thuật","câu kể + dấu chấm
+
+Câu trần thuật thông báo sự việc hoặc trạng thái. Phân biệt mục đích giao tiếp với hình thức vị ngữ; một câu trần thuật có thể dùng động từ hoặc tính từ.
+
+我在家。
+wǒ zài jiā。
+Tôi ở nhà.
+
+今天很冷。
+jīn tiān hěn lěng。
+Hôm nay rất lạnh.
+
+Không thêm 吗 nếu chỉ đang thông báo.","","","[""cti25-v-79"",""cti25-v-86"",""cti25-v-94"",""cti25-v-109"",""cti25-v-207"",""cti25-v-221"",""cti25-v-271""]","[""HSK30-2025-GRA-HSK1-00046""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""b50bd99030b68e5ec974302d33ffd74ca8bf73181354f400f712afc98af62338"",""checkedAt"":""2026-10-16T02:44:25.779Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00047","3","1","grammar","Câu hỏi 吗","","Câu hỏi 吗","câu trần thuật + 吗？
+
+Thêm 吗 cuối câu trần thuật để hỏi xác nhận. Khi câu đã hỏi thông tin bằng 谁 hoặc 什么, thường không thêm 吗 trong mẫu cơ bản.
+
+你是学生吗？
+nǐ shì xué shēng ma？
+Bạn có phải học sinh không?
+
+你喜欢喝茶吗？
+nǐ xǐ huān hē chá ma？
+Bạn có thích uống trà không?
+
+Không nói 你是谁吗 để hỏi bạn là ai.","","","[""cti25-v-17"",""cti25-v-77"",""cti25-v-115"",""cti25-v-146"",""cti25-v-188"",""cti25-v-225"",""cti25-v-247"",""cti25-v-248""]","[""HSK30-2025-GRA-HSK1-00047""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""9f652d170e93934ffeccaaa91b63237c3e277207aaa278272cf5b3b431a3ba9f"",""checkedAt"":""2026-10-16T02:53:30.572Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00048","2","1","grammar","Câu hỏi thông tin","","Câu hỏi thông tin","từ nghi vấn ở vị trí thông tin cần hỏi
+
+Đặt 谁、什么、哪里 vào đúng vị trí thành phần muốn biết. Giữ trật tự câu cơ bản, không đưa mọi từ hỏi lên đầu như một số ngôn ngữ khác.
+
+你叫什么名字？
+nǐ jiào shén me míng zì？
+Bạn tên là gì?
+
+谁在学校？
+shuí zài xué xiào？
+Ai đang ở trường?
+
+Không thay 什么 bằng 吗 trong câu hỏi tên.","","","[""cti25-v-91"",""cti25-v-130"",""cti25-v-146"",""cti25-v-181"",""cti25-v-182"",""cti25-v-247"",""cti25-v-250"",""cti25-v-271"",""cti25-v-296""]","[""HSK30-2025-GRA-HSK1-00048""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""72b5c37a665d687bc830f28e404a1c5999c385e9f96e15939e922bcf34cf7e33"",""checkedAt"":""2026-10-16T02:44:25.779Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00049","2","1","grammar","Câu hỏi chính phản","","Câu hỏi chính phản","động từ + 不 + động từ
+
+Cấu trúc như 去不去 đưa ra hai khả năng khẳng định và phủ định. Trong mẫu cơ bản không thêm 吗 nữa.
+
+你去不去？
+nǐ qù bù qù？
+Bạn có đi không?
+
+你是不是老师？
+nǐ shì bú shì lǎo shī？
+Bạn có phải giáo viên không?
+
+Không nói 去不去吗 trong bài luyện cơ bản.","","","[""cti25-v-13"",""cti25-v-107"",""cti25-v-146"",""cti25-v-167"",""cti25-v-188""]","[""HSK30-2025-GRA-HSK1-00049""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","20","[""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""6279b716751419e7ad7c53b3773d52d8e86edab13c8444bb5da5e525cde59484"",""checkedAt"":""2026-10-16T02:44:25.780Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00050","2","1","grammar","Câu cầu khiến","","Câu cầu khiến","请/不要 + hành động
+
+Dùng 请 để mời hoặc yêu cầu lịch sự; 不要 để yêu cầu dừng hoặc đừng làm. Ngữ khí cần phù hợp quan hệ giao tiếp.
+
+请坐。
+qǐng zuò。
+Xin mời ngồi.
+
+不要说话。
+bú yào shuō huà。
+Đừng nói chuyện.
+
+Không dùng 不要 như lời khẳng định mong muốn.","","","[""cti25-v-13"",""cti25-v-15"",""cti25-v-165"",""cti25-v-196"",""cti25-v-197"",""cti25-v-252"",""cti25-v-298""]","[""HSK30-2025-GRA-HSK1-00050""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","20","[""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""7a979277eaf7f1803a5eb7901ebb7552ed6da47d3b85c6f676212a20ea6ca359"",""checkedAt"":""2026-10-16T02:44:25.780Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00051","2","1","grammar","Câu cảm thán","","Câu cảm thán","太/真 + tính từ + 了/！
+
+Câu cảm thán bộc lộ đánh giá hoặc cảm xúc. 太…了 thường nói mức độ vượt mong đợi; cần đọc cả ngữ cảnh để biết tích cực hay tiêu cực.
+
+太好了！
+tài hǎo le！
+Tốt quá!
+
+你真漂亮！
+nǐ zhēn piào liàng！
+Bạn thật xinh đẹp!
+
+Không coi 太 luôn có nghĩa chê bai.","","","[""cti25-v-71"",""cti25-v-108"",""cti25-v-146"",""cti25-v-158"",""cti25-v-206"",""cti25-v-285""]","[""HSK30-2025-GRA-HSK1-00051""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","20","[""POLYPHONE_CONTEXT"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""134788024e0fad1be92ebd9de7bbe927b9efe846be109973c959e969193291be"",""checkedAt"":""2026-10-16T02:44:25.780Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00052","2","1","grammar","是 diễn đạt đồng nhất","","是 diễn đạt đồng nhất","A + 是 + B
+
+是 nối chủ ngữ với danh từ hoặc cụm danh từ để xác nhận danh tính và loại. Phủ định dùng 不是.
+
+我是学生。
+wǒ shì xué shēng。
+Tôi là học sinh.
+
+她不是医生。
+tā bú shì yī shēng。
+Cô ấy không phải bác sĩ.
+
+Không dùng 是 làm từ nối bắt buộc trước mọi tính từ.","","","[""cti25-v-13"",""cti25-v-188"",""cti25-v-202"",""cti25-v-221"",""cti25-v-247"",""cti25-v-248"",""cti25-v-256""]","[""HSK30-2025-GRA-HSK1-00052""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","20","[""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""ef5b1f7dc2b1f25b0046a05386f07bdc7cbb5286b339800a4eb1056318a99c44"",""checkedAt"":""2026-10-16T02:44:25.780Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00053","3","1","grammar","有 diễn đạt sở hữu","","有 diễn đạt sở hữu","người + 有 + vật
+
+有 chỉ sở hữu; phủ định là 没有. Không dùng 不有 trong mẫu cơ bản. Phân biệt với câu nơi chốn + 有 để giới thiệu sự tồn tại.
+
+我有一个手机。
+wǒ yǒu yí gè shǒu jī。
+Tôi có một chiếc điện thoại.
+
+她没有电脑。
+tā méi yǒu diàn nǎo。
+Cô ấy không có máy tính.
+
+Không nói 我不有电脑.","","","[""cti25-v-36"",""cti25-v-60"",""cti25-v-122"",""cti25-v-189"",""cti25-v-202"",""cti25-v-221"",""cti25-v-254"",""cti25-v-263""]","[""HSK30-2025-GRA-HSK1-00053""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","20","[""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""4aacdef80c153361335fa7a284937443bb6b69d597f2f8ab350326b52a4a739e"",""checkedAt"":""2026-10-16T02:53:30.573Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00054","2","1","grammar","是 xác định vật ở một vị trí","","是 xác định vật ở một vị trí","nơi chốn + 是 + danh từ
+
+Mẫu này nhận diện đối tượng ở một vị trí đã nêu. So với 有 giới thiệu có một vật, 是 thiên về xác định vật đó là gì.
+
+学校前边是商店。
+xué xiào qián biān shì shāng diàn。
+Phía trước trường là cửa hàng.
+
+学校后边是医院。
+xué xiào hòu biān shì yī yuàn。
+Phía sau trường là bệnh viện.
+
+Không nhầm trọng tâm nhận diện của 是 với giới thiệu tồn tại bằng 有.","","","[""cti25-v-80"",""cti25-v-107"",""cti25-v-163"",""cti25-v-188"",""cti25-v-221"",""cti25-v-247"",""cti25-v-250"",""cti25-v-257""]","[""HSK30-2025-GRA-HSK1-00054""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[{""field"":""examples.0"",""word"":""前面"",""reportedLevel"":""2"",""category"":""BEYOND_LEVEL"",""action"":""TARGETED_REPLACEMENT_OR_REVIEW"",""evidence"":""Stored CTI-aligned headword facts and sentence context; final expert decision pending""},{""field"":""examples.1"",""word"":""后面"",""reportedLevel"":""2"",""category"":""BEYOND_LEVEL"",""action"":""TARGETED_REPLACEMENT_OR_REVIEW"",""evidence"":""Stored CTI-aligned headword facts and sentence context; final expert decision pending""}]","{""status"":""PASSED"",""fingerprint"":""4d4f33283b551a1f10ffa498f9ddd633e152d49fa81d12ff08aa16ad91c0d624"",""checkedAt"":""2026-10-16T02:44:25.781Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00055","2","1","grammar","有 giới thiệu vật ở nơi chốn","","有 giới thiệu vật ở nơi chốn","nơi chốn + 有 + số lượng + danh từ
+
+Đưa nơi chốn lên đầu rồi dùng 有 để giới thiệu người hoặc vật tại đó. Vật mới thường đi với số lượng như 一本书.
+
+桌子上有一本书。
+zhuō zi shàng yǒu yī běn shū。
+Trên bàn có một quyển sách.
+
+学校里有很多学生。
+xué xiào lǐ yǒu hěn duō xué shēng。
+Trong trường có nhiều học sinh.
+
+Không dùng 在 thay 有 nếu muốn nói có một vật mới ở nơi đó.","","","[""cti25-v-10"",""cti25-v-46"",""cti25-v-79"",""cti25-v-110"",""cti25-v-175"",""cti25-v-190"",""cti25-v-247"",""cti25-v-248"",""cti25-v-250"",""cti25-v-254"",""cti25-v-263"",""cti25-v-295""]","[""HSK30-2025-GRA-HSK1-00055""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","20","[""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""1da4d566d98bc5a75713330b649f9d8079ca9c23d1d4ae2182f7b712e63d8691"",""checkedAt"":""2026-10-16T02:44:25.781Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00056","2","1","grammar","Liên động chỉ mục đích","","Liên động chỉ mục đích","đi/đến + nơi + hành động
+
+Hai động từ nối liền có thể diễn đạt hành động sau là mục đích của hành động trước. Không cần thêm 和 giữa hai động từ.
+
+我去书店买书。
+wǒ qù shū diàn mǎi shū。
+Tôi đi nhà sách mua sách.
+
+她来中国学习汉语。
+tā lái zhōng guó xué xí hàn yǔ。
+Cô ấy đến Trung Quốc học tiếng Trung.
+
+Không thêm 和 giữa 去书店 và 买书.","","","[""cti25-v-34"",""cti25-v-66"",""cti25-v-69"",""cti25-v-106"",""cti25-v-116"",""cti25-v-167"",""cti25-v-190"",""cti25-v-191"",""cti25-v-202"",""cti25-v-221"",""cti25-v-247"",""cti25-v-249"",""cti25-v-289""]","[""HSK30-2025-GRA-HSK1-00056""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""0c7de12efb3995a7aa06eb0b9f2dd578fcbaa3dd31ac3c8e52040a0efb33d543"",""checkedAt"":""2026-10-16T02:44:25.781Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00057","2","1","grammar","Liên động chỉ phương thức","","Liên động chỉ phương thức","đi bằng phương tiện + đi/đến nơi
+
+Động tác đầu có thể nêu phương thức cho động tác sau. Câu cần rõ phương tiện và đích đến; không lặp giới từ một cách máy móc.
+
+我坐出租车去学校。
+wǒ zuò chū zū chē qù xué xiào。
+Tôi đi taxi đến trường.
+
+爸爸开车去公司。
+bà bà kāi chē qù gōng sī。
+Bố lái xe đến công ty.
+
+Không nói 坐开车 khi muốn nói đi xe do mình lái.","","","[""cti25-v-3"",""cti25-v-20"",""cti25-v-22"",""cti25-v-62"",""cti25-v-97"",""cti25-v-98"",""cti25-v-167"",""cti25-v-221"",""cti25-v-247"",""cti25-v-250"",""cti25-v-298""]","[""HSK30-2025-GRA-HSK1-00057""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""157eec2720b832949f8a5faf98c4fa20d60ce72360a8fe6e847ff7f50bc3ed13"",""checkedAt"":""2026-10-16T02:44:25.782Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00058","2","1","grammar","Câu hai tân ngữ","","Câu hai tân ngữ","người + 给 + người nhận + vật
+
+Một số động từ như 给 nhận người và vật phía sau. Người nhận thường đứng trước vật được đưa, khác trật tự giải thích tiếng Việt có thể có từ cho.
+
+老师给我一本书。
+lǎo shī gěi wǒ yī běn shū。
+Giáo viên đưa tôi một quyển sách.
+
+妈妈给他一杯水。
+mā mā gěi tā yī bēi shuǐ。
+Mẹ đưa anh ấy một cốc nước.
+
+Không đảo vật và người nhận tùy ý trong mẫu cơ bản.","","","[""cti25-v-10"",""cti25-v-61"",""cti25-v-107"",""cti25-v-114"",""cti25-v-190"",""cti25-v-192"",""cti25-v-200"",""cti25-v-221"",""cti25-v-254""]","[""HSK30-2025-GRA-HSK1-00058""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","387","UNVERIFIED","NEEDS_REVIEW","30","[""LEVEL_OR_SEGMENTATION_FLAGS"",""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[{""text"":""杯"",""level"":""UNKNOWN"",""cost"":40}]","[{""field"":""examples.1"",""word"":""杯"",""reportedLevel"":""UNMAPPED_CHARACTER_OR_NAME"",""category"":""CLASSIFIER_GRAMMAR_SUPPORT"",""action"":""RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE"",""evidence"":""Stored CTI grammar taxonomy for classifiers/frequency""}]","{""status"":""PASSED"",""fingerprint"":""345cc9913be72592a96197f977121f59b9aeb4f0ea58039f2ad01d887e963621"",""checkedAt"":""2026-10-16T02:44:25.782Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00059","2","1","grammar","Câu ghép đẳng lập","","Câu ghép đẳng lập","mệnh đề A，mệnh đề B
+
+Hai mệnh đề có thể nêu hai thông tin liên quan mà không phụ thuộc nhau. Dùng ngữ cảnh và dấu câu rõ; không tự coi mọi dấu phẩy đều là cùng một quan hệ.
+
+我是学生，她是老师。
+wǒ shì xué shēng， tā shì lǎo shī。
+Tôi là học sinh, cô ấy là giáo viên.
+
+爸爸在家，妈妈在公司。
+bà bà zài jiā， mā mā zài gōng sī。
+Bố ở nhà, mẹ ở công ty.
+
+Không dùng 和 thay mọi dấu ngắt giữa hai mệnh đề.","","","[""cti25-v-3"",""cti25-v-62"",""cti25-v-86"",""cti25-v-107"",""cti25-v-114"",""cti25-v-188"",""cti25-v-202"",""cti25-v-221"",""cti25-v-247"",""cti25-v-248"",""cti25-v-271""]","[""HSK30-2025-GRA-HSK1-00059""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","386","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""d01e5bfa667aea0bbed41e77308275032a4e9d6ee39eb767fad9c06f9ed13730"",""checkedAt"":""2026-10-16T02:44:25.782Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00060","2","1","grammar","Câu ghép với 也","","Câu ghép với 也","mệnh đề A，chủ ngữ B + 也 + vị ngữ
+
+也 bổ sung thông tin tương tự ở mệnh đề sau. Nhắc lại chủ ngữ khi cần phân biệt hai người được nói đến.
+
+我喜欢茶，她也喜欢茶。
+wǒ xǐ huān chá， tā yě xǐ huān chá。
+Tôi thích trà, cô ấy cũng thích trà.
+
+爸爸是老师，妈妈也是老师。
+bà bà shì lǎo shī， mā mā yě shì lǎo shī。
+Bố là giáo viên, mẹ cũng là giáo viên.
+
+Không đặt 也 sau tân ngữ cuối câu.","","","[""cti25-v-3"",""cti25-v-17"",""cti25-v-107"",""cti25-v-114"",""cti25-v-188"",""cti25-v-202"",""cti25-v-221"",""cti25-v-225"",""cti25-v-253""]","[""HSK30-2025-GRA-HSK1-00060""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","388","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""9ddd8e0eaf70cbbd1145754b3a75ff4d4a03fe875d9b632379a60f31a92b089a"",""checkedAt"":""2026-10-16T02:44:25.782Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00061","2","1","grammar","Câu ghép với 还","","Câu ghép với 还","mệnh đề A，chủ ngữ + 还 + vị ngữ
+
+还 bổ sung một hành động hoặc đặc điểm nữa. Nó cũng có nghĩa vẫn trong ngữ cảnh khác; không phải mọi 还 đều có thể thay bằng 也.
+
+我买了书，还买了一个杯子。
+wǒ mǎi le shū， hái mǎi le yí gè bēi zi。
+Tôi đã mua sách, còn mua một cái cốc.
+
+她会说汉语，还会写汉字。
+tā huì shuō hàn yǔ， hái huì xiě hàn zì。
+Cô ấy biết nói tiếng Trung, còn biết viết chữ Hán.
+
+Không bỏ động từ sau 还 khi thông tin bổ sung cần nó.","","","[""cti25-v-9"",""cti25-v-60"",""cti25-v-67"",""cti25-v-69"",""cti25-v-70"",""cti25-v-82"",""cti25-v-108"",""cti25-v-116"",""cti25-v-190"",""cti25-v-196"",""cti25-v-202"",""cti25-v-221"",""cti25-v-240"",""cti25-v-254"",""cti25-v-296""]","[""HSK30-2025-GRA-HSK1-00061""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","388","UNVERIFIED","NEEDS_REVIEW","28","[""TONE_SANDHI_REVIEW"",""POLYPHONE_CONTEXT"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""1c82793e8cf6ede82ea6f0b96f126b6ea0497e0160e89131aa5e8d2ee648965f"",""checkedAt"":""2026-10-16T02:44:25.782Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00062","2","1","grammar","Hoàn tất hành động với 了","","Hoàn tất hành động với 了","động từ + 了 + lượng/tân ngữ
+
+了 sau động từ cho biết hành động đã được thực hiện như một sự kiện hoàn tất. Không dùng 了 chỉ để đánh dấu ngày hôm qua; phủ định hoàn tất thường dùng 没.
+
+我喝了一杯水。
+wǒ hē le yī bēi shuǐ。
+Tôi đã uống một cốc nước.
+
+他买了两本书。
+tā mǎi le liǎng běn shū。
+Anh ấy đã mua hai quyển sách.
+
+Không nói 没买了 trong phủ định hoàn tất cơ bản.","","","[""cti25-v-10"",""cti25-v-77"",""cti25-v-108"",""cti25-v-111"",""cti25-v-116"",""cti25-v-190"",""cti25-v-192"",""cti25-v-200"",""cti25-v-221"",""cti25-v-254""]","[""HSK30-2025-GRA-HSK1-00062""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","388","UNVERIFIED","NEEDS_REVIEW","30","[""LEVEL_OR_SEGMENTATION_FLAGS"",""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[{""text"":""杯"",""level"":""UNKNOWN"",""cost"":40}]","[{""field"":""examples.0"",""word"":""杯"",""reportedLevel"":""UNMAPPED_CHARACTER_OR_NAME"",""category"":""CLASSIFIER_GRAMMAR_SUPPORT"",""action"":""RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE"",""evidence"":""Stored CTI grammar taxonomy for classifiers/frequency""}]","{""status"":""PASSED"",""fingerprint"":""5efec6030141dc60e4199ca80407d8b3facea4a3df7ec0c2c3c891a7a28bb596"",""checkedAt"":""2026-10-16T02:44:25.783Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00064","3","1","grammar","Đang làm gì với 在/正在","","Đang làm gì với 在/正在","chủ ngữ + 正在 + động từ
+
+Dùng 在 hoặc 正在 khi nói hành động diễn ra ở thời điểm quan sát. Không nhầm với trạng thái sở hữu của 有.
+
+他正在看书。
+tā zhèng zài kàn shū。
+Anh ấy đang đọc sách.
+
+妈妈在做饭。
+mā mā zài zuò fàn。
+Mẹ đang nấu cơm.
+
+Không dùng 正在有 để diễn đạt đang sở hữu.","","","[""cti25-v-50"",""cti25-v-99"",""cti25-v-114"",""cti25-v-190"",""cti25-v-200"",""cti25-v-271"",""cti25-v-286"",""cti25-v-299"",""cti25-v-300""]","[""HSK30-2025-GRA-HSK1-00064""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","388","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""8c13ace094a23cce7c08d2629dd91dc3367bd2351de3d134fb126f24fa154ef7"",""checkedAt"":""2026-10-16T02:53:30.574Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00065","2","1","grammar","Tiếp diễn có 呢","","Tiếp diễn có 呢","chủ ngữ + 在/正在 + động từ + 呢
+
+呢 cuối câu có thể đi cùng 在 hoặc 正在 để nhấn mạnh hành động đang diễn ra. Nó không tự biến câu thành câu hỏi có hay không.
+
+他正在看书呢。
+tā zhèng zài kàn shū ne。
+Anh ấy đang đọc sách đấy.
+
+妈妈在做饭呢。
+mā mā zài zuò fàn ne。
+Mẹ đang nấu cơm đấy.
+
+Không mặc định mọi 呢 đều là câu hỏi.","","","[""cti25-v-50"",""cti25-v-99"",""cti25-v-114"",""cti25-v-144"",""cti25-v-190"",""cti25-v-200"",""cti25-v-271"",""cti25-v-286"",""cti25-v-299"",""cti25-v-300""]","[""HSK30-2025-GRA-HSK1-00065""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","388","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""fda19b6d320ce9d44b2682cd9d9137477dbdd223266a3fa9f222974dc1e4495b"",""checkedAt"":""2026-10-16T02:44:25.783Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00066","2","1","grammar","呢 diễn đạt tiếp diễn","","呢 diễn đạt tiếp diễn","chủ ngữ + động từ + 呢
+
+Trong ngữ cảnh rõ ràng, 呢 cuối câu có thể biểu đạt hành động đang tiếp diễn dù không có 在. Phân biệt với 你呢 hỏi lại chủ đề.
+
+他看书呢。
+tā kàn shū ne。
+Anh ấy đang đọc sách đấy.
+
+我学习呢。
+wǒ xué xí ne。
+Tôi đang học đấy.
+
+Không dùng một nghĩa của 呢 để giải thích mọi câu.","","","[""cti25-v-99"",""cti25-v-144"",""cti25-v-190"",""cti25-v-200"",""cti25-v-221"",""cti25-v-247"",""cti25-v-249""]","[""HSK30-2025-GRA-HSK1-00066""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","388","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""b9b5fac4ad6172e1a6cefa035e6d1ca9cf560b32d1d437985bf997719676a80a"",""checkedAt"":""2026-10-16T02:44:25.783Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00067","2","1","grammar","Nói giá tiền","","Nói giá tiền","số + 块/元 + 钱
+
+元 là đơn vị tiền tệ thường dùng trong văn viết; 块 thông dụng trong lời nói. Trong câu giá đơn giản có thể dùng cụm số tiền làm vị ngữ.
+
+这本书二十元。
+zhè běn shū èr shí yuán。
+Quyển sách này hai mươi tệ.
+
+这个苹果三块钱。
+zhè ge píng guǒ sān kuài qián。
+Quả táo này ba tệ.
+
+Không dùng 岁 hoặc 点 thay đơn vị tiền.","","","[""cti25-v-10"",""cti25-v-49"",""cti25-v-60"",""cti25-v-105"",""cti25-v-159"",""cti25-v-164"",""cti25-v-173"",""cti25-v-184"",""cti25-v-190"",""cti25-v-268"",""cti25-v-279"",""cti25-v-281""]","[""HSK30-2025-GRA-HSK1-00067""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","388","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""25d3c19e67a5af1e22e34c3b702089666019a350cd08ca71e1df9679eac3af53"",""checkedAt"":""2026-10-16T02:44:25.784Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00068","2","1","grammar","Số thứ tự với 第","","Số thứ tự với 第","第 + số (+ lượng từ) + danh từ
+
+第 đứng trước số để chỉ thứ tự. 第一课 là bài thứ nhất, khác 一课 là một bài; giữ lượng từ khi cấu trúc cần.
+
+这是第一课。
+zhè shì dì yī kè。
+Đây là bài thứ nhất.
+
+他是第三个学生。
+tā shì dì sān gè xué shēng。
+Anh ấy là học sinh thứ ba.
+
+Không đặt 第 sau số.","","","[""cti25-v-31"",""cti25-v-60"",""cti25-v-103"",""cti25-v-173"",""cti25-v-188"",""cti25-v-200"",""cti25-v-247"",""cti25-v-248"",""cti25-v-254"",""cti25-v-279""]","[""HSK30-2025-GRA-HSK1-00068""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","388","UNVERIFIED","NEEDS_REVIEW","20","[""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""ae51cb87b17b40a73f2f41452bef87ecef179344d5b613b0e567cbaab5726d58"",""checkedAt"":""2026-10-16T02:44:25.784Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00069","2","1","grammar","Ngày tháng năm và thứ","","Ngày tháng năm và thứ","năm + 年 + tháng + 月 + ngày + 日/号
+
+Thứ tự lịch thường từ đơn vị lớn đến nhỏ. 星期一 là thứ hai trong tiếng Việt; 星期日 và 星期天 đều chỉ chủ nhật.
+
+今天是五月一日。
+jīn tiān shì wǔ yuè yī rì。
+Hôm nay là ngày một tháng năm.
+
+明天是星期六。
+míng tiān shì xīng qī liù。
+Ngày mai là thứ bảy.
+
+Không dịch 星期一 thành chủ nhật.","","","[""cti25-v-94"",""cti25-v-113"",""cti25-v-129"",""cti25-v-172"",""cti25-v-188"",""cti25-v-207"",""cti25-v-223"",""cti25-v-243"",""cti25-v-254"",""cti25-v-269""]","[""HSK30-2025-GRA-HSK1-00069""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","388","UNVERIFIED","NEEDS_REVIEW","20","[""TONE_SANDHI_REVIEW"",""RIGHTS_PENDING""]","[]","[]","{""status"":""PASSED"",""fingerprint"":""1bc2f093159bc96e114d6c33a6e222f684d6bcdcbcae6b697647b7b8c1b98436"",""checkedAt"":""2026-10-16T02:44:25.784Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"
+"v4-lesson-00070","2","1","grammar","Nói giờ đồng hồ","","Nói giờ đồng hồ","số + 点 + số + 分
+
+点 nói giờ trên đồng hồ; 分 nói phút; 半 diễn đạt rưỡi. 小时 nói thời lượng và không thay trực tiếp cho 点 trong câu giờ hiện tại.
+
+现在是三点半。
+xiàn zài shì sān diǎn bàn。
+Bây giờ là ba giờ rưỡi.
+
+我八点十分上课。
+wǒ bā diǎn shí fēn shàng kè。
+Tôi vào học lúc tám giờ mười phút.
+
+Không nói 现在三小时 để chỉ ba giờ.","","","[""cti25-v-2"",""cti25-v-7"",""cti25-v-33"",""cti25-v-55"",""cti25-v-103"",""cti25-v-173"",""cti25-v-175"",""cti25-v-177"",""cti25-v-184"",""cti25-v-188"",""cti25-v-221"",""cti25-v-232"",""cti25-v-271""]","[""HSK30-2025-GRA-HSK1-00070""]","[]","AI_GENERATED","local:editorial/v4","https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf","388","UNVERIFIED","NEEDS_REVIEW","12","[""RIGHTS_PENDING""]","[]","[{""field"":""examples.1"",""word"":""十分"",""reportedLevel"":""4"",""category"":""SEGMENTATION_FALSE_POSITIVE"",""action"":""USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION"",""evidence"":""Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof""}]","{""status"":""PASSED"",""fingerprint"":""5cac8b04d1943e3f19c7e7413df57cea9eed62350bd6dbeb879f160437c002dc"",""checkedAt"":""2026-10-16T02:44:25.784Z"",""method"":""V5 import schema/reference/asset validation; not human review""}","","","","","","PENDING"

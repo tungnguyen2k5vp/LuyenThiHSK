@@ -1,0 +1,17 @@
+{
+  "at": "2026-10-16T15:15:05.143Z",
+  "status": "PASS",
+  "browser": "Chrome",
+  "legacyIncluded": true,
+  "screenshots": 107,
+  "areas": [
+    "HSK2 R2/W1/W2",
+    "Hanzi input autosave reload",
+    "unscored writing result",
+    "listening unavailable",
+    "6 viewports",
+    "review tabs/batch/checklist/diff/human gate"
+  ],
+  "realMobile": "REAL_MOBILE_NOT_VERIFIED",
+  "liveCloud": "LIVE_CLOUD_NOT_VERIFIED"
+}

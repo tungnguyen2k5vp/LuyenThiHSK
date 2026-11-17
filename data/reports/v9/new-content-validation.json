@@ -1,0 +1,851 @@
+{
+  "at": "2026-10-16T16:24:08.955Z",
+  "batch": "HSK2-A-27 / grammar-depth-33",
+  "count": 60,
+  "checks": [
+    {
+      "id": "v9-hsk2-L1-001",
+      "revision": 1,
+      "sourceFingerprint": "ff3f5dc9c390a3f7b1dd011f877b5d7462be49cdce435eee24d3dad5bf7cdc95",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "medical-advice",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L1-002",
+      "revision": 1,
+      "sourceFingerprint": "ecd9ce3a4d8906ebe865ca2b2d1ba4e6d83de3ebfbb6422d85f7c5254a1f82fd",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "movie-on-computer",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L1-003",
+      "revision": 1,
+      "sourceFingerprint": "c1b72db4e1e9d273c8d17c3930547754a7478d8820db5e0553642bf76586f512",
+      "tokensToReview": [
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "breakfast-before-departure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L2-004",
+      "revision": 1,
+      "sourceFingerprint": "ac480f1b74def49f907df53cf503f34f81c20f7a7c146f3359a87604c75e12e6",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "prepare-language-class",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L2-005",
+      "revision": 1,
+      "sourceFingerprint": "367ccd55943e5cb702e43b4fc305424b7bf829a6260f87c54bdb10e33f56b2d1",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "cannot-call-while-driving",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L2-006",
+      "revision": 1,
+      "sourceFingerprint": "a7cd0fe6c171be15c97add4d0bd5cf518f32e06de203597a7fdec3def65a3ecd",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "prepare-class-notes",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L3-007",
+      "revision": 1,
+      "sourceFingerprint": "84695f46dac0d5a5eafe936651f6a0f33f5b7c02cf4fe39bdf008b0e96568d08",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "meeting-before-movie",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L3-008",
+      "revision": 1,
+      "sourceFingerprint": "af7f12ad4b7e2844582a783cd3b57ce21a3cee0058b2f9bd4badeb799cb884ff",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "small-new-bag-comparison",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L3-009",
+      "revision": 1,
+      "sourceFingerprint": "e45e4490edea09bde45bae7dc06c7093917398839280b7441258eaa8cb73376e",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "waiting-for-family",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R1-010",
+      "revision": 1,
+      "sourceFingerprint": "c1c1a4ac4cdb56abf4207639efded5994ff429e80a5c3cf5c4002627590bb618",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "wash-hands-before-bread",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R1-011",
+      "revision": 1,
+      "sourceFingerprint": "260788fe821518ec09954a1be2e9e1c89d61022bd0d53389a90a34a0d60722c4",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "chair-beside-table",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R1-012",
+      "revision": 1,
+      "sourceFingerprint": "b8fdf4833b9b52c8d01ecdcf352c4d7518211d525aeaebebdb03a71afa25d4d2",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "broken-phone",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R2-013",
+      "revision": 1,
+      "sourceFingerprint": "41300aa41930fea3dc6eb1a147556bc78002c73135c6ba341449d2310bcb6f71",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "second-visit",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R2-014",
+      "revision": 1,
+      "sourceFingerprint": "ab3d03eff1984e4bae9fa8a74a0648ea9102cf0ccfe9e0dd5bfdff3442c5ff30",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "keep-quiet-near-sleeping-child",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R2-015",
+      "revision": 1,
+      "sourceFingerprint": "fd49fe3add8d5ac9b7ebe1bedce391d62126dd06fde08310135a4d4e1c3d5017",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "station-school-hospital-map",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R3-016",
+      "revision": 1,
+      "sourceFingerprint": "8b53a82f9daccb4768ea3b14250256c34294a442115cdc8fd67a46d223e9ae4a",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "ask-to-look-at-clothes",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R3-017",
+      "revision": 1,
+      "sourceFingerprint": "e126eb4d5fabd2e5e37d72a3a0509c045aab6d4775a103de6b87236cc71867fb",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "ask-station-direction",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R3-018",
+      "revision": 1,
+      "sourceFingerprint": "92393628c836ff8122abf48e9137c95f997fa0243daabb22db333ba18a6482b0",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "ask-about-recovery",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R4-019",
+      "revision": 1,
+      "sourceFingerprint": "d316035f8bf23f1e1e6ebb049c0be22882d2364ee808601ea629d2ca2f768c91",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "wait-for-shop-opening",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R4-020",
+      "revision": 1,
+      "sourceFingerprint": "51f2c48537686289cfaae903e2f47287a961c7c770709a5480f1b32edacb0780",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "choose-swimming-class-time",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R4-021",
+      "revision": 1,
+      "sourceFingerprint": "c44f7be86190e1c19817bb498be994ca87dbc409421e80a427694bd3d3956d34",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "compare-room-book-count",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-022",
+      "revision": 1,
+      "sourceFingerprint": "b77398da80f0df5b41f3cbe89a8dafdde207ebd884ba6ba374043cd4adf454b4",
+      "tokensToReview": [
+        {
+          "text": "氵",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "子",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "主",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "wash-character-component",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-023",
+      "revision": 1,
+      "sourceFingerprint": "2938f1176d14ac616b19f64ae038a55baec72b3cea11dedf57f37f98eaf8d71e",
+      "tokensToReview": [
+        {
+          "text": "亻",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "子",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "主",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "live-character-component",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-024",
+      "revision": 1,
+      "sourceFingerprint": "26a0d927a8eb951b1b7bc4de385372cb8837d043a4243f7e3a339a9c14fb6c37",
+      "tokensToReview": [
+        {
+          "text": "子",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "主",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "good-character-component",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W2-025",
+      "revision": 1,
+      "sourceFingerprint": "641582091ceed585633b4e551f278545b935d3fa3d6c7684f0da13a96a5b2f0c",
+      "tokensToReview": [],
+      "pinyin": {
+        "expected": "买",
+        "displayed": "mǎi",
+        "indexed": "mǎi",
+        "status": "AUTOMATED_CROSS_CHECK_NOT_HUMAN"
+      },
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "buy-warm-clothing",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W2-026",
+      "revision": 1,
+      "sourceFingerprint": "ddcb85953ac4c040bc39934764c02ce0bbaf8dbbbb8f6531865a1a882300ac9f",
+      "tokensToReview": [],
+      "pinyin": {
+        "expected": "手",
+        "displayed": "shǒu",
+        "indexed": "shǒu",
+        "status": "AUTOMATED_CROSS_CHECK_NOT_HUMAN"
+      },
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "handwashing-hanzi",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W2-027",
+      "revision": 1,
+      "sourceFingerprint": "aae6055074ae2de3cd951bde479b58f24a60a2da3f014982f602586dd2fef28a",
+      "tokensToReview": [],
+      "pinyin": {
+        "expected": "口",
+        "displayed": "kǒu",
+        "indexed": "kǒu",
+        "status": "AUTOMATED_CROSS_CHECK_NOT_HUMAN"
+      },
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "school-gate-meeting-hanzi",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00001-1",
+      "revision": 1,
+      "sourceFingerprint": "c2fb7c689cc1e43925100e23e02e7bc3f510f9649188290735dcfe9363db5c95",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00002-1",
+      "revision": 1,
+      "sourceFingerprint": "2f18dfde856b92231ea77a1f4a2380f14c3a014b6bf0d74244725f5254cdf73b",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "similar-structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00008-1",
+      "revision": 1,
+      "sourceFingerprint": "52be71942eef9e58a1fb25f68f85a84a6291db98f1bf097dd03222b457d92742",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00009-1",
+      "revision": 1,
+      "sourceFingerprint": "2d2b42d69be820c160e7e4a603f4e410be1e9060a2c81148b1305e80d7d1515c",
+      "tokensToReview": [
+        {
+          "text": "王",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "李",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00013-1",
+      "revision": 1,
+      "sourceFingerprint": "c5e8b924ccc062eefa65b69c173b9ddcbb008ae375146078bba0ebb07ab59ae9",
+      "tokensToReview": [
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "fill-gap",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00018-1",
+      "revision": 1,
+      "sourceFingerprint": "81a76c127798c70ef42ecc364d35e0ba4d252b7649c176c2e9bf912f004e48a8",
+      "tokensToReview": [
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00022-1",
+      "revision": 1,
+      "sourceFingerprint": "64c0f6892e3113563b7a62e02ece1ea815a693bcf53615b87ceaa2aa3cf179ef",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "similar-structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00027-1",
+      "revision": 1,
+      "sourceFingerprint": "687739da3a7182a6d55554e5d1ca0a831d5d0ea4d02f25437d46112eae725fc7",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00029-1",
+      "revision": 1,
+      "sourceFingerprint": "8a192c61332cafbb47bcdeba18628e761b1b09efcf939edcec96b41c32ee760b",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "word-order",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00029-2",
+      "revision": 1,
+      "sourceFingerprint": "71dc6799e7dd512935b37c73b4f29c16bdc1c4868f30e1d347dbd6ef5cec950f",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00031-1",
+      "revision": 1,
+      "sourceFingerprint": "093fde78e55fbaa9288667df8ad394bfcf912e94364185a1ca33a50d3a58e6fc",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00031-2",
+      "revision": 1,
+      "sourceFingerprint": "89d4c92182f04117715ed2149ea93c3b6a2e12d8dff5180530e48f5c7bb803c4",
+      "tokensToReview": [
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00035-1",
+      "revision": 1,
+      "sourceFingerprint": "d0bbb7ed5712bddeb3479f198f1095f2f80e903dc9d48843eb61e07031e23645",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00036-1",
+      "revision": 1,
+      "sourceFingerprint": "0507a1c04154c966797fa04e8d59de642a3477b17f9b72d6a580faf88104ef66",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00036-2",
+      "revision": 1,
+      "sourceFingerprint": "aa6b302b5fd747421437abdff3a8b71d99158884dc6999308f1852b56aa87daf",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00037-1",
+      "revision": 1,
+      "sourceFingerprint": "c65fda174914c1ca87a44e26fd38c60e996aedf0bc74b031a99622825f27b8e5",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "similar-structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00037-2",
+      "revision": 1,
+      "sourceFingerprint": "0e7457b1a7484389828ae7aebc323b956c641159ed1de9b5e7327ad1ea183a2b",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "word-order",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00039-1",
+      "revision": 1,
+      "sourceFingerprint": "04e4245e9e43d23b6fa9ea23f80fec2f53671701b99dc4fad5e84a6852c680cc",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00041-1",
+      "revision": 1,
+      "sourceFingerprint": "1c7a07f2fcaa7913e542f82e5164f0f4c2b788ffd765a855cd7c89e62bb4b198",
+      "tokensToReview": [
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "fill-gap",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00041-2",
+      "revision": 1,
+      "sourceFingerprint": "ecfaea18e4849edf9ccab10a8d6b9857e70625cdd988ae741581137dea54a026",
+      "tokensToReview": [
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "word-order",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00044-1",
+      "revision": 1,
+      "sourceFingerprint": "b0a1c13cbad1a1509b312f3ba8ba4d16fb88290f0cb2d7457994d2d8775b7041",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00044-2",
+      "revision": 1,
+      "sourceFingerprint": "b939f6486c42a54bde46498398f7131b7464f3970b9c586c74e8acca6c95b8e5",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00049-1",
+      "revision": 1,
+      "sourceFingerprint": "aa91f5ebd543db81b48fb33930959b84d9e43bfb70a7a7bfae8bdb14f2ef5720",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "similar-structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00051-1",
+      "revision": 1,
+      "sourceFingerprint": "d099231f49673e2044fc5750379187dabafe1b35bcb080cdabf7c23255ba5d12",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00054-1",
+      "revision": 1,
+      "sourceFingerprint": "7334ff9f880d81ca106c2798b767652e1db95b5cf89e3044d20c132a9534899e",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00059-1",
+      "revision": 1,
+      "sourceFingerprint": "6ac37641237f87765a2ba53c542dd30c424dbb1192bb763f31b49bbe22982bd1",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00059-2",
+      "revision": 1,
+      "sourceFingerprint": "ee2976573a60308ea884cb518fa235fd93996a094f60991a2f207df83957c130",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00061-1",
+      "revision": 1,
+      "sourceFingerprint": "9e9c4c7058fa3921cdc4996adf08e4d5080e1ba985e76a8990a0813ba88ea8f4",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00061-2",
+      "revision": 1,
+      "sourceFingerprint": "adaaaac39308af259d694f5896d8f9b0b67b3c566f3c0355f7c03ab7d269134a",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00066-1",
+      "revision": 1,
+      "sourceFingerprint": "0b29156371c79b8a62b3623a3c138a07f3431cc5219c92818031b74ca82ace10",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "fill-gap",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00066-2",
+      "revision": 1,
+      "sourceFingerprint": "e99858116087a684d263a95a874e8f6bda16102f5be4ec21c558c6db7b4eb79e",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00068-1",
+      "revision": 1,
+      "sourceFingerprint": "9a3101817207134fc5a3dbf957eb5a44fa6d26ab4bbf21efffedd8fe2bc25e5c",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "similar-structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00068-2",
+      "revision": 1,
+      "sourceFingerprint": "d9cb6b231c6ed611323f36f21305449277a077c1f3ad6846314c244cbbdc1620",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "word-order",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    }
+  ],
+  "nearDuplicates": [],
+  "technicalErrors": 0,
+  "humanApproved": 0
+}

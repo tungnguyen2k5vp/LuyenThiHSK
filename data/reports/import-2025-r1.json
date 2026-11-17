@@ -1,0 +1,123 @@
+{
+  "manifest": {
+    "version": "curriculum-2025.11-r1",
+    "builtAt": "2026-10-15T00:00:00.000Z",
+    "sourcePdfSha256": "ec74ce0439e837bbb15154be13e747ae798903b2fd3a331629df6c3b45504941",
+    "editions": [
+      {
+        "id": "hsk3-2025",
+        "label": "HSK 3.0 · syllabus 2025 (hiệu lực 07/2026)",
+        "levels": [
+          {
+            "level": "1",
+            "vocabulary": 300,
+            "grammar": 68,
+            "hanzi": 246,
+            "wordsUrl": "/data/hsk3-2025-1-words.json",
+            "grammarUrl": "/data/hsk3-2025-1-grammar.json",
+            "hanziUrl": "/data/hsk3-2025-1-hanzi.json"
+          },
+          {
+            "level": "2",
+            "vocabulary": 200,
+            "grammar": 71,
+            "hanzi": 125,
+            "wordsUrl": "/data/hsk3-2025-2-words.json",
+            "grammarUrl": "/data/hsk3-2025-2-grammar.json",
+            "hanziUrl": "/data/hsk3-2025-2-hanzi.json"
+          },
+          {
+            "level": "3",
+            "vocabulary": 500,
+            "grammar": 88,
+            "hanzi": 284,
+            "wordsUrl": "/data/hsk3-2025-3-words.json",
+            "grammarUrl": "/data/hsk3-2025-3-grammar.json",
+            "hanziUrl": "/data/hsk3-2025-3-hanzi.json"
+          },
+          {
+            "level": "4",
+            "vocabulary": 1000,
+            "grammar": 95,
+            "hanzi": 441,
+            "wordsUrl": "/data/hsk3-2025-4-words.json",
+            "grammarUrl": "/data/hsk3-2025-4-grammar.json",
+            "hanziUrl": "/data/hsk3-2025-4-hanzi.json"
+          },
+          {
+            "level": "5",
+            "vocabulary": 1600,
+            "grammar": 70,
+            "hanzi": 431,
+            "wordsUrl": "/data/hsk3-2025-5-words.json",
+            "grammarUrl": "/data/hsk3-2025-5-grammar.json",
+            "hanziUrl": "/data/hsk3-2025-5-hanzi.json"
+          },
+          {
+            "level": "6",
+            "vocabulary": 1800,
+            "grammar": 50,
+            "hanzi": 413,
+            "wordsUrl": "/data/hsk3-2025-6-words.json",
+            "grammarUrl": "/data/hsk3-2025-6-grammar.json",
+            "hanziUrl": "/data/hsk3-2025-6-hanzi.json"
+          },
+          {
+            "level": "7-9",
+            "vocabulary": 5600,
+            "grammar": 134,
+            "hanzi": 1148,
+            "wordsUrl": "/data/hsk3-2025-7-9-words.json",
+            "grammarUrl": "/data/hsk3-2025-7-9-grammar.json",
+            "hanziUrl": "/data/hsk3-2025-7-9-hanzi.json"
+          }
+        ]
+      }
+    ],
+    "quality": {
+      "missingVietnamese": 557,
+      "communityTranslations": 10443,
+      "missingStrokes": 99,
+      "grammarPendingReview": 17,
+      "conflicts": 0
+    },
+    "sources": [
+      {
+        "name": "CTI syllabus (vocabulary/level/pinyin facts)",
+        "url": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+        "license": "Official source facts; PDF not redistributed",
+        "sha256": "ec74ce0439e837bbb15154be13e747ae798903b2fd3a331629df6c3b45504941"
+      },
+      {
+        "name": "CVDICT — Phong Phan; derived CC-CEDICT",
+        "url": "https://github.com/ph0ngp/CVDICT",
+        "license": "CC BY-SA 4.0",
+        "sha256": "4dde4b204193efa9c192d7f7daeab1bb579c8ccd7c41ed90d1b6caee22ba0948"
+      },
+      {
+        "name": "Complete HSK Vocabulary — Yanis Zafiropulos",
+        "url": "https://github.com/drkameleon/complete-hsk-vocabulary",
+        "license": "MIT repo; CC-CEDICT meanings CC BY-SA 4.0",
+        "sha256": "c869a0ce353279c9333d9b42c31fc3549785e8b40673dab57ee42bc99cd14131"
+      },
+      {
+        "name": "hanzi-writer-data 2.0.1 / Make Me a Hanzi",
+        "url": "https://github.com/chanind/hanzi-writer-data",
+        "license": "Arphic Public License"
+      }
+    ]
+  },
+  "hashes": {
+    "hsk-syllabus-official.json": "06e20f8a931402ecc34d30381e08e0e71d650be298dfa06332c4812129954184",
+    "hsk30-2025-11.json": "bb8fed1971c64ab40b5250bbcca53d12a1f439b2b9a0f3d2eb753f3ccdcd0cf9",
+    "complete-hsk-vocabulary.json": "c869a0ce353279c9333d9b42c31fc3549785e8b40673dab57ee42bc99cd14131",
+    "hsk12-strokes.json": "4bb4b492c55a2be36b9bf6c62b075874b68b350089315d049ff759c49c449dab",
+    "CVDICT.u8": "4dde4b204193efa9c192d7f7daeab1bb579c8ccd7c41ed90d1b6caee22ba0948"
+  },
+  "vocabularyCount": 11000,
+  "grammarCount": 593,
+  "publishedGrammar": 576,
+  "hanziCount": 3088,
+  "topics": 169,
+  "tasks": 166
+}

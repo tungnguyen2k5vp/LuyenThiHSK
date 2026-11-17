@@ -1,0 +1,414 @@
+{
+  "at": "2026-10-18T02:25:26.326Z",
+  "items": [
+    {
+      "filename": "v10-hsk2-hub.png",
+      "browser": "Chrome",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:23:57.746Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-hsk2-hub.png",
+      "sha256": "d09e9172da693bbc9978dc88ee58ed0c1428801f0cf94a591e44f68b9e86f702",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-audio-workbench.png",
+      "browser": "Chrome",
+      "route": "?view=content-review",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:23:59.312Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-audio-workbench.png",
+      "sha256": "a94a634e979b8e65e75652096b06e4918e4e317073c550682a6c5ebcf8c55869",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-listening-blocked.png",
+      "browser": "Chrome",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:24:00.365Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-listening-blocked.png",
+      "sha256": "7d28d6530f230c53e039fa6a481f80c7284c314183ca13feacc9af1637c2ec16",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-reading-result.png",
+      "browser": "Chrome",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:24:00.860Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-reading-result.png",
+      "sha256": "0adf51a5d4a9f78cadb9c2e4dcfabfba39a2cd4c5f09baffe281460b6eded09a",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-mixed-mini.png",
+      "browser": "Chrome",
+      "route": "?view=preview&previewSession=preview-session-93d527e8-7be6-480b-b48d-dbf7c9933af4",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:24:00.961Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-mixed-mini.png",
+      "sha256": "a0a9439e16082732d1d25799f6aa91cb22193a2be7b56c858360600263d7899e",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-writing-restored.png",
+      "browser": "Chrome",
+      "route": "?view=preview&previewSession=preview-session-dab429b7-92e2-41ae-8adf-e0d8f38b4ac5",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:24:02.144Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-writing-restored.png",
+      "sha256": "229ac3bf0a0c4b394c2cdad282f8810d8638aa2b928db005b79ecf1802cb71ec",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-mobile-writing.png",
+      "browser": "Chrome",
+      "route": "?view=preview&previewSession=preview-session-dab429b7-92e2-41ae-8adf-e0d8f38b4ac5",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "at": "2026-10-18T02:24:02.218Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-mobile-writing.png",
+      "sha256": "9475ce26897e285445bd4b4b483e6721e80ff4060b7d9587a3afe6cc9e9b308b",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-writing-ungraded.png",
+      "browser": "Chrome",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:24:02.292Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-writing-ungraded.png",
+      "sha256": "c4d38a2c0589c853768cc7ff69789ce9f0a0d5ee8aa060ba0a5780aff0e6b0a5",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-grammar-lesson.png",
+      "browser": "Chrome",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:24:02.515Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-grammar-lesson.png",
+      "sha256": "56ddcd8a068f365152159d634f5f84dc72e8221758a82f6bfea931cfa129376e",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-vocabulary-detail.png",
+      "browser": "Chrome",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:24:02.751Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-vocabulary-detail.png",
+      "sha256": "06bec110d1d997a236b553bd3efb583e43b4bed178e4efdb235e789a8d1bf6e6",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-study-plan.png",
+      "browser": "Chrome",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:24:02.813Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-study-plan.png",
+      "sha256": "a734834a6d632bdc0881757abbba01106c2c6eedeae3b048e8ed5dcebbfadd7f",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-mobile-hub.png",
+      "browser": "Chrome",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "at": "2026-10-18T02:24:02.882Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-chrome/v10-mobile-hub.png",
+      "sha256": "126acb8f849653a43aa75368fe40b15dd61a94c17ced4ad9abce07c7fa9bf904",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-offline-review-package.png",
+      "browser": "chrome",
+      "source": "Offline package; isolated note/export QA, no human approval",
+      "path": "docs/screenshots/v10/after-chrome/v10-offline-review-package.png",
+      "sha256": "874fe797e11a04dc42a194322bc88a2be84a99f9983c17c0ac5d44d62bc9ee01",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-hsk2-hub.png",
+      "browser": "Edge",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:11.878Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-hsk2-hub.png",
+      "sha256": "be1f8078ce425891b5f0c3c6cf40c7aa44111632a803207c97f62fd5b8632f02",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-audio-workbench.png",
+      "browser": "Edge",
+      "route": "?view=content-review",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:13.694Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-audio-workbench.png",
+      "sha256": "7bf9a1392685378f2159ddd8da512f3856eb3188359f355c940ec18877bc8490",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-listening-blocked.png",
+      "browser": "Edge",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:14.696Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-listening-blocked.png",
+      "sha256": "41203e0fc4d70f6c72e30a2eb7112caed66530219fa4c02da6b081942e7e5888",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-reading-result.png",
+      "browser": "Edge",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:15.208Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-reading-result.png",
+      "sha256": "835ab0d3eb3fd10d128f174e2b20b8a7efdbb855da0a61bb355043c07daf3f42",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-mixed-mini.png",
+      "browser": "Edge",
+      "route": "?view=preview&previewSession=preview-session-d9ec7be1-1fc4-41fa-8e2d-abc9f649c443",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:15.330Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-mixed-mini.png",
+      "sha256": "3d776078d5a500e2f2f07ae274c7a4b5c052e7a6aa2e97104cd91c16c688ad33",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-writing-restored.png",
+      "browser": "Edge",
+      "route": "?view=preview&previewSession=preview-session-0e8bdac5-8e15-4869-a445-a8b44e0cce30",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:16.723Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-writing-restored.png",
+      "sha256": "ca5b412c4c2b7ce4f961db0bdbcbaf1bfd63232fa49b5ab7ffa78d05c28402b1",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-mobile-writing.png",
+      "browser": "Edge",
+      "route": "?view=preview&previewSession=preview-session-0e8bdac5-8e15-4869-a445-a8b44e0cce30",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:16.780Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-mobile-writing.png",
+      "sha256": "9475ce26897e285445bd4b4b483e6721e80ff4060b7d9587a3afe6cc9e9b308b",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-writing-ungraded.png",
+      "browser": "Edge",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:16.858Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-writing-ungraded.png",
+      "sha256": "42ad7a715f6a5538a54d4aa1f103f41e1c84f0fc8ae5cb7becacc8c6742bb84f",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-grammar-lesson.png",
+      "browser": "Edge",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:17.079Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-grammar-lesson.png",
+      "sha256": "228f3cfd082073b709ec29f1f4f3e601031cc8c903d134e32e7e2d7b6c90f073",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-vocabulary-detail.png",
+      "browser": "Edge",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:17.313Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-vocabulary-detail.png",
+      "sha256": "4e892e15e0ba52945a275efad4566e51342d2c6dd937492592684b5d4eb6e4fe",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-study-plan.png",
+      "browser": "Edge",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:17.394Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-study-plan.png",
+      "sha256": "ef6fffb9e4f1e3b1b6b021cf42161fcd888c94f60c8b4d047732f5f953a92566",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-mobile-hub.png",
+      "browser": "Edge",
+      "route": "?view=preview",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "at": "2026-10-18T02:25:17.463Z",
+      "source": "Real editorial drafts; isolated QA learner profile",
+      "realDevice": false,
+      "path": "docs/screenshots/v10/after-edge/v10-mobile-hub.png",
+      "sha256": "126acb8f849653a43aa75368fe40b15dd61a94c17ced4ad9abce07c7fa9bf904",
+      "phase": "V10"
+    },
+    {
+      "filename": "v10-offline-review-package.png",
+      "browser": "edge",
+      "source": "Offline package; isolated note/export QA, no human approval",
+      "path": "docs/screenshots/v10/after-edge/v10-offline-review-package.png",
+      "sha256": "4a1105378eaf45c3f3c43adc1f2a523143031e859882a4e730420b3bfe22861a",
+      "phase": "V10"
+    },
+    {
+      "filename": "v9-hsk2-landing.png",
+      "path": "docs/screenshots/v10/before-chrome/v9-hsk2-landing.png",
+      "phase": "V9_FROZEN_BASELINE",
+      "source": "Captured before V10; isolated QA learner state",
+      "sha256": "c5d8654c622ed322a0b6ed923deafb31c4ab8ab4a40950bb12ab38c59409f032"
+    },
+    {
+      "filename": "v9-hsk2-writing-editor.png",
+      "path": "docs/screenshots/v10/before-chrome/v9-hsk2-writing-editor.png",
+      "phase": "V9_FROZEN_BASELINE",
+      "source": "Captured before V10; isolated QA learner state",
+      "sha256": "403075293242b5ee30a61b5fb6e1bcf8e08fd221a4cc3d811c94195caf36af11"
+    },
+    {
+      "filename": "v9-mobile-practice.png",
+      "path": "docs/screenshots/v10/before-chrome/v9-mobile-practice.png",
+      "phase": "V9_FROZEN_BASELINE",
+      "source": "Captured before V10; isolated QA learner state",
+      "sha256": "b8b4ef26f87e274e06505ef9392ac224add5db53c6182937effee321eeeccf29"
+    },
+    {
+      "filename": "v9-hsk2-study-plan.png",
+      "path": "docs/screenshots/v10/before-chrome/v9-hsk2-study-plan.png",
+      "phase": "V9_FROZEN_BASELINE",
+      "source": "Captured before V10; isolated QA learner state",
+      "sha256": "a96cee3d567ad21f6a13561f284d3adf0b7e7ac3f33a50daf0374e6a77b7a65d"
+    }
+  ],
+  "limits": [
+    "Viewport emulation, not real mobile devices",
+    "Different scroll/learner/content state; not pixel regression",
+    "Composition events are QA fixtures, not physical IME"
+  ]
+}

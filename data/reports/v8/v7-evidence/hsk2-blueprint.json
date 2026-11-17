@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 1,
+  "id": "hsk3-2025-level2-paper-sample-v7",
+  "level": "2",
+  "edition": "hsk3-2025",
+  "status": "DATA_ONLY",
+  "learnerAvailable": false,
+  "contentQuestions": 0,
+  "parts": [
+    {
+      "partId": "L1",
+      "skill": "listening",
+      "questionType": "picture-choice",
+      "count": 5,
+      "requirements": {
+        "options": 3,
+        "audio": true,
+        "pictures": true
+      },
+      "evidence": {
+        "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "archiveMember": "HSK/HSK（二级）样卷.pdf",
+        "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+        "pdfPages": [
+          3,
+          4
+        ],
+        "note": "Three image choices",
+        "checkedAt": "2026-10-16",
+        "scope": "PAPER_SAMPLE_ONLY"
+      },
+      "verificationStatus": "PAPER_TYPE_AND_COUNT_OBSERVED",
+      "activation": "BLOCKED_CONTENT_MEDIA_AND_RENDERER_QA"
+    },
+    {
+      "partId": "L2",
+      "skill": "listening",
+      "questionType": "matching",
+      "count": 10,
+      "requirements": {
+        "groups": [
+          {
+            "count": 5,
+            "options": 6
+          },
+          {
+            "count": 5,
+            "options": 5
+          }
+        ],
+        "audio": true,
+        "pictures": true
+      },
+      "evidence": {
+        "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "archiveMember": "HSK/HSK（二级）样卷.pdf",
+        "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+        "pdfPages": [
+          5,
+          6
+        ],
+        "note": "Two fixed picture banks; bank sizes differ",
+        "checkedAt": "2026-10-16",
+        "scope": "PAPER_SAMPLE_ONLY"
+      },
+      "verificationStatus": "PAPER_TYPE_AND_COUNT_OBSERVED",
+      "activation": "BLOCKED_CONTENT_MEDIA_AND_RENDERER_QA"
+    },
+    {
+      "partId": "L3",
+      "skill": "listening",
+      "questionType": "dialogue",
+      "count": 10,
+      "requirements": {
+        "options": 3,
+        "audio": true
+      },
+      "evidence": {
+        "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "archiveMember": "HSK/HSK（二级）样卷.pdf",
+        "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+        "pdfPages": [
+          7
+        ],
+        "note": "Dialogue and question, three textual choices",
+        "checkedAt": "2026-10-16",
+        "scope": "PAPER_SAMPLE_ONLY"
+      },
+      "verificationStatus": "PAPER_TYPE_AND_COUNT_OBSERVED",
+      "activation": "BLOCKED_CONTENT_MEDIA_AND_RENDERER_QA"
+    },
+    {
+      "partId": "R1",
+      "skill": "reading",
+      "questionType": "matching",
+      "count": 5,
+      "requirements": {
+        "groups": [
+          {
+            "count": 5,
+            "options": 6
+          }
+        ],
+        "pictures": true
+      },
+      "evidence": {
+        "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "archiveMember": "HSK/HSK（二级）样卷.pdf",
+        "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+        "pdfPages": [
+          10
+        ],
+        "note": "Sentence to shared image bank",
+        "checkedAt": "2026-10-16",
+        "scope": "PAPER_SAMPLE_ONLY"
+      },
+      "verificationStatus": "PAPER_TYPE_AND_COUNT_OBSERVED",
+      "activation": "BLOCKED_CONTENT_MEDIA_AND_RENDERER_QA"
+    },
+    {
+      "partId": "R2",
+      "skill": "reading",
+      "questionType": "shared-options",
+      "count": 5,
+      "requirements": {
+        "groups": [
+          {
+            "count": 5,
+            "options": 6
+          }
+        ]
+      },
+      "evidence": {
+        "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "archiveMember": "HSK/HSK（二级）样卷.pdf",
+        "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+        "pdfPages": [
+          11
+        ],
+        "note": "Fill gaps using shared word bank",
+        "checkedAt": "2026-10-16",
+        "scope": "PAPER_SAMPLE_ONLY"
+      },
+      "verificationStatus": "PAPER_TYPE_AND_COUNT_OBSERVED",
+      "activation": "BLOCKED_CONTENT_MEDIA_AND_RENDERER_QA"
+    },
+    {
+      "partId": "R3",
+      "skill": "reading",
+      "questionType": "shared-options",
+      "count": 10,
+      "requirements": {
+        "groups": [
+          {
+            "count": 5,
+            "options": 6
+          },
+          {
+            "count": 5,
+            "options": 5
+          }
+        ]
+      },
+      "evidence": {
+        "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "archiveMember": "HSK/HSK（二级）样卷.pdf",
+        "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+        "pdfPages": [
+          12,
+          13
+        ],
+        "note": "Two response banks with different sizes",
+        "checkedAt": "2026-10-16",
+        "scope": "PAPER_SAMPLE_ONLY"
+      },
+      "verificationStatus": "PAPER_TYPE_AND_COUNT_OBSERVED",
+      "activation": "BLOCKED_CONTENT_MEDIA_AND_RENDERER_QA"
+    },
+    {
+      "partId": "R4",
+      "skill": "reading",
+      "questionType": "short-passage",
+      "count": 5,
+      "requirements": {
+        "options": 3
+      },
+      "evidence": {
+        "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "archiveMember": "HSK/HSK（二级）样卷.pdf",
+        "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+        "pdfPages": [
+          14,
+          15
+        ],
+        "note": "Read short passage, choose response",
+        "checkedAt": "2026-10-16",
+        "scope": "PAPER_SAMPLE_ONLY"
+      },
+      "verificationStatus": "PAPER_TYPE_AND_COUNT_OBSERVED",
+      "activation": "BLOCKED_CONTENT_MEDIA_AND_RENDERER_QA"
+    },
+    {
+      "partId": "W1",
+      "skill": "writing",
+      "questionType": "shared-options",
+      "count": 5,
+      "requirements": {
+        "groups": [
+          {
+            "count": 5,
+            "options": 6
+          }
+        ],
+        "characterComponents": true
+      },
+      "evidence": {
+        "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "archiveMember": "HSK/HSK（二级）样卷.pdf",
+        "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+        "pdfPages": [
+          18
+        ],
+        "note": "Select missing character component; requires authored glyph accessibility QA",
+        "checkedAt": "2026-10-16",
+        "scope": "PAPER_SAMPLE_ONLY"
+      },
+      "verificationStatus": "PAPER_TYPE_AND_COUNT_OBSERVED",
+      "activation": "BLOCKED_CONTENT_MEDIA_AND_RENDERER_QA"
+    },
+    {
+      "partId": "W2",
+      "skill": "writing",
+      "questionType": "short-answer",
+      "count": 5,
+      "requirements": {
+        "scoring": "exact-text",
+        "pinyinIsExamContent": true
+      },
+      "evidence": {
+        "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "archiveMember": "HSK/HSK（二级）样卷.pdf",
+        "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+        "pdfPages": [
+          19
+        ],
+        "note": "Write a missing Hanzi using displayed pinyin; registered renderer path requires validation before activation",
+        "checkedAt": "2026-10-16",
+        "scope": "PAPER_SAMPLE_ONLY"
+      },
+      "verificationStatus": "PAPER_TYPE_AND_COUNT_OBSERVED",
+      "activation": "BLOCKED_CONTENT_MEDIA_AND_RENDERER_QA"
+    }
+  ],
+  "timing": {
+    "listeningMinutes": 17,
+    "readingMinutes": 25,
+    "writingMinutes": 10,
+    "answerTransferMinutes": 3,
+    "administrationMinutes": 5,
+    "totalApproximateMinutes": 60,
+    "evidence": {
+      "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+      "archiveMember": "HSK/HSK（二级）样卷.pdf",
+      "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+      "pdfPages": [
+        1
+      ],
+      "note": "Cover budgets; paper timing only, not IBT navigation/playback equivalence",
+      "checkedAt": "2026-10-16",
+      "scope": "PAPER_SAMPLE_ONLY"
+    }
+  },
+  "totalQuestions": 60,
+  "skills": [
+    "listening",
+    "reading",
+    "writing"
+  ],
+  "scoring": {
+    "officialScale": "NOT_VERIFIED",
+    "passThreshold": null,
+    "answerKeyCompatibility": "BLOCKED_NUMBERING_CONFLICT"
+  },
+  "sourceConflicts": [
+    {
+      "id": "WRITING_ANSWER_NUMBERING",
+      "sampleRanges": [
+        "W1:51–55",
+        "W2:56–60"
+      ],
+      "answerDocumentRanges": [
+        "W1:54–58",
+        "W2:59–63"
+      ],
+      "evidence": {
+        "answerPdfSha256": "4bb64c8d61a3b385c66cce19222edafbd6149d8542339fbaa4bf04487bc7dbfd",
+        "answerPdfPage": 2
+      },
+      "resolution": "Do not silently reindex official answer keys; expert/CTI clarification required"
+    }
+  ],
+  "blockers": [
+    "NO_ORIGINAL_QUESTION_BANK",
+    "NO_RIGHTS_VERIFIED_AUDIO",
+    "NO_HUMAN_REVIEW",
+    "WRITING_RENDERER_QA_REQUIRED",
+    "ANSWER_KEY_NUMBERING_CONFLICT",
+    "IBT_RULES_AND_SCORING_NOT_VERIFIED"
+  ]
+}

@@ -1,0 +1,4 @@
+import {readFile,writeFile} from 'node:fs/promises';const f='scripts/v7-browser-flows.mjs';let s=await readFile(f,'utf8');s=s.replace(" for(const part of ['L1'",` await evaluate("(()=>{window.__v7Timers=new Set();window.__v7SetTimeout=window.setTimeout;window.__v7ClearTimeout=window.clearTimeout;window.setTimeout=(fn,ms,...args)=>{const id=window.__v7SetTimeout(()=>{window.__v7Timers.delete(id);fn(...args)},ms);if(ms===12000)window.__v7Timers.add(id);return id;};window.clearTimeout=id=>{window.__v7Timers.delete(id);window.__v7ClearTimeout(id);};})()");
+ for(const part of ['L1'`);
+s=s.replace("await screenshot('v7-audio-retry-ten-cycles');", "assert.equal(await evaluate('window.__v7Timers.size'),0,'Ready audio must have no orphan 12s watchdog');await screenshot('v7-audio-retry-ten-cycles');");
+s=s.replace(" const key='hsk-v4-preview-study-v1'", " const key='hsk-v4-preview-study-v1'");await writeFile(f,s);

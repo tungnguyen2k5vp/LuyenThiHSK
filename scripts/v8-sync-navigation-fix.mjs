@@ -1,0 +1,1 @@
+import {readFile,writeFile} from 'node:fs/promises';const p='scripts/v8-sync-browser.mjs',s=await readFile(p,'utf8');await writeFile(p,s.replace("evalJS('document.readyState===\"complete\"')", "evalJS('document.readyState===\"complete\"&&location.origin==='+JSON.stringify(base))"));

@@ -1,0 +1,321 @@
+/**
+ * HSK UI V14 - EXAM CATALOG & EXAM INTRO STYLES
+ * Scoped strictly under .hsk-ui-v14
+ */
+
+/* ==========================================================================
+   EXAM CATALOG WORKSPACE
+   ========================================================================== */
+.hsk-ui-v14 .v14-catalog-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--v14-space-6);
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: var(--v14-space-6) var(--v14-space-4) var(--v14-space-12);
+}
+
+.hsk-ui-v14 .v14-catalog-header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--v14-space-4);
+  border-bottom: 1px solid var(--v14-color-border);
+  padding-bottom: var(--v14-space-2);
+}
+
+.hsk-ui-v14 .v14-level-selector-wrap {
+  display: flex;
+  align-items: center;
+  gap: var(--v14-space-2);
+}
+
+.hsk-ui-v14 .v14-level-dropdown-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--v14-space-2);
+  background: transparent;
+  border: none;
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--v14-color-text-main);
+  cursor: pointer;
+  padding: var(--v14-space-1) var(--v14-space-2);
+  border-radius: var(--v14-radius-md);
+  transition: background-color var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-level-dropdown-btn:hover {
+  background-color: var(--v14-color-surface-hover);
+}
+
+/* Catalog Tabs (Migii style: Đề mô phỏng, Đề kỹ năng, Đề nâng cao) */
+.hsk-ui-v14 .v14-catalog-tabs {
+  display: flex;
+  gap: var(--v14-space-4);
+}
+
+.hsk-ui-v14 .v14-catalog-tab-btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--v14-space-2);
+  padding: var(--v14-space-2) var(--v14-space-1);
+  background: transparent;
+  border: none;
+  font-size: var(--v14-text-sm);
+  font-weight: 600;
+  color: var(--v14-color-text-secondary);
+  cursor: pointer;
+  transition: color var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-catalog-tab-btn:hover {
+  color: var(--v14-color-text-main);
+}
+
+.hsk-ui-v14 .v14-catalog-tab-btn.is-active {
+  color: var(--v14-color-primary);
+}
+
+.hsk-ui-v14 .v14-catalog-tab-btn.is-active::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background-color: var(--v14-color-primary);
+  border-radius: var(--v14-radius-full);
+}
+
+.hsk-ui-v14 .v14-tab-count-badge {
+  padding: 1px 6px;
+  border-radius: var(--v14-radius-full);
+  font-size: 0.75rem;
+  background-color: var(--v14-color-surface-soft);
+  color: var(--v14-color-text-secondary);
+}
+
+.hsk-ui-v14 .v14-catalog-tab-btn.is-active .v14-tab-count-badge {
+  background-color: var(--v14-color-primary-light);
+  color: var(--v14-color-primary);
+}
+
+/* Filter & Search Bar */
+.hsk-ui-v14 .v14-catalog-filter-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--v14-space-3);
+}
+
+.hsk-ui-v14 .v14-search-box {
+  position: relative;
+  flex: 1 1 280px;
+  max-width: 420px;
+}
+
+.hsk-ui-v14 .v14-search-input {
+  width: 100%;
+  padding: 10px 14px 10px 38px;
+  border-radius: var(--v14-radius-lg);
+  border: 1px solid var(--v14-color-border);
+  background-color: var(--v14-color-surface);
+  font-size: var(--v14-text-sm);
+  color: var(--v14-color-text-main);
+  outline: none;
+  transition: all var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-search-input:focus {
+  border-color: var(--v14-color-primary);
+  box-shadow: 0 0 0 3px var(--v14-color-primary-light);
+}
+
+.hsk-ui-v14 .v14-search-icon {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--v14-color-text-muted);
+  pointer-events: none;
+}
+
+.hsk-ui-v14 .v14-status-dropdown {
+  padding: 10px 14px;
+  border-radius: var(--v14-radius-lg);
+  border: 1px solid var(--v14-color-border);
+  background-color: var(--v14-color-surface);
+  font-size: var(--v14-text-sm);
+  color: var(--v14-color-text-body);
+  outline: none;
+  cursor: pointer;
+}
+
+/* Exam Grid */
+.hsk-ui-v14 .v14-exam-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--v14-space-5);
+}
+
+@media (max-width: 1100px) {
+  .hsk-ui-v14 .v14-exam-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .hsk-ui-v14 .v14-exam-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--v14-space-4);
+  }
+}
+
+@media (max-width: 480px) {
+  .hsk-ui-v14 .v14-exam-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Exam Card (Migii style) */
+.hsk-ui-v14 .v14-exam-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: var(--v14-radius-xl);
+  background-color: var(--v14-color-surface);
+  border: 1px solid var(--v14-color-border);
+  box-shadow: var(--v14-shadow-xs);
+  overflow: hidden;
+  cursor: pointer;
+  transition: all var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-exam-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--v14-color-primary-border);
+  box-shadow: var(--v14-shadow-md);
+}
+
+.hsk-ui-v14 .v14-exam-card-cover {
+  position: relative;
+  height: 130px;
+  background: linear-gradient(135deg, #f0fdfa 0%, #e0f2fe 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hsk-ui-v14 .v14-exam-card-body {
+  padding: var(--v14-space-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--v14-space-2);
+}
+
+.hsk-ui-v14 .v14-exam-status-tag {
+  font-size: var(--v14-text-xs);
+  color: var(--v14-color-text-muted);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.hsk-ui-v14 .v14-exam-card-title {
+  font-size: var(--v14-text-base);
+  font-weight: 700;
+  color: var(--v14-color-text-main);
+  margin: 0;
+}
+
+.hsk-ui-v14 .v14-exam-card-meta {
+  display: flex;
+  align-items: center;
+  gap: var(--v14-space-3);
+  font-size: var(--v14-text-xs);
+  color: var(--v14-color-text-secondary);
+}
+
+/* ==========================================================================
+   EXAM INTRO SCREEN
+   ========================================================================== */
+.hsk-ui-v14 .v14-intro-container {
+  max-width: 620px;
+  margin: var(--v14-space-8) auto;
+  padding: var(--v14-space-6);
+  background-color: var(--v14-color-surface);
+  border-radius: var(--v14-radius-2xl);
+  border: 1px solid var(--v14-color-border);
+  box-shadow: var(--v14-shadow-lg);
+  display: flex;
+  flex-direction: column;
+  gap: var(--v14-space-6);
+  text-align: center;
+}
+
+.hsk-ui-v14 .v14-intro-skills-box {
+  display: flex;
+  border-radius: var(--v14-radius-xl);
+  border: 1.5px solid var(--v14-color-primary-border);
+  background-color: var(--v14-color-primary-light);
+  overflow: hidden;
+}
+
+.hsk-ui-v14 .v14-intro-skill-col {
+  flex: 1;
+  padding: var(--v14-space-4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.hsk-ui-v14 .v14-intro-skill-col:not(:last-child) {
+  border-right: 1.5px solid var(--v14-color-primary-border);
+}
+
+.hsk-ui-v14 .v14-intro-notice-box {
+  padding: var(--v14-space-4);
+  border-radius: var(--v14-radius-lg);
+  background-color: var(--v14-color-accent-light);
+  border: 1px solid var(--v14-color-accent-border);
+  text-align: left;
+  font-size: var(--v14-text-xs);
+  color: #0369a1;
+  line-height: 1.6;
+}
+
+/* ==========================================================================
+   LISTENING INSTRUCTION MODAL TABLE
+   ========================================================================== */
+.hsk-ui-v14 .v14-instructions-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: var(--v14-radius-lg);
+  overflow: hidden;
+  border: 1px solid var(--v14-color-border);
+}
+
+.hsk-ui-v14 .v14-instructions-table th {
+  background-color: var(--v14-color-primary);
+  color: #ffffff;
+  padding: var(--v14-space-3);
+  font-size: var(--v14-text-sm);
+  font-weight: 600;
+  text-align: left;
+}
+
+.hsk-ui-v14 .v14-instructions-table td {
+  padding: var(--v14-space-3);
+  font-size: var(--v14-text-sm);
+  color: var(--v14-color-text-body);
+  border-bottom: 1px solid var(--v14-color-border);
+}
+
+.hsk-ui-v14 .v14-instructions-table tr:last-child td {
+  border-bottom: none;
+}

@@ -1,0 +1,68 @@
+{
+  "at": "2026-10-16T10:29:44.590Z",
+  "mode": "SELECTIVE_RETEST",
+  "retested": "v7",
+  "previousRunAt": "2026-10-16T10:25:56.846Z",
+  "results": [
+    {
+      "suite": "v5",
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "at": "2026-10-16T10:24:52.421Z",
+      "durationMs": 20667,
+      "logFile": "matrix-v5-chrome-1792146292420.log"
+    },
+    {
+      "suite": "v4",
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "at": "2026-10-16T10:25:10.691Z",
+      "durationMs": 18269,
+      "logFile": "matrix-v4-chrome-1792146310691.log"
+    },
+    {
+      "suite": "v1-v3",
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "at": "2026-10-16T10:25:53.812Z",
+      "durationMs": 43120,
+      "logFile": "matrix-v1-v3-chrome-1792146353812.log"
+    },
+    {
+      "suite": "v6-stress",
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "at": "2026-10-16T10:25:56.846Z",
+      "durationMs": 3033,
+      "logFile": "matrix-v6-stress-chrome-1792146356845.log"
+    },
+    {
+      "suite": "v7",
+      "browser": "Chrome",
+      "status": "FAIL",
+      "exitCode": 1,
+      "at": "2026-10-16T10:28:31.864Z",
+      "durationMs": 56568,
+      "logFile": "matrix-v7-chrome-1792146511863.log"
+    },
+    {
+      "suite": "v7",
+      "browser": "Edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "at": "2026-10-16T10:29:44.589Z",
+      "durationMs": 72723,
+      "logFile": "matrix-v7-edge-1792146584589.log"
+    }
+  ],
+  "notAvailable": [
+    "Firefox binary absent",
+    "Safari/WebKit unavailable",
+    "No real Android/iOS device"
+  ],
+  "mobile": "Viewport emulation"
+}

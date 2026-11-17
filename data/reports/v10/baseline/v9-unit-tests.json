@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-16T17:12:44.822Z",
+  "status": "PASS",
+  "assertions": 110,
+  "scope": [
+    "All 60 new drafts",
+    "part availability and two independent mini sessions",
+    "manual writing does not become incorrect/0%",
+    "Unicode multiline save/restore",
+    "mistake resolver",
+    "unique grammar evidence",
+    "source numbering block",
+    "audio provenance gate"
+  ],
+  "humanReview": false
+}

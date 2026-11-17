@@ -1,0 +1,14 @@
+import {randomBytes} from 'node:crypto';
+import {gradeRegisteredAnswer} from '../shared/question-types.mjs';
+// Private integration adapter only. A deployed authenticated transport and durable
+// attempt store are prerequisites; this adapter is not mounted as a public exam API.
+export function createServerGradingAdapter({now=()=>Date.now(),ttlMs=3600000,store=new Map(),audit=()=>{},rateLimit=120}={}){
+ const attempts=store,limits=new Map();
+ const rate=owner=>{const old=limits.get(owner),row=old&&old.until>now()?old:{count:0,until:now()+60000};if(++row.count>rateLimit)throw Error('RATE_LIMITED');limits.set(owner,row);};
+ const image=i=>i?{assetId:i.assetId,src:i.src,altText:i.altText,width:i.width,height:i.height}:undefined;
+ const question=q=>({id:q.id,revision:q.revision,type:q.type,skill:q.skill,partId:q.partId,instruction:q.instruction,promptZh:q.skill==='listening'?undefined:q.promptZh,candidatePromptZh:q.candidatePromptZh,pinyinIsExamContent:q.pinyinIsExamContent,promptPinyin:q.pinyinIsExamContent?q.promptPinyin:undefined,options:q.options.map(o=>({id:o.id,text:o.text,pinyin:q.pinyinIsExamContent?o.pinyin:undefined,image:image(o.image)})),image:image(q.image),audio:q.audio?{kind:q.audio.kind,src:q.audio.src}:undefined,matching:q.matching?{items:q.matching.items.map(i=>({id:i.id,text:i.text})),uniqueOptions:q.matching.uniqueOptions}:undefined});
+ return {
+  start(ownerId,exam){if(typeof ownerId!=='string'||!ownerId)throw Error('AUTH_REQUIRED');rate(ownerId);if(!exam.questions?.length||exam.questions.some(q=>q.scoring==='manual'||['short-answer','speaking'].includes(q.type)))throw Error('REQUIRES_HUMAN_GRADING');const id=randomBytes(18).toString('hex'),nonce=randomBytes(24).toString('hex');attempts.set(id,{ownerId,nonce,exam:structuredClone(exam),expiresAt:now()+ttlMs,result:null});audit({event:'START',id,ownerId,at:now()});return {id,nonce,questions:exam.questions.map(question)};},
+  submit(ownerId,{id,nonce,answers}){rate(ownerId);const a=attempts.get(id);if(!a||a.ownerId!==ownerId||a.nonce!==nonce)throw Error('ATTEMPT_AUTH_REJECTED');if(a.result){audit({event:'REPLAY',id,ownerId,at:now()});return structuredClone(a.result);}if(a.expiresAt<=now())throw Error('ATTEMPT_EXPIRED');if(!answers||typeof answers!=='object'||Array.isArray(answers)||Object.keys(answers).some(k=>!a.exam.questions.some(q=>q.id===k))||Object.values(answers).some(v=>typeof v!=='string'||v.length>4000))throw Error('INVALID_ANSWERS');const rows=a.exam.questions.map(q=>({id:q.id,revision:q.revision,correct:gradeRegisteredAnswer(q,answers[q.id]??'')})),correct=rows.filter(r=>r.correct).length;a.result={id,rows,correct,total:rows.length,rawAccuracy:100*correct/rows.length,officialScaledScore:null,authority:'PLATFORM_PRACTICE'};attempts.set(id,a);audit({event:'SUBMIT',id,ownerId,at:now()});return structuredClone(a.result);}
+ };
+}

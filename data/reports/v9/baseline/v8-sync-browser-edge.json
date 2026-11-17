@@ -1,0 +1,363 @@
+{
+  "at": "2026-10-16T14:37:43.790Z",
+  "status": "PASS",
+  "assertions": 23,
+  "realTabs": true,
+  "profiles": 2,
+  "browser": "Edge",
+  "provider": "HTTP_QA_FIXTURE_NOT_LIVE_CLOUD",
+  "requests": [
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "b671dd56-187d-4732-89d1-5a0e1fb0f9af",
+      "kind": "profile",
+      "id": "learner",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "b63ec726-6b06-4231-96a6-807f201a221a",
+      "kind": "target",
+      "id": "hsk",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "1a218d16-631e-469b-983a-6d7e464ddc47",
+      "kind": "settings",
+      "id": "preferences",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "2ffb211e-c9ea-4744-9b32-d0147dee53d1",
+      "kind": "srs_events",
+      "id": "b:2026-10-16T11-00-01Z",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "b105a7fc-2931-4ae2-bc8a-826b988c5324",
+      "kind": "vocabulary",
+      "id": "b",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "ae438d7d-2825-4d91-ac4f-fd752b1be9e6",
+      "kind": "srs_events",
+      "id": "a:2026-10-16T11-00-00Z",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "f9c1a8ac-bfc9-4f60-967b-19f6768773a2",
+      "kind": "vocabulary",
+      "id": "a",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "1813cc4e-f628-4f12-9440-7233e3531c62",
+      "kind": "grammar",
+      "id": "crash",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "e91982ad-5206-439d-8222-7c16526ddd9b",
+      "kind": "attempts",
+      "id": "same-attempt",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "f5f02e97-5bc9-49a7-bfec-147c381e3436",
+      "kind": "results",
+      "id": "same-attempt",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "359be260-3c55-4daa-b764-9c19e8780aa9",
+      "kind": "grammar",
+      "id": "replay",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "359be260-3c55-4daa-b764-9c19e8780aa9",
+      "kind": "grammar",
+      "id": "replay",
+      "status": "REPLAYED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "3c937d2f-ff66-4af7-a07e-d866aa94efcf",
+      "kind": "grammar",
+      "id": "offline",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "43aecf8e-f902-46c1-9332-0dac8d4bb500",
+      "kind": "grammar",
+      "id": "conflict",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "a697b2ce-4373-4457-8a67-03cd2ed2a416",
+      "kind": "grammar",
+      "id": "conflict",
+      "status": "CONFLICT"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "0c339554-847e-4238-b7a8-ebfe4b23602b",
+      "kind": "grammar",
+      "id": "fallback",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "20000000-0000-4000-8000-000000000002",
+      "opId": "a321e5c9-d332-4762-94e8-da57fd8ce715",
+      "kind": "profile",
+      "id": "learner",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "20000000-0000-4000-8000-000000000002",
+      "opId": "515d888d-b8a8-40a5-abf9-8a7e3f8d5d96",
+      "kind": "target",
+      "id": "hsk",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "20000000-0000-4000-8000-000000000002",
+      "opId": "6b3a88a1-f793-465c-b1a4-0cbe4d6d1363",
+      "kind": "settings",
+      "id": "preferences",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "20000000-0000-4000-8000-000000000002",
+      "opId": "7313f198-9194-4748-aa60-44a32a7e69c1",
+      "kind": "grammar",
+      "id": "userb",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "30000000-0000-4000-8000-000000000003",
+      "opId": "4d462f15-23db-4619-989d-5fd2ae2c2e5f",
+      "kind": "grammar",
+      "id": "legacy",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "e0dd3dd3-f8b0-4129-8233-6d5891679e7e",
+      "kind": "profile",
+      "id": "learner",
+      "status": "CONFLICT"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "1c5b9d83-d9d6-4a6e-82b6-994f00a47e4b",
+      "kind": "target",
+      "id": "hsk",
+      "status": "CONFLICT"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "b5509800-8843-43fc-98c5-2221ab254dbd",
+      "kind": "settings",
+      "id": "preferences",
+      "status": "CONFLICT"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "c45bf520-986a-44f1-bd5a-495896e9c39c",
+      "kind": "grammar",
+      "id": "profile2",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "0e3c839c-493d-40f9-abc3-28c4db93e7d5",
+      "kind": "grammar",
+      "id": "perf0",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "67c643bc-3d51-42f1-b660-fdd47215de43",
+      "kind": "grammar",
+      "id": "perf1",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "1274d8c8-fb74-45f2-ae84-a45b1f43d944",
+      "kind": "grammar",
+      "id": "perf2",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "c38468e3-a9f2-45f4-a743-1555619518c9",
+      "kind": "grammar",
+      "id": "perf3",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "34853f8f-3c73-46bc-96b4-893432550f51",
+      "kind": "grammar",
+      "id": "perf4",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "c1d82d9c-5282-4d5f-acb4-3aedfbfec844",
+      "kind": "grammar",
+      "id": "perf5",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "ac8117b6-4dc6-40f1-9fed-2387ab4aec8c",
+      "kind": "grammar",
+      "id": "perf6",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "3cd67cd4-4c94-4936-9b3d-66cac392e735",
+      "kind": "grammar",
+      "id": "perf7",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "588b169b-6d0b-47e4-a211-004131035536",
+      "kind": "grammar",
+      "id": "perf8",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "1e3fc02e-92fa-41be-8362-d102d20656a1",
+      "kind": "grammar",
+      "id": "perf9",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "704de373-d3e5-480c-92b9-0e7198712f2b",
+      "kind": "grammar",
+      "id": "perf10",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "a19feb9e-bc5e-46d3-ba4f-61f787af0494",
+      "kind": "grammar",
+      "id": "perf11",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "43ed6279-3ce4-4b54-a32b-d401112ed7d8",
+      "kind": "grammar",
+      "id": "perf12",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "96f5d4f8-3e0a-4b45-918c-e0130edb2766",
+      "kind": "grammar",
+      "id": "perf13",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "72eb6a96-9c1e-4ad6-86e0-74c3e75802d3",
+      "kind": "grammar",
+      "id": "perf14",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "1ab4a91a-c155-4b3a-a667-43aaca79a8de",
+      "kind": "grammar",
+      "id": "perf15",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "6bc531ee-a37c-4602-aaf5-ebbc3f9e9381",
+      "kind": "grammar",
+      "id": "perf16",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "ba139b86-a620-44ae-9afb-65d6e31212be",
+      "kind": "grammar",
+      "id": "perf17",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "d2a41ba0-f758-48d0-8fa2-ca25c93e996f",
+      "kind": "grammar",
+      "id": "perf18",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "d2d3b676-2980-40e5-b46d-8577664fbf3c",
+      "kind": "grammar",
+      "id": "perf19",
+      "status": "APPLIED"
+    }
+  ],
+  "samplesMs": [
+    4.199999988079071,
+    4.0999999940395355,
+    6.9000000059604645,
+    4,
+    5,
+    5.5,
+    4.0999999940395355,
+    5.5999999940395355,
+    4.0999999940395355,
+    4,
+    4.9000000059604645,
+    4.9000000059604645,
+    3.899999976158142,
+    4.199999988079071,
+    4.4000000059604645,
+    4.0999999940395355,
+    3.899999976158142,
+    4.4000000059604645,
+    4.299999982118607,
+    3.9000000059604645
+  ],
+  "fallback": "FAIL_CLOSED_DURABLE_JOURNAL",
+  "liveCloud": "LIVE_CLOUD_NOT_VERIFIED",
+  "areas": [
+    "concurrent capture",
+    "page close while lock pending",
+    "journal recovery",
+    "SRS retention",
+    "immutable attempt dedupe",
+    "offline reconnect",
+    "response loss replay",
+    "CAS",
+    "logout",
+    "two owners",
+    "two profiles"
+  ]
+}

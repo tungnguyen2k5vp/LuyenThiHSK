@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-19T07:15:12.200Z",
+  "status": "PASS",
+  "fixtureId": "suite-v1-v3-isolated",
+  "isolatedRuntime": "C:\\Users\\Admin\\AppData\\Local\\Temp\\hsk-browser-admin-dIlTvK",
+  "checkedFixtureIds": [
+    "qa-v3-1792394104061-question",
+    "qa-v3-1792394104061-audio",
+    "qa-v3-1792394104061-lesson-question",
+    "qa-v3-1792394104061-lesson"
+  ],
+  "mainFixtureCreated": false,
+  "source": "Frozen V13 baseline copied to a disposable SQLite; positive generic admin fixture is not expert approval or published learner content"
+}

@@ -1,0 +1,6 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const path='scripts/v9-browser-flows.mjs';let s=await readFile(path,'utf8');
+s=s.replace('const counts=await evaluate(\'document.querySelector(".result-summary-card").innerText.replace(/\\s+/g," ")\');assert.ok(counts.includes(\'1 Sai\')&&counts.includes(\'1 Bỏ trống\'));',"const counts=await resultCounts();assert.deepEqual(counts,{'Đúng':1,'Sai':1,'Bỏ trống':1,'Chưa chấm':0});");
+s=s.replace('const ungraded=await evaluate(\'document.querySelector(".result-summary-card").innerText.replace(/\\s+/g," ")\');assert.ok(ungraded.includes(\'3 Chưa chấm\')&&ungraded.includes(\'0 Sai\')&&!ungraded.includes(\'0%\'));',"const ungraded=await resultCounts();assert.deepEqual(ungraded,{'Đúng':0,'Sai':0,'Bỏ trống':0,'Chưa chấm':3});assert.equal(await evaluate('document.querySelector(\".result-summary-card h2\").textContent'),'Chưa có câu chấm tự động');");
+await writeFile(path,s);
+const legacy='scripts/v6-browser-flows.mjs';s=await readFile(legacy,'utf8');s=s.replace("const grammarSupplement=(await api('v8/grammar-supplement')).questions;","const grammarSupplement=[...(await api('v8/grammar-supplement')).questions,...(await api('v9/practice')).grammarSupplement];");await writeFile(legacy,s);

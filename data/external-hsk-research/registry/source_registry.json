@@ -1,0 +1,4503 @@
+[
+  {
+    "sourceId": "src-30651d37b6d9",
+    "name": "krmanik/HSK-3.0",
+    "baseUrl": "https://github.com/krmanik/HSK-3.0",
+    "sourceType": "GITHUB",
+    "organization": "krmanik",
+    "accessedAt": "2026-10-25T04:50:32.297Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "NOASSERTION",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "LEGAL_REVIEW_REQUIRED",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition.",
+      "Mixed component licenses; blanket permission for OCR grammar/official examples not established. Existing dictionaries already cover needed word fields."
+    ],
+    "repo": "krmanik/HSK-3.0",
+    "defaultBranch": "main",
+    "sourceRevision": "d30e97016a7f52af6437805170759031d93bbe6a",
+    "licenseEvidence": [
+      "registry/evidence/src-30651d37b6d9-License.md.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "License.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-30651d37b6d9-License.md.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-30651d37b6d9-README.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "BCT/BCTA_cihui.txt",
+        "bytes": 6056
+      },
+      {
+        "path": "BCT/BCTB_cihui.txt",
+        "bytes": 46371
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 1.txt",
+        "bytes": 393610
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 2.txt",
+        "bytes": 575866
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 3.txt",
+        "bytes": 725627
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 4.txt",
+        "bytes": 741494
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 5.txt",
+        "bytes": 769829
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 6.txt",
+        "bytes": 829757
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 7-9.txt",
+        "bytes": 4148441
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 1.txt",
+        "bytes": 8733
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 2.txt",
+        "bytes": 15183
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 3.txt",
+        "bytes": 17181
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 4.txt",
+        "bytes": 14482
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 5.txt",
+        "bytes": 16746
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 6.txt",
+        "bytes": 12802
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 7-9.txt",
+        "bytes": 27832
+      },
+      {
+        "path": "New HSK (2021)/HSK Handwritten/Advanced.txt",
+        "bytes": 1999
+      },
+      {
+        "path": "New HSK (2021)/HSK Handwritten/Elementary.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Handwritten/Medium.txt",
+        "bytes": 1599
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 1.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 2.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 3.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 4.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 5.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 6.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 7-9.txt",
+        "bytes": 4799
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 1.txt",
+        "bytes": 2959
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 2.txt",
+        "bytes": 4945
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 3.txt",
+        "bytes": 6374
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 4.txt",
+        "bytes": 6580
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 5.txt",
+        "bytes": 7096
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 6.txt",
+        "bytes": 7592
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 7-9.txt",
+        "bytes": 41486
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 1 with frequency.tsv",
+        "bytes": 393069
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 2 with frequency.tsv",
+        "bytes": 575064
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 3 with frequency.tsv",
+        "bytes": 724623
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 4 with frequency.tsv",
+        "bytes": 740461
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 5 with frequency.tsv",
+        "bytes": 768724
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 6 with frequency.tsv",
+        "bytes": 828585
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 7-9 with frequency.tsv",
+        "bytes": 4142784
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 1.tsv",
+        "bytes": 393066
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 2.tsv",
+        "bytes": 575061
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 3.tsv",
+        "bytes": 724620
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 4.tsv",
+        "bytes": 740458
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 5.tsv",
+        "bytes": 768721
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 6.tsv",
+        "bytes": 828582
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 7-9.tsv",
+        "bytes": 4142781
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 1.tsv",
+        "bytes": 36940
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 2.tsv",
+        "bytes": 63674
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 3.tsv",
+        "bytes": 83080
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 4.tsv",
+        "bytes": 82290
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 5.tsv",
+        "bytes": 81297
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 6.tsv",
+        "bytes": 82750
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 7-9.tsv",
+        "bytes": 398101
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 1.txt",
+        "bytes": 10532
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 2.txt",
+        "bytes": 17919
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 3.txt",
+        "bytes": 23181
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 4.txt",
+        "bytes": 23628
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 5.txt",
+        "bytes": 25476
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 6.txt",
+        "bytes": 27498
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 7-9.txt",
+        "bytes": 152043
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 1 with zhuyin.tsv",
+        "bytes": 283201
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 2 with zhuyin.tsv",
+        "bytes": 413230
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 3 with zhuyin.tsv",
+        "bytes": 515527
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 4 with zhuyin.tsv",
+        "bytes": 523506
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 5 with zhuyin.tsv",
+        "bytes": 540169
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 6 with zhuyin.tsv",
+        "bytes": 582428
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 7-9 with zhuyin.tsv",
+        "bytes": 2896284
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 1.txt",
+        "bytes": 2968
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 2.txt",
+        "bytes": 4970
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 3.txt",
+        "bytes": 6402
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 4.txt",
+        "bytes": 6597
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 5.txt",
+        "bytes": 7112
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 6.txt",
+        "bytes": 7613
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 7-9.txt",
+        "bytes": 41563
+      },
+      {
+        "path": "New HSK (2025)/Anki xiehanzi/HSK_Level_1.txt",
+        "bytes": 163892
+      },
+      {
+        "path": "New HSK (2025)/Anki xiehanzi/HSK_Level_2.txt",
+        "bytes": 123552
+      },
+      {
+        "path": "New HSK (2025)/Anki xiehanzi/HSK_Level_3.txt",
+        "bytes": 267703
+      },
+      {
+        "path": "New HSK (2025)/Anki xiehanzi/HSK_Level_4.txt",
+        "bytes": 524627
+      },
+      {
+        "path": "New HSK (2025)/Anki xiehanzi/HSK_Level_5.txt",
+        "bytes": 831816
+      }
+    ],
+    "termsReview": "GitHub Terms evidence + repository README/LICENSE/NOTICE scope reviewed",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0,
+    "crawlPolicyOrigins": [
+      "https://api.github.com/robots.txt",
+      "https://raw.githubusercontent.com/robots.txt"
+    ]
+  },
+  {
+    "sourceId": "src-a5eba5eb02de",
+    "name": "uranbekanarbaev/hsk-3.0-vocabulary-dataset",
+    "baseUrl": "https://github.com/uranbekanarbaev/hsk-3.0-vocabulary-dataset",
+    "sourceType": "GITHUB",
+    "organization": "uranbekanarbaev",
+    "accessedAt": "2026-10-25T04:50:40.363Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "MIT",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "LEGAL_REVIEW_REQUIRED",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition.",
+      "LICENSE.md excludes source syllabus and derived transcriptions; MIT applies only to app code."
+    ],
+    "repo": "uranbekanarbaev/hsk-3.0-vocabulary-dataset",
+    "defaultBranch": "main",
+    "sourceRevision": "6859875bf3ba3b7209dee3b23171f893f7493776",
+    "licenseEvidence": [
+      "registry/evidence/src-a5eba5eb02de-LICENSE.md.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "LICENSE.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-a5eba5eb02de-LICENSE.md.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-a5eba5eb02de-README.md.json"
+      },
+      {
+        "path": "SOURCES.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-a5eba5eb02de-SOURCES.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "data/by-level/hsk-1.csv",
+        "bytes": 11247
+      },
+      {
+        "path": "data/by-level/hsk-1.json",
+        "bytes": 63941
+      },
+      {
+        "path": "data/by-level/hsk-2.csv",
+        "bytes": 7953
+      },
+      {
+        "path": "data/by-level/hsk-2.json",
+        "bytes": 43035
+      },
+      {
+        "path": "data/by-level/hsk-3.csv",
+        "bytes": 19974
+      },
+      {
+        "path": "data/by-level/hsk-3.json",
+        "bytes": 107872
+      },
+      {
+        "path": "data/by-level/hsk-4.csv",
+        "bytes": 42125
+      },
+      {
+        "path": "data/by-level/hsk-4.json",
+        "bytes": 218003
+      },
+      {
+        "path": "data/by-level/hsk-5.csv",
+        "bytes": 67334
+      },
+      {
+        "path": "data/by-level/hsk-5.json",
+        "bytes": 348776
+      },
+      {
+        "path": "data/by-level/hsk-6.csv",
+        "bytes": 75920
+      },
+      {
+        "path": "data/by-level/hsk-6.json",
+        "bytes": 392590
+      },
+      {
+        "path": "data/by-level/hsk-7-9.csv",
+        "bytes": 267736
+      },
+      {
+        "path": "data/by-level/hsk-7-9.json",
+        "bytes": 1253170
+      },
+      {
+        "path": "data/cumulative/hsk-1.csv",
+        "bytes": 11247
+      },
+      {
+        "path": "data/cumulative/hsk-1.json",
+        "bytes": 63941
+      },
+      {
+        "path": "data/cumulative/hsk-2.csv",
+        "bytes": 19115
+      },
+      {
+        "path": "data/cumulative/hsk-2.json",
+        "bytes": 106973
+      },
+      {
+        "path": "data/cumulative/hsk-3.csv",
+        "bytes": 39004
+      },
+      {
+        "path": "data/cumulative/hsk-3.json",
+        "bytes": 214842
+      },
+      {
+        "path": "data/cumulative/hsk-4.csv",
+        "bytes": 81044
+      },
+      {
+        "path": "data/cumulative/hsk-4.json",
+        "bytes": 432842
+      },
+      {
+        "path": "data/cumulative/hsk-5.csv",
+        "bytes": 148293
+      },
+      {
+        "path": "data/cumulative/hsk-5.json",
+        "bytes": 781615
+      },
+      {
+        "path": "data/cumulative/hsk-6.csv",
+        "bytes": 224128
+      },
+      {
+        "path": "data/cumulative/hsk-6.json",
+        "bytes": 1174202
+      },
+      {
+        "path": "data/cumulative/hsk-7-9.csv",
+        "bytes": 491779
+      },
+      {
+        "path": "data/cumulative/hsk-7-9.json",
+        "bytes": 2427369
+      },
+      {
+        "path": "data/hsk-3.0-all.csv",
+        "bytes": 491779
+      },
+      {
+        "path": "data/hsk-3.0-all.json",
+        "bytes": 2427369
+      }
+    ],
+    "termsReview": "GitHub Terms evidence + repository README/LICENSE/NOTICE scope reviewed",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0,
+    "crawlPolicyOrigins": [
+      "https://api.github.com/robots.txt",
+      "https://raw.githubusercontent.com/robots.txt"
+    ]
+  },
+  {
+    "sourceId": "src-fd80908e99ad",
+    "name": "ivankra/hsk30",
+    "baseUrl": "https://github.com/ivankra/hsk30",
+    "sourceType": "GITHUB",
+    "organization": "ivankra",
+    "accessedAt": "2026-10-25T04:50:47.078Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "MIT",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "LEGAL_REVIEW_REQUIRED",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition.",
+      "README explicitly questions rights in original official work despite upstream MIT labels."
+    ],
+    "repo": "ivankra/hsk30",
+    "defaultBranch": "master",
+    "sourceRevision": "4ff9e3915ce87baaecd7ebe263085573a4ea3192",
+    "licenseEvidence": [
+      "registry/evidence/src-fd80908e99ad-LICENSE.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "LICENSE",
+        "status": 200,
+        "evidence": "registry/evidence/src-fd80908e99ad-LICENSE.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-fd80908e99ad-README.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "data/variants.csv",
+        "bytes": 2392
+      },
+      {
+        "path": "hsk30-chars.csv",
+        "bytes": 108366
+      },
+      {
+        "path": "hsk30-expanded.csv",
+        "bytes": 941057
+      },
+      {
+        "path": "hsk30-grammar.csv",
+        "bytes": 38801
+      },
+      {
+        "path": "hsk30.csv",
+        "bytes": 948891
+      }
+    ],
+    "termsReview": "GitHub Terms evidence + repository README/LICENSE/NOTICE scope reviewed",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0,
+    "crawlPolicyOrigins": [
+      "https://api.github.com/robots.txt",
+      "https://raw.githubusercontent.com/robots.txt"
+    ]
+  },
+  {
+    "sourceId": "src-410b3c9a627a",
+    "name": "ayman-ezz/hsk-3.0-word-list",
+    "baseUrl": "https://github.com/ayman-ezz/hsk-3.0-word-list",
+    "sourceType": "GITHUB",
+    "organization": "ayman-ezz",
+    "accessedAt": "2026-10-25T04:50:51.701Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "CC BY 4.0 compilation + MIT source notice",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceEdition": "GF0025-2021",
+    "hskVersion": "HSK 3.0",
+    "allowedScope": [
+      "VOCABULARY"
+    ],
+    "rightsStatus": "REUSE_WITH_ATTRIBUTION",
+    "attribution": "HSK University / HSK Digital LLC; Ivan Krasilnikov, Shawky, Pleco Inc.; keep LICENSE and NOTICE",
+    "shareAlikeRequired": false,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition.",
+      "LICENSE expressly covers cleaned headword/pinyin compilation in data/. Scope excludes ownership of official standard; no official sample questions or grammar extracted."
+    ],
+    "repo": "ayman-ezz/hsk-3.0-word-list",
+    "defaultBranch": "main",
+    "sourceRevision": "8c79c71915c25a80e5e68aacec940449b36060d8",
+    "licenseEvidence": [
+      "registry/evidence/src-410b3c9a627a-LICENSE.json",
+      "registry/evidence/src-410b3c9a627a-NOTICE.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "LICENSE",
+        "status": 200,
+        "evidence": "registry/evidence/src-410b3c9a627a-LICENSE.json"
+      },
+      {
+        "path": "NOTICE",
+        "status": 200,
+        "evidence": "registry/evidence/src-410b3c9a627a-NOTICE.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-410b3c9a627a-README.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "data/all.jsonl",
+        "bytes": 1530487
+      },
+      {
+        "path": "data/hsk30-band1.csv",
+        "bytes": 21784
+      },
+      {
+        "path": "data/hsk30-band2.csv",
+        "bytes": 35649
+      },
+      {
+        "path": "data/hsk30-band3.csv",
+        "bytes": 45620
+      },
+      {
+        "path": "data/hsk30-band4.csv",
+        "bytes": 46419
+      },
+      {
+        "path": "data/hsk30-band5.csv",
+        "bytes": 50181
+      },
+      {
+        "path": "data/hsk30-band6.csv",
+        "bytes": 54002
+      },
+      {
+        "path": "data/hsk30-band7-9.csv",
+        "bytes": 301093
+      },
+      {
+        "path": "source/hsk30-official.csv",
+        "bytes": 269166
+      }
+    ],
+    "termsReview": "GitHub Terms evidence + repository README/LICENSE/NOTICE scope reviewed",
+    "researchRawFileRevisions": 1,
+    "researchNormalizedRecords": 11092,
+    "reviewRequired": 11092,
+    "nextAction": "Review language, edition, license obligations and duplicate candidates; user chooses any future import",
+    "researchCoverage": {
+      "HSK 3.0|GF0025-2021|7-9|VOCABULARY": 5636,
+      "HSK 3.0|GF0025-2021|4|VOCABULARY": 1000,
+      "HSK 3.0|GF0025-2021|2|VOCABULARY": 772,
+      "HSK 3.0|GF0025-2021|6|VOCABULARY": 1140,
+      "HSK 3.0|GF0025-2021|1|VOCABULARY": 500,
+      "HSK 3.0|GF0025-2021|3|VOCABULARY": 973,
+      "HSK 3.0|GF0025-2021|5|VOCABULARY": 1071
+    },
+    "exactDuplicateCandidates": 18,
+    "excludedRows": 0,
+    "crawlPolicyOrigins": [
+      "https://api.github.com/robots.txt",
+      "https://raw.githubusercontent.com/robots.txt"
+    ]
+  },
+  {
+    "sourceId": "src-eaf581c7bd3d",
+    "name": "drkameleon/complete-hsk-vocabulary",
+    "baseUrl": "https://github.com/drkameleon/complete-hsk-vocabulary",
+    "sourceType": "GITHUB",
+    "organization": "drkameleon",
+    "accessedAt": "2026-10-25T04:50:58.613Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "MIT compilation; CC BY-SA 4.0 inherited dictionary fields",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "VOCABULARY",
+      "DICTIONARY_ENTRY"
+    ],
+    "rightsStatus": "SHARE_ALIKE_REQUIRED",
+    "attribution": "Yanis Zafirópulos; CC-CEDICT contributors; retain MIT notice and CC BY-SA 4.0 for dictionary adaptations",
+    "shareAlikeRequired": true,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition.",
+      "Repository explicitly presents itself as the vocabulary dataset; retain individual level labels and dictionary-form distinctions. No third-party audio.",
+      "README explicitly identifies CC-CEDICT definitions, SUBTLEX frequency and upstream wordlists. MIT is not used to remove upstream obligations. newest-* edition is not explained in audited README; do not silently call it 2025."
+    ],
+    "repo": "drkameleon/complete-hsk-vocabulary",
+    "defaultBranch": "main",
+    "sourceRevision": "7ac65bf1a6387d35f1ade478906172a19311c7f9",
+    "licenseEvidence": [
+      "registry/evidence/src-eaf581c7bd3d-LICENSE.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "LICENSE",
+        "status": 200,
+        "evidence": "registry/evidence/src-eaf581c7bd3d-LICENSE.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-eaf581c7bd3d-README.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "complete.json",
+        "bytes": 9763716
+      },
+      {
+        "path": "complete.min.json",
+        "bytes": 2974371
+      },
+      {
+        "path": "wordlists/exclusive/new/1.json",
+        "bytes": 495350
+      },
+      {
+        "path": "wordlists/exclusive/new/1.min.json",
+        "bytes": 140204
+      },
+      {
+        "path": "wordlists/exclusive/new/2.json",
+        "bytes": 659502
+      },
+      {
+        "path": "wordlists/exclusive/new/2.min.json",
+        "bytes": 190439
+      },
+      {
+        "path": "wordlists/exclusive/new/3.json",
+        "bytes": 804735
+      },
+      {
+        "path": "wordlists/exclusive/new/3.min.json",
+        "bytes": 235876
+      },
+      {
+        "path": "wordlists/exclusive/new/4.json",
+        "bytes": 804440
+      },
+      {
+        "path": "wordlists/exclusive/new/4.min.json",
+        "bytes": 235546
+      },
+      {
+        "path": "wordlists/exclusive/new/5.json",
+        "bytes": 841905
+      },
+      {
+        "path": "wordlists/exclusive/new/5.min.json",
+        "bytes": 249373
+      },
+      {
+        "path": "wordlists/exclusive/new/6.json",
+        "bytes": 914960
+      },
+      {
+        "path": "wordlists/exclusive/new/6.min.json",
+        "bytes": 270401
+      },
+      {
+        "path": "wordlists/exclusive/new/7.json",
+        "bytes": 4325996
+      },
+      {
+        "path": "wordlists/exclusive/new/7.min.json",
+        "bytes": 1333895
+      },
+      {
+        "path": "wordlists/exclusive/newest/1.json",
+        "bytes": 281274
+      },
+      {
+        "path": "wordlists/exclusive/newest/1.min.json",
+        "bytes": 80028
+      },
+      {
+        "path": "wordlists/exclusive/newest/2.json",
+        "bytes": 209050
+      },
+      {
+        "path": "wordlists/exclusive/newest/2.min.json",
+        "bytes": 58055
+      },
+      {
+        "path": "wordlists/exclusive/newest/3.json",
+        "bytes": 423216
+      },
+      {
+        "path": "wordlists/exclusive/newest/3.min.json",
+        "bytes": 122454
+      },
+      {
+        "path": "wordlists/exclusive/newest/4.json",
+        "bytes": 827462
+      },
+      {
+        "path": "wordlists/exclusive/newest/4.min.json",
+        "bytes": 240255
+      },
+      {
+        "path": "wordlists/exclusive/newest/5.json",
+        "bytes": 1260186
+      },
+      {
+        "path": "wordlists/exclusive/newest/5.min.json",
+        "bytes": 370814
+      },
+      {
+        "path": "wordlists/exclusive/newest/6.json",
+        "bytes": 1370037
+      },
+      {
+        "path": "wordlists/exclusive/newest/6.min.json",
+        "bytes": 404510
+      },
+      {
+        "path": "wordlists/exclusive/newest/7.json",
+        "bytes": 3809398
+      },
+      {
+        "path": "wordlists/exclusive/newest/7.min.json",
+        "bytes": 1167629
+      },
+      {
+        "path": "wordlists/exclusive/old/1.json",
+        "bytes": 152873
+      },
+      {
+        "path": "wordlists/exclusive/old/1.min.json",
+        "bytes": 43502
+      },
+      {
+        "path": "wordlists/exclusive/old/2.json",
+        "bytes": 155261
+      },
+      {
+        "path": "wordlists/exclusive/old/2.min.json",
+        "bytes": 42495
+      },
+      {
+        "path": "wordlists/exclusive/old/3.json",
+        "bytes": 272864
+      },
+      {
+        "path": "wordlists/exclusive/old/3.min.json",
+        "bytes": 77846
+      },
+      {
+        "path": "wordlists/exclusive/old/4.json",
+        "bytes": 511899
+      },
+      {
+        "path": "wordlists/exclusive/old/4.min.json",
+        "bytes": 148403
+      },
+      {
+        "path": "wordlists/exclusive/old/5.json",
+        "bytes": 1054595
+      },
+      {
+        "path": "wordlists/exclusive/old/5.min.json",
+        "bytes": 311327
+      },
+      {
+        "path": "wordlists/exclusive/old/6.json",
+        "bytes": 1944361
+      },
+      {
+        "path": "wordlists/exclusive/old/6.min.json",
+        "bytes": 591430
+      },
+      {
+        "path": "wordlists/inclusive/new/1.json",
+        "bytes": 495350
+      },
+      {
+        "path": "wordlists/inclusive/new/1.min.json",
+        "bytes": 140204
+      },
+      {
+        "path": "wordlists/inclusive/new/2.json",
+        "bytes": 1154852
+      },
+      {
+        "path": "wordlists/inclusive/new/2.min.json",
+        "bytes": 330642
+      },
+      {
+        "path": "wordlists/inclusive/new/3.json",
+        "bytes": 1959587
+      },
+      {
+        "path": "wordlists/inclusive/new/3.min.json",
+        "bytes": 566517
+      },
+      {
+        "path": "wordlists/inclusive/new/4.json",
+        "bytes": 2764027
+      },
+      {
+        "path": "wordlists/inclusive/new/4.min.json",
+        "bytes": 802062
+      },
+      {
+        "path": "wordlists/inclusive/new/5.json",
+        "bytes": 3605932
+      },
+      {
+        "path": "wordlists/inclusive/new/5.min.json",
+        "bytes": 1051434
+      },
+      {
+        "path": "wordlists/inclusive/new/6.json",
+        "bytes": 4520892
+      },
+      {
+        "path": "wordlists/inclusive/new/6.min.json",
+        "bytes": 1321834
+      },
+      {
+        "path": "wordlists/inclusive/new/7.json",
+        "bytes": 8846888
+      },
+      {
+        "path": "wordlists/inclusive/new/7.min.json",
+        "bytes": 2655728
+      },
+      {
+        "path": "wordlists/inclusive/newest/1.json",
+        "bytes": 281274
+      },
+      {
+        "path": "wordlists/inclusive/newest/1.min.json",
+        "bytes": 80028
+      },
+      {
+        "path": "wordlists/inclusive/newest/2.json",
+        "bytes": 490324
+      },
+      {
+        "path": "wordlists/inclusive/newest/2.min.json",
+        "bytes": 138082
+      },
+      {
+        "path": "wordlists/inclusive/newest/3.json",
+        "bytes": 913540
+      },
+      {
+        "path": "wordlists/inclusive/newest/3.min.json",
+        "bytes": 260535
+      },
+      {
+        "path": "wordlists/inclusive/newest/4.json",
+        "bytes": 1741002
+      },
+      {
+        "path": "wordlists/inclusive/newest/4.min.json",
+        "bytes": 500789
+      },
+      {
+        "path": "wordlists/inclusive/newest/5.json",
+        "bytes": 3001188
+      },
+      {
+        "path": "wordlists/inclusive/newest/5.min.json",
+        "bytes": 871602
+      },
+      {
+        "path": "wordlists/inclusive/newest/6.json",
+        "bytes": 4371225
+      },
+      {
+        "path": "wordlists/inclusive/newest/6.min.json",
+        "bytes": 1276111
+      },
+      {
+        "path": "wordlists/inclusive/newest/7.json",
+        "bytes": 8180623
+      },
+      {
+        "path": "wordlists/inclusive/newest/7.min.json",
+        "bytes": 2443739
+      },
+      {
+        "path": "wordlists/inclusive/old/1.json",
+        "bytes": 152873
+      },
+      {
+        "path": "wordlists/inclusive/old/1.min.json",
+        "bytes": 43502
+      },
+      {
+        "path": "wordlists/inclusive/old/2.json",
+        "bytes": 308134
+      },
+      {
+        "path": "wordlists/inclusive/old/2.min.json",
+        "bytes": 85996
+      },
+      {
+        "path": "wordlists/inclusive/old/3.json",
+        "bytes": 580998
+      },
+      {
+        "path": "wordlists/inclusive/old/3.min.json",
+        "bytes": 163841
+      },
+      {
+        "path": "wordlists/inclusive/old/4.json",
+        "bytes": 1092897
+      },
+      {
+        "path": "wordlists/inclusive/old/4.min.json",
+        "bytes": 312243
+      },
+      {
+        "path": "wordlists/inclusive/old/5.json",
+        "bytes": 2147492
+      },
+      {
+        "path": "wordlists/inclusive/old/5.min.json",
+        "bytes": 623569
+      }
+    ],
+    "termsReview": "GitHub Terms evidence + repository README/LICENSE/NOTICE scope reviewed",
+    "researchRawFileRevisions": 2,
+    "researchNormalizedRecords": 41393,
+    "reviewRequired": 41393,
+    "nextAction": "Review language, edition, license obligations and duplicate candidates; user chooses any future import",
+    "researchCoverage": {
+      "unknown|unknown|unassigned|DICTIONARY_ENTRY": 12623,
+      "HSK 3.0|GF0025-2021|7-9|VOCABULARY": 5934,
+      "HSK 3.0|complete-hsk-newest-unverified|3|VOCABULARY": 578,
+      "HSK 3.0|GF0025-2021|4|VOCABULARY": 1085,
+      "HSK 2.0|legacy-hsk2|3|VOCABULARY": 376,
+      "HSK 3.0|complete-hsk-newest-unverified|7-9|VOCABULARY": 5198,
+      "HSK 2.0|legacy-hsk2|6|VOCABULARY": 2644,
+      "HSK 3.0|complete-hsk-newest-unverified|2|VOCABULARY": 277,
+      "HSK 3.0|GF0025-2021|2|VOCABULARY": 897,
+      "HSK 3.0|complete-hsk-newest-unverified|5|VOCABULARY": 1702,
+      "HSK 2.0|legacy-hsk2|5|VOCABULARY": 1420,
+      "HSK 3.0|GF0025-2021|6|VOCABULARY": 1260,
+      "HSK 3.0|complete-hsk-newest-unverified|1|VOCABULARY": 396,
+      "HSK 3.0|GF0025-2021|1|VOCABULARY": 675,
+      "HSK 2.0|legacy-hsk2|1|VOCABULARY": 216,
+      "HSK 3.0|complete-hsk-newest-unverified|4|VOCABULARY": 1112,
+      "HSK 2.0|legacy-hsk2|4|VOCABULARY": 684,
+      "HSK 3.0|GF0025-2021|3|VOCABULARY": 1077,
+      "HSK 3.0|GF0025-2021|5|VOCABULARY": 1158,
+      "HSK 3.0|complete-hsk-newest-unverified|6|VOCABULARY": 1873,
+      "HSK 2.0|legacy-hsk2|2|VOCABULARY": 208
+    },
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0,
+    "crawlPolicyOrigins": [
+      "https://api.github.com/robots.txt",
+      "https://raw.githubusercontent.com/robots.txt"
+    ]
+  },
+  {
+    "sourceId": "src-b49f24fe5e9f",
+    "name": "profesorm/hsk30",
+    "baseUrl": "https://github.com/profesorm/hsk30",
+    "sourceType": "GITHUB",
+    "organization": "profesorm",
+    "accessedAt": "2026-10-25T04:51:03.184Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "NOASSERTION",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "LEGAL_REVIEW_REQUIRED",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition.",
+      "CC notice has placeholder rights holder and data described as official-source extraction; authority over source grammar/tasks not established."
+    ],
+    "repo": "profesorm/hsk30",
+    "defaultBranch": "main",
+    "sourceRevision": "f3163ca6edff5d6b1e81afb1cd716bb78f5a958a",
+    "licenseEvidence": [
+      "registry/evidence/src-b49f24fe5e9f-LICENCE.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "LICENCE",
+        "status": 200,
+        "evidence": "registry/evidence/src-b49f24fe5e9f-LICENCE.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-b49f24fe5e9f-README.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "data/hsk_grammar.csv",
+        "bytes": 168833
+      },
+      {
+        "path": "data/hsk_grammar_compact.json",
+        "bytes": 236432
+      },
+      {
+        "path": "data/hsk_grammar_pretty.json",
+        "bytes": 273791
+      },
+      {
+        "path": "data/hsk_grammar_raw.json",
+        "bytes": 232217
+      },
+      {
+        "path": "data/hsk_hanzi.csv",
+        "bytes": 54775
+      },
+      {
+        "path": "data/hsk_hanzi_compact.json",
+        "bytes": 260802
+      },
+      {
+        "path": "data/hsk_hanzi_pretty.json",
+        "bytes": 415170
+      },
+      {
+        "path": "data/hsk_hanzi_raw.json",
+        "bytes": 230722
+      },
+      {
+        "path": "data/hsk_task.csv",
+        "bytes": 126731
+      },
+      {
+        "path": "data/hsk_task_compact.json",
+        "bytes": 180467
+      },
+      {
+        "path": "data/hsk_task_pretty.json",
+        "bytes": 210977
+      },
+      {
+        "path": "data/hsk_task_raw.json",
+        "bytes": 175657
+      },
+      {
+        "path": "data/hsk_topic.csv",
+        "bytes": 22737
+      },
+      {
+        "path": "data/hsk_topic_compact.json",
+        "bytes": 65170
+      },
+      {
+        "path": "data/hsk_topic_pretty.json",
+        "bytes": 88228
+      },
+      {
+        "path": "data/hsk_topic_raw.json",
+        "bytes": 62117
+      },
+      {
+        "path": "data/hsk_vocabulary.csv",
+        "bytes": 416903
+      },
+      {
+        "path": "data/hsk_vocabulary_compact.json",
+        "bytes": 1279651
+      },
+      {
+        "path": "data/hsk_vocabulary_pretty.json",
+        "bytes": 1968511
+      },
+      {
+        "path": "data/hsk_vocabulary_raw.json",
+        "bytes": 1202587
+      }
+    ],
+    "termsReview": "GitHub Terms evidence + repository README/LICENSE/NOTICE scope reviewed",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0,
+    "crawlPolicyOrigins": [
+      "https://api.github.com/robots.txt",
+      "https://raw.githubusercontent.com/robots.txt"
+    ]
+  },
+  {
+    "sourceId": "src-5c3ba0ac897e",
+    "name": "zshanhui/hsk-v3",
+    "baseUrl": "https://github.com/zshanhui/hsk-v3",
+    "sourceType": "GITHUB",
+    "organization": "zshanhui",
+    "accessedAt": "2026-10-25T04:51:08.071Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "NOASSERTION",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "LEGAL_REVIEW_REQUIRED",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition.",
+      "Mixed component licenses; blanket permission for OCR grammar/official examples not established. Existing dictionaries already cover needed word fields."
+    ],
+    "repo": "zshanhui/hsk-v3",
+    "defaultBranch": "main",
+    "sourceRevision": "182692ce5a11bc30bdc771835d2f0f27491c25de",
+    "licenseEvidence": [
+      "registry/evidence/src-5c3ba0ac897e-License.md.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "License.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-5c3ba0ac897e-License.md.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-5c3ba0ac897e-README.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "BCT/BCTA_cihui.txt",
+        "bytes": 6056
+      },
+      {
+        "path": "BCT/BCTB_cihui.txt",
+        "bytes": 46371
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 1.txt",
+        "bytes": 393610
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 2.txt",
+        "bytes": 575866
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 3.txt",
+        "bytes": 725627
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 4.txt",
+        "bytes": 741494
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 5.txt",
+        "bytes": 769829
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 6.txt",
+        "bytes": 829757
+      },
+      {
+        "path": "New HSK (2021)/Anki xiehanzi/New HSK 3.0 Mandarin Chinese__HSK 7-9.txt",
+        "bytes": 4148441
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 1.txt",
+        "bytes": 8733
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 2.txt",
+        "bytes": 15183
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 3.txt",
+        "bytes": 17181
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 4.txt",
+        "bytes": 14482
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 5.txt",
+        "bytes": 16746
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 6.txt",
+        "bytes": 12802
+      },
+      {
+        "path": "New HSK (2021)/HSK Grammar/HSK 7-9.txt",
+        "bytes": 27832
+      },
+      {
+        "path": "New HSK (2021)/HSK Handwritten/Advanced.txt",
+        "bytes": 1999
+      },
+      {
+        "path": "New HSK (2021)/HSK Handwritten/Elementary.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Handwritten/Medium.txt",
+        "bytes": 1599
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 1.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 2.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 3.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 4.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 5.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 6.txt",
+        "bytes": 1199
+      },
+      {
+        "path": "New HSK (2021)/HSK Hanzi/HSK 7-9.txt",
+        "bytes": 4799
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 1.txt",
+        "bytes": 2959
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 2.txt",
+        "bytes": 4945
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 3.txt",
+        "bytes": 6374
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 4.txt",
+        "bytes": 6580
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 5.txt",
+        "bytes": 7096
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 6.txt",
+        "bytes": 7592
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/HSK 7-9.txt",
+        "bytes": 41486
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 1 with frequency.tsv",
+        "bytes": 393069
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 2 with frequency.tsv",
+        "bytes": 575064
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 3 with frequency.tsv",
+        "bytes": 724623
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 4 with frequency.tsv",
+        "bytes": 740461
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 5 with frequency.tsv",
+        "bytes": 768724
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 6 with frequency.tsv",
+        "bytes": 828585
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Frequency)/tsv/HSK 7-9 with frequency.tsv",
+        "bytes": 4142784
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 1.tsv",
+        "bytes": 393066
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 2.tsv",
+        "bytes": 575061
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 3.tsv",
+        "bytes": 724620
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 4.tsv",
+        "bytes": 740458
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 5.tsv",
+        "bytes": 768721
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 6.tsv",
+        "bytes": 828582
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/Anki xiehanzi__HSK 7-9.tsv",
+        "bytes": 4142781
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 1.tsv",
+        "bytes": 36940
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 2.tsv",
+        "bytes": 63674
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 3.tsv",
+        "bytes": 83080
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 4.tsv",
+        "bytes": 82290
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 5.tsv",
+        "bytes": 81297
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 6.tsv",
+        "bytes": 82750
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Meaning)/HSK 7-9.tsv",
+        "bytes": 398101
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 1.txt",
+        "bytes": 10532
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 2.txt",
+        "bytes": 17919
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 3.txt",
+        "bytes": 23181
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 4.txt",
+        "bytes": 23628
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 5.txt",
+        "bytes": 25476
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 6.txt",
+        "bytes": 27498
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/HSK 7-9.txt",
+        "bytes": 152043
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 1 with zhuyin.tsv",
+        "bytes": 283201
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 2 with zhuyin.tsv",
+        "bytes": 413230
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 3 with zhuyin.tsv",
+        "bytes": 515527
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 4 with zhuyin.tsv",
+        "bytes": 523506
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 5 with zhuyin.tsv",
+        "bytes": 540169
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 6 with zhuyin.tsv",
+        "bytes": 582428
+      },
+      {
+        "path": "New HSK (2021)/HSK List (Zhuyin)/tsv/HSK 7-9 with zhuyin.tsv",
+        "bytes": 2896284
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 1.txt",
+        "bytes": 2968
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 2.txt",
+        "bytes": 4970
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 3.txt",
+        "bytes": 6402
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 4.txt",
+        "bytes": 6597
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 5.txt",
+        "bytes": 7112
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 6.txt",
+        "bytes": 7613
+      },
+      {
+        "path": "New HSK (2021)/HSK List/HSK 7-9.txt",
+        "bytes": 41563
+      },
+      {
+        "path": "New HSK (2025)/Anki xiehanzi/HSK_Level_1.txt",
+        "bytes": 163892
+      },
+      {
+        "path": "New HSK (2025)/Anki xiehanzi/HSK_Level_2.txt",
+        "bytes": 123552
+      },
+      {
+        "path": "New HSK (2025)/Anki xiehanzi/HSK_Level_3.txt",
+        "bytes": 267703
+      },
+      {
+        "path": "New HSK (2025)/Anki xiehanzi/HSK_Level_4.txt",
+        "bytes": 524627
+      },
+      {
+        "path": "New HSK (2025)/Anki xiehanzi/HSK_Level_5.txt",
+        "bytes": 831816
+      }
+    ],
+    "termsReview": "GitHub Terms evidence + repository README/LICENSE/NOTICE scope reviewed",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0,
+    "crawlPolicyOrigins": [
+      "https://api.github.com/robots.txt",
+      "https://raw.githubusercontent.com/robots.txt"
+    ]
+  },
+  {
+    "sourceId": "src-3b38fca42716",
+    "name": "ph0ngp/CVDICT",
+    "baseUrl": "https://github.com/ph0ngp/CVDICT",
+    "sourceType": "GITHUB",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "RIGHTS_UNKNOWN",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "REPOSITORY_HTTP_404"
+    ],
+    "repo": "ph0ngp/CVDICT",
+    "termsReview": "GitHub Terms evidence + repository README/LICENSE/NOTICE scope reviewed",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0,
+    "crawlPolicyOrigins": [
+      "https://api.github.com/robots.txt",
+      "https://raw.githubusercontent.com/robots.txt"
+    ]
+  },
+  {
+    "sourceId": "src-70412fe78ade",
+    "name": "chanind/hanzi-writer-data",
+    "baseUrl": "https://github.com/chanind/hanzi-writer-data",
+    "sourceType": "GITHUB",
+    "organization": "chanind",
+    "accessedAt": "2026-10-25T04:51:15.417Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "Arphic Public License",
+    "licenseUrl": null,
+    "sourceEdition": "upstream-tree-68d10a4b21150cae5e1ebbd223eed289cf32d90c",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "HANZI"
+    ],
+    "rightsStatus": "SHARE_ALIKE_REQUIRED",
+    "attribution": "Arphic Technology Co., Ltd.; Make Me A Hanzi; hanzi-writer-data contributors",
+    "shareAlikeRequired": true,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition.",
+      "README explicitly licenses character data under Arphic. Select only 99 exact characters whose stroke files are missing in website. No full 32 MB aggregate download; no simplified/traditional substitution."
+    ],
+    "repo": "chanind/hanzi-writer-data",
+    "defaultBranch": "master",
+    "sourceRevision": "68d10a4b21150cae5e1ebbd223eed289cf32d90c",
+    "licenseEvidence": [
+      "registry/evidence/src-9f86265dc102-arphic-license.json",
+      "registry/evidence/src-70412fe78ade-README.md.json",
+      "registry/evidence/src-70412fe78ade-ARPHICPL.TXT.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-70412fe78ade-README.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "APL/big5/ARPHICPL.TXT",
+        "bytes": 3932
+      },
+      {
+        "path": "APL/english/ARPHICPL.TXT",
+        "bytes": 6901
+      },
+      {
+        "path": "APL/gb/ARPHICPL.TXT",
+        "bytes": 3928
+      },
+      {
+        "path": "APL/zh_CN.UTF-8/ARPHICPL.TXT",
+        "bytes": 5806
+      },
+      {
+        "path": "APL/zh_TW.UTF-8/ARPHICPL.TXT",
+        "bytes": 5812
+      },
+      {
+        "path": "ARPHICPL.TXT",
+        "bytes": 6900
+      },
+      {
+        "path": "data/all.json",
+        "bytes": 32330525
+      },
+      {
+        "path": "data/⺀.json",
+        "bytes": 498
+      },
+      {
+        "path": "data/⺈.json",
+        "bytes": 664
+      },
+      {
+        "path": "data/⺊.json",
+        "bytes": 685
+      },
+      {
+        "path": "data/⺌.json",
+        "bytes": 751
+      },
+      {
+        "path": "data/⺍.json",
+        "bytes": 655
+      },
+      {
+        "path": "data/⺗.json",
+        "bytes": 945
+      },
+      {
+        "path": "data/⺮.json",
+        "bytes": 1404
+      },
+      {
+        "path": "data/⺳.json",
+        "bytes": 1486
+      },
+      {
+        "path": "data/⺼.json",
+        "bytes": 1222
+      },
+      {
+        "path": "data/㐆.json",
+        "bytes": 1927
+      },
+      {
+        "path": "data/㐌.json",
+        "bytes": 1962
+      },
+      {
+        "path": "data/㐬.json",
+        "bytes": 1994
+      },
+      {
+        "path": "data/㐭.json",
+        "bytes": 2246
+      },
+      {
+        "path": "data/㐱.json",
+        "bytes": 1331
+      },
+      {
+        "path": "data/㒸.json",
+        "bytes": 2386
+      },
+      {
+        "path": "data/㒼.json",
+        "bytes": 3518
+      },
+      {
+        "path": "data/㓞.json",
+        "bytes": 1998
+      },
+      {
+        "path": "data/㔾.json",
+        "bytes": 1178
+      },
+      {
+        "path": "data/㕡.json",
+        "bytes": 4381
+      },
+      {
+        "path": "data/㝵.json",
+        "bytes": 2218
+      },
+      {
+        "path": "data/㠯.json",
+        "bytes": 1447
+      },
+      {
+        "path": "data/㡭.json",
+        "bytes": 4584
+      },
+      {
+        "path": "data/㢆.json",
+        "bytes": 2886
+      },
+      {
+        "path": "data/㢟.json",
+        "bytes": 2154
+      },
+      {
+        "path": "data/㣎.json",
+        "bytes": 2909
+      },
+      {
+        "path": "data/㥯.json",
+        "bytes": 3085
+      },
+      {
+        "path": "data/㧜.json",
+        "bytes": 3401
+      },
+      {
+        "path": "data/㬎.json",
+        "bytes": 4386
+      },
+      {
+        "path": "data/㲋.json",
+        "bytes": 3157
+      },
+      {
+        "path": "data/㳄.json",
+        "bytes": 1790
+      },
+      {
+        "path": "data/㼌.json",
+        "bytes": 2893
+      },
+      {
+        "path": "data/㿽.json",
+        "bytes": 2868
+      },
+      {
+        "path": "data/䍃.json",
+        "bytes": 2558
+      },
+      {
+        "path": "data/䕭.json",
+        "bytes": 5024
+      },
+      {
+        "path": "data/䙴.json",
+        "bytes": 3627
+      },
+      {
+        "path": "data/䜌.json",
+        "bytes": 4600
+      },
+      {
+        "path": "data/䠀.json",
+        "bytes": 3994
+      },
+      {
+        "path": "data/䧹.json",
+        "bytes": 3202
+      },
+      {
+        "path": "data/䰾.json",
+        "bytes": 4204
+      },
+      {
+        "path": "data/䴉.json",
+        "bytes": 6173
+      },
+      {
+        "path": "data/一.json",
+        "bytes": 373
+      },
+      {
+        "path": "data/丁.json",
+        "bytes": 728
+      },
+      {
+        "path": "data/丂.json",
+        "bytes": 1170
+      },
+      {
+        "path": "data/七.json",
+        "bytes": 854
+      },
+      {
+        "path": "data/丄.json",
+        "bytes": 649
+      },
+      {
+        "path": "data/万.json",
+        "bytes": 1159
+      },
+      {
+        "path": "data/丈.json",
+        "bytes": 1180
+      },
+      {
+        "path": "data/三.json",
+        "bytes": 732
+      },
+      {
+        "path": "data/上.json",
+        "bytes": 862
+      },
+      {
+        "path": "data/下.json",
+        "bytes": 879
+      },
+      {
+        "path": "data/丌.json",
+        "bytes": 963
+      },
+      {
+        "path": "data/不.json",
+        "bytes": 1286
+      },
+      {
+        "path": "data/与.json",
+        "bytes": 1333
+      },
+      {
+        "path": "data/丏.json",
+        "bytes": 1540
+      },
+      {
+        "path": "data/丐.json",
+        "bytes": 1463
+      },
+      {
+        "path": "data/丑.json",
+        "bytes": 1395
+      },
+      {
+        "path": "data/专.json",
+        "bytes": 1568
+      },
+      {
+        "path": "data/且.json",
+        "bytes": 1568
+      },
+      {
+        "path": "data/丕.json",
+        "bytes": 1335
+      },
+      {
+        "path": "data/世.json",
+        "bytes": 1848
+      },
+      {
+        "path": "data/丘.json",
+        "bytes": 1391
+      },
+      {
+        "path": "data/丙.json",
+        "bytes": 1806
+      },
+      {
+        "path": "data/业.json",
+        "bytes": 1330
+      },
+      {
+        "path": "data/丛.json",
+        "bytes": 1436
+      },
+      {
+        "path": "data/东.json",
+        "bytes": 1519
+      },
+      {
+        "path": "data/丝.json",
+        "bytes": 1989
+      },
+      {
+        "path": "data/丞.json",
+        "bytes": 2088
+      },
+      {
+        "path": "data/丟.json",
+        "bytes": 1845
+      },
+      {
+        "path": "data/丢.json",
+        "bytes": 1934
+      },
+      {
+        "path": "data/两.json",
+        "bytes": 2390
+      },
+      {
+        "path": "data/严.json",
+        "bytes": 1715
+      },
+      {
+        "path": "data/並.json",
+        "bytes": 1972
+      },
+      {
+        "path": "data/丧.json",
+        "bytes": 2185
+      }
+    ],
+    "termsReview": "GitHub Terms evidence + repository README/LICENSE/NOTICE scope reviewed",
+    "researchRawFileRevisions": 100,
+    "researchNormalizedRecords": 99,
+    "reviewRequired": 99,
+    "nextAction": "Review language, edition, license obligations and duplicate candidates; user chooses any future import",
+    "researchCoverage": {
+      "unknown|hanzi-writer-ungraded|unassigned|HANZI": 99
+    },
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0,
+    "crawlPolicyOrigins": [
+      "https://api.github.com/robots.txt",
+      "https://raw.githubusercontent.com/robots.txt"
+    ]
+  },
+  {
+    "sourceId": "src-691626be0929",
+    "name": "CTI home",
+    "baseUrl": "https://www.chinesetest.cn/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.chinesetest.cn/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Robots retrieval unavailable during audit; no official page body or PDF acquired."
+    ],
+    "accessStatus": "SKIPPED",
+    "isOfficial": true,
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-f93126eacf63",
+    "name": "CTI syllabus",
+    "baseUrl": "https://www.chinesetest.cn/syllabus",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.chinesetest.cn/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Robots retrieval unavailable during audit; no official page body or PDF acquired."
+    ],
+    "accessStatus": "SKIPPED",
+    "isOfficial": true,
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-ebb2fb7c8143",
+    "name": "MDBG CC-CEDICT",
+    "baseUrl": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T05:09:29.887Z",
+    "termsUrl": null,
+    "robotsUrl": "https://www.mdbg.net/robots.txt",
+    "licenseName": "CC BY-SA 4.0 (CC-CEDICT download only)",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "CC_CEDICT_DICTIONARY_DOWNLOAD"
+    ],
+    "rightsStatus": "SHARE_ALIKE_REQUIRED",
+    "attribution": "CC-CEDICT contributors; Paul Andrew Denisowski 1997/1998; MDBG distribution",
+    "shareAlikeRequired": true,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 5000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-ebb2fb7c8143-public-page.json",
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "publicDatasetLinks": [
+      "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz"
+    ],
+    "policyEvidence": [],
+    "licenseEvidence": [
+      "registry/evidence/src-ebb2fb7c8143-public-page.json"
+    ],
+    "researchRawFileRevisions": 2,
+    "researchNormalizedRecords": 15720,
+    "reviewRequired": 15720,
+    "nextAction": "Review language, edition, license obligations and duplicate candidates; user chooses any future import",
+    "researchCoverage": {
+      "unknown|CC-CEDICT-ungraded|unassigned|DICTIONARY_ENTRY": 15720
+    },
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-8a55b92b51b9",
+    "name": "Tatoeba downloads",
+    "baseUrl": "https://tatoeba.org/en/downloads",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T05:09:34.404Z",
+    "termsUrl": null,
+    "robotsUrl": "https://tatoeba.org/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 8000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus.",
+      "Policy skipped: STOP_HTTP_429",
+      "Sentence text and audio licenses differ; per-author attribution required. No broad dump/audio downloaded in this bounded run."
+    ],
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-8a55b92b51b9-public-page.json",
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "publicDatasetLinks": [
+      "https://downloads.tatoeba.org/exports/users_sentences.csv"
+    ],
+    "policyEvidence": [],
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "accessStatus": "RESTRICTED_SKIP",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-f1bce733f8a1",
+    "name": "no7z sentences",
+    "baseUrl": "https://github.com/no7z/hsk-sentences-audio",
+    "sourceType": "GITHUB",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [],
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-22aaf385cb5a",
+    "name": "HearMandarin words",
+    "baseUrl": "https://hearmandarin.com/datasets/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T05:09:36.791Z",
+    "termsUrl": "https://hearmandarin.com/terms/",
+    "robotsUrl": "https://hearmandarin.com/robots.txt",
+    "licenseName": "CC BY 4.0 (word dataset only)",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "VOCABULARY"
+    ],
+    "rightsStatus": "REUSE_WITH_ATTRIBUTION",
+    "attribution": "HearMandarin (https://hearmandarin.com)",
+    "shareAlikeRequired": false,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-22aaf385cb5a-public-page.json",
+    "licenseEvidence": [
+      "registry/evidence/src-b5e384c536d0-dataset-license.json",
+      "registry/evidence/src-22aaf385cb5a-public-page.json"
+    ],
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "publicDatasetLinks": [
+      "https://hearmandarin.com/datasets/hsk-3-0-words.csv",
+      "https://hearmandarin.com/datasets/hsk-3-0-words.json"
+    ],
+    "policyEvidence": [
+      "registry/evidence/src-22aaf385cb5a-policy-c0fe8242.json"
+    ],
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Review language, edition, license obligations and duplicate candidates; user chooses any future import",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-614097e152d3",
+    "name": "AllSet grammar",
+    "baseUrl": "https://resources.allsetlearning.com/chinese/grammar/Main_Page",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T04:51:37.956Z",
+    "termsUrl": null,
+    "robotsUrl": "https://resources.allsetlearning.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-614097e152d3-public-page.json",
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-0187d8c555df",
+    "name": "HocTiengTrungApp bilingual vocabulary",
+    "baseUrl": "local://vocabulary",
+    "sourceType": "LOCAL",
+    "organization": "HocTiengTrungApp",
+    "accessedAt": "2026-10-25T04:50:20.537Z",
+    "termsUrl": null,
+    "robotsUrl": null,
+    "licenseName": "MIT compilation + CC BY-SA 4.0 definitions",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "VOCABULARY"
+    ],
+    "rightsStatus": "SHARE_ALIKE_REQUIRED",
+    "attribution": "HocTiengTrungApp; Yanis Zafirópulos; Phong Phan / CVDICT; CC-CEDICT contributors",
+    "shareAlikeRequired": true,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only 11,330 rows with complete-hsk/CVDICT provenance selected. 498 user-CSV-only rows: metadata/hash only, no gloss copy. CSV-aligned level is unverified."
+    ],
+    "localKey": "vocabulary",
+    "licenseEvidence": [
+      "registry/evidence/src-0187d8c555df-data-licenses.json",
+      "registry/evidence/src-eaf581c7bd3d-LICENSE.json"
+    ],
+    "termsReview": "Local license/attribution read; no network crawl",
+    "researchRawFileRevisions": 1,
+    "researchNormalizedRecords": 11330,
+    "reviewRequired": 11330,
+    "nextAction": "Review language, edition, license obligations and duplicate candidates; user chooses any future import",
+    "upstreamSourceUrl": "https://github.com/drkameleon/complete-hsk-vocabulary",
+    "researchCoverage": {
+      "unknown|local-csv-alignment-unverified|7-9|VOCABULARY": 5908,
+      "unknown|local-csv-alignment-unverified|4|VOCABULARY": 978,
+      "unknown|local-csv-alignment-unverified|2|VOCABULARY": 746,
+      "unknown|local-csv-alignment-unverified|6|VOCABULARY": 1153,
+      "unknown|local-csv-alignment-unverified|1|VOCABULARY": 502,
+      "unknown|local-csv-alignment-unverified|3|VOCABULARY": 960,
+      "unknown|local-csv-alignment-unverified|5|VOCABULARY": 1083
+    },
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 498
+  },
+  {
+    "sourceId": "src-51212be6160f",
+    "name": "HocTiengTrungApp original pinyin and starter material",
+    "baseUrl": "local://pinyin",
+    "sourceType": "LOCAL",
+    "organization": "HocTiengTrungApp original starter examples, common radicals and pronunciation pairs",
+    "accessedAt": "2026-10-25T04:50:20.537Z",
+    "termsUrl": null,
+    "robotsUrl": null,
+    "licenseName": "USER_AUTHORIZED; project-authored editorial draft",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "VOCABULARY",
+      "HANZI",
+      "EXAMPLE_SENTENCE",
+      "PINYIN_PRACTICE"
+    ],
+    "rightsStatus": "USER_AUTHORIZED_LOCAL_REUSE",
+    "attribution": "HocTiengTrungApp original starter examples, common radicals and pronunciation pairs",
+    "shareAlikeRequired": false,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": "not_established",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "User authorized local reuse only; no assertion of an open public redistribution grant. Static AST literals only; no source execution or inherited verified label."
+    ],
+    "localKey": "pinyin",
+    "licenseEvidence": [
+      "registry/evidence/src-0187d8c555df-data-licenses.json"
+    ],
+    "termsReview": "Local license/attribution read; no network crawl",
+    "researchRawFileRevisions": 3,
+    "researchNormalizedRecords": 116,
+    "reviewRequired": 116,
+    "nextAction": "Review language, edition, license obligations and duplicate candidates; user chooses any future import",
+    "researchCoverage": {
+      "unknown|unknown|unassigned|HANZI": 50,
+      "unknown|unknown|unassigned|PINYIN_PRACTICE": 10,
+      "unknown|unknown|unassigned|EXAMPLE_SENTENCE": 28,
+      "unknown|project-starter-unverified|1|VOCABULARY": 10,
+      "unknown|project-starter-unverified|2|VOCABULARY": 5,
+      "unknown|project-starter-unverified|3|VOCABULARY": 4,
+      "unknown|project-starter-unverified|4|VOCABULARY": 3,
+      "unknown|project-starter-unverified|5|VOCABULARY": 3,
+      "unknown|project-starter-unverified|6|VOCABULARY": 2,
+      "unknown|project-starter-unverified|7-9|VOCABULARY": 1
+    },
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-9f86265dc102",
+    "name": "HocTiengTrungApp stroke paths",
+    "baseUrl": "local://hanzi",
+    "sourceType": "LOCAL",
+    "organization": "Arphic Technology Co., Ltd.",
+    "accessedAt": "2026-10-25T04:50:20.537Z",
+    "termsUrl": null,
+    "robotsUrl": null,
+    "licenseName": "Arphic Public License",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "HANZI"
+    ],
+    "rightsStatus": "SHARE_ALIKE_REQUIRED",
+    "attribution": "Arphic Technology Co., Ltd.; Make Me A Hanzi; hanzi-writer-data 2.0.1",
+    "shareAlikeRequired": true,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Keep full unaltered ARPHICPL.TXT; modified research wrapper dated 2026-10-25. Glyph paths unmodified; no font-name endorsement or relicensing. Separate from CC/MIT partitions."
+    ],
+    "localKey": "hanzi",
+    "licenseEvidence": [
+      "registry/evidence/src-9f86265dc102-stroke-notice.json",
+      "registry/evidence/src-9f86265dc102-arphic-license.json"
+    ],
+    "termsReview": "Local license/attribution read; no network crawl",
+    "researchRawFileRevisions": 4,
+    "researchNormalizedRecords": 4196,
+    "reviewRequired": 4196,
+    "nextAction": "Review language, edition, license obligations and duplicate candidates; user chooses any future import",
+    "upstreamSourceUrl": "https://github.com/chanind/hanzi-writer-data",
+    "researchCoverage": {
+      "unknown|unknown|unassigned|HANZI": 4196
+    },
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-7280df8f08f6",
+    "name": "Local CVDICT dictionary",
+    "baseUrl": "local://dictionary",
+    "sourceType": "LOCAL",
+    "organization": "Phong Phan / CVDICT",
+    "accessedAt": "2026-10-25T04:50:20.537Z",
+    "termsUrl": null,
+    "robotsUrl": null,
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "DICTIONARY_ENTRY"
+    ],
+    "rightsStatus": "SHARE_ALIKE_REQUIRED",
+    "attribution": "Phong Phan / CVDICT; CC-CEDICT contributors; Paul Andrew Denisowski 1997/1998",
+    "shareAlikeRequired": true,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Evidence is bundled file header. Upstream GitHub repository returned 404 on this audit; no claim of fresh upstream verification. Vietnamese meanings are machine translated/unreviewed."
+    ],
+    "localKey": "dictionary",
+    "licenseEvidence": [
+      "registry/evidence/src-7280df8f08f6-header.json",
+      "registry/evidence/src-0187d8c555df-data-licenses.json"
+    ],
+    "termsReview": "Local license/attribution read; no network crawl",
+    "researchRawFileRevisions": 1,
+    "researchNormalizedRecords": 122596,
+    "reviewRequired": 122596,
+    "nextAction": "Review language, edition, license obligations and duplicate candidates; user chooses any future import",
+    "upstreamSourceUrl": "https://github.com/ph0ngp/CVDICT",
+    "researchCoverage": {
+      "unknown|unknown|unassigned|DICTIONARY_ENTRY": 122596
+    },
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-3af282f16bd9",
+    "name": "Existing licensed no7z export",
+    "baseUrl": "local://sentences",
+    "sourceType": "LOCAL",
+    "organization": "no7z / Jayoung",
+    "accessedAt": "2026-10-25T04:50:20.537Z",
+    "termsUrl": null,
+    "robotsUrl": null,
+    "licenseName": "CC BY-SA 4.0 (dist dataset)",
+    "licenseUrl": null,
+    "sourceEdition": "GF0025-2021",
+    "hskVersion": "HSK 3.0",
+    "allowedScope": [
+      "EXAMPLE_SENTENCE",
+      "LISTENING_TRANSCRIPT",
+      "AUDIO_ASSET",
+      "GRAMMAR_INDEX",
+      "TOPIC",
+      "QUESTION"
+    ],
+    "rightsStatus": "SHARE_ALIKE_REQUIRED",
+    "attribution": "no7z / Jayoung; CC-CEDICT contributors; synthetic audio with CosyVoice2-0.5B",
+    "shareAlikeRequired": true,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Pinned 857dfbab91027ebd97df01260e91b817cb6b4854. Only dist sentences/audio and already-existing derived exercises. data/grammar_points.json excluded; grammar labels from licensed sentence field only."
+    ],
+    "localKey": "sentences",
+    "licenseEvidence": [
+      "registry/evidence/src-3af282f16bd9-no7z-attribution.json",
+      "registry/evidence/src-3af282f16bd9-no7z-readme.json"
+    ],
+    "termsReview": "Local license/attribution read; no network crawl",
+    "researchRawFileRevisions": 192,
+    "researchNormalizedRecords": 31511,
+    "reviewRequired": 31511,
+    "nextAction": "Review language, edition, license obligations and duplicate candidates; user chooses any future import",
+    "upstreamSourceUrl": "https://github.com/no7z/hsk-sentences-audio",
+    "researchCoverage": {
+      "HSK 3.0|GF0025-2021|unassigned|AUDIO_ASSET": 8708,
+      "HSK 3.0|GF0025-2021|unassigned|TOPIC": 19,
+      "HSK 3.0|GF0025-2021|unassigned|GRAMMAR": 1046,
+      "HSK 3.0|GF0025-2021|1|EXAMPLE_SENTENCE": 281,
+      "HSK 3.0|GF0025-2021|2|EXAMPLE_SENTENCE": 538,
+      "HSK 3.0|GF0025-2021|3|EXAMPLE_SENTENCE": 727,
+      "HSK 3.0|GF0025-2021|4|EXAMPLE_SENTENCE": 801,
+      "HSK 3.0|GF0025-2021|5|EXAMPLE_SENTENCE": 965,
+      "HSK 3.0|GF0025-2021|6|EXAMPLE_SENTENCE": 1042,
+      "HSK 3.0|GF0025-2021|1|QUESTION": 1119,
+      "HSK 3.0|GF0025-2021|2|QUESTION": 2152,
+      "HSK 3.0|GF0025-2021|3|QUESTION": 2905,
+      "HSK 3.0|GF0025-2021|4|QUESTION": 3203,
+      "HSK 3.0|GF0025-2021|5|QUESTION": 3854,
+      "HSK 3.0|GF0025-2021|6|QUESTION": 4151
+    },
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-b5e384c536d0",
+    "name": "Existing HearMandarin word export",
+    "baseUrl": "local://words",
+    "sourceType": "LOCAL",
+    "organization": "HearMandarin (https://hearmandarin.com)",
+    "accessedAt": "2026-10-25T04:50:20.537Z",
+    "termsUrl": null,
+    "robotsUrl": null,
+    "licenseName": "CC BY 4.0 (word dataset only)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "VOCABULARY",
+      "QUESTION"
+    ],
+    "rightsStatus": "REUSE_WITH_ATTRIBUTION",
+    "attribution": "HearMandarin (https://hearmandarin.com)",
+    "shareAlikeRequired": false,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Version 2026-09-09, generated 2026-09-28; source identifies syllabus November 2025 plus HSK 2.0-only words. Does not license site stories/tests/audio."
+    ],
+    "localKey": "words",
+    "licenseEvidence": [
+      "registry/evidence/src-b5e384c536d0-dataset-license.json",
+      "registry/evidence/src-22aaf385cb5a-public-page.json"
+    ],
+    "termsReview": "Local license/attribution read; no network crawl",
+    "researchRawFileRevisions": 57,
+    "researchNormalizedRecords": 16742,
+    "reviewRequired": 16742,
+    "nextAction": "Review language, edition, license obligations and duplicate candidates; user chooses any future import",
+    "upstreamSourceUrl": "https://hearmandarin.com/datasets/",
+    "researchCoverage": {
+      "HSK 2.0|legacy-hsk2|3|VOCABULARY": 16,
+      "HSK 2.0|legacy-hsk2|6|VOCABULARY": 84,
+      "HSK 2.0|legacy-hsk2|5|VOCABULARY": 19,
+      "HSK 2.0|legacy-hsk2|1|VOCABULARY": 1,
+      "HSK 2.0|legacy-hsk2|4|VOCABULARY": 16,
+      "HSK 2.0|legacy-hsk2|2|VOCABULARY": 11,
+      "HSK 3.0|syllabus-2025-11|1|VOCABULARY": 300,
+      "HSK 3.0|syllabus-2025-11|2|VOCABULARY": 200,
+      "HSK 3.0|syllabus-2025-11|3|VOCABULARY": 500,
+      "HSK 3.0|syllabus-2025-11|4|VOCABULARY": 1000,
+      "HSK 3.0|syllabus-2025-11|5|VOCABULARY": 1600,
+      "HSK 3.0|syllabus-2025-11|6|VOCABULARY": 1800,
+      "HSK 3.0|syllabus-2025-11|7-9|VOCABULARY": 5600,
+      "HSK 3.0|syllabus-2025-11|7-9|QUESTION": 5595
+    },
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-b5ec679d324b",
+    "name": "HSK QKT — Thi thử HSK 3.0 miễn phí, đề mô phỏng chuẩn cấu trúc mới",
+    "baseUrl": "https://hskqkt.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T05:09:42.825Z",
+    "termsUrl": null,
+    "robotsUrl": "https://hskqkt.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200.",
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:53.545Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-b5ec679d324b-public-page.json",
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "publicDatasetLinks": [],
+    "policyEvidence": [],
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-2cf93035d99d",
+    "name": "Thi thử HSK online miễn phí 1-6, có đáp án | HSKZen",
+    "baseUrl": "https://hskzen.com/vi",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://hskzen.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:53.592Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-1b8a6e8d5c23",
+    "name": "Thi Thử HSK Online Miễn Phí - Lộ Trình Học &amp; Tự Học Tiếng Trung Toàn Diện",
+    "baseUrl": "https://www.thi-hsk.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.thi-hsk.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:53.593Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-1aadcf24b0af",
+    "name": "HSK Club - Luyện thi HSK online miễn phí cho người Việt",
+    "baseUrl": "https://hskclub.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://hskclub.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:54.518Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-0f02d59fa665",
+    "name": "Học &amp; Luyện HSK Online — Học Tư Đạt",
+    "baseUrl": "https://hsk.hoctudat.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://hsk.hoctudat.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:55.178Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-86f499d96dcd",
+    "name": "HiHSK.com - Học Tiếng Trung Online Miễn Phí | Luyện Thi HSK 1-6 Dễ Dàng",
+    "baseUrl": "https://hihsk.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://hihsk.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:56.203Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-0885e1368a25",
+    "name": "HSK Practice Online — Exam Exercises &amp; Free Level Test · HSK Training",
+    "baseUrl": "https://hsk.training/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://hsk.training/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:56.282Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-557b4a9407ef",
+    "name": "Practice HSK Exams Online — HSK Ace",
+    "baseUrl": "https://hskace.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://hskace.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:56.610Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-407f85696340",
+    "name": "HSK Mock - FAQs & Blog",
+    "baseUrl": "https://www.hskmock.com/en/index.html",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.hskmock.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:57.326Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-aff71affddb8",
+    "name": "免费 HSK 模拟考试在线练习 | HSK 1–9 / YCT 每日题库 | hsk101.com",
+    "baseUrl": "https://hsk.visionchinese.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://hsk.visionchinese.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:57.945Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-04d51fb84176",
+    "name": "Không thể thiếu cho kỳ thi HSK - SuperTest",
+    "baseUrl": "https://www.hskonline.com/vi/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.hskonline.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:58.520Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-407b86070c4d",
+    "name": "HSK Online Practices and Mock Tests &mdash; Sishu Mandarin Chinese Language School",
+    "baseUrl": "https://sishumandarin.com/hsk-online-practices-and-mock-tests",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://sishumandarin.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:58.973Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-84b7f5f7094a",
+    "name": "Học tiếng Trung online miễn phí theo HSK cho người Việt | Tiếng Trung Panda",
+    "baseUrl": "https://tiengtrungpanda.vn/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://tiengtrungpanda.vn/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:59.903Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-aa1c46b804f2",
+    "name": "Bye HSK | Học giao tiếp tiếng Trung cho người đi làm",
+    "baseUrl": "https://www.byehsk.org/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.byehsk.org/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:00.319Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-6af2091e6a46",
+    "name": "Home - Chinese Zero To Hero",
+    "baseUrl": "https://www.chinesezerotohero.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.chinesezerotohero.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:00.832Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-e84ccefe42c9",
+    "name": "LearnChinese.ai - Free HSK Course, Character Course, and Spaced Repetition Practice | LearnChinese.ai",
+    "baseUrl": "https://learnchinese.ai/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://learnchinese.ai/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:01.022Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-53785eba4e21",
+    "name": "Learn Chinese Online: Listening, Reading, Vocab &amp; HSK 1–9 Prep | HaoHSK",
+    "baseUrl": "https://haohsk.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://haohsk.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:01.037Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-a1c43896ec75",
+    "name": "Master HSK Chinese — Free Vocabulary &amp; Flashcards · LegChinese",
+    "baseUrl": "https://www.legchinese.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.legchinese.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:02.548Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-88a9353b75ae",
+    "name": "HSKZI - Learn Chinese Vocabulary (HSK 1-9)",
+    "baseUrl": "https://www.hskzi.online/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.hskzi.online/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:02.783Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-0b08d10c21df",
+    "name": "Baozi — learn 10,990 words of HSK 1–9 in 5 minutes a day",
+    "baseUrl": "https://hsk.cards/en/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://hsk.cards/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:02.814Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-cc7bf437cb23",
+    "name": "Learn Mandarin Chinese Online with Free HSK Flashcards – MandarinChineseSystem.com",
+    "baseUrl": "https://mandarinchinesesystem.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://mandarinchinesesystem.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:04.065Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-dc0460e8a26a",
+    "name": "Chinese Flashcards &amp; Printable Worksheets | HanziPress",
+    "baseUrl": "https://www.hanzipress.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.hanzipress.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:04.080Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-61128a01277e",
+    "name": "MandarinFlash — Free HSK Flashcards, Quizzes & Chinese Dictionary",
+    "baseUrl": "https://mandarinflash.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://mandarinflash.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:04.172Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-6d65801fac1f",
+    "name": "Mandarin Bean: Learn and Practice Chinese | High Quality Resources",
+    "baseUrl": "https://mandarinbean.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://mandarinbean.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:04.965Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-4b5ec560a1d1",
+    "name": "Chinese Reading and Comprehension - HSKReading.com",
+    "baseUrl": "https://hskreading.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://hskreading.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:05.418Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-7148d8225831",
+    "name": "Read Mandarin — Free graded Chinese readings (HSK 1-6)",
+    "baseUrl": "https://readmandarin.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://readmandarin.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:06.198Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-83b7b02e6c36",
+    "name": "Luyện đọc tiếng Trung theo HSK 3.0 | RealHSK",
+    "baseUrl": "https://realhsk.com/vi",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://realhsk.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:06.462Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-f2bd3d0332d9",
+    "name": "Free Chinese Text Reader &amp; Vocabulary Practice | HSK Studio",
+    "baseUrl": "https://hsk.fulinlabs.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://hsk.fulinlabs.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:06.913Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-c9d72960ea09",
+    "name": "Learn Chinese by Reading | Manda",
+    "baseUrl": "https://mandachinese.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://mandachinese.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:07.912Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-a635d7ead81a",
+    "name": "Du Chinese | Read and Learn Mandarin",
+    "baseUrl": "https://duchinese.net/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://duchinese.net/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:08.147Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-0fa5e4520e36",
+    "name": "The Chairman's Bao: Chinese Reading with News-Based Lessons",
+    "baseUrl": "https://www.thechairmansbao.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.thechairmansbao.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:08.424Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-e3b2b6f34bfb",
+    "name": "Chenxi Mandarin | Beginner to HSK 5 reading practice",
+    "baseUrl": "https://chenximandarin.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://chenximandarin.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:08.751Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-4f13f0d31a24",
+    "name": "HearMandarin: Learn Mandarin by Ear, Free HSK 3.0 Words, Stories, Tones",
+    "baseUrl": "https://hearmandarin.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T04:51:42.475Z",
+    "termsUrl": null,
+    "robotsUrl": "https://hearmandarin.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200.",
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:08.767Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-4f13f0d31a24-public-page.json",
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-63863b61fc60",
+    "name": "Chinese Grammar Wiki",
+    "baseUrl": "https://resources.allsetlearning.com/chinese/grammar/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T04:51:44.552Z",
+    "termsUrl": null,
+    "robotsUrl": "https://resources.allsetlearning.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200.",
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:09.766Z",
+      "status": 200,
+      "classification": "import_allowed"
+    },
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-63863b61fc60-public-page.json",
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-59fe6783ef34",
+    "name": "Purple Culture, Online Chinese Bookstore for Chinese Language Learning, Culture Studying, Statistics & Yearbooks and More",
+    "baseUrl": "https://www.purpleculture.net/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.purpleculture.net/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:10.995Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-513d17c233c8",
+    "name": "Your Guide To The Chinese Learning Jungle | DigMandarin",
+    "baseUrl": "https://www.digmandarin.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": null,
+    "robotsUrl": "https://www.digmandarin.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:11.538Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-458c04cd04ca",
+    "name": "GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries. · GitHub",
+    "baseUrl": "https://github.com/morluto/rea",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:12.313Z",
+      "status": 200,
+      "classification": "import_allowed"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-1ae6e95dd38e",
+    "name": "GitHub - wuerling520/HSK3.0-Collection-2026: A Compilation of Official and Publicly Available HSK 3.0 Resources for Chinese Learners · GitHub",
+    "baseUrl": "https://github.com/wuerling520/HSK3.0-Collection-2026",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:13.402Z",
+      "status": 200,
+      "classification": "restricted_or_unknown"
+    },
+    "termsReview": "Not acquired; historical/discovered URL only",
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  },
+  {
+    "sourceId": "src-dc139065d9ca",
+    "name": "Migii HSK",
+    "baseUrl": "https://hsk.migii.net/vi/",
+    "sourceType": "WEBSITE",
+    "organization": "Migii",
+    "accessedAt": "2026-10-25T05:09:45.787Z",
+    "termsUrl": null,
+    "robotsUrl": "https://hsk.migii.net/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": false,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only public metadata; no login, credentials, commercial questions or recordings."
+    ],
+    "publicEvidence": "registry/evidence/src-dc139065d9ca-public-page.json",
+    "publicStatus": 200,
+    "publicDatasetLinks": [],
+    "policyEvidence": [],
+    "researchRawFileRevisions": 0,
+    "researchNormalizedRecords": 0,
+    "reviewRequired": 0,
+    "nextAction": "Metadata only; establish data-specific permission before acquisition",
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "researchCoverage": {},
+    "exactDuplicateCandidates": 0,
+    "excludedRows": 0
+  }
+]

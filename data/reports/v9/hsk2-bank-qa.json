@@ -1,0 +1,1944 @@
+{
+  "at": "2026-10-16T17:07:07.194Z",
+  "total": 54,
+  "parts": {
+    "L1": {
+      "total": 6,
+      "playable": 0
+    },
+    "L2": {
+      "total": 6,
+      "playable": 0
+    },
+    "L3": {
+      "total": 6,
+      "playable": 0
+    },
+    "R1": {
+      "total": 6,
+      "playable": 6
+    },
+    "R2": {
+      "total": 6,
+      "playable": 6
+    },
+    "R3": {
+      "total": 6,
+      "playable": 6
+    },
+    "R4": {
+      "total": 6,
+      "playable": 6
+    },
+    "W1": {
+      "total": 6,
+      "playable": 6
+    },
+    "W2": {
+      "total": 6,
+      "playable": 6
+    }
+  },
+  "newQuestions": 27,
+  "playable": 36,
+  "manual": 6,
+  "checks": [
+    {
+      "id": "v8-hsk2-L1-001",
+      "revision": 1,
+      "part": "L1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-L1-002",
+      "revision": 1,
+      "part": "L1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-L1-003",
+      "revision": 1,
+      "part": "L1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-L2-004",
+      "revision": 1,
+      "part": "L2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-L2-005",
+      "revision": 1,
+      "part": "L2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-L2-006",
+      "revision": 1,
+      "part": "L2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-L3-007",
+      "revision": 1,
+      "part": "L3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-L3-008",
+      "revision": 1,
+      "part": "L3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-L3-009",
+      "revision": 1,
+      "part": "L3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R1-010",
+      "revision": 1,
+      "part": "R1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R1-011",
+      "revision": 1,
+      "part": "R1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R1-012",
+      "revision": 1,
+      "part": "R1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R2-013",
+      "revision": 1,
+      "part": "R2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R2-014",
+      "revision": 1,
+      "part": "R2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R2-015",
+      "revision": 1,
+      "part": "R2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R3-016",
+      "revision": 1,
+      "part": "R3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R3-017",
+      "revision": 1,
+      "part": "R3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R3-018",
+      "revision": 1,
+      "part": "R3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R4-019",
+      "revision": 1,
+      "part": "R4",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R4-020",
+      "revision": 1,
+      "part": "R4",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-R4-021",
+      "revision": 1,
+      "part": "R4",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-W1-022",
+      "revision": 1,
+      "part": "W1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-W1-023",
+      "revision": 1,
+      "part": "W1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-W1-024",
+      "revision": 1,
+      "part": "W1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-W2-025",
+      "revision": 2,
+      "part": "W2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": true,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-W2-026",
+      "revision": 2,
+      "part": "W2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": true,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v8-hsk2-W2-027",
+      "revision": 2,
+      "part": "W2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": true,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "taskIds": [],
+      "hanziIds": [],
+      "topicMapping": "LEGACY_PROJECT_EVERYDAY_TAG_NOT_OFFICIAL_ID",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L1-001",
+      "revision": 1,
+      "part": "L1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-6b4626582e7d"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-3d2a3992e6c8"
+      ],
+      "hanziIds": [
+        "cti25-h-病",
+        "cti25-h-家",
+        "cti25-h-今",
+        "cti25-h-看",
+        "cti25-h-去",
+        "cti25-h-生",
+        "cti25-h-天",
+        "cti25-h-我",
+        "cti25-h-息",
+        "cti25-h-休",
+        "cti25-h-医",
+        "cti25-h-院",
+        "cti25-h-在",
+        "cti25-h-昨",
+        "cti25-h-让"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L1-002",
+      "revision": 1,
+      "part": "L1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-dbe53bfc4320"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-75bdaaeac417"
+      ],
+      "hanziIds": [
+        "cti25-h-电",
+        "cti25-h-看",
+        "cti25-h-没",
+        "cti25-h-脑",
+        "cti25-h-上",
+        "cti25-h-视",
+        "cti25-h-我",
+        "cti25-h-影",
+        "cti25-h-有",
+        "cti25-h-在",
+        "cti25-h-正"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L1-003",
+      "revision": 1,
+      "part": "L1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-fe60e205a1c5"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-4724381b9e50"
+      ],
+      "hanziIds": [
+        "cti25-h-爸",
+        "cti25-h-杯",
+        "cti25-h-给",
+        "cti25-h-喝",
+        "cti25-h-了",
+        "cti25-h-奶",
+        "cti25-h-牛",
+        "cti25-h-我",
+        "cti25-h-一",
+        "cti25-h-再",
+        "cti25-h-让",
+        "cti25-h-完",
+        "cti25-h-走"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L2-004",
+      "revision": 1,
+      "part": "L2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-fe94c36ab620"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-96e0b02c992a"
+      ],
+      "hanziIds": [
+        "cti25-h-本",
+        "cti25-h-汉",
+        "cti25-h-看",
+        "cti25-h-课",
+        "cti25-h-明",
+        "cti25-h-书",
+        "cti25-h-他",
+        "cti25-h-天",
+        "cti25-h-一",
+        "cti25-h-有",
+        "cti25-h-语",
+        "cti25-h-在",
+        "cti25-h-正"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L2-005",
+      "revision": 1,
+      "part": "L2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-b91973ea3c3b"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-dca74427f9fa"
+      ],
+      "hanziIds": [
+        "cti25-h-不",
+        "cti25-h-车",
+        "cti25-h-打",
+        "cti25-h-电",
+        "cti25-h-话",
+        "cti25-h-开",
+        "cti25-h-能",
+        "cti25-h-请",
+        "cti25-h-他",
+        "cti25-h-下",
+        "cti25-h-现",
+        "cti25-h-一",
+        "cti25-h-在",
+        "cti25-h-正",
+        "cti25-h-等"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L2-006",
+      "revision": 1,
+      "part": "L2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-fe94c36ab620"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-96e0b02c992a"
+      ],
+      "hanziIds": [
+        "cti25-h-不",
+        "cti25-h-的",
+        "cti25-h-东",
+        "cti25-h-看",
+        "cti25-h-课",
+        "cti25-h-明",
+        "cti25-h-上",
+        "cti25-h-是",
+        "cti25-h-书",
+        "cti25-h-她",
+        "cti25-h-天",
+        "cti25-h-西",
+        "cti25-h-写",
+        "cti25-h-在"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L3-007",
+      "revision": 1,
+      "part": "L3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-dbe53bfc4320"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-75bdaaeac417"
+      ],
+      "hanziIds": [
+        "cti25-h-半",
+        "cti25-h-点",
+        "cti25-h-电",
+        "cti25-h-好",
+        "cti25-h-几",
+        "cti25-h-见",
+        "cti25-h-开",
+        "cti25-h-口",
+        "cti25-h-六",
+        "cti25-h-买",
+        "cti25-h-们",
+        "cti25-h-面",
+        "cti25-h-男",
+        "cti25-h-女",
+        "cti25-h-七",
+        "cti25-h-去",
+        "cti25-h-他",
+        "cti25-h-问",
+        "cti25-h-我",
+        "cti25-h-影",
+        "cti25-h-在",
+        "cti25-h-门",
+        "cti25-h-票",
+        "cti25-h-始"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L3-008",
+      "revision": 1,
+      "part": "L3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-2acd5439c792"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-ac642b2d5d0e"
+      ],
+      "hanziIds": [
+        "cti25-h-包",
+        "cti25-h-大",
+        "cti25-h-的",
+        "cti25-h-个",
+        "cti25-h-贵",
+        "cti25-h-还",
+        "cti25-h-了",
+        "cti25-h-两",
+        "cti25-h-买",
+        "cti25-h-么",
+        "cti25-h-哪",
+        "cti25-h-那",
+        "cti25-h-男",
+        "cti25-h-年",
+        "cti25-h-女",
+        "cti25-h-什",
+        "cti25-h-是",
+        "cti25-h-问",
+        "cti25-h-小",
+        "cti25-h-新",
+        "cti25-h-一",
+        "cti25-h-这",
+        "cti25-h-比",
+        "cti25-h-经",
+        "cti25-h-为",
+        "cti25-h-已"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L3-009",
+      "revision": 1,
+      "part": "L3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": false,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-06b139c0aed8"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-1c8186f11988"
+      ],
+      "hanziIds": [
+        "cti25-h-不",
+        "cti25-h-到",
+        "cti25-h-的",
+        "cti25-h-分",
+        "cti25-h-还",
+        "cti25-h-后",
+        "cti25-h-家",
+        "cti25-h-姐",
+        "cti25-h-觉",
+        "cti25-h-了",
+        "cti25-h-么",
+        "cti25-h-没",
+        "cti25-h-男",
+        "cti25-h-你",
+        "cti25-h-女",
+        "cti25-h-什",
+        "cti25-h-十",
+        "cti25-h-睡",
+        "cti25-h-说",
+        "cti25-h-她",
+        "cti25-h-问",
+        "cti25-h-我",
+        "cti25-h-想",
+        "cti25-h-有",
+        "cti25-h-在",
+        "cti25-h-怎",
+        "cti25-h-钟",
+        "cti25-h-等",
+        "cti25-h-经",
+        "cti25-h-为",
+        "cti25-h-已",
+        "cti25-h-走"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R1-010",
+      "revision": 1,
+      "part": "R1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-fe60e205a1c5"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-4724381b9e50"
+      ],
+      "hanziIds": [
+        "cti25-h-包",
+        "cti25-h-吃",
+        "cti25-h-孩",
+        "cti25-h-后",
+        "cti25-h-妈",
+        "cti25-h-面",
+        "cti25-h-手",
+        "cti25-h-他",
+        "cti25-h-想",
+        "cti25-h-再",
+        "cti25-h-子",
+        "cti25-h-让",
+        "cti25-h-洗"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R1-011",
+      "revision": 1,
+      "part": "R1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-8e4ee19f41ea"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-6be34197947e"
+      ],
+      "hanziIds": [
+        "cti25-h-边",
+        "cti25-h-上",
+        "cti25-h-是",
+        "cti25-h-书",
+        "cti25-h-椅",
+        "cti25-h-有",
+        "cti25-h-桌",
+        "cti25-h-子",
+        "cti25-h-旁"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R1-012",
+      "revision": 1,
+      "part": "R1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-8e4ee19f41ea"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-6be34197947e"
+      ],
+      "hanziIds": [
+        "cti25-h-不",
+        "cti25-h-打",
+        "cti25-h-电",
+        "cti25-h-给",
+        "cti25-h-话",
+        "cti25-h-机",
+        "cti25-h-今",
+        "cti25-h-了",
+        "cti25-h-能",
+        "cti25-h-朋",
+        "cti25-h-手",
+        "cti25-h-天",
+        "cti25-h-友",
+        "cti25-h-坏"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R2-013",
+      "revision": 1,
+      "part": "R2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-b91973ea3c3b"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-dca74427f9fa"
+      ],
+      "hanziIds": [
+        "cti25-h-边",
+        "cti25-h-常",
+        "cti25-h-第",
+        "cti25-h-二",
+        "cti25-h-今",
+        "cti25-h-可",
+        "cti25-h-来",
+        "cti25-h-里",
+        "cti25-h-能",
+        "cti25-h-起",
+        "cti25-h-是",
+        "cti25-h-天",
+        "cti25-h-我",
+        "cti25-h-一",
+        "cti25-h-这",
+        "cti25-h-只",
+        "cti25-h-别",
+        "cti25-h-次",
+        "cti25-h-过",
+        "cti25-h-经",
+        "cti25-h-左"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R2-014",
+      "revision": 1,
+      "part": "R2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-86c132633d66"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-ce0130396d14"
+      ],
+      "hanziIds": [
+        "cti25-h-边",
+        "cti25-h-常",
+        "cti25-h-孩",
+        "cti25-h-话",
+        "cti25-h-可",
+        "cti25-h-了",
+        "cti25-h-能",
+        "cti25-h-你",
+        "cti25-h-起",
+        "cti25-h-睡",
+        "cti25-h-说",
+        "cti25-h-一",
+        "cti25-h-子",
+        "cti25-h-别",
+        "cti25-h-次",
+        "cti25-h-经",
+        "cti25-h-已",
+        "cti25-h-左"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R2-015",
+      "revision": 1,
+      "part": "R2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-b91973ea3c3b"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-aeed62342070"
+      ],
+      "hanziIds": [
+        "cti25-h-边",
+        "cti25-h-常",
+        "cti25-h-车",
+        "cti25-h-的",
+        "cti25-h-可",
+        "cti25-h-能",
+        "cti25-h-起",
+        "cti25-h-是",
+        "cti25-h-校",
+        "cti25-h-学",
+        "cti25-h-一",
+        "cti25-h-医",
+        "cti25-h-院",
+        "cti25-h-在",
+        "cti25-h-别",
+        "cti25-h-次",
+        "cti25-h-经",
+        "cti25-h-右",
+        "cti25-h-站",
+        "cti25-h-左"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R3-016",
+      "revision": 1,
+      "part": "R3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-2acd5439c792"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-ac642b2d5d0e"
+      ],
+      "hanziIds": [
+        "cti25-h-吧",
+        "cti25-h-边",
+        "cti25-h-车",
+        "cti25-h-的",
+        "cti25-h-多",
+        "cti25-h-服",
+        "cti25-h-好",
+        "cti25-h-喝",
+        "cti25-h-会",
+        "cti25-h-件",
+        "cti25-h-看",
+        "cti25-h-可",
+        "cti25-h-了",
+        "cti25-h-吗",
+        "cti25-h-你",
+        "cti25-h-前",
+        "cti25-h-请",
+        "cti25-h-热",
+        "cti25-h-是",
+        "cti25-h-书",
+        "cti25-h-水",
+        "cti25-h-他",
+        "cti25-h-我",
+        "cti25-h-想",
+        "cti25-h-谢",
+        "cti25-h-衣",
+        "cti25-h-以",
+        "cti25-h-在",
+        "cti25-h-这",
+        "cti25-h-就",
+        "cti25-h-往",
+        "cti25-h-泳",
+        "cti25-h-游",
+        "cti25-h-右",
+        "cti25-h-站",
+        "cti25-h-走"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R3-017",
+      "revision": 1,
+      "part": "R3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-b91973ea3c3b"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-dca74427f9fa"
+      ],
+      "hanziIds": [
+        "cti25-h-吧",
+        "cti25-h-边",
+        "cti25-h-车",
+        "cti25-h-的",
+        "cti25-h-第",
+        "cti25-h-多",
+        "cti25-h-儿",
+        "cti25-h-好",
+        "cti25-h-喝",
+        "cti25-h-会",
+        "cti25-h-看",
+        "cti25-h-可",
+        "cti25-h-来",
+        "cti25-h-了",
+        "cti25-h-么",
+        "cti25-h-你",
+        "cti25-h-前",
+        "cti25-h-请",
+        "cti25-h-去",
+        "cti25-h-热",
+        "cti25-h-是",
+        "cti25-h-书",
+        "cti25-h-水",
+        "cti25-h-他",
+        "cti25-h-我",
+        "cti25-h-想",
+        "cti25-h-谢",
+        "cti25-h-一",
+        "cti25-h-以",
+        "cti25-h-在",
+        "cti25-h-怎",
+        "cti25-h-这",
+        "cti25-h-次",
+        "cti25-h-就",
+        "cti25-h-往",
+        "cti25-h-泳",
+        "cti25-h-游",
+        "cti25-h-右",
+        "cti25-h-站",
+        "cti25-h-走"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R3-018",
+      "revision": 1,
+      "part": "R3",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-6b4626582e7d"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-3d2a3992e6c8"
+      ],
+      "hanziIds": [
+        "cti25-h-吧",
+        "cti25-h-边",
+        "cti25-h-不",
+        "cti25-h-车",
+        "cti25-h-的",
+        "cti25-h-多",
+        "cti25-h-服",
+        "cti25-h-好",
+        "cti25-h-喝",
+        "cti25-h-会",
+        "cti25-h-看",
+        "cti25-h-可",
+        "cti25-h-了",
+        "cti25-h-吗",
+        "cti25-h-你",
+        "cti25-h-前",
+        "cti25-h-请",
+        "cti25-h-热",
+        "cti25-h-是",
+        "cti25-h-书",
+        "cti25-h-水",
+        "cti25-h-说",
+        "cti25-h-他",
+        "cti25-h-天",
+        "cti25-h-听",
+        "cti25-h-我",
+        "cti25-h-现",
+        "cti25-h-想",
+        "cti25-h-谢",
+        "cti25-h-以",
+        "cti25-h-在",
+        "cti25-h-这",
+        "cti25-h-昨",
+        "cti25-h-就",
+        "cti25-h-舒",
+        "cti25-h-往",
+        "cti25-h-泳",
+        "cti25-h-游",
+        "cti25-h-右",
+        "cti25-h-站",
+        "cti25-h-走"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R4-019",
+      "revision": 1,
+      "part": "R4",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-2acd5439c792"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-920759cf02fb"
+      ],
+      "hanziIds": [
+        "cti25-h-八",
+        "cti25-h-半",
+        "cti25-h-到",
+        "cti25-h-点",
+        "cti25-h-个",
+        "cti25-h-几",
+        "cti25-h-九",
+        "cti25-h-开",
+        "cti25-h-口",
+        "cti25-h-了",
+        "cti25-h-去",
+        "cti25-h-商",
+        "cti25-h-时",
+        "cti25-h-问",
+        "cti25-h-小",
+        "cti25-h-在",
+        "cti25-h-等",
+        "cti25-h-店",
+        "cti25-h-进",
+        "cti25-h-就",
+        "cti25-h-门"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R4-020",
+      "revision": 1,
+      "part": "R4",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-dbe53bfc4320"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-75bdaaeac417"
+      ],
+      "hanziIds": [
+        "cti25-h-班",
+        "cti25-h-的",
+        "cti25-h-候",
+        "cti25-h-间",
+        "cti25-h-看",
+        "cti25-h-课",
+        "cti25-h-了",
+        "cti25-h-六",
+        "cti25-h-么",
+        "cti25-h-去",
+        "cti25-h-日",
+        "cti25-h-上",
+        "cti25-h-什",
+        "cti25-h-时",
+        "cti25-h-是",
+        "cti25-h-她",
+        "cti25-h-晚",
+        "cti25-h-问",
+        "cti25-h-想",
+        "cti25-h-小",
+        "cti25-h-学",
+        "cti25-h-要",
+        "cti25-h-早",
+        "cti25-h-但",
+        "cti25-h-泳",
+        "cti25-h-游",
+        "cti25-h-周"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R4-021",
+      "revision": 1,
+      "part": "R4",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-86c132633d66"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-ce0130396d14"
+      ],
+      "hanziIds": [
+        "cti25-h-本",
+        "cti25-h-的",
+        "cti25-h-弟",
+        "cti25-h-都",
+        "cti25-h-多",
+        "cti25-h-房",
+        "cti25-h-哥",
+        "cti25-h-间",
+        "cti25-h-里",
+        "cti25-h-没",
+        "cti25-h-三",
+        "cti25-h-谁",
+        "cti25-h-书",
+        "cti25-h-问",
+        "cti25-h-五",
+        "cti25-h-有"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-022",
+      "revision": 1,
+      "part": "W1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-fe94c36ab620"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-96e0b02c992a"
+      ],
+      "hanziIds": [
+        "cti25-h-口",
+        "cti25-h-先",
+        "cti25-h-也",
+        "cti25-h-子",
+        "cti25-h-门",
+        "cti25-h-洗"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-023",
+      "revision": 1,
+      "part": "W1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-fe94c36ab620"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-96e0b02c992a"
+      ],
+      "hanziIds": [
+        "cti25-h-口",
+        "cti25-h-先",
+        "cti25-h-也",
+        "cti25-h-住",
+        "cti25-h-子",
+        "cti25-h-门"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-024",
+      "revision": 1,
+      "part": "W1",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": false,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-fe94c36ab620"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-96e0b02c992a"
+      ],
+      "hanziIds": [
+        "cti25-h-好",
+        "cti25-h-口",
+        "cti25-h-女",
+        "cti25-h-先",
+        "cti25-h-也",
+        "cti25-h-子",
+        "cti25-h-门"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W2-025",
+      "revision": 1,
+      "part": "W2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": true,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-2acd5439c792"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-ac642b2d5d0e"
+      ],
+      "hanziIds": [
+        "cti25-h-服",
+        "cti25-h-件",
+        "cti25-h-今",
+        "cti25-h-了",
+        "cti25-h-冷",
+        "cti25-h-买",
+        "cti25-h-太",
+        "cti25-h-天",
+        "cti25-h-我",
+        "cti25-h-想",
+        "cti25-h-一",
+        "cti25-h-衣"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W2-026",
+      "revision": 1,
+      "part": "W2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": true,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-86c132633d66"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-ce0130396d14"
+      ],
+      "hanziIds": [
+        "cti25-h-吧",
+        "cti25-h-吃",
+        "cti25-h-饭",
+        "cti25-h-朋",
+        "cti25-h-手",
+        "cti25-h-小",
+        "cti25-h-友",
+        "cti25-h-再",
+        "cti25-h-完",
+        "cti25-h-洗"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W2-027",
+      "revision": 1,
+      "part": "W2",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "playable": true,
+      "manual": true,
+      "unknownVocabulary": [],
+      "unknownGrammar": [],
+      "topicIds": [
+        "v9-cti25-topic-2-06b139c0aed8"
+      ],
+      "taskIds": [
+        "v9-cti25-task-2-1c8186f11988"
+      ],
+      "hanziIds": [
+        "cti25-h-点",
+        "cti25-h-见",
+        "cti25-h-口",
+        "cti25-h-们",
+        "cti25-h-明",
+        "cti25-h-七",
+        "cti25-h-天",
+        "cti25-h-我",
+        "cti25-h-校",
+        "cti25-h-学",
+        "cti25-h-在",
+        "cti25-h-门"
+      ],
+      "topicMapping": "CTI_TITLE_HASH_PROJECT_REFERENCE",
+      "originalSourceNumber": null,
+      "languageStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    }
+  ],
+  "unknownReferences": [],
+  "diagnostics": {
+    "checked": 54,
+    "issues": [
+      {
+        "id": "v8-hsk2-W2-025",
+        "flags": [
+          "INVALID_ANSWER"
+        ],
+        "status": "NEEDS_REVIEW"
+      },
+      {
+        "id": "v8-hsk2-W2-026",
+        "flags": [
+          "INVALID_ANSWER"
+        ],
+        "status": "NEEDS_REVIEW"
+      },
+      {
+        "id": "v8-hsk2-W2-027",
+        "flags": [
+          "INVALID_ANSWER"
+        ],
+        "status": "NEEDS_REVIEW"
+      },
+      {
+        "id": "v9-hsk2-W2-025",
+        "flags": [
+          "INVALID_ANSWER"
+        ],
+        "status": "NEEDS_REVIEW"
+      },
+      {
+        "id": "v9-hsk2-W2-026",
+        "flags": [
+          "INVALID_ANSWER"
+        ],
+        "status": "NEEDS_REVIEW"
+      },
+      {
+        "id": "v9-hsk2-W2-027",
+        "flags": [
+          "INVALID_ANSWER"
+        ],
+        "status": "NEEDS_REVIEW"
+      }
+    ],
+    "nearDuplicates": [],
+    "answerPositions": {
+      "A": 15,
+      "B": 13,
+      "C": 10,
+      "D": 6
+    },
+    "method": "Structural and character-bigram heuristics; no semantic or expert quality certification"
+  },
+  "newDraftTokenFlags": [
+    {
+      "id": "v9-hsk2-L1-003",
+      "revision": 1,
+      "sourceFingerprint": "c1b72db4e1e9d273c8d17c3930547754a7478d8820db5e0553642bf76586f512",
+      "tokensToReview": [
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "breakfast-before-departure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-022",
+      "revision": 1,
+      "sourceFingerprint": "b77398da80f0df5b41f3cbe89a8dafdde207ebd884ba6ba374043cd4adf454b4",
+      "tokensToReview": [
+        {
+          "text": "氵",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "子",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "主",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "wash-character-component",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-023",
+      "revision": 1,
+      "sourceFingerprint": "2938f1176d14ac616b19f64ae038a55baec72b3cea11dedf57f37f98eaf8d71e",
+      "tokensToReview": [
+        {
+          "text": "亻",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "子",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "主",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "live-character-component",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-024",
+      "revision": 1,
+      "sourceFingerprint": "26a0d927a8eb951b1b7bc4de385372cb8837d043a4243f7e3a339a9c14fb6c37",
+      "tokensToReview": [
+        {
+          "text": "子",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "主",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "good-character-component",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    }
+  ],
+  "newContexts": [
+    "medical-advice",
+    "movie-on-computer",
+    "breakfast-before-departure",
+    "prepare-language-class",
+    "cannot-call-while-driving",
+    "prepare-class-notes",
+    "meeting-before-movie",
+    "small-new-bag-comparison",
+    "waiting-for-family",
+    "wash-hands-before-bread",
+    "chair-beside-table",
+    "broken-phone",
+    "second-visit",
+    "keep-quiet-near-sleeping-child",
+    "station-school-hospital-map",
+    "ask-to-look-at-clothes",
+    "ask-station-direction",
+    "ask-about-recovery",
+    "wait-for-shop-opening",
+    "choose-swimming-class-time",
+    "compare-room-book-count",
+    "wash-character-component",
+    "live-character-component",
+    "good-character-component",
+    "buy-warm-clothing",
+    "handwashing-hanzi",
+    "school-gate-meeting-hanzi"
+  ],
+  "humanReviewed": 0,
+  "published": 0,
+  "note": "Exact/near similarity is heuristic, not proof of natural Chinese or unique correct answer. 27 legacy drafts keep their existing taxonomy; 27 new drafts add actual topic/task title references and cumulative Hanzi links."
+}

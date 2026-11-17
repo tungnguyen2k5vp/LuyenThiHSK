@@ -1,0 +1,2 @@
+import {readFile,writeFile,cp,copyFile} from 'node:fs/promises';await cp('docs/screenshots/v10/after-edge','docs/screenshots/v10/failure-edge-view-mode',{recursive:true});await copyFile('data/reports/v10/repeated/browser.json','data/reports/v10/repeated/browser-view-mode-failure.json');
+const p='scripts/exam-browser-check.mjs';let s=await readFile(p,'utf8');s=s.replaceAll('fromSurface:!process.env.HSK_BROWSER_PATH','fromSurface:true').replace("screenshotBackend:process.env.HSK_BROWSER_PATH?'foreground-view':'surface'","screenshotBackend:'surface'");await writeFile(p,s);

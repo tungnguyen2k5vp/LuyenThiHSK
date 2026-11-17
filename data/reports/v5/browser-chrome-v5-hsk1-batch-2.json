@@ -1,0 +1,17 @@
+{
+  "browser": "Chrome",
+  "at": "2026-10-19T06:25:16.206Z",
+  "bundle": "v5-hsk1-batch-2",
+  "releaseLoadMs": 214,
+  "searchMs": 7,
+  "practiceStartMs": 219,
+  "decodedAudio": 40,
+  "status": "PASS",
+  "productionProgressUnchanged": true,
+  "widths": [
+    320,
+    375,
+    390,
+    430
+  ]
+}

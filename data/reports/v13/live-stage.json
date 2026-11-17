@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-19T03:35:38.330Z",
+  "plan": {
+    "planned": 20,
+    "planHash": "853f82818259a8df8b44e04766862fc77d2c0ef8a3da4a78049de9a833c59a85",
+    "changed": 0
+  },
+  "applied": {
+    "added": 20,
+    "humanReviewed": 0,
+    "published": 0
+  },
+  "scope": "Main local editorial database only; original AI drafts, no human approval or publishing",
+  "credentialsPrinted": false
+}

@@ -1,0 +1,144 @@
+{
+  "at": "2026-10-16T15:19:05.090Z",
+  "phase": "final",
+  "results": [
+    {
+      "script": "typecheck",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 605
+    },
+    {
+      "script": "lint",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 559
+    },
+    {
+      "script": "test",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 8004
+    },
+    {
+      "script": "test:v2",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 7125
+    },
+    {
+      "script": "test:v3",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 7109
+    },
+    {
+      "script": "test:v3-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 757
+    },
+    {
+      "script": "test:v4",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 9168
+    },
+    {
+      "script": "test:v5",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 458
+    },
+    {
+      "script": "test:v5-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 3363
+    },
+    {
+      "script": "test:v6",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 8102
+    },
+    {
+      "script": "test:v6-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 6840
+    },
+    {
+      "script": "test:account",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 885
+    },
+    {
+      "script": "test:admin",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 610
+    },
+    {
+      "script": "check:content",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 7499
+    },
+    {
+      "script": "build",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2123
+    },
+    {
+      "script": "test:v7",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2850
+    },
+    {
+      "script": "test:v7-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2741
+    },
+    {
+      "script": "test:v7-account",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 276
+    },
+    {
+      "script": "test:v7-sync",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2095
+    },
+    {
+      "script": "test:v8",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 1077
+    },
+    {
+      "script": "test:v8-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 1788
+    },
+    {
+      "script": "test:v8-grading",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 471
+    },
+    {
+      "script": "test:v8-grammar",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 8086
+    }
+  ]
+}

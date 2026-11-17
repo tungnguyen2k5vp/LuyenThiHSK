@@ -1,0 +1,386 @@
+{
+  "at": "2026-10-18T02:25:26.227Z",
+  "method": "Filesystem SHA256 comparison with pre-V10 snapshot; project has no Git repository",
+  "files": [
+    {
+      "file": "src/components/admin/AudioWorkbenchV10.tsx",
+      "status": "ADDED",
+      "sha256": "50c6b6b4ccded2c5bac58c1ecdd61200dde4b992149c01ec3c587394bce39f04"
+    },
+    {
+      "file": "src/components/admin/ContentReviewV5.tsx",
+      "status": "CHANGED",
+      "sha256": "168005114b3e005af74a08c7bd0e73463d141b0c33bf64e8cb15ee53186b8e9e"
+    },
+    {
+      "file": "src/components/exam/AttemptResult.tsx",
+      "status": "CHANGED",
+      "sha256": "8c5b0dff16c363518c00db31c2dc638cf5922984bfcfdc600139bcc906e5ebf7"
+    },
+    {
+      "file": "src/components/learning/CourseWorkspace.tsx",
+      "status": "CHANGED",
+      "sha256": "a402612fc9a99b59c673626896cb9cc7b86a6f79b7fecb5dc42fdb417ce5ddf3"
+    },
+    {
+      "file": "src/components/preparation/HSK2MockStatus.tsx",
+      "status": "ADDED",
+      "sha256": "671505757d9e0d9e431cd38111a5ac2bcfc6b08c6e370fe2d6c15e55c196dae2"
+    },
+    {
+      "file": "src/components/preparation/HSK2Pilot.tsx",
+      "status": "CHANGED",
+      "sha256": "dcde3adae003a1904827bf4f1dcad382bc058ce89090de8e4237171d45aeac36"
+    },
+    {
+      "file": "src/components/preparation/HSK2Today.tsx",
+      "status": "CHANGED",
+      "sha256": "2bf50d2e487377d359b4d91c55af5e9043fc037e212aebed3b63761c1f01fe3f"
+    },
+    {
+      "file": "src/components/preparation/PreviewWorkspace.tsx",
+      "status": "CHANGED",
+      "sha256": "71d04274604f938b0c1ef761f62b475a5936b25a7128e37c5b5a2dffbc1ab802"
+    },
+    {
+      "file": "src/services/curriculum.ts",
+      "status": "CHANGED",
+      "sha256": "3bb4535b2ff2ad5d43befc19c3a3b9b032287a45fade62d7e446d02f2438dd35"
+    },
+    {
+      "file": "src/services/partPractice.ts",
+      "status": "CHANGED",
+      "sha256": "691cb8393277e20eed40db8c70b677843c45ae198bcd9effdfe475d58fff7690"
+    },
+    {
+      "file": "src/services/previewContent.ts",
+      "status": "CHANGED",
+      "sha256": "f321a81f446a94670d97a71a40a33aff3e6667483e8699fefc61912144aed24c"
+    },
+    {
+      "file": "shared/practice-selection.mjs",
+      "status": "CHANGED",
+      "sha256": "2ea7266a9671a985651873989418aa19e752c890425e7acf430a721430987dd3"
+    },
+    {
+      "file": "shared/v10-audio.mjs",
+      "status": "ADDED",
+      "sha256": "4585c485419f9c74a050e4c9fe7b56b3d3ca98a39abecf2540bec8d969c3ff3f"
+    },
+    {
+      "file": "shared/v10-content.mjs",
+      "status": "ADDED",
+      "sha256": "e20e40521eaa57349544a937ee6e07d57b169c0413b9e079b056351e1cdbd0b9"
+    },
+    {
+      "file": "shared/v10-mock.mjs",
+      "status": "ADDED",
+      "sha256": "a638d23c937e8a68fd457dcdaf514ece793ec08b276a0b7c33887022c61afc05"
+    },
+    {
+      "file": "server/admin-server.mjs",
+      "status": "CHANGED",
+      "sha256": "45518b750c2862c89640fecc8b38e0ddd2d7898b4a91aed5099dc173d5f15cc4"
+    },
+    {
+      "file": "server/cloud/.env.audio.example",
+      "status": "ADDED",
+      "sha256": "6c38819583cd5b569212d507d1fb6b11b430323e6de3b30e921d8b54c96480ab"
+    },
+    {
+      "file": "server/content-contract.mjs",
+      "status": "CHANGED",
+      "sha256": "4f35c7612966468c6d995290528d884669e0ee7a864a6ba7204ac75b6e7fbb2f"
+    },
+    {
+      "file": "server/v10-content-service.mjs",
+      "status": "ADDED",
+      "sha256": "db49ba1a55819637ea0e1ded586bd9d8b2487ad32fd3840cc6091bc1ec9f4d4d"
+    },
+    {
+      "file": "server/v10-speech.mjs",
+      "status": "ADDED",
+      "sha256": "90155b450a4e6e532b21af4fd92efc0ec393cb4c30365000585c04319b2d33a4"
+    },
+    {
+      "file": "server/v3-content-service.mjs",
+      "status": "CHANGED",
+      "sha256": "5d524a936945f1d08a2c8b0568fbe1891252e09435936f8eefffc925a0c72b8f"
+    },
+    {
+      "file": "server/v5-content-service.mjs",
+      "status": "CHANGED",
+      "sha256": "d18df86b5fff34700512bda1ade17fbbdd895dfdea68b13934ccd8a0db372828"
+    },
+    {
+      "file": "server/v7-review-service.mjs",
+      "status": "CHANGED",
+      "sha256": "5989ccfac2a036fa50c8cac47075962e26337773b004e4785f3f090667017ea7"
+    },
+    {
+      "file": "scripts/build-v10-content.mjs",
+      "status": "ADDED",
+      "sha256": "541c764e9e81e9ec08662c7bfe402743081347b1712336134f913e9739f0114c"
+    },
+    {
+      "file": "scripts/check-v10-handoff.mjs",
+      "status": "ADDED",
+      "sha256": "281db52315ade9f8c33f6a90c24393e9853bda69c2c7fa44fb015896f535c9c5"
+    },
+    {
+      "file": "scripts/exam-browser-check.mjs",
+      "status": "CHANGED",
+      "sha256": "3d8113debbfae0aaa5e7e75ff8c816f28f6af45940cd84b320c7af4794dd34df"
+    },
+    {
+      "file": "scripts/test-v10-api.mjs",
+      "status": "ADDED",
+      "sha256": "ddb3ae6a3ae6efda59bd0fbfa93fd450cd76d5cdc906f31d263dea868164edc7"
+    },
+    {
+      "file": "scripts/test-v10.mjs",
+      "status": "ADDED",
+      "sha256": "3da744d791b6efaedba9fc6f4ddb930f0d32bc0ade2c6b55d55510d929952c52"
+    },
+    {
+      "file": "scripts/v10-audit-timestamp-deltas.mjs",
+      "status": "ADDED",
+      "sha256": "d5665864793206374239948dfb52a5e060a3184e1acd8886975f7a89ea0af83e"
+    },
+    {
+      "file": "scripts/v10-audit.mjs",
+      "status": "ADDED",
+      "sha256": "aa8a74ae57e1193d7a551a421f9ece4bfe3b99d1fee6c239e2e6465df9268b2a"
+    },
+    {
+      "file": "scripts/v10-browser-flows.mjs",
+      "status": "ADDED",
+      "sha256": "36f2ff7fd20f7011667a11501dc3f8226a8e2115e10360548e774aad4aed1dae"
+    },
+    {
+      "file": "scripts/v10-browser-matrix.mjs",
+      "status": "ADDED",
+      "sha256": "2d8c30f3b6b51b2838863120975a6a6214308c14cf396750fce467ecc88a8ac3"
+    },
+    {
+      "file": "scripts/v10-check-images.py",
+      "status": "ADDED",
+      "sha256": "c3bea8ddde63ab380f757672c4247d22ac0e72a9158fce02722e48e44e45b47c"
+    },
+    {
+      "file": "scripts/v10-consolidate.mjs",
+      "status": "ADDED",
+      "sha256": "28f71b0a0cdc0f5094f328081fd34d6c728e7dce753ed73ff1af77831214dfab"
+    },
+    {
+      "file": "scripts/v10-final-code-polish.mjs",
+      "status": "ADDED",
+      "sha256": "5f81e837c2171eb1ba6d16b1bc785e6efea86635babe6d5783098843d4030e89"
+    },
+    {
+      "file": "scripts/v10-final-qa.mjs",
+      "status": "ADDED",
+      "sha256": "6f67957a1501e8ef4693d023991d82f0ac8e7ec2f02c6a04e2a81cc3e8e34e3e"
+    },
+    {
+      "file": "scripts/v10-finalize.mjs",
+      "status": "ADDED",
+      "sha256": "dc662abbe539c2941e59cfa45b7b89a1861ca14f3641aa2336258447d6fd9a80"
+    },
+    {
+      "file": "scripts/v10-finish-capture-animations.mjs",
+      "status": "ADDED",
+      "sha256": "777da8022aa72ad4af01eac08fb8b70b44ab9ec7eda7d562fa24d47e00d5ac44"
+    },
+    {
+      "file": "scripts/v10-finish-report-details.mjs",
+      "status": "ADDED",
+      "sha256": "77127b3df2def29ff2952d1ccda22e5cf75596288a6c92c071733abcd8df5acd"
+    },
+    {
+      "file": "scripts/v10-fix-boundaries.mjs",
+      "status": "ADDED",
+      "sha256": "487c30153c35c881685e612ad5eac5128e1bae9ef142873a9803bc64b12b8f18"
+    },
+    {
+      "file": "scripts/v10-fix-browser-selectors.mjs",
+      "status": "ADDED",
+      "sha256": "bfe9cac4921975b156a629e9605bfa82c756525982253f3c74282e4ae878e8f0"
+    },
+    {
+      "file": "scripts/v10-fix-edge-capture.mjs",
+      "status": "ADDED",
+      "sha256": "209ab5ad70ea7d277b642454170a8baf94202a4a982010b1d2b69d295f260c26"
+    },
+    {
+      "file": "scripts/v10-fix-edge-navigation.mjs",
+      "status": "ADDED",
+      "sha256": "18abb63af6c7d7b35ee08e5b1b206492791d7386ccf5d1ec7dea7a8ffb1b78b4"
+    },
+    {
+      "file": "scripts/v10-fix-edge-surface.mjs",
+      "status": "ADDED",
+      "sha256": "4cd0543d4e72214dccbc46393c22d1798dcd47b0aaa08ed7b3f29a29cf78a8bd"
+    },
+    {
+      "file": "scripts/v10-fix-mock-runtime.mjs",
+      "status": "ADDED",
+      "sha256": "6a0c443c3b1b7bcfcc8a5370effb4fac123b7fead9d0787f56c38253031c8abd"
+    },
+    {
+      "file": "scripts/v10-fix-report-root.mjs",
+      "status": "ADDED",
+      "sha256": "3cff2efcf3e5a3a30de28e618700f7e36e374add1ebf140d9e7267f90bade89a"
+    },
+    {
+      "file": "scripts/v10-fixtures.mjs",
+      "status": "ADDED",
+      "sha256": "3b55578f2e4812e3b2be7f620d30c014f9b61b29cb791c3a1b3cb4588a860394"
+    },
+    {
+      "file": "scripts/v10-frontend-fix.mjs",
+      "status": "ADDED",
+      "sha256": "227e7b37dce6018c96ba7a99eb3bed787eda06e446b4143acb1219c3d0e2c7a6"
+    },
+    {
+      "file": "scripts/v10-gallery.mjs",
+      "status": "ADDED",
+      "sha256": "0b6aff0f5b5fdcb99302649aac7f51565f793e3ba53e06346936fd3b6fec1d42"
+    },
+    {
+      "file": "scripts/v10-harden-group-selection.mjs",
+      "status": "ADDED",
+      "sha256": "e9e280fa5ae34c9eb3dccfce46d74d512e11d5fc720eaf217e2f28dd6bef46af"
+    },
+    {
+      "file": "scripts/v10-order-browser-journeys.mjs",
+      "status": "ADDED",
+      "sha256": "f8f40f2ecd4b74273619121ba4172abb60561f3e7f70345b1c4d546666e3a1cb"
+    },
+    {
+      "file": "scripts/v10-pack-zips.py",
+      "status": "ADDED",
+      "sha256": "976afd3ff25e015508c706e870748d17ed7656d51205c2fb38e2c7f57c2dd74c"
+    },
+    {
+      "file": "scripts/v10-performance-report.mjs",
+      "status": "ADDED",
+      "sha256": "bce58e0021bd5641e6289d736db3de8c72cbb74f891a3ef2847371fe5e8726d7"
+    },
+    {
+      "file": "scripts/v10-polish-drafts.mjs",
+      "status": "ADDED",
+      "sha256": "663c1e581f31c63b4ce8679bd3fd7ab28b641259651d3bc289ba21b15a57f9a6"
+    },
+    {
+      "file": "scripts/v10-polish-explanations.mjs",
+      "status": "ADDED",
+      "sha256": "96fdc763890daec41f073285b3bbd52e9b7ca7cca2a866e60259f3b4e13b2ef4"
+    },
+    {
+      "file": "scripts/v10-polish-final-tests.mjs",
+      "status": "ADDED",
+      "sha256": "8b7c32c062c92eac908183ac439a46ac0a8af67435cc43830592828b4207ac04"
+    },
+    {
+      "file": "scripts/v10-polish-reports.mjs",
+      "status": "ADDED",
+      "sha256": "0307cad5c0b66f2b98f8f6eb75ca58953724a088ea764efff577d975badc02af"
+    },
+    {
+      "file": "scripts/v10-prepare-review-generator.mjs",
+      "status": "ADDED",
+      "sha256": "02379f8ab4abb5ac1bd4f76329b4596e0af1189140e89e0731f33514b5ccab3d"
+    },
+    {
+      "file": "scripts/v10-regression.mjs",
+      "status": "ADDED",
+      "sha256": "e68d2de54ded375d82600a16c45f6965905705f6f627e769a83086fd4d506524"
+    },
+    {
+      "file": "scripts/v10-repeat-checks.mjs",
+      "status": "ADDED",
+      "sha256": "446556a77cc16b479846271f2db72a05c5e3092fbeca710d9b59edfe56f28ec7"
+    },
+    {
+      "file": "scripts/v10-report-edge-evidence.mjs",
+      "status": "ADDED",
+      "sha256": "5d1f29bfbc0b063d5f4790db406bdc4eb0950a9e93a3b3371e9508b1f276f0c3"
+    },
+    {
+      "file": "scripts/v10-review-html-flow.mjs",
+      "status": "ADDED",
+      "sha256": "49abd228f9411549971e2c81fc10e154551509369b4b74af867598380eba1761"
+    },
+    {
+      "file": "scripts/v10-review-package.mjs",
+      "status": "ADDED",
+      "sha256": "599c285cae6a75c1b50d340c2ec14def90fd94a7bb69f0eb65abdf5bfc9685cb"
+    },
+    {
+      "file": "scripts/v10-revise-authored.mjs",
+      "status": "ADDED",
+      "sha256": "99be30d6dd6e222187d72a054ef1cd410c0de10474445a8bce24a273118d4098"
+    },
+    {
+      "file": "scripts/v10-source-diff.mjs",
+      "status": "ADDED",
+      "sha256": "00381bdc0a58740af5b69ead9fcb0b73a0d2e5a3df8abf8ba7327787c218f850"
+    },
+    {
+      "file": "scripts/v10-source-evidence.mjs",
+      "status": "ADDED",
+      "sha256": "410374a089ca0046d9b5cbcbb7b5abc23f47ddbef546d12fa2eb837648fd0b45"
+    },
+    {
+      "file": "scripts/v10-stage.mjs",
+      "status": "ADDED",
+      "sha256": "9439a679703481a60285196449cf3473d38efa1a90b30300deea0f7ee33eff71"
+    },
+    {
+      "file": "scripts/v10-wire-admin.mjs",
+      "status": "ADDED",
+      "sha256": "0b09dc4374c391b5bdc36469310ac9441f1c9688363e199fc24cf56750ecfa3c"
+    },
+    {
+      "file": "scripts/v10-wire-backend.mjs",
+      "status": "ADDED",
+      "sha256": "c822e3083874c750ecc2ed0c445bca3b514bc76e6392e71e2c7806ae3d59cb73"
+    },
+    {
+      "file": "scripts/v10-wire-browser.mjs",
+      "status": "ADDED",
+      "sha256": "92da43e6ddd57ddfe43816cdfa2f88439828412d9442b0820cb832c12b5a64af"
+    },
+    {
+      "file": "scripts/v10-wire-frontend.mjs",
+      "status": "ADDED",
+      "sha256": "19bb5cbf71289fc9288e961966a752ad8da4232d54ab267b0132cbffc6d17dcc"
+    },
+    {
+      "file": "scripts/v10-wire-performance-fix.mjs",
+      "status": "ADDED",
+      "sha256": "df6c009a6cdc2575140ced97c961e0ddc3de46d95249b04927bc8ad623ecf627"
+    },
+    {
+      "file": "scripts/v10-wire-ready-start.mjs",
+      "status": "ADDED",
+      "sha256": "083f808fe2621587205fe551972aa67137faa9d80921eda56cd13daf731764bc"
+    },
+    {
+      "file": "scripts/v10-write-final.mjs",
+      "status": "ADDED",
+      "sha256": "5fdbba009ffa7fda9570f1da0709e8b3a352955dec169b0b5d21cc7b88e07bd0"
+    },
+    {
+      "file": "scripts/v10-write-reports.mjs",
+      "status": "ADDED",
+      "sha256": "a24b2964180b82401d1a4d7c0a42876004dbfbbe890ffeca20237d976d784dde"
+    },
+    {
+      "file": "scripts/v8-browser-flows.mjs",
+      "status": "CHANGED",
+      "sha256": "acbbe4e70069203a1cdfad7259d3b920044995680b6ac68d495fc56f9a34c40f"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "at": "2026-10-17T15:48:29.494Z",
+  "status": "PASS",
+  "checks": [
+    "Stage persisted and preview loaded",
+    "Missing audio stays unavailable",
+    "HSK2 navigation"
+  ],
+  "questionId": "v10-hsk2-R4-001",
+  "fixture": "Separate browser profile, persisted draft renderer and feedback"
+}

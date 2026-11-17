@@ -1,0 +1,105 @@
+{
+  "at": "2026-10-16T06:15:21.671Z",
+  "source": "LIVE_PRIVATE_API",
+  "summary": {
+    "counts": {
+      "vocabulary": {
+        "total": 300,
+        "draft": 0,
+        "needsReview": 300,
+        "internallyValidated": 300,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "grammar": {
+        "total": 68,
+        "draft": 0,
+        "needsReview": 68,
+        "internallyValidated": 68,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "questions": {
+        "total": 396,
+        "draft": 0,
+        "needsReview": 396,
+        "internallyValidated": 396,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "audio": {
+        "total": 80,
+        "draft": 0,
+        "needsReview": 80,
+        "internallyValidated": 80,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "templates": {
+        "total": 1,
+        "draft": 0,
+        "needsReview": 1,
+        "internallyValidated": 1,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "images": {
+        "total": 30,
+        "draft": 0,
+        "needsReview": 30,
+        "internallyValidated": 30,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "optionBanks": {
+        "total": 8,
+        "draft": 0,
+        "needsReview": 8,
+        "internallyValidated": 8,
+        "humanReviewed": 0,
+        "published": 0
+      }
+    },
+    "total": 883,
+    "errors": 0,
+    "warnings": 0,
+    "renderedAudio": 80,
+    "productionPublished": 0,
+    "humanReviewed": 0
+  },
+  "addedQuestions": 218,
+  "pictureQuestions": 32,
+  "matching": 22,
+  "sharedBankQuestions": 40,
+  "types": {
+    "dialogue": 10,
+    "fill-blank": 161,
+    "grammar-practice": 40,
+    "matching": 22,
+    "multiple-choice": 68,
+    "picture-choice": 10,
+    "picture-true-false": 2,
+    "sentence-order": 26,
+    "shared-options": 20,
+    "short-passage": 20,
+    "true-false": 17
+  },
+  "suitability": {
+    "EXAM_CANDIDATE": 80,
+    "GUIDED_PRACTICE": 130,
+    "INDEPENDENT_PRACTICE": 186
+  },
+  "grammarAtLeast5": 68,
+  "independentMockVariants": 2,
+  "blockers": [
+    "BLOCKED_FOR_HUMAN_REVIEW: nghĩa/pinyin/cấp/đáp án/ngữ pháp/ảnh/phát âm chưa có reviewer thật",
+    "AUDIO_RIGHTS_UNVERIFIED:80 huayan synthetic chỉ private preview",
+    "IBT_RULES_UNVERIFIED: audio replay/navigation/scoring và timing equivalence chưa chính thức",
+    "NOT_DEPLOYED: Supabase/Auth/PostgreSQL/HTTPS/SMTP/RLS runtime/operations còn thiếu cấu hình và QA thật",
+    "PRODUCTION_MEDIA_PENDING: private image delivery và server-side exam secrecy chưa sẵn sàng public",
+    "DEVICE_QA_PENDING: Firefox/Safari/mobile thật/screen reader chưa kiểm"
+  ],
+  "liveCloud": "NOT_DEPLOYED",
+  "humanReviewed": 0,
+  "published": 0
+}

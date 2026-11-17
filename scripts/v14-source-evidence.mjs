@@ -1,0 +1,10 @@
+import {readFile,writeFile,readdir} from 'node:fs/promises';import path from 'node:path';import {digest} from '../shared/v5-quality.mjs';
+const files={};async function scan(dir){for(const e of await readdir(dir,{withFileTypes:true})){const f=dir+'/'+e.name;if(e.isDirectory())await scan(f);else files[f]=digest(await readFile(f))}}
+for(const dir of ['src','server','shared','scripts','schemas'])await scan(dir);for(const f of ['package.json','package-lock.json','tsconfig.json','vite.config.ts','index.html'])files[f]=digest(await readFile(f));
+const sorted=Object.fromEntries(Object.entries(files).sort(([a],[b])=>a.localeCompare(b))),sha256=digest(sorted),target='data/reports/v14/source-evidence.json';
+if(process.argv.includes('--verify')){const old=JSON.parse(await readFile(target,'utf8')),changed=[...new Set([...Object.keys(old.files),...Object.keys(sorted)])].filter(f=>old.files[f]!==sorted[f]);await writeFile('data/reports/v14/source-verification.json',JSON.stringify({at:new Date().toISOString(),status:changed.length?'FAIL':'PASS',before:old.sha256,after:sha256,changed},null,2));console.log(JSON.stringify({status:changed.length?'FAIL':'PASS',files:Object.keys(files).length,changed}));if(changed.length)process.exitCode=1;}
+else{
+ const run=JSON.parse(await readFile('data/reports/v14/current-regression.json','utf8')),runDifferences=[];
+ for(const[f,h]of Object.entries(files).filter(([f])=>/^(src|server|shared|schemas)\//.test(f)||['package.json','package-lock.json','tsconfig.json','vite.config.ts','index.html'].includes(f))){let old;try{old=digest(await readFile(path.join(run.workspace,f)))}catch{}if(old!==h)runDifferences.push(f)}
+ await writeFile(target,JSON.stringify({at:new Date().toISOString(),sha256,files:sorted,scope:'All product/UI/backend/shared/schema/QA code and config; credentials/runtime/generated reports excluded',regression:{status:run.status,workspace:run.workspace,sourceMatches:runDifferences.length===0,differences:runDifferences}},null,2));console.log(JSON.stringify({sha256,files:Object.keys(files).length,regressionSourceMatches:runDifferences.length===0,differences:runDifferences}));
+}

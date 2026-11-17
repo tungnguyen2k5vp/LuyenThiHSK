@@ -1,0 +1,78 @@
+{
+  "at": "2026-10-18T16:11:49.421Z",
+  "phase": "final",
+  "results": [
+    {
+      "name": "v8-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 59256
+    },
+    {
+      "name": "v8-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 61167
+    },
+    {
+      "name": "v11-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 18610
+    },
+    {
+      "name": "v11-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 19364
+    },
+    {
+      "name": "v12-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 23792
+    },
+    {
+      "name": "v12-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 23983
+    },
+    {
+      "name": "v5-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 22596
+    },
+    {
+      "name": "v4-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 16354
+    },
+    {
+      "name": "v1-v3-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 41972
+    },
+    {
+      "name": "renderer",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2732
+    },
+    {
+      "name": "sync-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 10775
+    },
+    {
+      "name": "sync-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 11228
+    }
+  ]
+}

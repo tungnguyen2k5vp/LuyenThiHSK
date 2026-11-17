@@ -1,0 +1,1343 @@
+{
+  "schemaVersion": 1,
+  "records": 254795,
+  "files": [
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-001.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-001.csv",
+      "records": 2000,
+      "sha256": "a33bf22cd1ad0fef6f80855125cf966fa426eea76e4a8937aee3684691e5f1de",
+      "firstId": "ext-00001d900baa4658c26ea766",
+      "lastId": "ext-03e2e3b77673e3957a80e503"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-002.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-002.csv",
+      "records": 2000,
+      "sha256": "ebdf5e51ad179b405cf7f71f2abeeecc365cbdeddc7064ae72fdf1a51906edcd",
+      "firstId": "ext-03e3a6f750846878b62c8b1d",
+      "lastId": "ext-07ab520981e7983b24581019"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-003.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-003.csv",
+      "records": 2000,
+      "sha256": "2db88f2df33ab95164e9d3ed77b92c8820be9a93305a59eee6d9b4ee1c4ad347",
+      "firstId": "ext-07aba029ff6d5dff98bf53a8",
+      "lastId": "ext-0b6fea99e35854c42c6f67af"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-004.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-004.csv",
+      "records": 2000,
+      "sha256": "6beb997a0a1c93db8c5062ef788fbcd18d719f07be7c5242941ec61b5f417def",
+      "firstId": "ext-0b701dbdc22364df01be6a49",
+      "lastId": "ext-0f3e6bd1f1355fcb1f57f53d"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-005.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-005.csv",
+      "records": 2000,
+      "sha256": "a520e191e78329f3f73a7bb9883c207ba5cc37f023edc5941e3937be31d17c38",
+      "firstId": "ext-0f3f6122c66430bc2bec10a5",
+      "lastId": "ext-1306d7397a5089f62ee5b8b7"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-006.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-006.csv",
+      "records": 2000,
+      "sha256": "6f4748599db440486525df36889fcee9f5e7fc70dd968443e9ead63bd10f3476",
+      "firstId": "ext-13080197de690892a88ce6d6",
+      "lastId": "ext-16dbe9264412d06ba4d57ee4"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-007.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-007.csv",
+      "records": 2000,
+      "sha256": "0c8b9199245b84f48c1affad186cbc00ef69c955195c8a0ee3ebca77b3d19772",
+      "firstId": "ext-16dc68609a322e82af09dc83",
+      "lastId": "ext-1aa05b4d177c320bfec08f1c"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-008.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-008.csv",
+      "records": 2000,
+      "sha256": "2aec1eb666b107044f6855244515d62393f125567c3ecfbcf9ccbbfd1492226b",
+      "firstId": "ext-1aa0acbbc356a0e4f51b4b95",
+      "lastId": "ext-1e382356c28061efe172bd66"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-009.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-009.csv",
+      "records": 2000,
+      "sha256": "52b875b1719c0dc49f2d204e83c0162a746ba2f40c0151a8cb708842b46a3ee2",
+      "firstId": "ext-1e3882ce6a2e15c191179f7b",
+      "lastId": "ext-21e0538bf6e8f03c2ba2efa4"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-010.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-010.csv",
+      "records": 2000,
+      "sha256": "53e06f4f69c20b5f9378ac01debdf63dc1f26512bb94ed79a70087fb2f474a53",
+      "firstId": "ext-21e163a20c43b4c331bcc4b7",
+      "lastId": "ext-25b73f1068cb6536d7abc838"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-011.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-011.csv",
+      "records": 2000,
+      "sha256": "ab91e35f339fb4a64e34346138800a5b97ac58bbc0b8c88f590338ec5571a282",
+      "firstId": "ext-25b76797887ffb587c307f7c",
+      "lastId": "ext-295930696fa4196836600438"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-012.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-012.csv",
+      "records": 2000,
+      "sha256": "f692c664a0bbe877c7562f71322451e7586ae6def7773a51558dd4cac83e15f8",
+      "firstId": "ext-2959cf022c75a2499410d7f3",
+      "lastId": "ext-2d1af12a4f885105e95fd9c4"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-013.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-013.csv",
+      "records": 2000,
+      "sha256": "60198e5d67e497d16d22b7a28d6d3d3800925a2814ce02ae61491692ec2274be",
+      "firstId": "ext-2d1b181049177a0a9b0478d4",
+      "lastId": "ext-30d1cc0f1ed33f6064f18a23"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-014.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-014.csv",
+      "records": 2000,
+      "sha256": "e85b62cdaf349df1ba6bd56ec017fc7d25ba9f54ed0a68aada9a11fc741f1949",
+      "firstId": "ext-30d1da04d921467a1d2890b4",
+      "lastId": "ext-349708ebc035b6ff156c9f78"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-015.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-015.csv",
+      "records": 2000,
+      "sha256": "866e6d1aa97eee23f8c6aa0b82a9234d163f3caeba4d95405c498350fbf2494c",
+      "firstId": "ext-3497c1f2643500fa06a0920f",
+      "lastId": "ext-3884e3a45668d29be546d634"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-016.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-016.csv",
+      "records": 2000,
+      "sha256": "4f2a6b2405147c6569bfc963a0d2e4400d32e0aee434f0fdf70b0955d5817a95",
+      "firstId": "ext-38856ee9f00fb848819a9b57",
+      "lastId": "ext-3c4f755a61f62c24551784f3"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-017.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-017.csv",
+      "records": 2000,
+      "sha256": "4d2f042af1adbd2dee00b023ba48cc8a0688e9a70ce3a433ffd6bd8b44e321db",
+      "firstId": "ext-3c4f78023ec1a4a512c0d9aa",
+      "lastId": "ext-4017f130ecfe3e263a2c0bf1"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-018.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-018.csv",
+      "records": 2000,
+      "sha256": "75bec83fcff0f1a2e7a2915d54f37bdfc971b5c93812ebde56cdf6b71aef23d2",
+      "firstId": "ext-401803e6b594f9876eb4b1b8",
+      "lastId": "ext-43de83dd0d7542128ddf6542"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-019.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-019.csv",
+      "records": 2000,
+      "sha256": "bbc756c0148147cf82859c052dd111f5c66d2152b043f8a00402638cb04c2923",
+      "firstId": "ext-43ded01f64e2946ee8fd41d6",
+      "lastId": "ext-47ba679c0e83f70fe9c40cc5"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-020.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-020.csv",
+      "records": 2000,
+      "sha256": "0e273c2df2b4d81e8e9d61c5c16b98571393bd963d29fa1010cece8da984cb09",
+      "firstId": "ext-47bac9276c490a846985443d",
+      "lastId": "ext-4b6d7fe41f995f5e1f4537b5"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-021.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-021.csv",
+      "records": 2000,
+      "sha256": "85fa649d8223caeffe3362e8d3d29200be13b61c9f40ae610c89b35dcad55253",
+      "firstId": "ext-4b6e11c437d645dbfa949633",
+      "lastId": "ext-4f286ce88fb4d43f210edd20"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-022.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-022.csv",
+      "records": 2000,
+      "sha256": "f5fcf0e5e375082acb084b4b98e43c8fc179a62482fe5e199ac695adc96329a8",
+      "firstId": "ext-4f28af08de4626316648a758",
+      "lastId": "ext-52dac25bc84efae1c2a6c33e"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-023.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-023.csv",
+      "records": 2000,
+      "sha256": "a767416dcea321ec14e194a8a0e35900a5fb1e20fe5cea6a9ff841d64e691362",
+      "firstId": "ext-52dbb37a9bebf629b9e10671",
+      "lastId": "ext-56aaaf6d1a8ec06f2f90bd74"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-024.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-024.csv",
+      "records": 2000,
+      "sha256": "6e5d79140188e9737d51006bdc5482fb7fe71fd1bd271cb2c674447bd15a01ea",
+      "firstId": "ext-56ab07f5a31f5c45e2e11540",
+      "lastId": "ext-5a587af33cdefc2f6b8289d3"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-025.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-025.csv",
+      "records": 2000,
+      "sha256": "056352154566f182a1a25df2dcf6bf5f801cf6f30a33af1f288bab0e9d2562f5",
+      "firstId": "ext-5a58e39672eca667a367f5a7",
+      "lastId": "ext-5e3d2db77ba335ef418828a5"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-026.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-026.csv",
+      "records": 2000,
+      "sha256": "ac190324e9c1a5937ee4e1943598cb3ca4418800be4ee891d98cc9214be79431",
+      "firstId": "ext-5e3d84cb3884c1bfb1df6582",
+      "lastId": "ext-621816dcd32129ecd36eafc4"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-027.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-027.csv",
+      "records": 2000,
+      "sha256": "575e06cc4fcd8a420c6954953409315f9b037ac15c6c1ef1d595d8f323a2e593",
+      "firstId": "ext-62190ced4c438acb0ef17093",
+      "lastId": "ext-65f52a5782f1d1b7a8198e96"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-028.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-028.csv",
+      "records": 2000,
+      "sha256": "0d30887466995a43be57b45c43217057bdabaff70840f8e17a111c7a0d598992",
+      "firstId": "ext-65f5737a8e7f159dc42ea04d",
+      "lastId": "ext-69966e9e9cd734887c6c91ef"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-029.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-029.csv",
+      "records": 2000,
+      "sha256": "12400882aea2519a21cfcf429255b747c199f859f579905732ea575edaa8048c",
+      "firstId": "ext-69969bdf31b5433957b58c95",
+      "lastId": "ext-6d453d9ac596b01930fe2e6c"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-030.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-030.csv",
+      "records": 2000,
+      "sha256": "7aa6e82c5af5091afd29a1eb993b8d778a030dd0ccade99cab4725840ef1b071",
+      "firstId": "ext-6d455d54f973c1032d6de47f",
+      "lastId": "ext-712a08eab5d7ba7ccea3f49c"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-031.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-031.csv",
+      "records": 2000,
+      "sha256": "2bd73ad405d4e80084cbf301d887d56dfbfe50dd8eb405467ce05d1eccb886c5",
+      "firstId": "ext-712a60b9a95a7412619c0fb4",
+      "lastId": "ext-74f01750ebf5095b269873f3"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-032.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-032.csv",
+      "records": 2000,
+      "sha256": "c1c7841651c2d3f13e5db6f93e77656ceef29972bf0460f0fb64af0f48ff48cf",
+      "firstId": "ext-74f0592b9e578134d4d64fc2",
+      "lastId": "ext-78b93921345819d1842b7156"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-033.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-033.csv",
+      "records": 2000,
+      "sha256": "ea309d3081beb7cd2e6627ff992bbad614d430da779aa030822391d88987e85e",
+      "firstId": "ext-78b9d01297a4277f12464be5",
+      "lastId": "ext-7c7dca7f86dc1f99f20e2d37"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-034.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-034.csv",
+      "records": 2000,
+      "sha256": "a465398c1276c035e4cee16d33bff84bf0f5f62286a8273b03101b1b2d135380",
+      "firstId": "ext-7c7e7bf30b3ecf1e5af106c0",
+      "lastId": "ext-80553a51f68bbbc83f60782e"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-035.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-035.csv",
+      "records": 2000,
+      "sha256": "e5abc17c96d3e75ef166751fc6c2dfecf08d58054a50b1f39979c675ac2eaa5d",
+      "firstId": "ext-80555925bafbbe9e3bce4a5c",
+      "lastId": "ext-843b63029897adec3a2ceb6e"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-036.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-036.csv",
+      "records": 2000,
+      "sha256": "581d2cd57da06c1042e68ff97c43af8bdb2ce7bfc6c3decfbae5b77ae2624fcf",
+      "firstId": "ext-843bec731effe5bbe3189f9f",
+      "lastId": "ext-88161ab77fd9372f48942d3f"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-037.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-037.csv",
+      "records": 2000,
+      "sha256": "5f5b3c303fe6ed6da5aa4940c7d217fb84929a3305a217a65f9a1f335ee94403",
+      "firstId": "ext-8816db6c83b59831f16b519e",
+      "lastId": "ext-8be1dc72be60ef781650bd8d"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-038.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-038.csv",
+      "records": 2000,
+      "sha256": "5f3ac3a6bce716eb4ee5d1af8c80f30185c0389cbd9cd33455f1be45096d32ec",
+      "firstId": "ext-8be327226100ac0a1336ace5",
+      "lastId": "ext-8fb8868d0ede590d24df8a9a"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-039.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-039.csv",
+      "records": 2000,
+      "sha256": "ff030a95b649f0875e3714ceea94c5f425022461b78daa1c43f73b5747638b80",
+      "firstId": "ext-8fb919338d2f8f183c170c0f",
+      "lastId": "ext-9379ce073b3784b4813b3154"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-040.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-040.csv",
+      "records": 2000,
+      "sha256": "310c109a8f582c4cb09659cdf77e1fefcee40eccceb339aaef88f452db6daa34",
+      "firstId": "ext-937a1d5537eda2cc5fc17d15",
+      "lastId": "ext-976ff05b91613cd828db73cb"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-041.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-041.csv",
+      "records": 2000,
+      "sha256": "c1b6c91e92cdd207fc9e72b89b85c0a5be8b4fc8094848c95568a4475e9550b7",
+      "firstId": "ext-9770a369a67ffb34383b9034",
+      "lastId": "ext-9b56b906e216c907dee0c10e"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-042.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-042.csv",
+      "records": 2000,
+      "sha256": "2c0607ac26241750d1b78b94031215f4fc072cd16de7509475d9f843fe03f569",
+      "firstId": "ext-9b56d61d727e88078092c456",
+      "lastId": "ext-9f0178922552cea1c3df09d6"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-043.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-043.csv",
+      "records": 2000,
+      "sha256": "fde67151c564581ad3c6dd4510136f615a7317b0e60723092b959ecbc55e0b52",
+      "firstId": "ext-9f01882c9179ee79bfdd6642",
+      "lastId": "ext-a2daebf0ce669b1fc471b60f"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-044.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-044.csv",
+      "records": 2000,
+      "sha256": "b82df78305389e9bc9e2fbf024352cd7da2a7844bc3027ec1ec596f29e00de60",
+      "firstId": "ext-a2dcabd6d7af13fbdc032879",
+      "lastId": "ext-a6ba54ca0a40095017585db1"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-045.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-045.csv",
+      "records": 2000,
+      "sha256": "8805f299b3455cab0a0fb6754a55e2aff79645466aab54dc1c79cef07de5aa6a",
+      "firstId": "ext-a6baf68171cde8d50d2e0376",
+      "lastId": "ext-aaa11e0d9feb3f422c9a02d2"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-046.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-046.csv",
+      "records": 2000,
+      "sha256": "41341a4b1899cfe7dec2216bbe76512b877e26d47282f30bffed2595128c5b92",
+      "firstId": "ext-aaa147bbac2631758a9b19ce",
+      "lastId": "ext-ae64f4725b5370380ef754b7"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-047.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-047.csv",
+      "records": 2000,
+      "sha256": "aeef19b83e26b3904f272a0713340657e58b0199db62e182b6637f4adfd57942",
+      "firstId": "ext-ae65e2ea4939266e41c3ee1f",
+      "lastId": "ext-b268edcb6a0451eef96baf26"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-048.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-048.csv",
+      "records": 2000,
+      "sha256": "a7047527bd681bd71d5b01efbf4e494b70a4aa3e7690eaa4e504486bfd0af4a2",
+      "firstId": "ext-b26a301cfc06b9419326df80",
+      "lastId": "ext-b6260df8fd7f47be27e10471"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-049.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-049.csv",
+      "records": 2000,
+      "sha256": "f75ee24e1555106a997c25eec75be420d88d2deb0f035ba33d5a73e42e48c631",
+      "firstId": "ext-b626232ee74cb17fd71f5946",
+      "lastId": "ext-b9f717ba76593ac8cdf1a8dc"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-050.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-050.csv",
+      "records": 2000,
+      "sha256": "f89f59b47cc413c4e394cd58cdfa1f98a70a5e78f74c5441cc9c81226edc416a",
+      "firstId": "ext-b9f7592dbcdc3a20ff65da8d",
+      "lastId": "ext-bdaa2c14a1931828e7ff733c"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-051.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-051.csv",
+      "records": 2000,
+      "sha256": "068f56e05ef43fbd3ea878f8bba33bd6ff22f8af5644c660447cf1d2e9f01157",
+      "firstId": "ext-bdaa5d75e64ffa696b47274a",
+      "lastId": "ext-c184ed36172bf85cef378e4a"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-052.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-052.csv",
+      "records": 2000,
+      "sha256": "d36454b19554725fd2901843f9bd7bf8714de7b1d741458314ded2776bde2f79",
+      "firstId": "ext-c1851d04e540161bc47ad83f",
+      "lastId": "ext-c541dd2433cfeb1afb80bc1f"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-053.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-053.csv",
+      "records": 2000,
+      "sha256": "72764b206e5478022d74c471b7cb6b420a3cb5991f44991dffe11b1a6eaa8c9b",
+      "firstId": "ext-c541f8a679727217dd21f7f5",
+      "lastId": "ext-c92a06ace38b6ec2909df0f7"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-054.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-054.csv",
+      "records": 2000,
+      "sha256": "c9a90aa71e49d3162cf8211ab060095546c78f8b69c6e65a8b561957c1913806",
+      "firstId": "ext-c92a4ff249d0158fd0412cc4",
+      "lastId": "ext-ccebd08f2eed8645a6d59416"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-055.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-055.csv",
+      "records": 2000,
+      "sha256": "7c2ed53ed34dbba990b89b7d975ff2b1b9f15adb16577735f4147d4868fa9ed2",
+      "firstId": "ext-ccec10088a6d9f030e0ab529",
+      "lastId": "ext-d0b9ccd74827cca54c2662f3"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-056.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-056.csv",
+      "records": 2000,
+      "sha256": "18905c7b586894677f3e3eb478792520df4b4b8b378289475638b3c16e0552a6",
+      "firstId": "ext-d0ba12c1da6f7711a2c85def",
+      "lastId": "ext-d47f74fc1f49637fd56bc85c"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-057.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-057.csv",
+      "records": 2000,
+      "sha256": "059272cdedd6d7902d21b65a4dbfb3e6565bd26dfc2ef707a14bb61f5d6f8d18",
+      "firstId": "ext-d47f863b09e2296a80959c3a",
+      "lastId": "ext-d83af509ebbaad86768eb418"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-058.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-058.csv",
+      "records": 2000,
+      "sha256": "c8653fa9af20ec40906457a31d5b356276ea1697df724e66587f152a3e8174b6",
+      "firstId": "ext-d83b158701ea1dfa13f70f02",
+      "lastId": "ext-dbc9756c04855ac6f1abd6f4"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-059.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-059.csv",
+      "records": 2000,
+      "sha256": "3e6542186983feb8746d968b29170470bba62bf4642d01b5069a17cc715ab2fc",
+      "firstId": "ext-dbc98d3f56b5015a59bfacf0",
+      "lastId": "ext-df99bbad33344bfc6fa1002c"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-060.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-060.csv",
+      "records": 2000,
+      "sha256": "2552e04cee89535c80c0423dab67878b9c8561f8cc169300ffe05f39a448b980",
+      "firstId": "ext-df9ae938bed886e4618f7ee9",
+      "lastId": "ext-e35add4a29a7c1345ed94222"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-061.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-061.csv",
+      "records": 2000,
+      "sha256": "a88ded73d73b3f10e7ba13ae77e4453da9f8c4ce1e9129d8e3310b5799ce067a",
+      "firstId": "ext-e35c8efc881e830bc7861200",
+      "lastId": "ext-e72f9f41c886ba12641190b3"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-062.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-062.csv",
+      "records": 2000,
+      "sha256": "6883725d729cc8707d57573d108de69f716becb8057dacbe4bf8c094b37a68fe",
+      "firstId": "ext-e7312c724b7a8bea0a744676",
+      "lastId": "ext-eae8f15628786318da84dcc1"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-063.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-063.csv",
+      "records": 2000,
+      "sha256": "1e9561d760dd3b822716eabedb625bcbb6732cff5ee02e355a677d46c76e6dc0",
+      "firstId": "ext-eae933f4d388c5e221eec9d6",
+      "lastId": "ext-eec0144b1381d9d76523dda9"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-064.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-064.csv",
+      "records": 2000,
+      "sha256": "1793b16515708d2b546a25f61c106e8edabb63a36114a2d0fba1e59f9f63f2fa",
+      "firstId": "ext-eec083246b3dc00b9194d2e8",
+      "lastId": "ext-f28f102bcca386a1d018f731"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-065.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-065.csv",
+      "records": 2000,
+      "sha256": "00b45482e3633c0477665361c02c415470e500433b59467f0cb61eefe7d1d107",
+      "firstId": "ext-f28f9609792a0db77dc1fff8",
+      "lastId": "ext-f6634e238294098b63b0ef0a"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-066.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-066.csv",
+      "records": 2000,
+      "sha256": "465b20f2aa076d23e5acfe6a84b84c785093fcfab4eb34e0e4dbf83fd3f353c3",
+      "firstId": "ext-f66472dd52f866b02306cfa2",
+      "lastId": "ext-fa1e8038654e3578d94aab02"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-067.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-067.csv",
+      "records": 2000,
+      "sha256": "9d134a9e0e9d2b93918a158f1910316cb9d6d336777dde4e4989f276b8d4386c",
+      "firstId": "ext-fa1ef39c59e25fe077d51d0d",
+      "lastId": "ext-fdd1c506c03248c207998ff8"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/unknown/unassigned/part-068.jsonl",
+      "csv": "normalized/dictionary/unassigned/unknown/unassigned/part-068.csv",
+      "records": 1219,
+      "sha256": "97e1b453fcce27938ecb8246cf22c9a047fc15d6d2d82aba812288fdda867ff0",
+      "firstId": "ext-fdd1c8087790bc8591cfd537",
+      "lastId": "ext-ffffc5846cde6161c8764976"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-001.csv",
+      "records": 2000,
+      "sha256": "45098b3cda3b0d833e5d40da7e24236b3db17aafad1c62998f103c9fc615d066",
+      "firstId": "ext-0003c4b1f8eb54ca622304d8",
+      "lastId": "ext-2b98340df54f3b10f4a027f0"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-002.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-002.csv",
+      "records": 2000,
+      "sha256": "6367af61ede4e3a767ae81819c2b2d396684db0bc37a0113d51611580350aea9",
+      "firstId": "ext-2b9961ae849e3eeeb266d8e9",
+      "lastId": "ext-57cb260d18fcc35773ed7629"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-003.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-003.csv",
+      "records": 2000,
+      "sha256": "1794eb6a5173b281304e8c8125227368b4829bb9e557ce43a770c1ace8ce5d5c",
+      "firstId": "ext-57cde9c904f3f61fa8d30f09",
+      "lastId": "ext-834eeef29eeef448c2b6ea38"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-004.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-004.csv",
+      "records": 2000,
+      "sha256": "9d355348fafd7af94562ab69981a6d428616e219138295e026890aeb6da4403e",
+      "firstId": "ext-83521da1517cf2e1fc99ec8d",
+      "lastId": "ext-b004bee843516a15138516b6"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-005.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-005.csv",
+      "records": 2000,
+      "sha256": "5acc4504cdac70d01217ffd3cd341d60619aea93da5169e90cd4e9f0c18f7290",
+      "firstId": "ext-b00c21ca220a24f67cd8b7e4",
+      "lastId": "ext-dd6f425c57c4b94188131bdc"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-006.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk7_9/part-006.csv",
+      "records": 1570,
+      "sha256": "d004807c4a205ec3984dd1684a759235e5c55aec1c50782f4fb328b82a14e1df",
+      "firstId": "ext-dd785d4fe9c7d3e63938ae0a",
+      "lastId": "ext-fff852b33cf149f8e777c1c5"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk3/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk3/part-001.csv",
+      "records": 578,
+      "sha256": "d7449e8143c9015e4fda7728212e7cf49f1e548609ab9d4c9403b9cbd2628d33",
+      "firstId": "ext-0041c4055507eccbdd790153",
+      "lastId": "ext-fff5a87f96a62b7617810f22"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk4/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk4/part-001.csv",
+      "records": 2000,
+      "sha256": "9ac51c611d3f56fdecef9e8a03a6fb39b8c2d219c0b399fb2efd61f888f799f2",
+      "firstId": "ext-000063a4db063c6511d2d3cc",
+      "lastId": "ext-f508766016e6087949d5dd99"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk4/part-002.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk4/part-002.csv",
+      "records": 85,
+      "sha256": "477d30af42c08b414121c7fc0c90e7c8730b21afdf0b80a622b0f9ea481d68dd",
+      "firstId": "ext-f537e95e7893c6bb0e1009a3",
+      "lastId": "ext-fff0b06afe1e2146a7d6283a"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk3/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk3/part-001.csv",
+      "records": 392,
+      "sha256": "56e824124d607687671036cbc9b94319594ae74c46f9c80c456318babbac720e",
+      "firstId": "ext-0072eee49a5217fa123e5724",
+      "lastId": "ext-fe95f8cb4dd693317e901b90"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk7_9/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk7_9/part-001.csv",
+      "records": 2000,
+      "sha256": "d74e379299cd2c86064fb95fcad886f02ebdab6e66dd1b33f1cf0f9be3d1d541",
+      "firstId": "ext-0002464aae96e17c6e8e66d9",
+      "lastId": "ext-6313e3055aa37aeb09e1514f"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk7_9/part-002.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk7_9/part-002.csv",
+      "records": 2000,
+      "sha256": "5acc9b2eb4f90d55a474c2a1e7284bddeba47fe2ea3e0f96e377da93af193faf",
+      "firstId": "ext-631b046b6d2f689a2a8b2c3a",
+      "lastId": "ext-c45973dfe985abb37bbba572"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk7_9/part-003.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk7_9/part-003.csv",
+      "records": 1198,
+      "sha256": "05bc77859c523daca16a7dd87fe54f23ab11ddc6bc9f7987fb43a6be4a4393b0",
+      "firstId": "ext-c45e7271c0d79adf9bda3972",
+      "lastId": "ext-ffee280a78ee8615613d1a79"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk6/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk6/part-001.csv",
+      "records": 2000,
+      "sha256": "7f2b72a86c920ca03ce46a8b1683d928e509ddf8273b9c5bfef045ac614e18a6",
+      "firstId": "ext-0006477bc4bb848336705a08",
+      "lastId": "ext-bc63a0feb7bbe5c159195662"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk6/part-002.jsonl",
+      "csv": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk6/part-002.csv",
+      "records": 728,
+      "sha256": "b0d7a15780a2dd175d2da6a27b3dcb5a7161761b5c7a22d81afdfe4dcd09a346",
+      "firstId": "ext-bc7f9b0e91a0f1b7824f4a75",
+      "lastId": "ext-ffff4ffe2dda8cf3e23c2871"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk2/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk2/part-001.csv",
+      "records": 277,
+      "sha256": "fb2e93631277e6def1f59036ca0382bc10dbd255e431471000ee736b5a900816",
+      "firstId": "ext-01379a288c35dd0a840bdbe1",
+      "lastId": "ext-ff09f60ebe516c875cd24f19"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk2/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk2/part-001.csv",
+      "records": 1669,
+      "sha256": "3a32e8f179bb4b48bdfb3e7794f750ff3d37eee46a9aa7d6cbeaf4ab12d92167",
+      "firstId": "ext-003a9b649403f82c31aabf02",
+      "lastId": "ext-ffecb5df3b73eb7613bba282"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk5/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk5/part-001.csv",
+      "records": 1702,
+      "sha256": "4a0db9ffa9e7609f0c435ca8f5846ef9b73bbf2572c4f3612306598129f06792",
+      "firstId": "ext-000bcfeee3cc011afe769007",
+      "lastId": "ext-ffe49a2d6abcecb6d3137c96"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk5/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk5/part-001.csv",
+      "records": 1439,
+      "sha256": "13c56f401eb3e2b2ea3084af2ef6086785195b961a6687f8d471e41c60572efa",
+      "firstId": "ext-000fa325a3a50e31d7839878",
+      "lastId": "ext-ffaab2891b6c004f1cec0a9d"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk6/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk6/part-001.csv",
+      "records": 2000,
+      "sha256": "3e3d936c59185cd98f03e2d7eb6d5351d8baafe68a74fb037d0b03ee7c231d2d",
+      "firstId": "ext-002daab2623de5153dfc32b3",
+      "lastId": "ext-d4dac3b89d25bc656a6e3978"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk6/part-002.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk6/part-002.csv",
+      "records": 400,
+      "sha256": "831a78a43b1b00d3baea02e9efe6557cf1747dfae64f62e09cc55414afdb40c8",
+      "firstId": "ext-d4dee6f5b2db78758b78562f",
+      "lastId": "ext-ffef18eb772ddbb2ae7b9a55"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk1/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk1/part-001.csv",
+      "records": 396,
+      "sha256": "e1e1c770410d2c8cb372895bc05e0fe11534fa28a12f4eeb8ea2dd876371a9f5",
+      "firstId": "ext-010883c783ccd55f368f3e04",
+      "lastId": "ext-ffe6f0fa4c3074f85e632326"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk1/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk1/part-001.csv",
+      "records": 1175,
+      "sha256": "d2e4e47181bc2a98dba6254ba6bab2745cb31af717535755267c9642dd9e0ca2",
+      "firstId": "ext-00028c87639f7e0d85f38e35",
+      "lastId": "ext-ffbd90c9cb68274be0988d2b"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk1/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk1/part-001.csv",
+      "records": 217,
+      "sha256": "b0a8f5e75b87087885c54c31da50496f553f60df37322bf3a6476e0324d2afde",
+      "firstId": "ext-0596c4e0ace3205292292773",
+      "lastId": "ext-ff9798c7e66a5811fdfaca86"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk4/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk4/part-001.csv",
+      "records": 1112,
+      "sha256": "783a92318c5e7790905bdeabfbea444fa0a372d8dfae4be21ade6abb4539ecff",
+      "firstId": "ext-00207541528b42e47f7eb51d",
+      "lastId": "ext-fff59e83a20f956f7c943fc1"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk4/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk4/part-001.csv",
+      "records": 700,
+      "sha256": "32896c672e7124cfc731bceedced7ea1b400f646c2429055cc5a4c9c1cabd224",
+      "firstId": "ext-0000f8133c6be56aadb3d8d1",
+      "lastId": "ext-ffe57fd008b4c21ccb24c410"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk3/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk3/part-001.csv",
+      "records": 2000,
+      "sha256": "c8c90ce30656895f18ab812421a236703a6ab817f5ace40933623016dc201b19",
+      "firstId": "ext-000bf73bde21156fa695c9fb",
+      "lastId": "ext-f9b9c0f0652f29fbdce5cccd"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk3/part-002.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk3/part-002.csv",
+      "records": 50,
+      "sha256": "e582195f337d4efba8cb9295b04da486bf6167c8004188b877a606aa94eaa098",
+      "firstId": "ext-f9df8e55146cb8c7f6e863cb",
+      "lastId": "ext-fff51edf8a133e9051b26ba2"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk5/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk5/part-001.csv",
+      "records": 2000,
+      "sha256": "4b61940f46c1860cd6ac69ba7074d2cc994cee579ba3dfb5049db3da2e47e69a",
+      "firstId": "ext-000b72657330d7e2ce3c2987",
+      "lastId": "ext-e3ff971a7191c7c4db15a5a1"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk5/part-002.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/GF0025-2021/hsk5/part-002.csv",
+      "records": 229,
+      "sha256": "a7ca255e8a22d071cf975d8ab9cdb07bdeac7e6cf4a5ca502c617f8d2670f49d",
+      "firstId": "ext-e40b69bae648e2302f95333d",
+      "lastId": "ext-ffd633e265db5d4e92414021"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk6/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/complete-hsk-newest-unverified/hsk6/part-001.csv",
+      "records": 1873,
+      "sha256": "21de9c9155ab7e5cd1a6bfaff911c73d45b68be0b8eeafd4c744ce59a470c87d",
+      "firstId": "ext-000d201ca0c4b16e240fc51b",
+      "lastId": "ext-ffdd24d3665da67a5d773d3e"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk2/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_2_0/legacy-hsk2/hsk2/part-001.csv",
+      "records": 219,
+      "sha256": "a6688436ac098a43e4cb4de3ece4118e962f30bf24a8a29a9f6f8ab928b20077",
+      "firstId": "ext-0021a163918482c3033f2ba3",
+      "lastId": "ext-ff0b261416ca205a8df05196"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk7_9/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk7_9/part-001.csv",
+      "records": 2000,
+      "sha256": "b06a429944c3a5d0ead2c64d1dd7169d7d1a6ea07bef0c6d7215a8bff4538743",
+      "firstId": "ext-000578b0294a93a603709f6d",
+      "lastId": "ext-58cbb4a324a486934353341f"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk7_9/part-002.jsonl",
+      "csv": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk7_9/part-002.csv",
+      "records": 2000,
+      "sha256": "f9df40f4f607e07528d1186706bf52e861c28a80f1d16533debaa89ecd4af3c4",
+      "firstId": "ext-58d75efa0644b4f414d1cbe2",
+      "lastId": "ext-b01469ba838762d32bfed046"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk7_9/part-003.jsonl",
+      "csv": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk7_9/part-003.csv",
+      "records": 1908,
+      "sha256": "215841c246420fc0ffe90c18fccadf228a396c6ba138aa7d6e565d8750348230",
+      "firstId": "ext-b01622ec3730bf4a338f3b9f",
+      "lastId": "ext-fffdc7fbf598b7dc9db50e90"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk4/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk4/part-001.csv",
+      "records": 978,
+      "sha256": "a99ae037a02690ded55feb3171955961b213945e83b452f599be0dadb0149d94",
+      "firstId": "ext-002490b47b51618728890e48",
+      "lastId": "ext-fff1b4e18ea22ad55a070809"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk2/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk2/part-001.csv",
+      "records": 746,
+      "sha256": "438ba8f7688e7f37aeea94accc097543a8c80c6263760d5f3b2d85328b734d8c",
+      "firstId": "ext-006505b16783230eac4f5758",
+      "lastId": "ext-ffe9d7f397dfecc5dfdfb75a"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk6/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk6/part-001.csv",
+      "records": 1153,
+      "sha256": "d9d71f58821f741e8decfa1ce1b03da3619a873ae6f1a5c1f108e476bc2c93f3",
+      "firstId": "ext-00310a27c9b9d0ec0579d5b2",
+      "lastId": "ext-ff81faa1ecc2469e93beb637"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk1/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk1/part-001.csv",
+      "records": 502,
+      "sha256": "955c13ba8c8c82d6dcddd8302ae1c0f851a2d7e50aeddceac62f979908a08bdb",
+      "firstId": "ext-00259b9a4a057fe620159627",
+      "lastId": "ext-fe591b2e0bf183b7e728dc9d"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk3/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk3/part-001.csv",
+      "records": 960,
+      "sha256": "2d0875efb60259519192becfb91396dc66aa64a2acb613294eab4eb36a5fc0fe",
+      "firstId": "ext-004ddd4bc12dec9d1794e446",
+      "lastId": "ext-ffc6b17814f4ebb2f18a62a6"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk5/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/local-csv-alignment-unverified/hsk5/part-001.csv",
+      "records": 1083,
+      "sha256": "efd773b75ac111fb41c14dbc93d4a4f920231e2e89223740970299db7161d39b",
+      "firstId": "ext-0006882f3780dff9cd3b11e9",
+      "lastId": "ext-ffab204edf3e69824e29c02c"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-001.jsonl",
+      "csv": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-001.csv",
+      "records": 2000,
+      "sha256": "4200a27dbc30a8f5c8e474ec004f5c9d31c51a7cb744d54f47b613985acc761a",
+      "firstId": "ext-0004fe969999d094bc1bbe99",
+      "lastId": "ext-201b0aa535e5cae1e3836dcd"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-002.jsonl",
+      "csv": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-002.csv",
+      "records": 2000,
+      "sha256": "70885ab27191b19c85173f57773313a53573317078b4b5a6c755800626b5fc9c",
+      "firstId": "ext-2020460dd8d8c15ba9ff80ef",
+      "lastId": "ext-4046dcdc010e8b007217d5d6"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-003.jsonl",
+      "csv": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-003.csv",
+      "records": 2000,
+      "sha256": "4cf47498f1969eb48cafb4e45262464a3888d6b0da869f5a9bf7253833461bbc",
+      "firstId": "ext-405566b32331695a0ce73956",
+      "lastId": "ext-606a40c62c838786779b887a"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-004.jsonl",
+      "csv": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-004.csv",
+      "records": 2000,
+      "sha256": "04f82862bd0f97adba4a3cce0e07e28eb55877fd5038b33be169606032368e69",
+      "firstId": "ext-606f8d20f1fe51330d2428c8",
+      "lastId": "ext-81fdb554ab14ed9ada3fa77c"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-005.jsonl",
+      "csv": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-005.csv",
+      "records": 2000,
+      "sha256": "f16647c9c930445658e704f9f23a2ea84abef17a9b2467c40ea9931e98977ee6",
+      "firstId": "ext-8203e647b700ebd551147f85",
+      "lastId": "ext-a38131337f8691ec64f35491"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-006.jsonl",
+      "csv": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-006.csv",
+      "records": 2000,
+      "sha256": "58d486a61a7e8a020a832c2041ddd5851a100daffa52a369f9a0cfad94eaeb67",
+      "firstId": "ext-a38222339f22ef34f8debafa",
+      "lastId": "ext-c48855e6ebde71ca2f2c6f7d"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-007.jsonl",
+      "csv": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-007.csv",
+      "records": 2000,
+      "sha256": "141ac7222b956bf42bcf182ee64ccec53e417cb528eef6f4b412b8e4937f9107",
+      "firstId": "ext-c488d10d782211f446c421b7",
+      "lastId": "ext-e343dc9450e230c492c413e5"
+    },
+    {
+      "path": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-008.jsonl",
+      "csv": "normalized/dictionary/unassigned/CC-CEDICT-ungraded/unassigned/part-008.csv",
+      "records": 1720,
+      "sha256": "7606cdfa783bd636b2af6ee8c8c773e0d8d26dac6e6fd77d73f5df9239772070",
+      "firstId": "ext-e346678f0746fa4284f8eeac",
+      "lastId": "ext-ffffe643766c6e013c1da2d7"
+    },
+    {
+      "path": "normalized/hanzi/unassigned/unknown/unassigned/part-001.jsonl",
+      "csv": "normalized/hanzi/unassigned/unknown/unassigned/part-001.csv",
+      "records": 2000,
+      "sha256": "9b252181016cf44c54c4d3443b886cb558b9c71ddf94f0db2a1f6f78e0c5395e",
+      "firstId": "ext-0019046a5bbdf7d0a5b134c1",
+      "lastId": "ext-74870bd1223d46b0996e0888"
+    },
+    {
+      "path": "normalized/hanzi/unassigned/unknown/unassigned/part-002.jsonl",
+      "csv": "normalized/hanzi/unassigned/unknown/unassigned/part-002.csv",
+      "records": 2000,
+      "sha256": "21c8f996b9bb49a971129a5a6475b18e30667687bb85bdef3b85ef51023d6d23",
+      "firstId": "ext-749ad1f11eed845029ed2f7e",
+      "lastId": "ext-f14f7e15537cf1a076c6b800"
+    },
+    {
+      "path": "normalized/hanzi/unassigned/unknown/unassigned/part-003.jsonl",
+      "csv": "normalized/hanzi/unassigned/unknown/unassigned/part-003.csv",
+      "records": 246,
+      "sha256": "44275f8520d84b2ce94278bd5084eb8a44b0876a90528712da8b34247f22d4ee",
+      "firstId": "ext-f17919a3f320700337413e26",
+      "lastId": "ext-ffe59dd2625ef6f487fe8533"
+    },
+    {
+      "path": "normalized/hanzi/unassigned/hanzi-writer-ungraded/unassigned/part-001.jsonl",
+      "csv": "normalized/hanzi/unassigned/hanzi-writer-ungraded/unassigned/part-001.csv",
+      "records": 99,
+      "sha256": "dc99edbec049c77f78dd1ed1911444f5713ca36b2f000ef7326a32fffd61675a",
+      "firstId": "ext-01b2d207ce5496d2d6232b43",
+      "lastId": "ext-fead7692d49b00a00bc4fc58"
+    },
+    {
+      "path": "normalized/pinyin/unassigned/unknown/unassigned/part-001.jsonl",
+      "csv": "normalized/pinyin/unassigned/unknown/unassigned/part-001.csv",
+      "records": 10,
+      "sha256": "fbccf0d2ef43f8b4e6c198246fa4b30363b446aafa200427ceeca106eab35145",
+      "firstId": "ext-05189a9d9f02c0c93755ec0f",
+      "lastId": "ext-ddcc59b12ad4b3742ee0473c"
+    },
+    {
+      "path": "normalized/examples/unassigned/unknown/unassigned/part-001.jsonl",
+      "csv": "normalized/examples/unassigned/unknown/unassigned/part-001.csv",
+      "records": 28,
+      "sha256": "d0b0a35cccb50d3fef06f3beb4373f5b1324ebc04f1b59213a6db18d10443dab",
+      "firstId": "ext-070d4dc4387fe3f0a9440073",
+      "lastId": "ext-f4cac3ea24888414920eb815"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/project-starter-unverified/hsk1/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/project-starter-unverified/hsk1/part-001.csv",
+      "records": 10,
+      "sha256": "fd34086c56a59fa8d25c4590a498cf54ef99651eb60c28318be48ec5a6fbb75d",
+      "firstId": "ext-1bbba03cd33a4dd4d168a420",
+      "lastId": "ext-de08bb92a1708d426bf0469c"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/project-starter-unverified/hsk2/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/project-starter-unverified/hsk2/part-001.csv",
+      "records": 5,
+      "sha256": "a28371ef62c874559e1c519b50c61670889b117628c1d39a9bfb8f0f3fa35643",
+      "firstId": "ext-03c56ce18d4fb68d3d905a2c",
+      "lastId": "ext-fe4b3e559eb5f9171b6d7ba8"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/project-starter-unverified/hsk3/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/project-starter-unverified/hsk3/part-001.csv",
+      "records": 4,
+      "sha256": "dcbb201cd2e5804e6e5bb3ab5d8550f0e5a0de55c47cccf0b9dac22f937aac9e",
+      "firstId": "ext-02ea7c5377535287c6cb83bf",
+      "lastId": "ext-d8cd69e2b6ddc681c4cd144d"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/project-starter-unverified/hsk4/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/project-starter-unverified/hsk4/part-001.csv",
+      "records": 3,
+      "sha256": "e1dfb4552c9b936baae87165d247c5c3e28b7b0cb824640c43dd25390ae2170f",
+      "firstId": "ext-0af26984771715a0a80a2783",
+      "lastId": "ext-1f4cf97e99ac8800dd6c09b4"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/project-starter-unverified/hsk5/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/project-starter-unverified/hsk5/part-001.csv",
+      "records": 3,
+      "sha256": "70e1dbe73da7b79b54161b1edbc4882546563a93fa9e99ff882117d1b3f5121a",
+      "firstId": "ext-31e39ec86d94abecf3e0e0a5",
+      "lastId": "ext-ed18f6bcbfc0ada3230b5b71"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/project-starter-unverified/hsk6/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/project-starter-unverified/hsk6/part-001.csv",
+      "records": 2,
+      "sha256": "1fe324b7dc066b7a3ff7dcef3bb832894b2f448814ed471672309cd3901077b4",
+      "firstId": "ext-0a9eaa05b5547ac3ee2d15d7",
+      "lastId": "ext-6edf49868b8f77e4aae11633"
+    },
+    {
+      "path": "normalized/vocabulary/unassigned/project-starter-unverified/hsk7_9/part-001.jsonl",
+      "csv": "normalized/vocabulary/unassigned/project-starter-unverified/hsk7_9/part-001.csv",
+      "records": 1,
+      "sha256": "d6122601eb3b21867f7f470b74e811f4fffe3f6b5a4a232856d03108e385d2ec",
+      "firstId": "ext-21866b1c466334b757c55be2",
+      "lastId": "ext-21866b1c466334b757c55be2"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk1/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk1/part-001.csv",
+      "records": 300,
+      "sha256": "c396e28501dfe604a040e94308ad9b31346571ebee39bd5bbcac79cd71fc12c2",
+      "firstId": "ext-00bf80553d7ef7c9801d3fb9",
+      "lastId": "ext-fffbc03ec74e801cbce37d70"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk2/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk2/part-001.csv",
+      "records": 200,
+      "sha256": "0078b8fdcf3054207ba9ae5f0d06acda4734e91fcb492d5b97696b7ec7946db6",
+      "firstId": "ext-00bc6f6fc9497b0db6519887",
+      "lastId": "ext-fe82f8e24f40efa822640451"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk3/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk3/part-001.csv",
+      "records": 500,
+      "sha256": "1cf237f373b495c2cf04f7383fa265db44bb8ec4d9b497a94e6a1e6d22ac6a56",
+      "firstId": "ext-0077fb863a52b6f4cab21417",
+      "lastId": "ext-fff228b059e530490a03a33f"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk4/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk4/part-001.csv",
+      "records": 1000,
+      "sha256": "2f79353308b424e9030cea328d70fed4ca7e8e9c135551a112bb7a82dd9b5916",
+      "firstId": "ext-00a0f679f3e0b26b2947df69",
+      "lastId": "ext-ffe75a298644cf1334d70691"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk5/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk5/part-001.csv",
+      "records": 1600,
+      "sha256": "0c7da9dc324ebe478a2e08a33003ca924189fd90108b28bb73eaa100327918c9",
+      "firstId": "ext-0029f0e1b7fde6306730bf29",
+      "lastId": "ext-ffda9390397237cb18f9d47b"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk6/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk6/part-001.csv",
+      "records": 1800,
+      "sha256": "38bf3125a9d0e05c6c9838ade9f57fa99110d6050343c917248aaac242be2d23",
+      "firstId": "ext-0030e90b9640ad346b79f5cd",
+      "lastId": "ext-fff89697d81e6f1fed39997c"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7_9/part-001.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7_9/part-001.csv",
+      "records": 2000,
+      "sha256": "78070705f1cc624e712227aaa596b4ff8676373901763b3d6d3356df3a2e4c04",
+      "firstId": "ext-000482af67bf143818c5b460",
+      "lastId": "ext-5bf79dde8f1691b0a9a6ee38"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7_9/part-002.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7_9/part-002.csv",
+      "records": 2000,
+      "sha256": "7e5a3cc696e35502d4946494e762ff3918c037c6cd7653d5bdfb36c801e58a17",
+      "firstId": "ext-5bfa5d5a99989d299af66019",
+      "lastId": "ext-b8364bebae7c062979689688"
+    },
+    {
+      "path": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7_9/part-003.jsonl",
+      "csv": "normalized/vocabulary/hsk_3_0/syllabus-2025-11/hsk7_9/part-003.csv",
+      "records": 1600,
+      "sha256": "60951be1d0ad10fcfb5795ae7af7d8cf1dce10766df0446c41735e4efce05ec2",
+      "firstId": "ext-b84aed7aff9ec6fc8d67da1f",
+      "lastId": "ext-fffd70afe6db0d8ae076eda0"
+    },
+    {
+      "path": "normalized/media/licensed_audio/hsk_3_0/GF0025-2021/unassigned/part-001.jsonl",
+      "csv": "normalized/media/licensed_audio/hsk_3_0/GF0025-2021/unassigned/part-001.csv",
+      "records": 2000,
+      "sha256": "ae3eddd52169202d8631fac175c4947e5a13af13bf24d6317ae1bcc1d29e015d",
+      "firstId": "ext-000243cda48a772c3b1e0552",
+      "lastId": "ext-3b179fda4d133bbae983bac0"
+    },
+    {
+      "path": "normalized/media/licensed_audio/hsk_3_0/GF0025-2021/unassigned/part-002.jsonl",
+      "csv": "normalized/media/licensed_audio/hsk_3_0/GF0025-2021/unassigned/part-002.csv",
+      "records": 2000,
+      "sha256": "f0ff47c3f6d383da68be48cf655a6272a51a71d2d509b7f6362d5e955964553a",
+      "firstId": "ext-3b1852c92d091c0061014dbf",
+      "lastId": "ext-7629126b926d641a24ed7289"
+    },
+    {
+      "path": "normalized/media/licensed_audio/hsk_3_0/GF0025-2021/unassigned/part-003.jsonl",
+      "csv": "normalized/media/licensed_audio/hsk_3_0/GF0025-2021/unassigned/part-003.csv",
+      "records": 2000,
+      "sha256": "10e2d6c062eb3bbc27bcf6584b7139b5695a25ea5c42a5fde46435448e31bf28",
+      "firstId": "ext-762a25d10802e5b0faf07421",
+      "lastId": "ext-b328aacab3197d84beaf0b57"
+    },
+    {
+      "path": "normalized/media/licensed_audio/hsk_3_0/GF0025-2021/unassigned/part-004.jsonl",
+      "csv": "normalized/media/licensed_audio/hsk_3_0/GF0025-2021/unassigned/part-004.csv",
+      "records": 2000,
+      "sha256": "c7b397445857f3761566dd1effb9a2e0f3f54efe7683116d1b1e2f4ff9d66a34",
+      "firstId": "ext-b32f0a5b97e201a2ff38822a",
+      "lastId": "ext-ec190a68bb185ca26aff2b29"
+    },
+    {
+      "path": "normalized/media/licensed_audio/hsk_3_0/GF0025-2021/unassigned/part-005.jsonl",
+      "csv": "normalized/media/licensed_audio/hsk_3_0/GF0025-2021/unassigned/part-005.csv",
+      "records": 708,
+      "sha256": "a9398d4b88f2accc58669afce37991670fe1c39d83a7f17dc10dfa6053ec0178",
+      "firstId": "ext-ec1f01c238d185eb1b025a99",
+      "lastId": "ext-ffff8a6840d334d6692e7e17"
+    },
+    {
+      "path": "normalized/topics/hsk_3_0/GF0025-2021/unassigned/part-001.jsonl",
+      "csv": "normalized/topics/hsk_3_0/GF0025-2021/unassigned/part-001.csv",
+      "records": 19,
+      "sha256": "455d51d21f86b90787c31b42d47b5add4f19cf7b3f16b7698ba507d54a6e52f8",
+      "firstId": "ext-285bf1c5f609efae5faf1a09",
+      "lastId": "ext-f5e4fd556acab8080c813826"
+    },
+    {
+      "path": "normalized/grammar/hsk_3_0/GF0025-2021/unassigned/part-001.jsonl",
+      "csv": "normalized/grammar/hsk_3_0/GF0025-2021/unassigned/part-001.csv",
+      "records": 1046,
+      "sha256": "aa166eaf6227335f0c151153e5f29faece467184493d8354e398e7db338043e2",
+      "firstId": "ext-00cee1959b6a1e34712deaba",
+      "lastId": "ext-ffd2cab6e205cbb621c348e7"
+    },
+    {
+      "path": "normalized/examples/hsk_3_0/GF0025-2021/hsk1/part-001.jsonl",
+      "csv": "normalized/examples/hsk_3_0/GF0025-2021/hsk1/part-001.csv",
+      "records": 281,
+      "sha256": "52554bf7802c1ee12d753e52af5a7bdf74e68acfe17f2790f7f766ae3781677f",
+      "firstId": "ext-014d4ef51308087071a60c59",
+      "lastId": "ext-fea24727efff478c6e64070a"
+    },
+    {
+      "path": "normalized/examples/hsk_3_0/GF0025-2021/hsk2/part-001.jsonl",
+      "csv": "normalized/examples/hsk_3_0/GF0025-2021/hsk2/part-001.csv",
+      "records": 538,
+      "sha256": "81b1eed4da8cdb0a394263e0396ddfc3fc5b5b7ff50673682aec68fa8f348064",
+      "firstId": "ext-00d2c9bf1ebb37db6d6bdeaf",
+      "lastId": "ext-fe19026ee22dae39c0cf3fdc"
+    },
+    {
+      "path": "normalized/examples/hsk_3_0/GF0025-2021/hsk3/part-001.jsonl",
+      "csv": "normalized/examples/hsk_3_0/GF0025-2021/hsk3/part-001.csv",
+      "records": 727,
+      "sha256": "7e5f7aa62eb8dca45e8750ea2016e167377287e7dde06ff12e603e3a417c35b4",
+      "firstId": "ext-00c413886a0afb48bc83ea2b",
+      "lastId": "ext-ffdfa1302486634ec68243cf"
+    },
+    {
+      "path": "normalized/examples/hsk_3_0/GF0025-2021/hsk4/part-001.jsonl",
+      "csv": "normalized/examples/hsk_3_0/GF0025-2021/hsk4/part-001.csv",
+      "records": 801,
+      "sha256": "533efad5164eec325f6e058e196fe3ad8df14f84b68f86075ea0baad041917a5",
+      "firstId": "ext-001f27564e8271378bddb0b2",
+      "lastId": "ext-ffd8214e3d8c1fb5fff75671"
+    },
+    {
+      "path": "normalized/examples/hsk_3_0/GF0025-2021/hsk5/part-001.jsonl",
+      "csv": "normalized/examples/hsk_3_0/GF0025-2021/hsk5/part-001.csv",
+      "records": 965,
+      "sha256": "a1237a897e530a4d6b771647f07e0e86c14145404f31751aecbc8b25ce7e63b9",
+      "firstId": "ext-0030e47fa72e50fa40a916f4",
+      "lastId": "ext-ffd615093388e1705ec832a1"
+    },
+    {
+      "path": "normalized/examples/hsk_3_0/GF0025-2021/hsk6/part-001.jsonl",
+      "csv": "normalized/examples/hsk_3_0/GF0025-2021/hsk6/part-001.csv",
+      "records": 1042,
+      "sha256": "fff965b860b8080b0a2a6359120fe80e82df10af8b1d867d5f77e2efe0f8b531",
+      "firstId": "ext-000c78de5cc29e2aed955912",
+      "lastId": "ext-ffffc6fed27470469698c1f5"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk1/part-001.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk1/part-001.csv",
+      "records": 1119,
+      "sha256": "f7cfd1adae1c897b79044553781649d2fe3e2da6c780667876da3cec5675eb02",
+      "firstId": "ext-00029b2126c8dcff20535797",
+      "lastId": "ext-fffc8bd1be1a9b8e9be6f71f"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk2/part-001.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk2/part-001.csv",
+      "records": 2000,
+      "sha256": "86249fa961b53a4407ed685260ed44ca919076660ee89fafb0acc3c35918c7cb",
+      "firstId": "ext-000cf32a0fa5b13036b41778",
+      "lastId": "ext-eca6719c0d350273cb573078"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk2/part-002.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk2/part-002.csv",
+      "records": 152,
+      "sha256": "0c3d7c5855d7dd6d34759d8b5db88f521ae22a1c868f7e5375c012d332a01b6b",
+      "firstId": "ext-ecb267f53385724e5e5c5f8e",
+      "lastId": "ext-ff67457637d5c14f3a73553e"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk3/part-001.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk3/part-001.csv",
+      "records": 2000,
+      "sha256": "a50c941d1298dc598dd2f172283f3c90b200045fc14422a0072c434d7fecc520",
+      "firstId": "ext-003a8aba2fe5ef88f74070cd",
+      "lastId": "ext-b4c6031f9f0d34157d530174"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk3/part-002.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk3/part-002.csv",
+      "records": 905,
+      "sha256": "60f95303bd6daa136fb8852df5fde8e68c36940e303221f3d02b6c82195867d0",
+      "firstId": "ext-b4c7ba9eedf703e4bdc461c0",
+      "lastId": "ext-fffbc3d8eb5ccea16dec5a32"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk4/part-001.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk4/part-001.csv",
+      "records": 2000,
+      "sha256": "ee558632970a6579db8c47245c691077286f4b4d2fed7d6fabed75a4cd3afa25",
+      "firstId": "ext-0019f7a97405dc5da795e5d9",
+      "lastId": "ext-9ea50957708a068ed3cf832e"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk4/part-002.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk4/part-002.csv",
+      "records": 1203,
+      "sha256": "55733fa39866670120d4c2b574908dfd8f1c9225586b816f6f24912cc44ca580",
+      "firstId": "ext-9ead32ba609fb0f175809762",
+      "lastId": "ext-ffda6a24786199ee5a06435c"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk5/part-001.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk5/part-001.csv",
+      "records": 2000,
+      "sha256": "54fc00d62fee0830f0e42a7ac865cf942be2210ee0e9f78e08c73ec9171d9b73",
+      "firstId": "ext-004df19508e76023f10ed2ed",
+      "lastId": "ext-8501f975dced618e63936058"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk5/part-002.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk5/part-002.csv",
+      "records": 1854,
+      "sha256": "5cbf308657955a3c9674ab773c985e4075ec26a4fedb95d1e455c643e8eeaffc",
+      "firstId": "ext-8507379196c5233b7f27535c",
+      "lastId": "ext-fff9fbe9008dc3cea2f52b4d"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk6/part-001.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk6/part-001.csv",
+      "records": 2000,
+      "sha256": "9571d138729383580fe8b68a69e22fe48078e475c293bb11ee2e14dbd8ee38d2",
+      "firstId": "ext-0011d5fa87e2eed14583c131",
+      "lastId": "ext-7b7e1000a084827ef22c33f1"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk6/part-002.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk6/part-002.csv",
+      "records": 2000,
+      "sha256": "d7625e76fe57e371cfa0c3415045882a2209b856a2b79bab8ad68b5d8a16e6d8",
+      "firstId": "ext-7b925fca328bebabfdfd2f78",
+      "lastId": "ext-f6913d5e27efa3a990f2408a"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk6/part-003.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/GF0025-2021/hsk6/part-003.csv",
+      "records": 151,
+      "sha256": "0c4e0a27d9fee70820ee6f13f430f15a23bf103da0fed012c944e0c63105b154",
+      "firstId": "ext-f6b1fd01b1790346b6bfdd4b",
+      "lastId": "ext-ffdda0f6f0184e4177d3ba04"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/syllabus-2025-11/hsk7_9/part-001.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/syllabus-2025-11/hsk7_9/part-001.csv",
+      "records": 2000,
+      "sha256": "8385f1434fc47461192cbbd871a6ff851d41b6504420d2b8042413596491de34",
+      "firstId": "ext-0004770b0157bd57095c662d",
+      "lastId": "ext-5a07c20e458eef8f03c277f0"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/syllabus-2025-11/hsk7_9/part-002.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/syllabus-2025-11/hsk7_9/part-002.csv",
+      "records": 2000,
+      "sha256": "08752aa159376fc4fe094cb125734c82fec6f2358c8d95c7ce8ed66188721a91",
+      "firstId": "ext-5a1a8e88fb2a1d5c00048730",
+      "lastId": "ext-b8e2283587fafd7467e37e4b"
+    },
+    {
+      "path": "normalized/questions/licensed_only/hsk_3_0/syllabus-2025-11/hsk7_9/part-003.jsonl",
+      "csv": "normalized/questions/licensed_only/hsk_3_0/syllabus-2025-11/hsk7_9/part-003.csv",
+      "records": 1595,
+      "sha256": "b2154fc95b276accf0050c71effac884b5b192627ebf505604191cd3f1fec4a6",
+      "firstId": "ext-b8e97c22223d663641483361",
+      "lastId": "ext-ffe9a45dec4f341ac66d37a9"
+    }
+  ],
+  "identityHash": "0403c656607e29b578957170758fb002121269a4cc87e0d12e25609a6dacb707"
+}

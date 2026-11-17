@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "words": 11000,
+  "glosses": 739,
+  "examples": 6271,
+  "strokes": 99,
+  "lessons": 132,
+  "readingPassages": 14,
+  "readingQuestions": 42,
+  "writingPrompts": 14,
+  "preservedInputFiles": 13573,
+  "preservedSQLiteTables": 8,
+  "idempotent": true
+}

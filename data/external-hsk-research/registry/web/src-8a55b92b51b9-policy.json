@@ -1,0 +1,42 @@
+{
+  "source": {
+    "sourceId": "src-8a55b92b51b9",
+    "name": "Tatoeba downloads",
+    "baseUrl": "https://tatoeba.org/en/downloads",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T05:09:34.404Z",
+    "termsUrl": null,
+    "robotsUrl": "https://tatoeba.org/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus.",
+      "Policy skipped: STOP_HTTP_429",
+      "Sentence text and audio licenses differ; per-author attribution required. No broad dump/audio downloaded in this bounded run."
+    ],
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-8a55b92b51b9-public-page.json",
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "publicDatasetLinks": [
+      "https://downloads.tatoeba.org/exports/users_sentences.csv"
+    ],
+    "policyEvidence": []
+  }
+}

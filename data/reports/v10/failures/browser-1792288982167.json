@@ -1,0 +1,6 @@
+{
+  "at": "2026-10-18T02:03:02.168Z",
+  "error": "Error: CDP timeout Runtime.evaluate\n    at Timeout._onTimeout (file:///D:/ReactJS/LuyenThiHSK/scripts/exam-browser-check.mjs:41:140)\n    at listOnTimeout (node:internal/timers:605:17)\n    at process.processTimers (node:internal/timers:541:7)",
+  "exceptions": [],
+  "consoleErrors": []
+}

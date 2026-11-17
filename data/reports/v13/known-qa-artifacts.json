@@ -1,0 +1,217 @@
+{
+  "at": "2026-10-19T07:09:38.290Z",
+  "records": [
+    {
+      "id": "qa-browser-1792391184328",
+      "revision": 1,
+      "status": "ARCHIVED",
+      "kind": "vocabulary",
+      "payloadHash": "0e99928088de7d07d0396f90ab0bf8becd5e23917050045e21f5fc7e203c996b",
+      "source": "QA fixture only",
+      "expertHumanApproval": false
+    },
+    {
+      "id": "qa-v3-1792391575178-audio",
+      "revision": 1,
+      "status": "ARCHIVED",
+      "kind": "audio",
+      "payloadHash": "d0115d2e49acf869ae17c95a672004ad3482b4e1dcadef09dd93b00c01f5cc93",
+      "source": "QA fixture only",
+      "expertHumanApproval": false
+    },
+    {
+      "id": "qa-v3-1792391575178-lesson",
+      "revision": 1,
+      "status": "ARCHIVED",
+      "kind": "grammar",
+      "payloadHash": "4dea46b360fbfd1ecccd333089f24b71e0d6dacb2ee8b533dd75fbdc5f54e0a8",
+      "source": "QA fixture only",
+      "expertHumanApproval": false
+    },
+    {
+      "id": "qa-v3-1792391575178-lesson-question",
+      "revision": 1,
+      "status": "ARCHIVED",
+      "kind": "questions",
+      "payloadHash": "746c334761ba77ccf3f9d8376e12d3709d302b6bdcef475761d6be06e5d792b9",
+      "source": "QA fixture only",
+      "expertHumanApproval": false
+    },
+    {
+      "id": "qa-v3-1792391575178-question",
+      "revision": 1,
+      "status": "ARCHIVED",
+      "kind": "questions",
+      "payloadHash": "6aef512a60736c1a20a165c145f811a61003c6b25999b4ede4ac358b3bd4b90b",
+      "source": "Bản nháp do AI hỗ trợ",
+      "expertHumanApproval": false
+    }
+  ],
+  "reviewsHash": "c276b0ee282d4cf323aaf68b9c4e7a6c06631dc0ad3a1458858cab1b5d26ab19",
+  "reviews": [
+    {
+      "id": 624,
+      "entity_id": "qa-browser-1792391184328",
+      "revision": 1,
+      "stage": "NEEDS_REVIEW",
+      "reviewer": "local-admin",
+      "comment": "Explicit local review",
+      "created_at": "2026-10-19T06:26:25.274Z"
+    },
+    {
+      "id": 625,
+      "entity_id": "qa-browser-1792391184328",
+      "revision": 1,
+      "stage": "APPROVED",
+      "reviewer": "local-admin",
+      "comment": "Explicit local review",
+      "created_at": "2026-10-19T06:26:25.417Z"
+    },
+    {
+      "id": 626,
+      "entity_id": "qa-browser-1792391184328",
+      "revision": 1,
+      "stage": "ARCHIVED",
+      "reviewer": "local-admin",
+      "comment": "Explicit local review",
+      "created_at": "2026-10-19T06:26:25.541Z"
+    },
+    {
+      "id": 627,
+      "entity_id": "qa-v3-1792391575178-question",
+      "revision": 1,
+      "stage": "LANGUAGE_REVIEW",
+      "reviewer": "QA fixture only",
+      "comment": "Test workflow; archive after QA",
+      "created_at": "2026-10-19T06:32:57.705Z"
+    },
+    {
+      "id": 628,
+      "entity_id": "qa-v3-1792391575178-question",
+      "revision": 1,
+      "stage": "HSK_LEVEL_REVIEW",
+      "reviewer": "QA fixture only",
+      "comment": "QA fixture only",
+      "created_at": "2026-10-19T06:32:57.943Z"
+    },
+    {
+      "id": 629,
+      "entity_id": "qa-v3-1792391575178-question",
+      "revision": 1,
+      "stage": "APPROVED",
+      "reviewer": "QA fixture only",
+      "comment": "QA fixture only",
+      "created_at": "2026-10-19T06:32:58.169Z"
+    },
+    {
+      "id": 630,
+      "entity_id": "qa-v3-1792391575178-lesson-question",
+      "revision": 1,
+      "stage": "LANGUAGE_REVIEW",
+      "reviewer": "Browser QA only",
+      "comment": "Fixture only; archived after QA",
+      "created_at": "2026-10-19T06:33:01.121Z"
+    },
+    {
+      "id": 631,
+      "entity_id": "qa-v3-1792391575178-lesson-question",
+      "revision": 1,
+      "stage": "HSK_LEVEL_REVIEW",
+      "reviewer": "Browser QA only",
+      "comment": "Fixture only; archived after QA",
+      "created_at": "2026-10-19T06:33:01.124Z"
+    },
+    {
+      "id": 632,
+      "entity_id": "qa-v3-1792391575178-lesson-question",
+      "revision": 1,
+      "stage": "APPROVED",
+      "reviewer": "Browser QA only",
+      "comment": "Fixture only; archived after QA",
+      "created_at": "2026-10-19T06:33:01.126Z"
+    },
+    {
+      "id": 633,
+      "entity_id": "qa-v3-1792391575178-lesson-question",
+      "revision": 1,
+      "stage": "PUBLISHED",
+      "reviewer": "Browser QA only",
+      "comment": "Fixture only; archived after QA",
+      "created_at": "2026-10-19T06:33:01.131Z"
+    },
+    {
+      "id": 634,
+      "entity_id": "qa-v3-1792391575178-lesson",
+      "revision": 1,
+      "stage": "LANGUAGE_REVIEW",
+      "reviewer": "Browser QA only",
+      "comment": "Fixture only; archived after QA",
+      "created_at": "2026-10-19T06:33:01.138Z"
+    },
+    {
+      "id": 635,
+      "entity_id": "qa-v3-1792391575178-lesson",
+      "revision": 1,
+      "stage": "HSK_LEVEL_REVIEW",
+      "reviewer": "Browser QA only",
+      "comment": "Fixture only; archived after QA",
+      "created_at": "2026-10-19T06:33:01.140Z"
+    },
+    {
+      "id": 636,
+      "entity_id": "qa-v3-1792391575178-lesson",
+      "revision": 1,
+      "stage": "APPROVED",
+      "reviewer": "Browser QA only",
+      "comment": "Fixture only; archived after QA",
+      "created_at": "2026-10-19T06:33:01.142Z"
+    },
+    {
+      "id": 637,
+      "entity_id": "qa-v3-1792391575178-lesson",
+      "revision": 1,
+      "stage": "PUBLISHED",
+      "reviewer": "Browser QA only",
+      "comment": "Fixture only; archived after QA",
+      "created_at": "2026-10-19T06:33:01.147Z"
+    },
+    {
+      "id": 638,
+      "entity_id": "qa-v3-1792391575178-question",
+      "revision": 1,
+      "stage": "ARCHIVED",
+      "reviewer": "local-admin",
+      "comment": "Explicit local review",
+      "created_at": "2026-10-19T06:33:02.409Z"
+    },
+    {
+      "id": 639,
+      "entity_id": "qa-v3-1792391575178-audio",
+      "revision": 1,
+      "stage": "ARCHIVED",
+      "reviewer": "local-admin",
+      "comment": "Explicit local review",
+      "created_at": "2026-10-19T06:33:02.585Z"
+    },
+    {
+      "id": 640,
+      "entity_id": "qa-v3-1792391575178-lesson-question",
+      "revision": 1,
+      "stage": "ARCHIVED",
+      "reviewer": "local-admin",
+      "comment": "Explicit local review",
+      "created_at": "2026-10-19T06:33:02.752Z"
+    },
+    {
+      "id": 641,
+      "entity_id": "qa-v3-1792391575178-lesson",
+      "revision": 1,
+      "stage": "ARCHIVED",
+      "reviewer": "local-admin",
+      "comment": "Explicit local review",
+      "created_at": "2026-10-19T06:33:02.918Z"
+    }
+  ],
+  "reason": "Legacy V1-V3 browser scenarios wrote five technical QA fixtures before full isolation. They were archived by their finally blocks; audit trails are retained, never counted as expert approval. No deletion/reset. Future frontend and Node API mutations use disposable SQLite.",
+  "futureTests": "See legacy-admin-isolation.json; fixture IDs must not exist in main"
+}

@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-16T15:18:56.470Z",
+  "status": "PASS",
+  "assertions": 35,
+  "isolatedRuntime": true,
+  "noLiveApprovals": true,
+  "stderr": "(node) ExperimentalWarning: SQLite is an experimental feature and might change at any time\n(Use `node --trace-warnings ...` to show where the warning was created)\n"
+}

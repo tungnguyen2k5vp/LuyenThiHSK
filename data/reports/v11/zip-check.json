@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "zip": "data/review-packages/v11/V11_REVIEW_OFFLINE.zip",
+  "bytes": 1200702,
+  "files": [
+    "audio-review-jobs.json",
+    "decisions-template.json",
+    "MO_DE_DUYET.html",
+    "README.md",
+    "reviewer-package.json"
+  ],
+  "crc": "PASS",
+  "containsMedia": false
+}

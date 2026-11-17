@@ -1,0 +1,2 @@
+import {readdir,copyFile,mkdir} from 'node:fs/promises';
+const folder='data/reports/v6/browser-attempts/'+new Date().toISOString().replace(/[:.]/g,'-');await mkdir(folder,{recursive:true});for(const f of await readdir('data/reports/v6'))if(f.startsWith('browser-matrix')||f.startsWith('e2e-'))await copyFile('data/reports/v6/'+f,folder+'/'+f);console.log('Prior browser run evidence preserved in '+folder);

@@ -1,0 +1,13 @@
+import {readFile,writeFile,mkdir,copyFile,readdir,appendFile} from 'node:fs/promises';
+let runner=await readFile('scripts/exam-browser-check.mjs','utf8');
+const original=runner.split('\n').find(l=>l.startsWith('async function screenshot(name)'));
+if(!runner.includes('HSK_SCREENSHOT_PHASE'))runner=runner.replace(original,`async function screenshot(name){const base=process.env.HSK_SCREENSHOT_PHASE?'docs/screenshots/v5/'+process.env.HSK_SCREENSHOT_PHASE:'docs/screenshots/exam-focus';await mkdir(base,{recursive:true});const result=await rpc('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});await writeFile(base+'/'+name+'.png',Buffer.from(result.data,'base64'));}`);
+await writeFile('scripts/exam-browser-check.mjs',runner);
+let flow=await readFile('scripts/v4-browser-flows.mjs','utf8');
+if(!flow.includes('v4-desktop-grammar-lesson'))flow=flow.replace(`await waitFor('document.querySelector(".grammar-lesson")');`,`await waitFor('document.querySelector(".grammar-lesson")');await screenshot('v4-desktop-grammar-lesson');`);
+if(!flow.includes('v4-desktop-practice'))flow=flow.replace('measurements.practiceStartMs=Date.now()-start;','measurements.practiceStartMs=Date.now()-start;await screenshot(\'v4-desktop-practice\');');
+if(!flow.includes('v4-desktop-mistakes'))flow=flow.replace("await click('Ôn sai');assert", "await click('Ôn sai');await screenshot('v4-desktop-mistakes');assert");
+if(!flow.includes('v4-mobile-home'))flow=flow.replace("if(width===375)await screenshot('v4-mobile-readiness');", "if(width===375){await click('Hôm nay');await screenshot('v4-mobile-home');await click('Luyện tập / Mini / Mock');await click('Practice Đọc · 5 câu');await waitFor('document.querySelector(\".exam-room\")');await screenshot('v4-mobile-practice');await click('Thoát');await click('Readiness');await screenshot('v4-mobile-readiness');}");
+await writeFile('scripts/v4-browser-flows.mjs',flow);
+await mkdir('docs/screenshots/v5/before',{recursive:true});for(const f of(await readdir('docs/screenshots/exam-focus')).filter(f=>f.startsWith('v4-')&&f.endsWith('.png')))await copyFile('docs/screenshots/exam-focus/'+f,'docs/screenshots/v5/before/'+f);
+await appendFile('docs/v5/V5_BASELINE.md','\nBrowser baseline V1–V3 và V4 PASS sau khi khôi phục API8787/preview4173. Các lần đầu ECONNREFUSED là lỗi môi trường trước khởi động, không phải lỗi ứng dụng. Thử npm exec -- node đã cố truy cập registry; sửa cách gọi thành node trực tiếp, không cài thêm package.\n');

@@ -1,0 +1,1085 @@
+{
+  "batches": [
+    {
+      "source": {
+        "id": "hsk-project-original",
+        "name": "HSK Journey · bài tập tự biên soạn",
+        "url": "local:hsk-mvp-original",
+        "owner": "Dự án HSK Journey",
+        "license": "LicenseRef-Project-Original",
+        "rightsStatus": "ORIGINAL",
+        "commercialAllowed": true,
+        "attribution": "Biên soạn mới với trợ giúp AI cho HSK Journey. Cần duyệt ngôn ngữ, cấp độ và đáp án trước khi xuất bản.",
+        "evidenceUrl": "local:data/editorial/hsk-mvp-sample.json",
+        "scope": "Bài mẫu kỹ thuật, không phải đề HSK chính thức."
+      },
+      "questions": [
+        {
+          "id": "hskbank-original-1-01",
+          "syllabusVersion": "hsk3-2025",
+          "level": "1",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "你叫什么名字？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "我叫小明。"
+            },
+            {
+              "id": "B",
+              "text": "我很好。"
+            },
+            {
+              "id": "C",
+              "text": "我十岁。"
+            }
+          ],
+          "correctOptionId": "A",
+          "explanation": "叫什么名字 hỏi tên; 我叫小明 nghĩa là tôi tên Tiểu Minh.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-d4565fc1ed59",
+            "hsk-58fc9b215770"
+          ]
+        },
+        {
+          "id": "hskbank-original-1-02",
+          "syllabusVersion": "hsk3-2025",
+          "level": "1",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "现在是三点。现在几点？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "两点"
+            },
+            {
+              "id": "B",
+              "text": "三点"
+            },
+            {
+              "id": "C",
+              "text": "四点"
+            }
+          ],
+          "correctOptionId": "B",
+          "explanation": "三点 là ba giờ; thông tin xuất hiện trực tiếp trong câu.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-ad2e0f420b28",
+            "hsk-d37a528d3729"
+          ]
+        },
+        {
+          "id": "hskbank-original-1-03",
+          "syllabusVersion": "hsk3-2025",
+          "level": "1",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "妈妈在家喝茶。谁在喝茶？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "老师"
+            },
+            {
+              "id": "B",
+              "text": "爸爸"
+            },
+            {
+              "id": "C",
+              "text": "妈妈"
+            }
+          ],
+          "correctOptionId": "C",
+          "explanation": "Chủ ngữ 妈妈 là mẹ, người đang uống trà.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-da190c72d1a4",
+            "hsk-dd352fa33a48"
+          ]
+        },
+        {
+          "id": "hskbank-original-1-04",
+          "syllabusVersion": "hsk3-2025",
+          "level": "1",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "小明有两本书。小明有几本书？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "两本"
+            },
+            {
+              "id": "B",
+              "text": "三本"
+            },
+            {
+              "id": "C",
+              "text": "一本"
+            }
+          ],
+          "correctOptionId": "A",
+          "explanation": "两本书 là hai quyển sách; 本 là lượng từ của sách.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-55927c7ea736",
+            "hsk-0db6fd0af0d5"
+          ]
+        },
+        {
+          "id": "hskbank-original-1-05",
+          "syllabusVersion": "hsk3-2025",
+          "level": "1",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "今天很热，我想喝冷水。我想喝什么？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "热水"
+            },
+            {
+              "id": "B",
+              "text": "冷水"
+            },
+            {
+              "id": "C",
+              "text": "米饭"
+            }
+          ],
+          "correctOptionId": "B",
+          "explanation": "Người nói nêu rõ muốn uống 冷水 (nước lạnh).",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-144993166da9",
+            "hsk-161b2bf07cfd"
+          ]
+        },
+        {
+          "id": "hskbank-original-1-06",
+          "syllabusVersion": "hsk3-2025",
+          "level": "1",
+          "skill": "reading",
+          "type": "short-passage",
+          "promptZh": "这是我的老师。他教我们汉语。他做什么工作？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "医生"
+            },
+            {
+              "id": "B",
+              "text": "学生"
+            },
+            {
+              "id": "C",
+              "text": "老师"
+            }
+          ],
+          "correctOptionId": "C",
+          "explanation": "Người dạy tiếng Trung trong đoạn là giáo viên (老师).",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-84d2096d920e",
+            "hsk-cd4699becedc"
+          ]
+        },
+        {
+          "id": "hskbank-original-1-07",
+          "syllabusVersion": "hsk3-2025",
+          "level": "1",
+          "skill": "reading",
+          "type": "short-passage",
+          "promptZh": "小王：你去哪里？小李：我去学校。小李去哪儿？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "学校"
+            },
+            {
+              "id": "B",
+              "text": "商店"
+            },
+            {
+              "id": "C",
+              "text": "医院"
+            }
+          ],
+          "correctOptionId": "A",
+          "explanation": "小李 nói 我去学校: tôi đến trường.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-bd2efaef6f28",
+            "hsk-fb1573ce5c43"
+          ]
+        },
+        {
+          "id": "hskbank-original-1-08",
+          "syllabusVersion": "hsk3-2025",
+          "level": "1",
+          "skill": "reading",
+          "type": "short-passage",
+          "promptZh": "桌子上有一个苹果。苹果在哪里？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "桌子下"
+            },
+            {
+              "id": "B",
+              "text": "桌子上"
+            },
+            {
+              "id": "C",
+              "text": "椅子上"
+            }
+          ],
+          "correctOptionId": "B",
+          "explanation": "桌子上 nghĩa là trên bàn. Không nhầm với 下 là dưới.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-fe95c7f89ffe",
+            "hsk-19c979fa9c68"
+          ]
+        },
+        {
+          "id": "hskbank-original-1-09",
+          "syllabusVersion": "hsk3-2025",
+          "level": "1",
+          "skill": "reading",
+          "type": "short-passage",
+          "promptZh": "我每天早上七点起床。我什么时候起床？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "晚上"
+            },
+            {
+              "id": "B",
+              "text": "中午"
+            },
+            {
+              "id": "C",
+              "text": "早上"
+            }
+          ],
+          "correctOptionId": "C",
+          "explanation": "Thông tin 早上七点 cho biết buổi sáng lúc bảy giờ.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-87e79e162d8d",
+            "hsk-eef45ba229e1"
+          ]
+        },
+        {
+          "id": "hskbank-original-1-10",
+          "syllabusVersion": "hsk3-2025",
+          "level": "1",
+          "skill": "reading",
+          "type": "short-passage",
+          "promptZh": "小白今天不去学校，因为今天是星期日。今天星期几？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "星期日"
+            },
+            {
+              "id": "B",
+              "text": "星期一"
+            },
+            {
+              "id": "C",
+              "text": "星期五"
+            }
+          ],
+          "correctOptionId": "A",
+          "explanation": "星期日 là chủ nhật, đã được nêu trong câu.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-144993166da9",
+            "hsk-1c0c81457feb"
+          ]
+        },
+        {
+          "id": "hskbank-original-2-01",
+          "syllabusVersion": "hsk3-2025",
+          "level": "2",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "他昨天没来学校，因为他生病了。他为什么没来？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "他生病了。"
+            },
+            {
+              "id": "B",
+              "text": "他去旅游了。"
+            },
+            {
+              "id": "C",
+              "text": "他不喜欢学校。"
+            }
+          ],
+          "correctOptionId": "A",
+          "explanation": "因为 dẫn nguyên nhân: anh ấy bị bệnh.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-b02db5df5e23",
+            "hsk-928a533a09d6"
+          ]
+        },
+        {
+          "id": "hskbank-original-2-02",
+          "syllabusVersion": "hsk3-2025",
+          "level": "2",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "这件衣服比那件便宜。哪件衣服更贵？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "这件"
+            },
+            {
+              "id": "B",
+              "text": "那件"
+            },
+            {
+              "id": "C",
+              "text": "一样贵"
+            }
+          ],
+          "correctOptionId": "B",
+          "explanation": "这件比那件便宜 nghĩa là chiếc này rẻ hơn chiếc kia, nên chiếc kia đắt hơn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-b614b38cc89c",
+            "hsk-7ad3c5af2814"
+          ]
+        },
+        {
+          "id": "hskbank-original-2-03",
+          "syllabusVersion": "hsk3-2025",
+          "level": "2",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "离考试还有三天，我每天都复习。什么时候考试？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "昨天"
+            },
+            {
+              "id": "B",
+              "text": "今天"
+            },
+            {
+              "id": "C",
+              "text": "三天后"
+            }
+          ],
+          "correctOptionId": "C",
+          "explanation": "还有三天 chỉ khoảng thời gian còn ba ngày, tức ba ngày nữa.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-06aa3ef90012"
+          ]
+        },
+        {
+          "id": "hskbank-original-2-04",
+          "syllabusVersion": "hsk3-2025",
+          "level": "2",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "我已经吃过饭了，现在不饿。这个人现在怎么样？",
+          "instruction": "Đọc nội dung tiếng Trung và chọn một đáp án đúng.",
+          "options": [
+            {
+              "id": "A",
+              "text": "不饿"
+            },
+            {
+              "id": "B",
+              "text": "很饿"
+            },
+            {
+              "id": "C",
+              "text": "想吃饭"
+            }
+          ],
+          "correctOptionId": "A",
+          "explanation": "已经……了 biểu thị việc đã hoàn thành; người nói hiện không đói.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": [
+            "hsk-e9a1b88bfb25",
+            "hsk-ccc74542e030"
+          ]
+        },
+        {
+          "id": "hskbank-original-2-order-1",
+          "syllabusVersion": "hsk3-2025",
+          "level": "2",
+          "skill": "writing",
+          "type": "sentence-order",
+          "promptZh": "我 / 每天 / 学习 / 汉语",
+          "instruction": "Sắp xếp các từ thành câu rồi nhập câu hoàn chỉnh. Bỏ qua khác biệt dấu câu và khoảng trắng khi chấm.",
+          "options": [],
+          "acceptedAnswers": [
+            "我每天学习汉语。"
+          ],
+          "explanation": "Trật tự chủ ngữ + thời gian + động từ + tân ngữ: 我每天学习汉语。",
+          "difficulty": "medium",
+          "scoring": "exact-text",
+          "vocabularyIds": [
+            "hsk-84d2096d920e",
+            "hsk-845302d31504"
+          ]
+        },
+        {
+          "id": "hskbank-original-2-order-2",
+          "syllabusVersion": "hsk3-2025",
+          "level": "2",
+          "skill": "writing",
+          "type": "sentence-order",
+          "promptZh": "他 / 正在 / 看 / 书",
+          "instruction": "Sắp xếp các từ thành câu rồi nhập câu hoàn chỉnh. Bỏ qua khác biệt dấu câu và khoảng trắng khi chấm.",
+          "options": [],
+          "acceptedAnswers": [
+            "他正在看书。"
+          ],
+          "explanation": "正在 đứng trước động từ để diễn tả hành động đang xảy ra.",
+          "difficulty": "medium",
+          "scoring": "exact-text",
+          "vocabularyIds": [
+            "hsk-0db6fd0af0d5",
+            "hsk-71b630e2633b"
+          ]
+        },
+        {
+          "id": "hskbank-original-2-order-3",
+          "syllabusVersion": "hsk3-2025",
+          "level": "2",
+          "skill": "writing",
+          "type": "sentence-order",
+          "promptZh": "你 / 为什么 / 没有 / 来",
+          "instruction": "Sắp xếp các từ thành câu rồi nhập câu hoàn chỉnh. Bỏ qua khác biệt dấu câu và khoảng trắng khi chấm.",
+          "options": [],
+          "acceptedAnswers": [
+            "你为什么没有来？"
+          ],
+          "explanation": "为什么 đứng sau chủ ngữ; 没有 phủ định hành động đã xảy ra.",
+          "difficulty": "medium",
+          "scoring": "exact-text",
+          "vocabularyIds": [
+            "hsk-2c9959ac66b2",
+            "hsk-020ed7228743"
+          ]
+        },
+        {
+          "id": "hskbank-original-2-order-4",
+          "syllabusVersion": "hsk3-2025",
+          "level": "2",
+          "skill": "writing",
+          "type": "sentence-order",
+          "promptZh": "我 / 想 / 喝 / 一杯 / 茶",
+          "instruction": "Sắp xếp các từ thành câu rồi nhập câu hoàn chỉnh. Bỏ qua khác biệt dấu câu và khoảng trắng khi chấm.",
+          "options": [],
+          "acceptedAnswers": [
+            "我想喝一杯茶。"
+          ],
+          "explanation": "想 + động từ diễn tả mong muốn; 一杯茶 là một tách trà.",
+          "difficulty": "medium",
+          "scoring": "exact-text",
+          "vocabularyIds": [
+            "hsk-da190c72d1a4",
+            "hsk-55aa51625e57"
+          ]
+        },
+        {
+          "id": "hskbank-original-2-order-5",
+          "syllabusVersion": "hsk3-2025",
+          "level": "2",
+          "skill": "writing",
+          "type": "sentence-order",
+          "promptZh": "这本书 / 是 / 我 / 的",
+          "instruction": "Sắp xếp các từ thành câu rồi nhập câu hoàn chỉnh. Bỏ qua khác biệt dấu câu và khoảng trắng khi chấm.",
+          "options": [],
+          "acceptedAnswers": [
+            "这本书是我的。"
+          ],
+          "explanation": "Cấu trúc 是……的 ở đây xác nhận sở hữu: quyển sách này là của tôi.",
+          "difficulty": "medium",
+          "scoring": "exact-text",
+          "vocabularyIds": [
+            "hsk-0db6fd0af0d5",
+            "hsk-e2cf20315d5d"
+          ]
+        },
+        {
+          "id": "hskbank-original-2-order-6",
+          "syllabusVersion": "hsk3-2025",
+          "level": "2",
+          "skill": "writing",
+          "type": "sentence-order",
+          "promptZh": "因为 / 下雨 / 所以 / 我们 / 不 / 出去",
+          "instruction": "Sắp xếp các từ thành câu rồi nhập câu hoàn chỉnh. Bỏ qua khác biệt dấu câu và khoảng trắng khi chấm.",
+          "options": [],
+          "acceptedAnswers": [
+            "因为下雨，所以我们不出去。"
+          ],
+          "explanation": "因为……所以…… nối nguyên nhân trời mưa và kết quả không ra ngoài.",
+          "difficulty": "medium",
+          "scoring": "exact-text",
+          "vocabularyIds": [
+            "hsk-e34de89b1872",
+            "hsk-928a533a09d6"
+          ]
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "hsk-no7z-cc-by-sa",
+        "name": "no7z / Jayoung · HSK sentences audio",
+        "url": "https://github.com/no7z/hsk-sentences-audio",
+        "owner": "no7z / Jayoung và những người đóng góp",
+        "license": "CC BY-SA 4.0",
+        "rightsStatus": "VERIFIED_OPEN",
+        "commercialAllowed": true,
+        "attribution": "no7z/Jayoung; CC-CEDICT contributors; audio tổng hợp CosyVoice2-0.5B (Apache-2.0). Bài phái sinh CC BY-SA 4.0. 857dfbab91027ebd97df01260e91b817cb6b4854",
+        "evidenceUrl": "https://github.com/no7z/hsk-sentences-audio/blob/857dfbab91027ebd97df01260e91b817cb6b4854/ATTRIBUTION.md",
+        "scope": "Chỉ dist sentence/audio dataset tại commit đã khóa; không coi MIT của code là giấy phép câu/audio."
+      },
+      "questions": [
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0001:listening",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "listening",
+          "type": "multiple-choice",
+          "promptZh": "请听录音，选择对应的句子。",
+          "instruction": "Nghe audio và chọn câu tương ứng. Audio tổng hợp, được nghe lại trong chế độ luyện tập.",
+          "options": [
+            {
+              "id": "A",
+              "text": "你好，很高兴认识你。"
+            },
+            {
+              "id": "B",
+              "text": "谢谢你！不客气。"
+            },
+            {
+              "id": "C",
+              "text": "对不起。没关系。"
+            },
+            {
+              "id": "D",
+              "text": "老师，您好！"
+            }
+          ],
+          "correctOptionId": "D",
+          "explanation": "老师，您好！\nlǎo shī nín hǎo\nHello, teacher!\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "audio": {
+            "kind": "file",
+            "src": "/data/open-hsk/audio/449997a6510f94e4011d7ac131476014573a9f709b60acd4da92f4432e4a57b3.mp3",
+            "slowSrc": "/data/open-hsk/audio/8da64fcb4a562f726943288acd3807a4bd6a8f86e4fe02b0d2288606aba519f8.mp3",
+            "sha256": "449997a6510f94e4011d7ac131476014573a9f709b60acd4da92f4432e4a57b3",
+            "voiceKind": "synthetic",
+            "transcript": "老师，您好！"
+          },
+          "vocabularyIds": []
+        },
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0002:listening",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "listening",
+          "type": "multiple-choice",
+          "promptZh": "请听录音，选择对应的句子。",
+          "instruction": "Nghe audio và chọn câu tương ứng. Audio tổng hợp, được nghe lại trong chế độ luyện tập.",
+          "options": [
+            {
+              "id": "A",
+              "text": "请问，你叫什么名字？"
+            },
+            {
+              "id": "B",
+              "text": "你好，很高兴认识你。"
+            },
+            {
+              "id": "C",
+              "text": "谢谢你！不客气。"
+            },
+            {
+              "id": "D",
+              "text": "对不起。没关系。"
+            }
+          ],
+          "correctOptionId": "B",
+          "explanation": "你好，很高兴认识你。\nnǐ hǎo hěn gāo xìng rèn shi nǐ\nHello, nice to meet you.\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "audio": {
+            "kind": "file",
+            "src": "/data/open-hsk/audio/d25cedbc502090c44ae08cc31ffdaf22640a16a04055d5218c55045c76e7e3ce.mp3",
+            "slowSrc": "/data/open-hsk/audio/ab98c4c55540f9a6fca99e42b07026101d5f0cb2e1a1561eeddd792a1c4d0ab0.mp3",
+            "sha256": "d25cedbc502090c44ae08cc31ffdaf22640a16a04055d5218c55045c76e7e3ce",
+            "voiceKind": "synthetic",
+            "transcript": "你好，很高兴认识你。"
+          },
+          "vocabularyIds": []
+        },
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0003:listening",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "listening",
+          "type": "multiple-choice",
+          "promptZh": "请听录音，选择对应的句子。",
+          "instruction": "Nghe audio và chọn câu tương ứng. Audio tổng hợp, được nghe lại trong chế độ luyện tập.",
+          "options": [
+            {
+              "id": "A",
+              "text": "请问，你叫什么名字？"
+            },
+            {
+              "id": "B",
+              "text": "请进，请坐。"
+            },
+            {
+              "id": "C",
+              "text": "谢谢你！不客气。"
+            },
+            {
+              "id": "D",
+              "text": "对不起。没关系。"
+            }
+          ],
+          "correctOptionId": "C",
+          "explanation": "谢谢你！不客气。\nxiè xie nǐ bù kè qi\nThank you! You're welcome.\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "audio": {
+            "kind": "file",
+            "src": "/data/open-hsk/audio/8c95460eece040d5d14ebd0eb31ae903d1a5cca8ee02d2b4473c780c1c297fd1.mp3",
+            "slowSrc": "/data/open-hsk/audio/c6319851b89c5445626431350fc06f646b17300d847ef60556eff53422471445.mp3",
+            "sha256": "8c95460eece040d5d14ebd0eb31ae903d1a5cca8ee02d2b4473c780c1c297fd1",
+            "voiceKind": "synthetic",
+            "transcript": "谢谢你！不客气。"
+          },
+          "vocabularyIds": []
+        },
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0004:listening",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "listening",
+          "type": "multiple-choice",
+          "promptZh": "请听录音，选择对应的句子。",
+          "instruction": "Nghe audio và chọn câu tương ứng. Audio tổng hợp, được nghe lại trong chế độ luyện tập.",
+          "options": [
+            {
+              "id": "A",
+              "text": "请问，你叫什么名字？"
+            },
+            {
+              "id": "B",
+              "text": "请进，请坐。"
+            },
+            {
+              "id": "C",
+              "text": "老师再见！"
+            },
+            {
+              "id": "D",
+              "text": "对不起。没关系。"
+            }
+          ],
+          "correctOptionId": "D",
+          "explanation": "对不起。没关系。\nduì bu qǐ méi guān xi\nSorry. It's okay.\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "audio": {
+            "kind": "file",
+            "src": "/data/open-hsk/audio/9663e70b7fad89267cb877dd5cd3966eaa97fe7182953a7503b9e3a613f195ca.mp3",
+            "slowSrc": "/data/open-hsk/audio/abd94494472283967cdfdaf9c9c3cf36555e9012752316366b2e9c1e6af9e6aa.mp3",
+            "sha256": "9663e70b7fad89267cb877dd5cd3966eaa97fe7182953a7503b9e3a613f195ca",
+            "voiceKind": "synthetic",
+            "transcript": "对不起。没关系。"
+          },
+          "vocabularyIds": []
+        },
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0005:listening",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "listening",
+          "type": "multiple-choice",
+          "promptZh": "请听录音，选择对应的句子。",
+          "instruction": "Nghe audio và chọn câu tương ứng. Audio tổng hợp, được nghe lại trong chế độ luyện tập.",
+          "options": [
+            {
+              "id": "A",
+              "text": "请进，请坐。"
+            },
+            {
+              "id": "B",
+              "text": "老师再见！"
+            },
+            {
+              "id": "C",
+              "text": "我来介绍一下我的朋友。"
+            },
+            {
+              "id": "D",
+              "text": "请问，你叫什么名字？"
+            }
+          ],
+          "correctOptionId": "D",
+          "explanation": "请问，你叫什么名字？\nqǐng wèn nǐ jiào shén me míng zi\nExcuse me, what is your name?\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "audio": {
+            "kind": "file",
+            "src": "/data/open-hsk/audio/9f0f80854eea57a87a69d557164713a66335b216adb1b6becb48b9feb9305743.mp3",
+            "slowSrc": "/data/open-hsk/audio/c166c4393bf6ba1ff8ecd84b14d3677a4b3ae690c6814a5705e9bb1ef9dd15d3.mp3",
+            "sha256": "9f0f80854eea57a87a69d557164713a66335b216adb1b6becb48b9feb9305743",
+            "voiceKind": "synthetic",
+            "transcript": "请问，你叫什么名字？"
+          },
+          "vocabularyIds": []
+        },
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0006:listening",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "listening",
+          "type": "multiple-choice",
+          "promptZh": "请听录音，选择对应的句子。",
+          "instruction": "Nghe audio và chọn câu tương ứng. Audio tổng hợp, được nghe lại trong chế độ luyện tập.",
+          "options": [
+            {
+              "id": "A",
+              "text": "他是谁？"
+            },
+            {
+              "id": "B",
+              "text": "请进，请坐。"
+            },
+            {
+              "id": "C",
+              "text": "老师再见！"
+            },
+            {
+              "id": "D",
+              "text": "我来介绍一下我的朋友。"
+            }
+          ],
+          "correctOptionId": "B",
+          "explanation": "请进，请坐。\nqǐng jìn qǐng zuò\nPlease come in and sit down.\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "audio": {
+            "kind": "file",
+            "src": "/data/open-hsk/audio/83da134783a363af0d4d043535b5113090ffe60730c0fdf5ca17144421c5b928.mp3",
+            "slowSrc": "/data/open-hsk/audio/75a4b80341c1b20ad8d25b155e073d845f1160d121d6207800b8f962e6aa6fc8.mp3",
+            "sha256": "83da134783a363af0d4d043535b5113090ffe60730c0fdf5ca17144421c5b928",
+            "voiceKind": "synthetic",
+            "transcript": "请进，请坐。"
+          },
+          "vocabularyIds": []
+        },
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0001:reading",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "老师，您好！",
+          "instruction": "Đọc câu và chọn nghĩa tiếng Anh theo nguồn. Bài tập bổ trợ, không phải đề thi.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Thank you! You're welcome."
+            },
+            {
+              "id": "B",
+              "text": "Sorry. It's okay."
+            },
+            {
+              "id": "C",
+              "text": "Hello, teacher!"
+            },
+            {
+              "id": "D",
+              "text": "Hello, nice to meet you."
+            }
+          ],
+          "correctOptionId": "C",
+          "explanation": "老师，您好！\nlǎo shī nín hǎo\nHello, teacher!\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": []
+        },
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0002:reading",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "你好，很高兴认识你。",
+          "instruction": "Đọc câu và chọn nghĩa tiếng Anh theo nguồn. Bài tập bổ trợ, không phải đề thi.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hello, nice to meet you."
+            },
+            {
+              "id": "B",
+              "text": "Thank you! You're welcome."
+            },
+            {
+              "id": "C",
+              "text": "Sorry. It's okay."
+            },
+            {
+              "id": "D",
+              "text": "Excuse me, what is your name?"
+            }
+          ],
+          "correctOptionId": "A",
+          "explanation": "你好，很高兴认识你。\nnǐ hǎo hěn gāo xìng rèn shi nǐ\nHello, nice to meet you.\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": []
+        },
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0003:reading",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "谢谢你！不客气。",
+          "instruction": "Đọc câu và chọn nghĩa tiếng Anh theo nguồn. Bài tập bổ trợ, không phải đề thi.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Please come in and sit down."
+            },
+            {
+              "id": "B",
+              "text": "Thank you! You're welcome."
+            },
+            {
+              "id": "C",
+              "text": "Sorry. It's okay."
+            },
+            {
+              "id": "D",
+              "text": "Excuse me, what is your name?"
+            }
+          ],
+          "correctOptionId": "B",
+          "explanation": "谢谢你！不客气。\nxiè xie nǐ bù kè qi\nThank you! You're welcome.\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": []
+        },
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0004:reading",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "对不起。没关系。",
+          "instruction": "Đọc câu và chọn nghĩa tiếng Anh theo nguồn. Bài tập bổ trợ, không phải đề thi.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Goodbye, teacher!"
+            },
+            {
+              "id": "B",
+              "text": "Sorry. It's okay."
+            },
+            {
+              "id": "C",
+              "text": "Excuse me, what is your name?"
+            },
+            {
+              "id": "D",
+              "text": "Please come in and sit down."
+            }
+          ],
+          "correctOptionId": "B",
+          "explanation": "对不起。没关系。\nduì bu qǐ méi guān xi\nSorry. It's okay.\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": []
+        },
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0005:reading",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "请问，你叫什么名字？",
+          "instruction": "Đọc câu và chọn nghĩa tiếng Anh theo nguồn. Bài tập bổ trợ, không phải đề thi.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Let me introduce my friend."
+            },
+            {
+              "id": "B",
+              "text": "Excuse me, what is your name?"
+            },
+            {
+              "id": "C",
+              "text": "Please come in and sit down."
+            },
+            {
+              "id": "D",
+              "text": "Goodbye, teacher!"
+            }
+          ],
+          "correctOptionId": "B",
+          "explanation": "请问，你叫什么名字？\nqǐng wèn nǐ jiào shén me míng zi\nExcuse me, what is your name?\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": []
+        },
+        {
+          "id": "hskbank-no7z-no7z:hsk1-0006:reading",
+          "syllabusVersion": "hsk3-2021",
+          "level": "1",
+          "skill": "reading",
+          "type": "multiple-choice",
+          "promptZh": "请进，请坐。",
+          "instruction": "Đọc câu và chọn nghĩa tiếng Anh theo nguồn. Bài tập bổ trợ, không phải đề thi.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Let me introduce my friend."
+            },
+            {
+              "id": "B",
+              "text": "Who is he?"
+            },
+            {
+              "id": "C",
+              "text": "Please come in and sit down."
+            },
+            {
+              "id": "D",
+              "text": "Goodbye, teacher!"
+            }
+          ],
+          "correctOptionId": "C",
+          "explanation": "请进，请坐。\nqǐng jìn qǐng zuò\nPlease come in and sit down.\nĐối chiếu câu và bản dịch từ no7z. Lựa chọn nhiễu do HSK Journey ghép; chưa được duyệt chuyên môn.",
+          "difficulty": "easy",
+          "scoring": "choice",
+          "vocabularyIds": []
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "id": "hskbank-sample-2025-1",
+      "title": "HSK 1 · Đọc hiểu mỗi ngày",
+      "standardId": "hsk3-2025",
+      "level": "1",
+      "durationMinutes": 12,
+      "description": "10 câu đọc hiểu tự biên soạn để làm quen luồng thi, xem giải thích và tìm từ liên quan. Nội dung cần duyệt chuyên môn.",
+      "questionIds": [
+        "hskbank-original-1-01",
+        "hskbank-original-1-02",
+        "hskbank-original-1-03",
+        "hskbank-original-1-04",
+        "hskbank-original-1-05",
+        "hskbank-original-1-06",
+        "hskbank-original-1-07",
+        "hskbank-original-1-08",
+        "hskbank-original-1-09",
+        "hskbank-original-1-10"
+      ]
+    },
+    {
+      "id": "hskbank-sample-2025-2",
+      "title": "HSK 2 · Đọc và sắp xếp câu",
+      "standardId": "hsk3-2025",
+      "level": "2",
+      "durationMinutes": 15,
+      "description": "Bài luyện 4 câu đọc và 6 câu sắp xếp thành câu. Chấm văn bản theo đáp án mẫu, không chấm viết tự do.",
+      "questionIds": [
+        "hskbank-original-2-01",
+        "hskbank-original-2-02",
+        "hskbank-original-2-03",
+        "hskbank-original-2-04",
+        "hskbank-original-2-order-1",
+        "hskbank-original-2-order-2",
+        "hskbank-original-2-order-3",
+        "hskbank-original-2-order-4",
+        "hskbank-original-2-order-5",
+        "hskbank-original-2-order-6"
+      ]
+    },
+    {
+      "id": "hskbank-sample-2021-1",
+      "title": "HSK 1 · Nghe và đọc cùng no7z",
+      "standardId": "hsk3-2021",
+      "level": "1",
+      "durationMinutes": 15,
+      "description": "12 bài tập từ nguồn no7z có CC BY-SA 4.0. Audio tổng hợp, cấp theo GF0025-2021; không trộn với đề cương 2025.",
+      "questionIds": [
+        "hskbank-no7z-no7z:hsk1-0001:listening",
+        "hskbank-no7z-no7z:hsk1-0002:listening",
+        "hskbank-no7z-no7z:hsk1-0003:listening",
+        "hskbank-no7z-no7z:hsk1-0004:listening",
+        "hskbank-no7z-no7z:hsk1-0005:listening",
+        "hskbank-no7z-no7z:hsk1-0006:listening",
+        "hskbank-no7z-no7z:hsk1-0001:reading",
+        "hskbank-no7z-no7z:hsk1-0002:reading",
+        "hskbank-no7z-no7z:hsk1-0003:reading",
+        "hskbank-no7z-no7z:hsk1-0004:reading",
+        "hskbank-no7z-no7z:hsk1-0005:reading",
+        "hskbank-no7z-no7z:hsk1-0006:reading"
+      ]
+    }
+  ]
+}

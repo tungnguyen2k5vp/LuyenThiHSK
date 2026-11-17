@@ -1,0 +1,22 @@
+{
+  "at": "2026-10-19T01:56:13.537Z",
+  "changes": [
+    {
+      "file": "server/admin-server.mjs",
+      "before": "26abd3113834d1a6c9c91b110d8aaa3a60c8fe84725a6cdf1a2965e177540aa0",
+      "after": "58ef3f5d64b57876ceb5237928c5779aa580cd7dd1366c4325fae78768c2cf61"
+    },
+    {
+      "file": "server/v3-content-service.mjs",
+      "before": "9c3c06ca96bd6e80cd4b39c8cb3077e6216b3be4964881a6d9e703581e52f9aa",
+      "after": "507903920bd3b9215a54d424938df6df5122007e91d664071e8302bc90b2262c"
+    },
+    {
+      "file": "server/v7-review-service.mjs",
+      "before": "e23b133711297d9c63fea6ba4fbf843e00b7941cf6eb0982f818c4aaec1e1a0a",
+      "after": "da6bd802e77a61a7319a020193dcb2bd80a1d47bed0d1fc58355d745543fe524"
+    }
+  ],
+  "schemaChanges": 0,
+  "geminiFilesModified": false
+}

@@ -1,0 +1,1279 @@
+{
+  "at": "2026-10-17T15:50:58.725Z",
+  "created": 98,
+  "checks": [
+    {
+      "id": "v10-hsk2-L1-001",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "8d9d4c7c81f11e9f926720a05f9546af36c0e8fd37659512cc1f380524e4c3a6",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L1-002",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "58c9e03f2043855c34c6084206bbd1aac8e5db1c8485899c0a84a95de30d3d22",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L1-003",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "007b579fb44a62b03176ff92694733e13b42b4f091c8d9c3a66de8a3a1a46322",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L1-004",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "623fa76000fcd24a8a93f9978d3438f9d49d354cb58deb27760a8a24b1327964",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L1-005",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "75279efc6b52ef4db3249df8ac52b1be95eb3d5732bf9c6725c6fb5f34c96107",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L1-006",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "7429738c740892d53547fb860c70cfe14fca10508f07cca0936ef60e826247da",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L2-001",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "a6567df204b904b5fec6e7a5bf43249b5ca4a7138eebf3af8aebd897bebe73f2",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L2-002",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "829b775f6b3d993f05c443794457888feb04ada70d93658f6ce7c1247c851345",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L2-003",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "98c6d417a0dc7ae02a6b4cf7642e302a20464dafa1bd1d752e2678a5cd488be0",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L2-004",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "0c6fd55900749be332c5e1349c0ddf4e306d6261fc7833d4b778672c4c93b02f",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L2-005",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "dd6e1254fe251e8be6ed6586621399996e82c4f326e9797967497f0c133756c0",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L2-006",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "ffa19b882164961b9e0e1d78ac4f69ac6b1dbd38bd4bfe5550c1c0f7f674460d",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L2-007",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "3877c2e0ceee9f11174bdd4f542ff0bc49c1297f0fe775713f4d749bca36249f",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L2-008",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "14614689d311b23eda87df2c6ce7c305a83c0b3ac7b217ba2043def06fd3ba07",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L2-009",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "74b6930410fd58c54b24ac1a5db171edf7ce499b9b202c12e82d02ffcc9ba439",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L2-010",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "fe3dfff4eb6317bfd16aa334e4dacd09e1416ce3672f6c26d9a2654006c230c4",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L3-001",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "8902c4a307525c7b8abcc18b7cfbee5bbdb84e3cb958339337146e0e3f281d29",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L3-002",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "e938023822f77bed667ef14025013d987be3d37445e948e5b4885783b27501be",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L3-003",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "792431e575b7176f8cd942684a9cb55381e6b3425d1f7b69a925096577f0f313",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L3-004",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "9527c9dd042ce7b2de4880f807d97e178c4354599a471cc02eee4023033eba36",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "北",
+          "level": "3"
+        },
+        {
+          "text": "京",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "没",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "海",
+          "level": "3"
+        },
+        {
+          "text": "北",
+          "level": "3"
+        },
+        {
+          "text": "京",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "海",
+          "level": "3"
+        },
+        {
+          "text": "没",
+          "level": "UNKNOWN"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L3-005",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "15deec16fbde904e247d9f37948a95ab5e56bf006773eb919770c9ca6f8508ab",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-L3-006",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "dddb7d517e9962a514aa039bff3d07a4d7655f3e9986ff40bdca111501b1dd78",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": true,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R1-001",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "36e310420314aaf06755dcf7d45281631aa5394c5a262ab2f7c924d5485861de",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R1-002",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "149ef0a5cbc350524d822d8894977f15dbc6a2a815a140345b2c84fee583aa6c",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R1-003",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "de1154563220aaaf1eba77e51aa8af62b5c82963bd2e398f034ad1c904bf1a24",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R1-004",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "7722b55868e9deb029738c4bd98fc27e9980c8d7151410531bf4bcfb26a453a7",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "北",
+          "level": "3"
+        },
+        {
+          "text": "京",
+          "level": "UNKNOWN"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R1-005",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "f8399f449d7344e0b94db266cd1f3bad75cc053c6352e28c076dcc7453f84ea2",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "海",
+          "level": "3"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R1-006",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "9cdd4ef6ca5dff7104a5c284c6d7b53d2c1bd8831f1435c24b9a2e81c714931c",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R2-001",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "22ef986fae72fddacdb808b6577987eaac34ceef56d5cc4ddeb443d8a4695771",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R2-002",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "ed55fcd010785981c4211cdd34cf9b32c27211408e2d2a0f07c3d152285d2724",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R2-003",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "f7518bb4c97275eb74fcefcb6101abfb82c97234fa75d4deed8b4cb36a93429a",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R2-004",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "bb351882812866284f6ab4a031fb772193ddd450a2ee0e833b49570fe8023632",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R2-005",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "6671392485e03bb6c5ac60ad9d5c60cf7201a2f78d8b1ee70090d20f5cab5279",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R2-006",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "c41ff55a538bf4dc31a785c454945a41569e3d9b18232d3203cb7493166d70b4",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R3-001",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "df42cdf836b59befdc3f7e096a9235f4f31313bf1a25ed377f30860eda710076",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R3-002",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "be41f200fb6b2decc7ffe6a234b3327748ed04daa6f7381d74d62ad11d121ef9",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R3-003",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "77356db4611897899d71d5505185a7b16829d788e7493c00e56c8c3d05a4b5d7",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R3-004",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "f2a5a7b25eb4f63dcb08290ae829117d100008a76c306eff74971bd129275791",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R3-005",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "da84d64b4a95d2ad2afe204bf9045a4fa44a24cc634e0893bed6c3aaf535fd7f",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R3-006",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "564a9ff3cbf0b07e73b9d0b830df48e3857a73eff1db3dfcb2ef3545a753b915",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R3-007",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "c7cfce7d97a157f6891f412f8808439eb4e08ed8dd2d0dfbe3f29c20d4b94429",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R3-008",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "728d9b2f335ead64dd37f17d4759b5fee73df4dc32d85883ed13cb2c639ccddb",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R3-009",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "43a3dadc87693a6bd98f31b234326da0419ac6c8a0b6b047ba2b7ab8f96ec9e3",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R3-010",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "8891358085d758a9fa94155640c2e5f2379a4903a030f82f927c08423d49fdcf",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "北",
+          "level": "3"
+        },
+        {
+          "text": "京",
+          "level": "UNKNOWN"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R4-001",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "63a4ecf9461effe0c21c8a63105aee1d9712b3c288b86e2b156c8484b6296934",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R4-002",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "d474363b28f1ef05c661c489edc0affa775017f96243d0b95534a2d1b8c7e921",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R4-003",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "35dcce7b1a6a538c399249dc1688916e793b00a1b9e95681987e35e1d8f3c029",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R4-004",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "bf5123fd4f9313f9797ee2e1182fd4691bd1e94c2f4567b95a466e4fd8896dfa",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "王",
+          "level": "UNKNOWN"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R4-005",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "06e016d1131b893d67429e5f2553ab2d41d4fa62709d2815332b33b90a29b841",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-R4-006",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "04b74cd3e4f62b9bcf162c393e8bd18184e6de962cf9e64d750d2f248d7a7bb0",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W1-001",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "69b3448d82b6ebf3670d0cbdd42667b3dfb4929b0b271cb8c627b5d73529d931",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "马",
+          "level": "3"
+        },
+        {
+          "text": "木",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "吾",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "寸",
+          "level": "6"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W1-002",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "0dcef5939e4327ea4104bf7cd6892eb2db2cdb1326cbffcba4f675a8994ed688",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "亻",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "休",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "马",
+          "level": "3"
+        },
+        {
+          "text": "木",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "吾",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "寸",
+          "level": "6"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W1-003",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "459518205ec840beb5ab4834fa8f193c2e1775e9b441f4519bb2235d86927058",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "亻",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "马",
+          "level": "3"
+        },
+        {
+          "text": "木",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "吾",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "寸",
+          "level": "6"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W1-004",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "b08887b36c4b180f324a957c91117f37707749b92c73faa62ce97fe663be9abf",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "明",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "马",
+          "level": "3"
+        },
+        {
+          "text": "木",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "吾",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "寸",
+          "level": "6"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W1-005",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "c6752c734a65a4169608ad2a6902d28c1cd25d13466adb576272564ca6e0e18b",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "讠",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "语",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "马",
+          "level": "3"
+        },
+        {
+          "text": "木",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "吾",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "寸",
+          "level": "6"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W1-006",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "65bf2120b0ca6ee31c3e2763b6b8d271cab360e70434517f29dd3d4a73f6dced",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "马",
+          "level": "3"
+        },
+        {
+          "text": "木",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "吾",
+          "level": "UNKNOWN"
+        },
+        {
+          "text": "寸",
+          "level": "6"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W2-001",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "7b102741274482bfd16281274715587625b9f14a904aa7b6e60d849983bdd167",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W2-002",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "ee208b2dc939a3a6c8e69a359f19cb93b9bad0b8b3537af42b938ee7ef465206",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W2-003",
+      "batch": "HSK2-A",
+      "sourceFingerprint": "9194aa19db7f0262c6569f51974ec9efbe9948470cae7ad4c6de18fea50a8827",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W2-004",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "bdb378e16772378679dd941618078aad0a806608f7f1f772d93d30fe129455cb",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W2-005",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "633ce3f2a9e5216d3f1208d35b66a5106379c7e7afca38ae777788a6d26905b8",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-W2-006",
+      "batch": "HSK2-B",
+      "sourceFingerprint": "8d2486c8dd6ac6ea2f1438b982ba0b774f47a79cd46ee7db89feb57752070b69",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [
+        {
+          "text": "电",
+          "level": "3"
+        }
+      ],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00013-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "75b3deac9c8f782ca71c01eed12843fe552892f68b37a348f22773da110fa01e",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00013-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "0e24185e91f6d422bfd7dcdf6c07c91c7a2012ed542ffc5b230a4c17841dea55",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00013-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "cebb761ec7486d885e84508acd932980cf327277dfe042990736cee957a2a448",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00015-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "d81723fcbb64566d055073382debc4ef0521008ecde979b5d499142f133c3f73",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00015-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "da032064d9dd9cf4ce6b5e6791b1b25668b774779b2476a2d8aa1be5fc97fc7d",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00015-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "fc0e104201cc9bad96c9be5dae45635ceef01493e3483fafc9495a75e27ee684",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00016-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "883b3dbcd91045933bfbd351adb5c6aeed4c86ad1b505fa54d0c96b2b99e9bb1",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00016-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "ef936a3b28fa694662a3422fae4bbbcb021161966b2b3abd4f2aa64a6caec093",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00016-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "cbddcee0fef0e0a804269c5ce04ab068072817318d0b2d31c977c2195b6e52df",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00017-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "122c429ce1abb433bbc62ef8522166f7b4aecce7cdd12b9f9b36b98967695fbf",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00017-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "9b5e944dc95cd5284cb4c94ffea4231d70b8eb609cc5526d95b2f2ddd49a3600",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00017-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "e8229721386a86b60acc44ddb5bc225ffdac4f5d2cc5b00a184e3dfe77d18ddf",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00018-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "22294ef82107793b349f02985b999ac17e2febbc490a9ae959eb1f08d42673de",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00018-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "835aa0b7775f44505485b8bb49e45142a4483994f297f8d122da1e7ec584c836",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00018-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "2edf5111890a72fce754fde4e8309e66eae74645474a96ddfc4ce3fbdef49ed3",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00019-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "b51995fc97ad3ccff1549d8e12320f9f8657aae1dff5fd6e4aeec1eeac20b58e",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00019-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "492670b99f6749fc52a06a35330761185090fe053055b027a486c95e53a1d8d3",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00019-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "33d3c565f9cdd152b5f95698b28ba8d909014d9d4ffb4d363aed52499ea1e81a",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00021-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "cd12c39eb6c97ff95147ec0b488c9f82210a1b0a0b3a7683308c772eee6d3c85",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00021-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "601ead19945716fcf90a4efea7ea8c4a329d4aeb7213626f1e9f753b26bda891",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00021-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "101bea04c697d4232b26976fc8b55841a039d40a5af69af1a3581dced8bb2252",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00024-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "2a2727532a59f36178234e76ff98918acee1a8309c1115f87b6a37edfba73092",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00024-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "de0e57e0af997ef32777f5f645c591ce173ede8c8add1b6d13b0a53687177327",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00024-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "2b6009acb75bc438c2910537b5f683db96d001ca991083ee5aabfb1f33a3206d",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00025-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "558e46a3f5ae69085350916d9b6a2f4cbc8d4fe2c1b7ae36f17ed23de99f9b93",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00025-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "4805acf5f41b8102749c9506217e83d20b8b8165c9d2b07846f81f8e806add0e",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00025-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "cb0e7744a30c0e60227f9ff860cea16b8fdbe2d3f23ac9e99b24cabb27ba4f51",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00029-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "78389e4f1e115ababec90ac96a7086f9d5897ef46935fd10b82f0e509d76d690",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00029-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "7dcc1ea0f13d33bd2f818a60e070e3b4a62e21d71f3b777c846713aefbd53129",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00029-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "df9bcfe7c1edb0ca1318faba7779d7818140ac12e0b3936096d06f7930c4c73f",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00031-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "12030d574cbfa83c7e7904baf9bcf1a50f8a9c0da0d6cb47e798293d15f439a2",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00031-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "462ef1e490fb6f4d21531ce9b5c3d2fb305405497fda5f0b128e2bf942f2d1d3",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00031-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "464c82cd2ba6ab89a5416a93b2b2bf9c704d6c75001433fe1604758d870e9627",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00048-1",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "b745a0760a24fb3e57fc642796cd6bb0461e3437742efc0d493b83cf24c35152",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00048-2",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "bdde39a722824ea5554a504447ce3742172e44c5b505d923892a70bb43d9e9a1",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v10-hsk2-grammar-00048-3",
+      "batch": "GRAMMAR",
+      "sourceFingerprint": "0f90b200bc0d11bb20dd9e3c8f96367efc250b886d15bee55f76b5a5e3bacf04",
+      "structural": "PASS",
+      "metadata": "PASS",
+      "tokensToReview": [],
+      "answerFlags": [],
+      "mediaMissing": false,
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    }
+  ],
+  "nearDuplicates": [],
+  "humanReviewed": 0,
+  "published": 0
+}

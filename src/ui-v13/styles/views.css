@@ -1,0 +1,349 @@
+@import './tokens.css';
+
+/* ==========================================================================
+   TODAY WORKSPACE LAYOUT & HERO
+   ========================================================================== */
+.hsk-ui-v13 .v13-today-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--v13-space-6);
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--v13-space-4) var(--v13-space-4) var(--v13-space-12);
+}
+
+@media (min-width: 768px) {
+  .hsk-ui-v13 .v13-today-container {
+    padding: var(--v13-space-6) var(--v13-space-6) var(--v13-space-16);
+    gap: var(--v13-space-8);
+  }
+}
+
+/* Today Hero (Clear 5-second orientation) */
+.hsk-ui-v13 .v13-today-hero {
+  background: radial-gradient(circle at 10% 20%, rgba(204, 251, 241, 0.5) 0%, rgba(255, 255, 255, 0) 60%),
+              radial-gradient(circle at 90% 80%, rgba(254, 243, 199, 0.45) 0%, rgba(255, 255, 255, 0) 50%),
+              var(--v13-bg-surface);
+  border: 1px solid var(--v13-border-brand);
+  border-radius: var(--v13-radius-xl);
+  padding: var(--v13-space-6);
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--v13-space-6);
+  box-shadow: var(--v13-shadow-sm);
+  position: relative;
+  overflow: hidden;
+}
+
+@media (min-width: 900px) {
+  .hsk-ui-v13 .v13-today-hero {
+    grid-template-columns: 1.4fr 1fr;
+    padding: var(--v13-space-8);
+    align-items: center;
+  }
+}
+
+.hsk-ui-v13 .v13-hero-content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--v13-space-3);
+}
+
+.hsk-ui-v13 .v13-hero-title-row {
+  display: flex;
+  align-items: center;
+  gap: var(--v13-space-3);
+  flex-wrap: wrap;
+}
+
+.hsk-ui-v13 .v13-hero-level-badge {
+  font-size: var(--v13-text-2xl);
+  font-weight: var(--v13-weight-heavy);
+  color: var(--v13-teal-800);
+}
+
+.hsk-ui-v13 .v13-hero-countdown {
+  font-size: var(--v13-text-sm);
+  color: var(--v13-text-secondary);
+}
+
+.hsk-ui-v13 .v13-readiness-card {
+  background: var(--v13-bg-surface);
+  border: 1px solid var(--v13-border-subtle);
+  border-radius: var(--v13-radius-lg);
+  padding: var(--v13-space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--v13-space-3);
+  box-shadow: var(--v13-shadow-xs);
+}
+
+.hsk-ui-v13 .v13-readiness-score-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.hsk-ui-v13 .v13-readiness-val {
+  font-size: var(--v13-text-3xl);
+  font-weight: var(--v13-weight-heavy);
+  color: var(--v13-teal-700);
+  line-height: 1;
+}
+
+/* ==========================================================================
+   TASK CARDS (Daily learning missions)
+   ========================================================================== */
+.hsk-ui-v13 .v13-tasks-section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--v13-space-4);
+}
+
+.hsk-ui-v13 .v13-tasks-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--v13-space-2);
+}
+
+.hsk-ui-v13 .v13-tasks-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--v13-space-3);
+}
+
+.hsk-ui-v13 .v13-task-card {
+  background-color: var(--v13-bg-surface);
+  border: 1px solid var(--v13-border-subtle);
+  border-radius: var(--v13-radius-lg);
+  padding: var(--v13-space-4) var(--v13-space-5);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--v13-space-4);
+  transition: all var(--v13-transition-fast);
+  flex-wrap: wrap;
+}
+
+@media (min-width: 640px) {
+  .hsk-ui-v13 .v13-task-card {
+    flex-wrap: nowrap;
+  }
+}
+
+.hsk-ui-v13 .v13-task-card:hover {
+  border-color: var(--v13-border-brand);
+  box-shadow: var(--v13-shadow-sm);
+}
+
+.hsk-ui-v13 .v13-task-card.is-completed {
+  background-color: #fafdfc;
+  border-color: var(--v13-emerald-200);
+}
+
+.hsk-ui-v13 .v13-task-card.is-skipped {
+  opacity: 0.65;
+  background-color: var(--v13-neutral-100);
+}
+
+.hsk-ui-v13 .v13-task-main {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--v13-space-3);
+  flex: 1;
+  min-width: 240px;
+}
+
+.hsk-ui-v13 .v13-task-indicator {
+  width: 28px;
+  height: 28px;
+  border-radius: var(--v13-radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  margin-top: 2px;
+  border: 1.5px solid var(--v13-neutral-300);
+  background: var(--v13-neutral-50);
+  color: var(--v13-neutral-500);
+  font-size: var(--v13-text-xs);
+  font-weight: var(--v13-weight-bold);
+}
+
+.hsk-ui-v13 .v13-task-card.is-completed .v13-task-indicator {
+  border-color: var(--v13-emerald-600);
+  background-color: var(--v13-emerald-600);
+  color: #ffffff;
+}
+
+.hsk-ui-v13 .v13-task-info {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.hsk-ui-v13 .v13-task-title {
+  font-size: var(--v13-text-base);
+  font-weight: var(--v13-weight-bold);
+  color: var(--v13-text-primary);
+}
+
+.hsk-ui-v13 .v13-task-meta {
+  display: flex;
+  align-items: center;
+  gap: var(--v13-space-2);
+  font-size: var(--v13-text-xs);
+  color: var(--v13-text-secondary);
+  flex-wrap: wrap;
+}
+
+.hsk-ui-v13 .v13-task-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--v13-space-2);
+  margin-left: auto;
+}
+
+/* ==========================================================================
+   METRICS & LOWER PANELS
+   ========================================================================== */
+.hsk-ui-v13 .v13-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--v13-space-3);
+}
+
+@media (min-width: 900px) {
+  .hsk-ui-v13 .v13-metrics-grid {
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--v13-space-4);
+  }
+}
+
+.hsk-ui-v13 .v13-metric-card {
+  background-color: var(--v13-bg-surface);
+  border: 1px solid var(--v13-border-subtle);
+  border-radius: var(--v13-radius-lg);
+  padding: var(--v13-space-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--v13-space-1);
+}
+
+.hsk-ui-v13 .v13-metric-label {
+  font-size: var(--v13-text-xs);
+  font-weight: var(--v13-weight-semibold);
+  color: var(--v13-text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.hsk-ui-v13 .v13-metric-val {
+  font-size: var(--v13-text-2xl);
+  font-weight: var(--v13-weight-heavy);
+  color: var(--v13-text-primary);
+  line-height: 1.1;
+}
+
+.hsk-ui-v13 .v13-metric-streak {
+  background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+  border-color: #fde68a;
+}
+
+.hsk-ui-v13 .v13-metric-streak .v13-metric-val {
+  color: var(--v13-amber-700);
+}
+
+/* Lower Section Split */
+.hsk-ui-v13 .v13-lower-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--v13-space-5);
+}
+
+@media (min-width: 860px) {
+  .hsk-ui-v13 .v13-lower-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* ==========================================================================
+   LEVEL HUB VIEW (HSK 1-9 unified presentation with truthful status)
+   ========================================================================== */
+.hsk-ui-v13 .v13-levelhub-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--v13-space-6);
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--v13-space-4) var(--v13-space-4) var(--v13-space-12);
+}
+
+@media (min-width: 768px) {
+  .hsk-ui-v13 .v13-levelhub-container {
+    padding: var(--v13-space-6) var(--v13-space-6) var(--v13-space-16);
+    gap: var(--v13-space-8);
+  }
+}
+
+.hsk-ui-v13 .v13-levels-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--v13-space-4);
+}
+
+@media (min-width: 640px) {
+  .hsk-ui-v13 .v13-levels-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .hsk-ui-v13 .v13-levels-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.hsk-ui-v13 .v13-level-card {
+  background-color: var(--v13-bg-surface);
+  border: 1px solid var(--v13-border-subtle);
+  border-radius: var(--v13-radius-lg);
+  padding: var(--v13-space-5);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: var(--v13-space-4);
+  transition: all var(--v13-transition-normal);
+}
+
+.hsk-ui-v13 .v13-level-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--v13-border-brand);
+  box-shadow: var(--v13-shadow-md);
+}
+
+.hsk-ui-v13 .v13-level-card-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--v13-space-2);
+}
+
+.hsk-ui-v13 .v13-level-title {
+  font-size: var(--v13-text-xl);
+  font-weight: var(--v13-weight-heavy);
+  color: var(--v13-text-primary);
+}
+
+.hsk-ui-v13 .v13-level-stats-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--v13-space-2) 0;
+  border-top: 1px dashed var(--v13-border-subtle);
+  border-bottom: 1px dashed var(--v13-border-subtle);
+  font-size: var(--v13-text-xs);
+  color: var(--v13-text-secondary);
+}

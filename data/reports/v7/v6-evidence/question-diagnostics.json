@@ -1,0 +1,654 @@
+{
+  "checked": 394,
+  "issues": [
+    {
+      "id": "v4-gq-00001",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00002",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00003",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00004",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00005",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00006",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00007",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00008",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00009",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00010",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00011",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00012",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00013",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00014",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00015",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00016",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00017",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00018",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00019",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00020",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00021",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00022",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00023",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00024",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00025",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00026",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00027",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00028",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00029",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00030",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00031",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00032",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00033",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00034",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00035",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00036",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00037",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00038",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00039",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00041",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00042",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00043",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00044",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00045",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00046",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00047",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00048",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00049",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00050",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00051",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00052",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00053",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00054",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00055",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00056",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00057",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00058",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00059",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00060",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00061",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00062",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00064",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00065",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00066",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00067",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00068",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00069",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00070",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-001",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-002",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-003",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-004",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-005",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-006",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-007",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-008",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-009",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-010",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-011",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-012",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-013",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-014",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-015",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-016",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-017",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-018",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-019",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v5-gq-020",
+      "flags": [
+        "SCAFFOLDED_GRAMMAR_NOT_AUTHENTIC_MOCK"
+      ],
+      "status": "NEEDS_REVIEW"
+    }
+  ],
+  "nearDuplicates": [
+    {
+      "a": "v4-gq-00055",
+      "b": "v5-gq-010",
+      "score": 0.636,
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "a": "v4-cq-014",
+      "b": "v4-cq-040",
+      "score": 0.583,
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "a": "v5-rq-027",
+      "b": "v6-gq-056",
+      "score": 0.538,
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "a": "v5-gq-005",
+      "b": "v5-gq-007",
+      "score": 0.583,
+      "status": "NEEDS_REVIEW"
+    }
+  ],
+  "answerPositions": {
+    "A": 120,
+    "B": 112,
+    "C": 100,
+    "D": 46
+  },
+  "method": "Structural and character-bigram heuristics; no semantic or expert quality certification"
+}

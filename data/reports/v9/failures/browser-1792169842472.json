@@ -1,0 +1,6 @@
+{
+  "at": "2026-10-16T16:57:22.472Z",
+  "error": "AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n+ actual - expected\n\n+ '{\"schemaVersion\":3,\"sessions\":[],\"attempts\":[],\"reviewItems\":[],\"vocabulary\":{},\"wordEntries\":[]}'\n- '{\"qaSentinel\":\"guest-original\"}'\n\n    at runV9BrowserFlows (file:///D:/ReactJS/LuyenThiHSK/scripts/v9-browser-flows.mjs:33:9)\n    at async file:///D:/ReactJS/LuyenThiHSK/scripts/exam-browser-check.mjs:56:36",
+  "exceptions": [],
+  "consoleErrors": []
+}

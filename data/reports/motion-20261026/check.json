@@ -1,0 +1,77 @@
+{
+  "result": "PASS",
+  "date": "2026-10-26",
+  "scope": "Decorative home motion and interactive tone illustration; no grading/data changes",
+  "speech": "Existing device TTS reused; Mandarin voice availability not guaranteed or asserted by this check",
+  "rows": [
+    {
+      "name": "home-desktop",
+      "result": "PASS",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "reducedMotion": "no-preference",
+      "steps": 3,
+      "evidence": "data/reports/motion-20261026/home-desktop-evidence.json",
+      "screenshot": "docs/screenshots/motion-20261026/home-desktop.png"
+    },
+    {
+      "name": "home-mobile",
+      "result": "PASS",
+      "viewport": [
+        390,
+        844
+      ],
+      "reducedMotion": "no-preference",
+      "steps": 3,
+      "evidence": "data/reports/motion-20261026/home-mobile-evidence.json",
+      "screenshot": "docs/screenshots/motion-20261026/home-mobile.png"
+    },
+    {
+      "name": "tones-desktop",
+      "result": "PASS",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "reducedMotion": "no-preference",
+      "steps": 12,
+      "evidence": "data/reports/motion-20261026/tones-desktop-evidence.json",
+      "screenshot": "docs/screenshots/motion-20261026/tones-desktop.png"
+    },
+    {
+      "name": "tones-mobile",
+      "result": "PASS",
+      "viewport": [
+        390,
+        844
+      ],
+      "reducedMotion": "no-preference",
+      "steps": 17,
+      "evidence": "data/reports/motion-20261026/tones-mobile-evidence.json",
+      "screenshot": "docs/screenshots/motion-20261026/tones-mobile.png"
+    },
+    {
+      "name": "tones-reduced-motion",
+      "result": "PASS",
+      "viewport": [
+        320,
+        740
+      ],
+      "reducedMotion": "reduce",
+      "steps": 10,
+      "evidence": "data/reports/motion-20261026/tones-reduced-motion-evidence.json",
+      "screenshot": "docs/screenshots/motion-20261026/tones-reduced-motion.png"
+    }
+  ],
+  "sourceFiles": {
+    "src/components/dashboard/HskHome.tsx": "856dfbd2da0cbb9f522d153bdf657d684042a1afedc47970d38ef7db3294d470",
+    "src/components/learning/FoundationPractice.tsx": "ede828793cc01c83da08ec11ab2a4468182fcd872b422af60b46a0a3f52dabee",
+    "src/components/learning/ToneExplorer.tsx": "6c996e4de3b3fef4a8aee4d54d1413a32208b7d8e6c2e3812ec2e88ae013b635",
+    "src/styles/hsk-portal.css": "a052463f2aaa7e9b78076a067a758998d324d948b00e0dc0aadfb7f6c65e1150",
+    "src/styles/learning-supplement.css": "493f6bc4c2d43ef1df71c1ee47086d65e28f3be99e40399efa03bf901917ace3"
+  },
+  "manualBrowser": "Computer Use stopped: Windows browser URL policy enforcement is not supported for Coc Coc; no manual interaction completed.",
+  "initialCheckIssue": "Duplicate scenario step ID was rejected before mobile capture; corrected in test script. Original response retained as tones-mobile-input-failure.json."
+}

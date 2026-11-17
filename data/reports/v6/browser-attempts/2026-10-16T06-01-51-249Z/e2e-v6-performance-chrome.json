@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-16T05:59:54.297Z",
+  "suite": "v6-performance",
+  "status": "PASS",
+  "browser": "Chrome",
+  "args": [
+    "--v6-perf"
+  ],
+  "runtimeExceptions": 0,
+  "consoleErrors": 0,
+  "screenshotBackend": "surface",
+  "purpose": "Automated browser assertions"
+}

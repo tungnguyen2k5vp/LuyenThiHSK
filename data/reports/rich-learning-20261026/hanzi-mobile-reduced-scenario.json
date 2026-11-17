@@ -1,0 +1,241 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "timezone": "Asia/Bangkok",
+    "viewport": {
+      "width": 320,
+      "height": 740
+    },
+    "reduced_motion": "reduce"
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=hanzi&level=HSK%201"
+  },
+  "storage": {
+    "local_storage": []
+  },
+  "actions": [
+    {
+      "step_id": "hanzi_loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "open_hanzi",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "strokes_loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-controls button.btn-primary:not(:disabled)"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "seek_start",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-scrubber input"
+      },
+      "key": "Home",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "zero_strokes",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-heading output:has-text(\"Nét 0/\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "seek_one",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-scrubber input"
+      },
+      "key": "ArrowRight",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "one_stroke",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-heading output:has-text(\"Nét 1/\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "next_stroke",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-controls button:has-text(\"Nét sau\")"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "two_strokes",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-heading output:has-text(\"Nét 2/\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "previous_stroke",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-controls button:has-text(\"Nét trước\")"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "play_strokes",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-controls button.btn-primary"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "playing",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-controls button[aria-pressed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "pause_strokes",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-controls button.btn-primary"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "paused",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-controls button[aria-pressed=false]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "fast_speed",
+      "action": "select_option",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-speed select"
+      },
+      "value": {
+        "source": "literal",
+        "value": "350"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "replay_from_start",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-scrubber input"
+      },
+      "key": "Home",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "play_to_end",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-controls button.btn-primary"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "all_strokes_played",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-heading output:has-text(\"Nét 10/10\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "auto_stopped",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-controls button[aria-pressed=false]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "seek_end",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-scrubber input"
+      },
+      "key": "End",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "hanzi_settled",
+      "action": "wait_for_timeout",
+      "duration_ms": 800
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility",
+      "storage"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "storage",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

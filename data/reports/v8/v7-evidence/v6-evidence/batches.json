@@ -1,0 +1,162 @@
+[
+  {
+    "batch": "EXAM_L1",
+    "added": 10,
+    "contentHash": "7e5eda5b98f51452e99d02fa3c14c944b82e8e329e6ab8087888d47fc0c4fd79",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "EXAM_L2",
+    "added": 10,
+    "contentHash": "2c4f280753b2c62b511509840ddec2f4d2126cc254f6b69b8b419bcad0faad20",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "EXAM_L3",
+    "added": 10,
+    "contentHash": "0cac8c6df04bea65b6069e6367276b04aec6f37a8d67825763937aff65a1b6ab",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "EXAM_L4",
+    "added": 10,
+    "contentHash": "2721f63834e9ddb1ab7a5986e3db6711c512022333c48018338ab2b881dc280c",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "EXAM_R1",
+    "added": 10,
+    "contentHash": "9d3616526038ae4b539ed133db928b9474395975ffb7d1577f1be76c319eda7a",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "EXAM_R2",
+    "added": 10,
+    "contentHash": "65091c76e985e04994016d55e31204a6bad19e62f618651b0be570dc3e81a586",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "EXAM_R3",
+    "added": 10,
+    "contentHash": "497ee26bd26531c0877a915a31e42100032c483cae63e1c2b8427b66814dd1d7",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "EXAM_R4",
+    "added": 10,
+    "contentHash": "b666d99fd631f49fda2c39523cd68938147b8b0415f6a65fe587f888a29388f2",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "SUPPLEMENTAL",
+    "added": 4,
+    "contentHash": "01c232019c4ba19764f89df5a46245964845da88ad15e944248ae50b3b6dd78d",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "GRAMMAR_1",
+    "added": 20,
+    "contentHash": "9317ec5ac3abd7904921c8879f8332f487f5bdefcc68eeb5c151efa94a027010",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "GRAMMAR_2",
+    "added": 20,
+    "contentHash": "2587c2a48047fa035c113c11be369988bc782216f5149bfd7f525319e7fa8f16",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "GRAMMAR_3",
+    "added": 20,
+    "contentHash": "33d0c53ecd03173bd333843723b88c0111782941d95cd292152f81e1f45d9696",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "GRAMMAR_4",
+    "added": 20,
+    "contentHash": "19f96a6f2344f22ce9df24ab40bf4b21097f9ec0c86cbe72efa42b6429684cd9",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "GRAMMAR_5",
+    "added": 20,
+    "contentHash": "0274cc8077c1aa56b66fc95cac9dfec9652c4f674416efcdcc302f9626ba9c0c",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "GRAMMAR_6",
+    "added": 20,
+    "contentHash": "345957b771d72d02d3b2d3d702467fa7e238060d9c2fae8b1419712b1090bead",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  },
+  {
+    "batch": "GRAMMAR_7",
+    "added": 14,
+    "contentHash": "b73e0cdc9f032fa73f8af4ab53f24c8c23814fd0c2f4d4beb62fc49a7bf6e921",
+    "schemaAndAnswerChecks": "PASS",
+    "previewSnapshotCheck": "PASS",
+    "workflow": "VALIDATE → PREVIEW SNAPSHOT → DOMAIN TEST → NEEDS_REVIEW",
+    "humanApproved": 0,
+    "browserStatus": "PENDING_INTEGRATED_E2E"
+  }
+]

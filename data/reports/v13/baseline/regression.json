@@ -1,0 +1,233 @@
+{
+  "at": "2026-10-19T01:48:37.528Z",
+  "results": [
+    {
+      "name": "typecheck",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 359,
+      "scope": "Frozen V12 code; build includes four separately hashed documentation dependencies; no Gemini authoring files"
+    },
+    {
+      "name": "lint",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 402,
+      "scope": "Frozen V12 code; build includes four separately hashed documentation dependencies; no Gemini authoring files"
+    },
+    {
+      "name": "test",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 21609,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v2",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 21849,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v3",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 20977,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v3-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 865,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v4",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 21366,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v5",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 433,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v5-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2640,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v6",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 22292,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v6-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 4651,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:account",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 1540,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:admin",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 638,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "check:content",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 21728,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v7",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 4372,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v7-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2768,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v7-account",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 316,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v7-sync",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2153,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v8",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 1080,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v8-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 1685,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v8-grading",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 490,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v8-grammar",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 22544,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "build",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2422,
+      "scope": "Frozen V12 code; build includes four separately hashed documentation dependencies; no Gemini authoring files"
+    },
+    {
+      "name": "test:v9",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 25277,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v9-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 1218,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v10",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 21566,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v10-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2415,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v11",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 19231,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v11-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2852,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v12",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 19838,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v12-api",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 7907,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    },
+    {
+      "name": "test:v12-journey",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 18200,
+      "scope": "Existing regression on current logic with isolated QA fixtures as implemented by existing tests"
+    }
+  ],
+  "snapshot": "D:\\ReactJS\\LuyenThiHSK\\.runtime\\backups\\before-v13-2026-10-19T01-31-46-014Z",
+  "output": "D:\\ReactJS\\LuyenThiHSK\\.tmp\\v13-baseline-dist-1792374216452",
+  "geminiFilesEdited": false,
+  "ci": "NOT_RUN_NO_GIT_OR_CI"
+}

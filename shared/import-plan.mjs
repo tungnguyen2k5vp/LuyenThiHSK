@@ -1,0 +1,5 @@
+export function planImportRows(kind,rows,latest,validate){
+ const seen=new Set(),accepted=[],errors=[],conflicts=[];let duplicates=0,newRecords=0,updates=0;
+ rows.forEach((p,index)=>{const invalid=validate(kind,p);if(invalid.length){errors.push({row:index+1,errors:invalid});return;}const key=kind==='vocabulary'?p.syllabusVersion+':'+p.level+':'+p.simplified+':'+p.pinyin:p.id;if(seen.has(key)){duplicates++;return;}seen.add(key);const old=latest(p.id);if(old){const previous=JSON.parse(old.payload);const keys=Object.keys(p).filter(k=>!['revision','expectedRevision','reviewStatus','createdAt','updatedAt','publishedAt','verifiedAt','importedAt'].includes(k));const equal=keys.every(k=>JSON.stringify(previous[k])===JSON.stringify(p[k]));if(equal){duplicates++;return;}if(old.kind!==kind||(p.expectedRevision??p.revision)!==old.revision){conflicts.push({row:index+1,id:p.id,expectedRevision:old.revision,reason:'Cần revision mới nhất để import update'});return;}updates++;}else newRecords++;accepted.push(p);});
+ return{accepted,report:{rowsRead:rows.length,accepted:accepted.length,newRecords,updates,duplicates,conflicts,invalid:errors.length,errors}};
+}

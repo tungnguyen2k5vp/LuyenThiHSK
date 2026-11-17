@@ -1,0 +1,162 @@
+{
+    "at":  "2026-10-18T16:12:23.240Z",
+    "status":  "INSPECTED_WITH_MINOR_PRESENTATION_NOTES",
+    "scope":  "Frozen representative screenshots from final V12 browser matrix; technical visual inspection by Codex only, not human content/pronunciation review, AT certification or physical device test",
+    "files":  [
+                  {
+                      "browser":  "chrome",
+                      "name":  "v12-study-plan",
+                      "source":  "docs/screenshots/v12/after-chrome/v12-study-plan.png",
+                      "snapshot":  "data/reports/v12/visual-samples/chrome-v12-study-plan.png",
+                      "sha256":  "707b80d85b35d0b8e3ae1b8cee7e3f6e88aa26f4fcd86b80e63332904e3d6608",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "CTA chính, số câu đọc/viết và ghi chú thử nghiệm rõ; các thẻ nhiệm vụ nằm dưới phần đầu."
+                                       ]
+                  },
+                  {
+                      "browser":  "chrome",
+                      "name":  "v12-vocabulary-detail",
+                      "source":  "docs/screenshots/v12/after-chrome/v12-vocabulary-detail.png",
+                      "snapshot":  "data/reports/v12/visual-samples/chrome-v12-vocabulary-detail.png",
+                      "sha256":  "d2d2674d6427400364dbc7334e7a44656a5dad8efc8f334812c1b095e5e7f3bc",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Hanzi, pinyin, nghĩa, POS và ví dụ hiển thị; ví dụ không bị lặp; nguồn ở phần mở rộng."
+                                       ]
+                  },
+                  {
+                      "browser":  "chrome",
+                      "name":  "v12-grammar-lesson",
+                      "source":  "docs/screenshots/v12/after-chrome/v12-grammar-lesson.png",
+                      "snapshot":  "data/reports/v12/visual-samples/chrome-v12-grammar-lesson.png",
+                      "sha256":  "ee33d4c5bdca379eed857b8db009d8f1c983750f1d004dc7ec0efa51572cfe77",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Bài 面 mới, cách dùng và ví dụ hiện trong modal cuộn; ý nghĩa ngắn còn lặp ở phần giải thích."
+                                       ]
+                  },
+                  {
+                      "browser":  "chrome",
+                      "name":  "v12-audio-workbench",
+                      "source":  "docs/screenshots/v12/after-chrome/v12-audio-workbench.png",
+                      "snapshot":  "data/reports/v12/visual-samples/chrome-v12-audio-workbench.png",
+                      "sha256":  "4ed01a85a6e1ffaec54e801f4fce556dd100920add41f42dd4bedd4f69f2a255",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Transcript, nút thu âm và chọn WAV có thể đọc; các trường upload còn lại ở dưới vùng chụp."
+                                       ]
+                  },
+                  {
+                      "browser":  "chrome",
+                      "name":  "v12-mobile-grammar",
+                      "source":  "docs/screenshots/v12/after-chrome/v12-mobile-grammar.png",
+                      "snapshot":  "data/reports/v12/visual-samples/chrome-v12-mobile-grammar.png",
+                      "sha256":  "7de4878b643bcc39bc2941c4715a0d998b6e49deb7f1311d12c9d4a30486bd9e",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Modal dài cuộn tới lỗi/so sánh/CTA 5 câu; ghi nguồn và focus summary hiện rõ."
+                                       ]
+                  },
+                  {
+                      "browser":  "edge",
+                      "name":  "v12-images-loaded",
+                      "source":  "docs/screenshots/v12/after-edge/v12-images-loaded.png",
+                      "snapshot":  "data/reports/v12/visual-samples/edge-v12-images-loaded.png",
+                      "sha256":  "7c485b6db9cc9639328ab3642c1cec683982ccb792c5ef440cc4c0f5cfe3dc43",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Ảnh lựa chọn được vẽ rõ; bảng chọn câu và nội dung không chồng nhau trong viewport."
+                                       ]
+                  },
+                  {
+                      "browser":  "edge",
+                      "name":  "v12-writing-restored",
+                      "source":  "docs/screenshots/v12/after-edge/v12-writing-restored.png",
+                      "snapshot":  "data/reports/v12/visual-samples/edge-v12-writing-restored.png",
+                      "sha256":  "b7d7b1f3af480b4e264850809428e5f56ff06d9b0749d8d1f5c442b822e77348",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Textarea giữ hai dòng Unicode; trạng thái Chưa chấm hiển thị."
+                                       ]
+                  },
+                  {
+                      "browser":  "edge",
+                      "name":  "v12-reading-result",
+                      "source":  "docs/screenshots/v12/after-edge/v12-reading-result.png",
+                      "snapshot":  "data/reports/v12/visual-samples/edge-v12-reading-result.png",
+                      "sha256":  "fbf79b2370bb46c8f7e26c623164c5cabd59a7035de04651c4682b21c181046b",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Tách 1 đúng /1 sai /1 bỏ trống /0 chưa chấm; mẫu số chấm được được giải thích ngay dưới."
+                                       ]
+                  },
+                  {
+                      "browser":  "edge",
+                      "name":  "v12-rights-attestation",
+                      "source":  "docs/screenshots/v12/after-edge/v12-rights-attestation.png",
+                      "snapshot":  "data/reports/v12/visual-samples/edge-v12-rights-attestation.png",
+                      "sha256":  "8128fd6e69d2014d3b95f99dccba983cab29b6312c6fd35eda30d4da2b72fa6d",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Hồ sơ quyền và form không giả ownership; checkbox xếp dọc có khoảng trống lớn, còn điểm cần gọn hơn trong admin."
+                                       ]
+                  },
+                  {
+                      "browser":  "edge",
+                      "name":  "v12-review-queue",
+                      "source":  "docs/screenshots/v12/after-edge/v12-review-queue.png",
+                      "snapshot":  "data/reports/v12/visual-samples/edge-v12-review-queue.png",
+                      "sha256":  "a4bdddcbd063a9d2f2211cf0ad0b22f787288d97ce01def73aaa27aaa3439212",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Thẻ nội dung có revision, trạng thái, risk và nút mở bản duyệt; metadata nằm trong admin."
+                                       ]
+                  },
+                  {
+                      "browser":  "edge",
+                      "name":  "v12-mobile-home",
+                      "source":  "docs/screenshots/v12/after-edge/v12-mobile-home.png",
+                      "snapshot":  "data/reports/v12/visual-samples/edge-v12-mobile-home.png",
+                      "sha256":  "5835f9a92beeda88b45a8c52dc316670ba77098571d29441e3552d1852e26d5d",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Chữ và CTA chính đọc được ở viewport 390; không tràn ngang; bottom navigation hiện."
+                                       ]
+                  },
+                  {
+                      "browser":  "edge",
+                      "name":  "v12-mobile-writing",
+                      "source":  "docs/screenshots/v12/after-edge/v12-mobile-writing.png",
+                      "snapshot":  "data/reports/v12/visual-samples/edge-v12-mobile-writing.png",
+                      "sha256":  "82712acb8ce3da07951d22ae9054a528779919aaed17d2f5e7fc1639617dd3c9",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Câu Trung xuống dòng, trạng thái Chưa chấm và thanh Lưu/Câu sau hiện trong vùng hẹp."
+                                       ]
+                  },
+                  {
+                      "browser":  "edge",
+                      "name":  "v12-microphone-draft",
+                      "source":  "docs/screenshots/v12/after-edge/v12-microphone-draft.png",
+                      "snapshot":  "data/reports/v12/visual-samples/edge-v12-microphone-draft.png",
+                      "sha256":  "cc628c3bcac95cd1d071f1c63c04ca71e18da37b62e64f34d615b141bf334e5c",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Tên người thu ghi QA FAKE, audio muted, duration/hash và ba scope chưa chọn; checkbox còn khoảng trống lớn."
+                                       ]
+                  },
+                  {
+                      "browser":  "edge",
+                      "name":  "v12-internal-mock-result",
+                      "source":  "docs/screenshots/v12/after-edge/v12-internal-mock-result.png",
+                      "snapshot":  "data/reports/v12/visual-samples/edge-v12-internal-mock-result.png",
+                      "sha256":  "487e0994c7ed0a042c1973213442968a9bda7f08a49a26d71853f18c893a85b2",
+                      "inspection":  "INSPECTED",
+                      "observations":  [
+                                           "Tiêu đề QA INTERNAL FIXTURE rõ; 55 câu chấm được và5 chưa chấm tách riêng, không gọi là mock thật."
+                                       ]
+                  }
+              ],
+    "inspectedAt":  "2026-10-18T16:13:53.7348984Z"
+}

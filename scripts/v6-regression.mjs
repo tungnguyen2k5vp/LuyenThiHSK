@@ -1,0 +1,7 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import {spawnSync} from 'node:child_process';
+import {DatabaseSync} from 'node:sqlite';
+import path from 'node:path';
+const manifest=JSON.parse(await readFile('package.json','utf8')),scripts=['typecheck','lint','test','test:v2','test:v3','test:v3-api','test:v4','test:v5','test:v5-api','test:v6','test:v6-api','test:account','test:admin','check:content','build'],results=[];
+for(const name of scripts){if(!manifest.scripts[name])throw Error('Unknown script '+name);const at=Date.now(),r=spawnSync(process.execPath,[path.join(path.dirname(process.execPath),'node_modules/npm/bin/npm-cli.js'),'run',name],{encoding:'utf8',windowsHide:true,maxBuffer:5e6});await writeFile('data/reports/v6/regression-'+name.replaceAll(':','-')+'.log',(r.stdout??'')+(r.stderr??''));results.push({script:name,status:r.status===0?'PASS':'FAIL',exitCode:r.status,durationMs:Date.now()-at});console.log(name+': '+r.status);}
+const db=new DatabaseSync('.runtime/backups/before-v6-2026-10-16/hsk-content.sqlite',{readOnly:true});const integrity=db.prepare('PRAGMA integrity_check').get();const backupRows=db.prepare('SELECT COUNT(*) n FROM content').get().n;db.close();await writeFile('data/reports/v6/regression.json',JSON.stringify({at:new Date().toISOString(),results,backup:{path:'.runtime/backups/before-v6-2026-10-16/hsk-content.sqlite',integrity,rows:backupRows,restoreToLive:'NOT_PERFORMED_NO_RESET_REQUESTED'},browser:'Reported separately by browser scripts'},null,2));if(results.some(r=>r.exitCode!==0))process.exitCode=1;

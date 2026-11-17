@@ -1,0 +1,1 @@
+import {readFile,writeFile} from 'node:fs/promises';const f='scripts/v7-extra-captures.mjs';let s=await readFile(f,'utf8');s=s.replaceAll('.scrollIntoView()', '.scrollIntoView({behavior:"instant",block:"start"})');await writeFile(f,s);

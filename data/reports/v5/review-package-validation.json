@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-16T03:31:21.683Z",
+  "status": "PASS",
+  "groups": {
+    "vocabulary": 300,
+    "grammar": 68,
+    "questions": 178,
+    "audio": 40
+  },
+  "htmlScriptsCompile": true,
+  "grammarExamplesIncluded": true,
+  "audioFiles40": true,
+  "noBearerToken": true
+}

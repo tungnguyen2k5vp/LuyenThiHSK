@@ -1,0 +1,8 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import {DatabaseSync} from 'node:sqlite';
+import {digest} from '../shared/v5-quality.mjs';
+const baseline=JSON.parse(await readFile('data/reports/v12/baseline.json','utf8'));
+function snapshot(file){const db=new DatabaseSync(file,{readOnly:true});try{const schema=db.prepare("SELECT name,sql FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%' ORDER BY name").all();return{schemaHash:digest(schema),tables:schema.map(({name})=>{const rows=db.prepare('SELECT * FROM "'+name.replaceAll('"','""')+'"').all().map(row=>JSON.stringify(row)).sort();return{name,rows:rows.length,hash:digest(rows)};})};}finally{db.close();}}
+const before=snapshot(baseline.backup+'/account-sessions.sqlite'),after=snapshot('.runtime/account/sessions.sqlite'),schemaUnchanged=before.schemaHash===after.schemaHash,tables=before.tables.map(old=>{const current=after.tables.find(t=>t.name===old.name);return{name:old.name,beforeRows:old.rows,currentRows:current?.rows??null,unchanged:old.hash===current?.hash};});
+const status=schemaUnchanged&&tables.every(t=>t.unchanged)?'PASS':'FAIL',report={at:new Date().toISOString(),status,schemaUnchanged,tables,scope:'Read-only logical comparison of local account database against V12 consistent backup; no session/token/owner values exported. Browser learner stores were never read or reset; QA uses isolated profiles. Cloud learning database remains unconfigured.'};
+await writeFile('data/reports/v12/account-data-safety.json',JSON.stringify(report,null,2));console.log(JSON.stringify({status,schemaUnchanged,tables}));if(status!=='PASS')process.exitCode=1;

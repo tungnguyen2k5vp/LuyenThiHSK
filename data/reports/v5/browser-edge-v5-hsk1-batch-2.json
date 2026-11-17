@@ -1,0 +1,17 @@
+{
+  "browser": "Edge",
+  "at": "2026-10-16T03:36:57.118Z",
+  "bundle": "v5-hsk1-batch-2",
+  "releaseLoadMs": 123,
+  "searchMs": 7,
+  "practiceStartMs": 108,
+  "decodedAudio": 40,
+  "status": "PASS",
+  "productionProgressUnchanged": true,
+  "widths": [
+    320,
+    375,
+    390,
+    430
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "at": "2026-10-16T14:33:23.486Z",
+  "changes": [
+    {
+      "id": "v8-hsk2-W2-025",
+      "before": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-W2-025",
+        "number": 25,
+        "part": 2,
+        "partId": "W2",
+        "type": "short-answer",
+        "questionType": "short-answer",
+        "skill": "writing",
+        "promptZh": "请写出缺少的汉字：我想（　）一杯水。 hē",
+        "candidatePromptZh": "请写出缺少的汉字：我想（　）一杯水。 hē",
+        "instruction": "Nhập chữ Hán còn thiếu theo pinyin",
+        "options": [],
+        "correctAnswer": null,
+        "explanation": "Chữ gợi ý: 喝 (hē), uống. Cần người duyệt chữ, ngữ cảnh và cấp; không chấm điểm thi tự động.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK2-00035"
+        ],
+        "vocabularyIds": [
+          "cti25-v-30",
+          "cti25-v-70",
+          "cti25-v-165",
+          "cti25-v-180",
+          "cti25-v-192",
+          "cti25-v-221",
+          "cti25-v-233",
+          "cti25-v-240",
+          "cti25-v-254",
+          "cti25-v-296",
+          "cti25-v-316"
+        ],
+        "topicIds": [
+          "v8-topic-hsk2-everyday"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "manual",
+        "sampleAnswer": "喝",
+        "rubric": [
+          "Một chữ Hán phù hợp pinyin và ngữ cảnh",
+          "Cần người kiểm tra; UNSCORED_PRACTICE"
+        ],
+        "pinyinIsExamContent": true,
+        "mediaRequirement": {
+          "audio": false,
+          "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-W2-025",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "d5460f03a3db06bfce3076bda792d82ead387ede35e3ac799a2ce47325397e99",
+          "method": "Schema/registry only; audio may be unavailable, human review pending"
+        },
+        "importedAt": "2026-10-16T11:59:48.432Z",
+        "sourceName": "LuyenThiHSK original AI-assisted V8 pilot",
+        "createdAt": "2026-10-16T11:59:48.432Z",
+        "updatedAt": "2026-10-16T11:59:48.432Z",
+        "publishedAt": null,
+        "hskLevel": "2",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0
+      },
+      "after": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 2,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-W2-025",
+        "number": 25,
+        "part": 2,
+        "partId": "W2",
+        "type": "short-answer",
+        "questionType": "short-answer",
+        "skill": "writing",
+        "promptZh": "请写出缺少的汉字：我想（　）一杯水。 hē",
+        "candidatePromptZh": "请写出缺少的汉字：我想（　）一杯水。 hē",
+        "instruction": "Nhập chữ Hán còn thiếu theo pinyin",
+        "options": [],
+        "correctAnswer": "喝",
+        "explanation": "Chữ gợi ý: 喝 (hē), uống. Cần người duyệt chữ, ngữ cảnh và cấp; không chấm điểm thi tự động.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK2-00035"
+        ],
+        "vocabularyIds": [
+          "cti25-v-30",
+          "cti25-v-70",
+          "cti25-v-165",
+          "cti25-v-180",
+          "cti25-v-192",
+          "cti25-v-221",
+          "cti25-v-233",
+          "cti25-v-240",
+          "cti25-v-254",
+          "cti25-v-296",
+          "cti25-v-316"
+        ],
+        "topicIds": [
+          "v8-topic-hsk2-everyday"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "manual",
+        "sampleAnswer": "喝",
+        "rubric": [
+          "Một chữ Hán phù hợp pinyin và ngữ cảnh",
+          "Cần người kiểm tra; UNSCORED_PRACTICE"
+        ],
+        "pinyinIsExamContent": true,
+        "mediaRequirement": {
+          "audio": false,
+          "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-W2-025",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "INVALIDATED",
+          "fingerprint": "d5460f03a3db06bfce3076bda792d82ead387ede35e3ac799a2ce47325397e99",
+          "method": "Schema/registry only; audio may be unavailable, human review pending",
+          "invalidatedAt": "2026-10-16T14:33:23.428Z"
+        },
+        "importedAt": "2026-10-16T11:59:48.432Z",
+        "sourceName": "LuyenThiHSK original AI-assisted V8 pilot",
+        "createdAt": "2026-10-16T11:59:48.432Z",
+        "updatedAt": "2026-10-16T14:33:23.428Z",
+        "publishedAt": null,
+        "hskLevel": "2",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "revisionChangeNote": "Restore original expected answer metadata for unscored manual writing; not human approval"
+      },
+      "reason": "V3 decorator cleared manual expected answer during initial V8 staging; preserve authored key without enabling automatic grading",
+      "validation": "API revision CAS + V8 schema/reference check",
+      "approvalStatus": "NEEDS_REVIEW",
+      "humanGrading": "UNSCORED_PRACTICE"
+    },
+    {
+      "id": "v8-hsk2-W2-026",
+      "before": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-W2-026",
+        "number": 26,
+        "part": 2,
+        "partId": "W2",
+        "type": "short-answer",
+        "questionType": "short-answer",
+        "skill": "writing",
+        "promptZh": "请写出缺少的汉字：今天是星期（　）。 sān",
+        "candidatePromptZh": "请写出缺少的汉字：今天是星期（　）。 sān",
+        "instruction": "Nhập chữ Hán còn thiếu theo pinyin",
+        "options": [],
+        "correctAnswer": null,
+        "explanation": "Chữ gợi ý: 三 (sān), ba. Giữ pinyin vì đây là dữ kiện của câu.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK2-00035"
+        ],
+        "vocabularyIds": [
+          "cti25-v-30",
+          "cti25-v-70",
+          "cti25-v-94",
+          "cti25-v-165",
+          "cti25-v-180",
+          "cti25-v-188",
+          "cti25-v-207",
+          "cti25-v-240",
+          "cti25-v-243",
+          "cti25-v-296",
+          "cti25-v-316"
+        ],
+        "topicIds": [
+          "v8-topic-hsk2-everyday"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "manual",
+        "sampleAnswer": "三",
+        "rubric": [
+          "Một chữ Hán phù hợp pinyin và ngữ cảnh",
+          "Cần người kiểm tra; UNSCORED_PRACTICE"
+        ],
+        "pinyinIsExamContent": true,
+        "mediaRequirement": {
+          "audio": false,
+          "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-W2-026",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "a55cdf27cbfb5ffd4db6897b55e712ebdacfbef2a58f3a2156c0e64d33e5fd15",
+          "method": "Schema/registry only; audio may be unavailable, human review pending"
+        },
+        "importedAt": "2026-10-16T11:59:48.433Z",
+        "sourceName": "LuyenThiHSK original AI-assisted V8 pilot",
+        "createdAt": "2026-10-16T11:59:48.433Z",
+        "updatedAt": "2026-10-16T11:59:48.433Z",
+        "publishedAt": null,
+        "hskLevel": "2",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0
+      },
+      "after": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 2,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-W2-026",
+        "number": 26,
+        "part": 2,
+        "partId": "W2",
+        "type": "short-answer",
+        "questionType": "short-answer",
+        "skill": "writing",
+        "promptZh": "请写出缺少的汉字：今天是星期（　）。 sān",
+        "candidatePromptZh": "请写出缺少的汉字：今天是星期（　）。 sān",
+        "instruction": "Nhập chữ Hán còn thiếu theo pinyin",
+        "options": [],
+        "correctAnswer": "三",
+        "explanation": "Chữ gợi ý: 三 (sān), ba. Giữ pinyin vì đây là dữ kiện của câu.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK2-00035"
+        ],
+        "vocabularyIds": [
+          "cti25-v-30",
+          "cti25-v-70",
+          "cti25-v-94",
+          "cti25-v-165",
+          "cti25-v-180",
+          "cti25-v-188",
+          "cti25-v-207",
+          "cti25-v-240",
+          "cti25-v-243",
+          "cti25-v-296",
+          "cti25-v-316"
+        ],
+        "topicIds": [
+          "v8-topic-hsk2-everyday"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "manual",
+        "sampleAnswer": "三",
+        "rubric": [
+          "Một chữ Hán phù hợp pinyin và ngữ cảnh",
+          "Cần người kiểm tra; UNSCORED_PRACTICE"
+        ],
+        "pinyinIsExamContent": true,
+        "mediaRequirement": {
+          "audio": false,
+          "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-W2-026",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "INVALIDATED",
+          "fingerprint": "a55cdf27cbfb5ffd4db6897b55e712ebdacfbef2a58f3a2156c0e64d33e5fd15",
+          "method": "Schema/registry only; audio may be unavailable, human review pending",
+          "invalidatedAt": "2026-10-16T14:33:23.452Z"
+        },
+        "importedAt": "2026-10-16T11:59:48.433Z",
+        "sourceName": "LuyenThiHSK original AI-assisted V8 pilot",
+        "createdAt": "2026-10-16T11:59:48.433Z",
+        "updatedAt": "2026-10-16T14:33:23.452Z",
+        "publishedAt": null,
+        "hskLevel": "2",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "revisionChangeNote": "Restore original expected answer metadata for unscored manual writing; not human approval"
+      },
+      "reason": "V3 decorator cleared manual expected answer during initial V8 staging; preserve authored key without enabling automatic grading",
+      "validation": "API revision CAS + V8 schema/reference check",
+      "approvalStatus": "NEEDS_REVIEW",
+      "humanGrading": "UNSCORED_PRACTICE"
+    },
+    {
+      "id": "v8-hsk2-W2-027",
+      "before": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-W2-027",
+        "number": 27,
+        "part": 2,
+        "partId": "W2",
+        "type": "short-answer",
+        "questionType": "short-answer",
+        "skill": "writing",
+        "promptZh": "请写出缺少的汉字：我有两（　）书。 běn",
+        "candidatePromptZh": "请写出缺少的汉字：我有两（　）书。 běn",
+        "instruction": "Nhập chữ Hán còn thiếu theo pinyin",
+        "options": [],
+        "correctAnswer": null,
+        "explanation": "Chữ gợi ý: 本 (běn), lượng từ cho sách. Phản hồi là bài luyện chưa chấm chính thức.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK2-00035"
+        ],
+        "vocabularyIds": [
+          "cti25-v-30",
+          "cti25-v-70",
+          "cti25-v-111",
+          "cti25-v-165",
+          "cti25-v-180",
+          "cti25-v-190",
+          "cti25-v-221",
+          "cti25-v-240",
+          "cti25-v-263",
+          "cti25-v-296",
+          "cti25-v-316"
+        ],
+        "topicIds": [
+          "v8-topic-hsk2-everyday"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "manual",
+        "sampleAnswer": "本",
+        "rubric": [
+          "Một chữ Hán phù hợp pinyin và ngữ cảnh",
+          "Cần người kiểm tra; UNSCORED_PRACTICE"
+        ],
+        "pinyinIsExamContent": true,
+        "mediaRequirement": {
+          "audio": false,
+          "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-W2-027",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "ef8edd5fd09c84740c55c38f9b76ab4c0bbdf27fb6269f68fe586907674f0013",
+          "method": "Schema/registry only; audio may be unavailable, human review pending"
+        },
+        "importedAt": "2026-10-16T11:59:48.433Z",
+        "sourceName": "LuyenThiHSK original AI-assisted V8 pilot",
+        "createdAt": "2026-10-16T11:59:48.433Z",
+        "updatedAt": "2026-10-16T11:59:48.433Z",
+        "publishedAt": null,
+        "hskLevel": "2",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0
+      },
+      "after": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 2,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-W2-027",
+        "number": 27,
+        "part": 2,
+        "partId": "W2",
+        "type": "short-answer",
+        "questionType": "short-answer",
+        "skill": "writing",
+        "promptZh": "请写出缺少的汉字：我有两（　）书。 běn",
+        "candidatePromptZh": "请写出缺少的汉字：我有两（　）书。 běn",
+        "instruction": "Nhập chữ Hán còn thiếu theo pinyin",
+        "options": [],
+        "correctAnswer": "本",
+        "explanation": "Chữ gợi ý: 本 (běn), lượng từ cho sách. Phản hồi là bài luyện chưa chấm chính thức.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK2-00035"
+        ],
+        "vocabularyIds": [
+          "cti25-v-30",
+          "cti25-v-70",
+          "cti25-v-111",
+          "cti25-v-165",
+          "cti25-v-180",
+          "cti25-v-190",
+          "cti25-v-221",
+          "cti25-v-240",
+          "cti25-v-263",
+          "cti25-v-296",
+          "cti25-v-316"
+        ],
+        "topicIds": [
+          "v8-topic-hsk2-everyday"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "manual",
+        "sampleAnswer": "本",
+        "rubric": [
+          "Một chữ Hán phù hợp pinyin và ngữ cảnh",
+          "Cần người kiểm tra; UNSCORED_PRACTICE"
+        ],
+        "pinyinIsExamContent": true,
+        "mediaRequirement": {
+          "audio": false,
+          "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-W2-027",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "INVALIDATED",
+          "fingerprint": "ef8edd5fd09c84740c55c38f9b76ab4c0bbdf27fb6269f68fe586907674f0013",
+          "method": "Schema/registry only; audio may be unavailable, human review pending",
+          "invalidatedAt": "2026-10-16T14:33:23.471Z"
+        },
+        "importedAt": "2026-10-16T11:59:48.433Z",
+        "sourceName": "LuyenThiHSK original AI-assisted V8 pilot",
+        "createdAt": "2026-10-16T11:59:48.433Z",
+        "updatedAt": "2026-10-16T14:33:23.471Z",
+        "publishedAt": null,
+        "hskLevel": "2",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "revisionChangeNote": "Restore original expected answer metadata for unscored manual writing; not human approval"
+      },
+      "reason": "V3 decorator cleared manual expected answer during initial V8 staging; preserve authored key without enabling automatic grading",
+      "validation": "API revision CAS + V8 schema/reference check",
+      "approvalStatus": "NEEDS_REVIEW",
+      "humanGrading": "UNSCORED_PRACTICE"
+    }
+  ]
+}

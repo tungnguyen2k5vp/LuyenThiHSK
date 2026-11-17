@@ -1,0 +1,58 @@
+{
+  "at": "2026-10-17T06:12:28.861Z",
+  "account": {
+    "status": 200,
+    "configured": false,
+    "deployment": "NOT_CONFIGURED",
+    "guestAvailable": true
+  },
+  "evidence": [
+    {
+      "file": "server/cloud/.env.example",
+      "sha256": "72f8dfdf48a61c7a18b5107e0cc83ebe695b1f956b9397fecbf25910702390a4"
+    },
+    {
+      "file": "server/cloud/migrations/001_learning_sync.sql",
+      "sha256": "0ffee78b31db8b846017e616aca590516f87fafbe2e33d3221c315622bc263de"
+    },
+    {
+      "file": "server/cloud/tests/rls-integration.sql",
+      "sha256": "4a3d9c39053f0e1cc8e49a43a05f3b4ad31dfa2dc07127fcc15a5fd030a5b76d"
+    },
+    {
+      "file": "server/cloud/account-service.mjs",
+      "sha256": "00ee79174d4323a8b3cdbe2676fbff31b8b1bce82ef9a59281b8a826dfe307af"
+    },
+    {
+      "file": "server/cloud/supabase-adapter.mjs",
+      "sha256": "7f92c40f61154c235637aea5a4f04314ba8a5191d040b4e67959d44e55a6a67d"
+    },
+    {
+      "file": "server/grading-adapter.mjs",
+      "sha256": "45c4ffc9d193c616bc8ff1e85396c725380a51d04a80976d4d125094b2a3ca01"
+    },
+    {
+      "file": "server/qa-grading-store.mjs",
+      "sha256": "159715b4d41d95da736f0dee5c9b561630562e7fd6b52f6c88c1496fdbbb9b2e"
+    }
+  ],
+  "liveSupabase": "NOT_VERIFIED_NO_CONFIGURED_CREDENTIALS",
+  "liveRLS": "NOT_RUN",
+  "multiDevice": "NOT_VERIFIED",
+  "smtpRecovery": "NOT_VERIFIED",
+  "httpsCookieDeployment": "NOT_VERIFIED",
+  "secureGrading": "QA_HTTP_SQLITE_ADAPTER_NOT_MOUNTED_PRODUCTION",
+  "admin": "LOCAL_ONLY_RANDOM_TOKEN_SERVER_REFUSES_PRODUCTION",
+  "release": "BLOCKED",
+  "requirements": [
+    "Apply migration to dedicated staging project",
+    "Run RLS integration SQL as documented with real auth identities",
+    "Use server-only URL/anon/encryption key; no service_role in frontend",
+    "Configure exact HTTPS origins, reverse proxy, Secure HttpOnly session cookie and SMTP recovery",
+    "Verify session refresh/revocation/backup/restore on deployment",
+    "Add deployment-wide rate limiter and audit retention",
+    "Connect grading adapter to durable storage and authoritative transport; keep answer DTO whitelist",
+    "Test concurrent tabs/devices, stale CAS, owner isolation and offline reconnect before enabling sync",
+    "Human content/rights approval before public publication"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-25",
+  "result": "PASS",
+  "browser": "Installed Chrome via REA Playwright scenarios",
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "serviceWorker": "Blocked in isolated REA scenarios; offline behavior not tested in this run",
+  "rows": [
+    {
+      "name": "home",
+      "result": "PASS",
+      "steps": 2,
+      "provider": {
+        "id": "rea-playwright-browser-scenario",
+        "name": "REA Playwright browser scenario capture provider",
+        "version": "1"
+      },
+      "evidenceId": "ev_9267f4b22979b97105d870cb7833793e41c21e60dbb69fda2f837dc67ae1fc77",
+      "evidencePath": "data/reports/learning-20261025/rea/home.json",
+      "scenarioPath": "data/reports/learning-20261025/scenarios/home.json",
+      "sha256": "d9fe997338d93d7f9c23f6f13856ddf00cc869993ef14d55b9ff4044eed62a6d",
+      "screenshot": "docs/screenshots/learning-20261025/home.png",
+      "consoleErrors": 0
+    },
+    {
+      "name": "foundation",
+      "result": "PASS",
+      "steps": 6,
+      "provider": {
+        "id": "rea-playwright-browser-scenario",
+        "name": "REA Playwright browser scenario capture provider",
+        "version": "1"
+      },
+      "evidenceId": "ev_315cf0ccb1a3fe408e6e5a44156fd832455308d1e6f27e647a108e37c33b2a15",
+      "evidencePath": "data/reports/learning-20261025/rea/foundation.json",
+      "scenarioPath": "data/reports/learning-20261025/scenarios/foundation.json",
+      "sha256": "170ed5cbcdce5a29a4209306bff89d71f91939f071983f208a7fca0e7bc784b1",
+      "screenshot": "docs/screenshots/learning-20261025/foundation.png",
+      "consoleErrors": 0
+    },
+    {
+      "name": "vocab",
+      "result": "PASS",
+      "steps": 6,
+      "provider": {
+        "id": "rea-playwright-browser-scenario",
+        "name": "REA Playwright browser scenario capture provider",
+        "version": "1"
+      },
+      "evidenceId": "ev_8cb92c2e35e87a9c4603a75dfef320356744b6586bb32242d56da88b056fa330",
+      "evidencePath": "data/reports/learning-20261025/rea/vocab.json",
+      "scenarioPath": "data/reports/learning-20261025/scenarios/vocab.json",
+      "sha256": "94440f517537c86d1d90673be5c89d4884360972f0755b7526e41b8b549005cb",
+      "screenshot": "docs/screenshots/learning-20261025/vocab.png",
+      "consoleErrors": 0
+    },
+    {
+      "name": "grammar",
+      "result": "PASS",
+      "steps": 7,
+      "provider": {
+        "id": "rea-playwright-browser-scenario",
+        "name": "REA Playwright browser scenario capture provider",
+        "version": "1"
+      },
+      "evidenceId": "ev_d12fd111790a42576d33582eb4ef8c87bd7e21dee4921c9774194a581b21350e",
+      "evidencePath": "data/reports/learning-20261025/rea/grammar.json",
+      "scenarioPath": "data/reports/learning-20261025/scenarios/grammar.json",
+      "sha256": "3cd6085d05b6e8122a3af2b3f3a9ca0aec6f3bc60b5faf58ce9573f5e35ddffc",
+      "screenshot": "docs/screenshots/learning-20261025/grammar.png",
+      "consoleErrors": 0
+    },
+    {
+      "name": "hanzi",
+      "result": "PASS",
+      "steps": 6,
+      "provider": {
+        "id": "rea-playwright-browser-scenario",
+        "name": "REA Playwright browser scenario capture provider",
+        "version": "1"
+      },
+      "evidenceId": "ev_04d1be182e46a90e4825cdb346d796e8eae7006c665e12c3fdd060600e927fb9",
+      "evidencePath": "data/reports/learning-20261025/rea/hanzi.json",
+      "scenarioPath": "data/reports/learning-20261025/scenarios/hanzi.json",
+      "sha256": "17b4420e82713d1500bc99bc8f7c3bac8271cbc11c6bd1bdadb1859e038b50c0",
+      "screenshot": "docs/screenshots/learning-20261025/hanzi.png",
+      "consoleErrors": 0
+    },
+    {
+      "name": "writing",
+      "result": "PASS",
+      "steps": 16,
+      "provider": {
+        "id": "rea-playwright-browser-scenario",
+        "name": "REA Playwright browser scenario capture provider",
+        "version": "1"
+      },
+      "evidenceId": "ev_f8823100d6536277bd47815bb2231deec8befc3e53f5fdc940c34283c6854496",
+      "evidencePath": "data/reports/learning-20261025/rea/writing.json",
+      "scenarioPath": "data/reports/learning-20261025/scenarios/writing.json",
+      "sha256": "ead7ef074a90434a5d59b50d941b023dba8735ff23fa6fae0c3b880519ebe037",
+      "screenshot": "docs/screenshots/learning-20261025/writing.png",
+      "consoleErrors": 0
+    },
+    {
+      "name": "reading",
+      "result": "PASS",
+      "steps": 16,
+      "provider": {
+        "id": "rea-playwright-browser-scenario",
+        "name": "REA Playwright browser scenario capture provider",
+        "version": "1"
+      },
+      "evidenceId": "ev_6e3491dc466936847c456fbde126fa2133f195b4b59de1c1e01565a4f13928df",
+      "evidencePath": "data/reports/learning-20261025/rea/reading.json",
+      "scenarioPath": "data/reports/learning-20261025/scenarios/reading.json",
+      "sha256": "b3a9afcafc8d2df37d2236dfdfd2e58f3a6dbbb6bfeb164e1feb069bd6e105f4",
+      "screenshot": "docs/screenshots/learning-20261025/reading.png",
+      "consoleErrors": 0
+    },
+    {
+      "name": "regression",
+      "result": "PASS",
+      "steps": 18,
+      "provider": {
+        "id": "rea-playwright-browser-scenario",
+        "name": "REA Playwright browser scenario capture provider",
+        "version": "1"
+      },
+      "evidenceId": "ev_17591d8a26139c2fd70df03511b47985fa4ae63feb9acb998797363980461411",
+      "evidencePath": "data/reports/learning-20261025/rea/regression.json",
+      "scenarioPath": "data/reports/learning-20261025/scenarios/regression.json",
+      "sha256": "2b0580da7a34d72e91dd1ba6e97d25b1de4c7b916a3da059eb425a99dbb20a1d",
+      "screenshot": "docs/screenshots/learning-20261025/regression.png",
+      "consoleErrors": 0
+    }
+  ],
+  "knownFailedAttempt": {
+    "path": ".runtime/learning-home-during-build-evidence.json",
+    "observed": "Initial navigation failed while production build was running; rerun after build passed",
+    "cause": "Not independently established"
+  },
+  "contentStatus": "AI-assisted material remains NEEDS_REVIEW; no human approval claimed; new reading is self-review",
+  "accountStatus": "Guest mode; cloud NOT_CONFIGURED"
+}

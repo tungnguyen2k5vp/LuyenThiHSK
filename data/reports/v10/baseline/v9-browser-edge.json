@@ -1,0 +1,33 @@
+{
+  "at": "2026-10-17T06:10:36.167Z",
+  "status": "PASS",
+  "browser": "Edge",
+  "offlineReview": {
+    "status": "PASS",
+    "records": 986,
+    "flaggedFilter": 199,
+    "batchA": 20,
+    "hsk2": 54,
+    "notesRestore": true,
+    "casExport": true,
+    "humanApproval": false
+  },
+  "checks": 5,
+  "areas": [
+    "HSK1 grammar and mock preflight",
+    "54-question HSK2 hub",
+    "all 18 new playable drafts exercised",
+    "reading refresh/result/mistake review",
+    "Unicode multiline and IME composition-event fixture",
+    "focus retained across autosave",
+    "writing navigation/reload/ungraded result",
+    "study plan no missing-media tasks",
+    "history",
+    "review queue",
+    "six responsive widths",
+    "guest sentinel unchanged"
+  ],
+  "ime": "Composition-event simulation and real browser Unicode input, not a physical Chinese IME installation",
+  "realDevice": "NOT_VERIFIED",
+  "screenshots": 18
+}

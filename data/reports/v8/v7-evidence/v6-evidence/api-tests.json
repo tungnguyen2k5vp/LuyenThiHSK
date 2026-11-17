@@ -1,0 +1,19 @@
+{
+  "at": "2026-10-16T05:40:47.848Z",
+  "status": "PASS",
+  "assertions": 167,
+  "areas": [
+    "private assets",
+    "eight-part coverage",
+    "question/bank snapshots",
+    "stage idempotency",
+    "no legacy downgrade",
+    "revision CAS",
+    "edit invalidates BETA",
+    "human gate",
+    "audio replacement immutable history",
+    "upload duration",
+    "production empty"
+  ],
+  "fixtureOnly": true
+}

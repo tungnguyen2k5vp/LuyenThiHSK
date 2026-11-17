@@ -1,0 +1,140 @@
+{
+  "at": "2026-10-16T11:48:17.428Z",
+  "error": "Error: TypeError: Failed to resolve module specifier '/src/services/cloudSync.ts'\n    at <anonymous>:1:24\n    at <anonymous>:1:212\n    at evalJS (file:///D:/ReactJS/LuyenThiHSK/scripts/v8-sync-browser.mjs:5:501)\n    at async Object.tab (file:///D:/ReactJS/LuyenThiHSK/scripts/v8-sync-browser.mjs:5:659)\n    at async file:///D:/ReactJS/LuyenThiHSK/scripts/v8-sync-browser.mjs:24:32",
+  "assertions": 16,
+  "requests": [
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "589e9d93-28e3-4154-9e96-3d96ee32103e",
+      "kind": "profile",
+      "id": "learner",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "e111d05d-529f-48e2-abff-0e913e75d55d",
+      "kind": "target",
+      "id": "hsk",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "0e47546f-9823-4d30-bf26-e25760135a3f",
+      "kind": "settings",
+      "id": "preferences",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "52a03ba3-0b79-4c79-8c01-6f01def4980f",
+      "kind": "srs_events",
+      "id": "b:2026-10-16T11-00-01Z",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "6d778f76-eb76-41e7-8050-7d1d6862b9a4",
+      "kind": "vocabulary",
+      "id": "b",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "ea9c2af1-6b0c-4385-9aa6-46a1933526f3",
+      "kind": "srs_events",
+      "id": "a:2026-10-16T11-00-00Z",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "b1abfe50-32df-430c-a969-14970b2309b3",
+      "kind": "vocabulary",
+      "id": "a",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "0a3e5cd1-89f6-475f-a6f1-38b1da9d5cca",
+      "kind": "attempts",
+      "id": "same-attempt",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "fc690ea6-333e-4de6-aaf9-df30e3e83112",
+      "kind": "results",
+      "id": "same-attempt",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "56cb730f-9466-417a-897b-a9f84a465462",
+      "kind": "grammar",
+      "id": "replay",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "56cb730f-9466-417a-897b-a9f84a465462",
+      "kind": "grammar",
+      "id": "replay",
+      "status": "REPLAYED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "e09771f8-6024-4a80-b459-2fd370987236",
+      "kind": "grammar",
+      "id": "offline",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "b5b58ed4-8efe-4d2c-8f01-e5d6224d5c6b",
+      "kind": "grammar",
+      "id": "conflict",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "daf8d994-4fc0-4f75-8d39-84bb5ec995cf",
+      "kind": "grammar",
+      "id": "conflict",
+      "status": "CONFLICT"
+    },
+    {
+      "owner": "10000000-0000-4000-8000-000000000001",
+      "opId": "1c24c0e5-d447-4055-aa13-5d7c0654ad49",
+      "kind": "grammar",
+      "id": "fallback",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "20000000-0000-4000-8000-000000000002",
+      "opId": "cccdc5a7-428b-401b-b6ee-ac71a031245c",
+      "kind": "profile",
+      "id": "learner",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "20000000-0000-4000-8000-000000000002",
+      "opId": "e409daa2-c19e-43da-9071-735554e3c1b8",
+      "kind": "target",
+      "id": "hsk",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "20000000-0000-4000-8000-000000000002",
+      "opId": "843ab2ca-b2f0-4d26-826a-4517a7b9fa0d",
+      "kind": "settings",
+      "id": "preferences",
+      "status": "APPLIED"
+    },
+    {
+      "owner": "20000000-0000-4000-8000-000000000002",
+      "opId": "4e159630-ce7b-41da-bc98-c7b1d88f3fa2",
+      "kind": "grammar",
+      "id": "userb",
+      "status": "APPLIED"
+    }
+  ]
+}

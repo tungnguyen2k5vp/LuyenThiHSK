@@ -1,0 +1,11 @@
+{
+  "at": "2026-10-19T06:27:57.343036+00:00",
+  "purpose": "Visual recapture after instant scroll to show target instead of in-flight CSS smooth scrolling",
+  "productSourceChanged": false,
+  "assertionsChanged": false,
+  "timeoutsChanged": false,
+  "files": {
+    ".tmp\\v13-visual\\v13-browser-flows.mjs": "13e0c019429659018a2f6e2f67dee2eab3eb351bdd4fc76a3a72f5ccc15674c4",
+    ".tmp\\v13-visual\\exam-browser-check.mjs": "f81d05c701fae19d1dc871a5f94a73b93de5783d3a832fee3f8cbc73658ada38"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-18T02:56:45.050Z",
+  "status": "PASS",
+  "browser": "Edge",
+  "checks": [
+    "Stage persisted and preview loaded",
+    "Missing audio stays unavailable",
+    "HSK2 navigation",
+    "152 HSK2 question drafts",
+    "76 playable part questions",
+    "Workbench loaded 40 real transcripts",
+    "Listening buttons disabled",
+    "Separate correct/wrong/blank/ungraded",
+    "Mixed six compatible playable questions",
+    "Mixed includes reading and writing",
+    "Manual answer retained ungraded",
+    "Authored grammar examples",
+    "Plan excludes missing audio"
+  ],
+  "offlineReview": {
+    "status": "PASS",
+    "records": 1123,
+    "flaggedFilter": 211,
+    "batchA": 20,
+    "hsk2": 152,
+    "notesRestore": true,
+    "casExport": true,
+    "humanApproval": false
+  },
+  "realDevice": "NOT_TESTED",
+  "ime": "Real Unicode browser input plus composition-event fixture; physical IME NOT_TESTED",
+  "screenshots": 12,
+  "liveEditorialMutations": 0,
+  "paidCalls": 0
+}

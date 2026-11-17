@@ -1,0 +1,954 @@
+{
+  "scope": "privatePreview",
+  "authority": "PLATFORM_PRACTICE",
+  "cards": [
+    {
+      "id": "v14-hsk1-platform-1",
+      "title": "HSK 1 · Platform Practice 1",
+      "level": "1",
+      "syllabusVersion": "hsk3-2025",
+      "version": "hsk3",
+      "type": "full",
+      "scope": "privatePreview",
+      "questionCount": 40,
+      "durationMinutes": 35,
+      "sections": [
+        {
+          "id": "0",
+          "skill": "listening",
+          "label": "Nghe · 4 phần",
+          "questionCount": 20,
+          "durationMinutes": 15
+        },
+        {
+          "id": "1",
+          "skill": "reading",
+          "label": "Đọc · 4 phần",
+          "questionCount": 20,
+          "durationMinutes": 20
+        }
+      ],
+      "canStart": true,
+      "modes": {
+        "practice": true,
+        "timed": true
+      },
+      "reasons": [],
+      "formatAuthority": "PLATFORM_PRACTICE",
+      "humanReviewed": false,
+      "published": false,
+      "launch": {
+        "route": "admin/v6/build",
+        "body": {
+          "kind": "full",
+          "mode": "PREVIEW",
+          "seed": "v14-hsk1-platform-1"
+        }
+      },
+      "audioPolicy": {
+        "kind": "file",
+        "delivery": "question",
+        "maxPlays": 2,
+        "allowSeek": false,
+        "allowRateChange": false,
+        "rate": 1,
+        "authority": "PLATFORM_POLICY"
+      },
+      "questionRevisions": [
+        {
+          "id": "v6-L1-5",
+          "revision": 3
+        },
+        {
+          "id": "v6-L1-8",
+          "revision": 3
+        },
+        {
+          "id": "v6-L1-9",
+          "revision": 3
+        },
+        {
+          "id": "v6-L1-7",
+          "revision": 3
+        },
+        {
+          "id": "v6-L1-6",
+          "revision": 3
+        },
+        {
+          "id": "v6-L2-3",
+          "revision": 3
+        },
+        {
+          "id": "v6-L2-5",
+          "revision": 3
+        },
+        {
+          "id": "v6-L2-8",
+          "revision": 3
+        },
+        {
+          "id": "v6-L2-6",
+          "revision": 3
+        },
+        {
+          "id": "v6-L2-10",
+          "revision": 3
+        },
+        {
+          "id": "v6-L3-6",
+          "revision": 3
+        },
+        {
+          "id": "v6-L3-7",
+          "revision": 3
+        },
+        {
+          "id": "v6-L3-8",
+          "revision": 3
+        },
+        {
+          "id": "v6-L3-9",
+          "revision": 3
+        },
+        {
+          "id": "v6-L3-10",
+          "revision": 3
+        },
+        {
+          "id": "v6-L4-2",
+          "revision": 3
+        },
+        {
+          "id": "v6-L4-9",
+          "revision": 3
+        },
+        {
+          "id": "v6-L4-8",
+          "revision": 3
+        },
+        {
+          "id": "v6-L4-7",
+          "revision": 3
+        },
+        {
+          "id": "v6-L4-5",
+          "revision": 3
+        },
+        {
+          "id": "v6-R1-1",
+          "revision": 3
+        },
+        {
+          "id": "v6-R1-2",
+          "revision": 3
+        },
+        {
+          "id": "v6-R1-3",
+          "revision": 3
+        },
+        {
+          "id": "v6-R1-4",
+          "revision": 3
+        },
+        {
+          "id": "v6-R1-5",
+          "revision": 3
+        },
+        {
+          "id": "v6-R2-6",
+          "revision": 3
+        },
+        {
+          "id": "v6-R2-7",
+          "revision": 3
+        },
+        {
+          "id": "v6-R2-8",
+          "revision": 3
+        },
+        {
+          "id": "v6-R2-9",
+          "revision": 3
+        },
+        {
+          "id": "v6-R2-10",
+          "revision": 3
+        },
+        {
+          "id": "v6-R3-6",
+          "revision": 3
+        },
+        {
+          "id": "v6-R3-7",
+          "revision": 3
+        },
+        {
+          "id": "v6-R3-8",
+          "revision": 3
+        },
+        {
+          "id": "v6-R3-9",
+          "revision": 3
+        },
+        {
+          "id": "v6-R3-10",
+          "revision": 3
+        },
+        {
+          "id": "v6-R4-8",
+          "revision": 3
+        },
+        {
+          "id": "v6-R4-7",
+          "revision": 3
+        },
+        {
+          "id": "v6-R4-5",
+          "revision": 3
+        },
+        {
+          "id": "v6-R4-10",
+          "revision": 3
+        },
+        {
+          "id": "v6-R4-6",
+          "revision": 3
+        }
+      ]
+    },
+    {
+      "id": "v14-hsk1-platform-2",
+      "title": "HSK 1 · Platform Practice 2",
+      "level": "1",
+      "syllabusVersion": "hsk3-2025",
+      "version": "hsk3",
+      "type": "full",
+      "scope": "privatePreview",
+      "questionCount": 40,
+      "durationMinutes": 35,
+      "sections": [
+        {
+          "id": "0",
+          "skill": "listening",
+          "label": "Nghe · 4 phần",
+          "questionCount": 20,
+          "durationMinutes": 15
+        },
+        {
+          "id": "1",
+          "skill": "reading",
+          "label": "Đọc · 4 phần",
+          "questionCount": 20,
+          "durationMinutes": 20
+        }
+      ],
+      "canStart": true,
+      "modes": {
+        "practice": true,
+        "timed": true
+      },
+      "reasons": [],
+      "formatAuthority": "PLATFORM_PRACTICE",
+      "humanReviewed": false,
+      "published": false,
+      "launch": {
+        "route": "admin/v6/build",
+        "body": {
+          "kind": "full",
+          "mode": "PREVIEW",
+          "seed": "v14-hsk1-platform-2"
+        }
+      },
+      "audioPolicy": {
+        "kind": "file",
+        "delivery": "question",
+        "maxPlays": 2,
+        "allowSeek": false,
+        "allowRateChange": false,
+        "rate": 1,
+        "authority": "PLATFORM_POLICY"
+      },
+      "questionRevisions": [
+        {
+          "id": "v6-L1-10",
+          "revision": 3
+        },
+        {
+          "id": "v6-L1-5",
+          "revision": 3
+        },
+        {
+          "id": "v6-L1-6",
+          "revision": 3
+        },
+        {
+          "id": "v6-L1-1",
+          "revision": 3
+        },
+        {
+          "id": "v6-L1-2",
+          "revision": 3
+        },
+        {
+          "id": "v6-L2-2",
+          "revision": 3
+        },
+        {
+          "id": "v6-L2-1",
+          "revision": 3
+        },
+        {
+          "id": "v6-L2-7",
+          "revision": 3
+        },
+        {
+          "id": "v6-L2-9",
+          "revision": 3
+        },
+        {
+          "id": "v6-L2-4",
+          "revision": 3
+        },
+        {
+          "id": "v6-L3-1",
+          "revision": 3
+        },
+        {
+          "id": "v6-L3-2",
+          "revision": 3
+        },
+        {
+          "id": "v6-L3-3",
+          "revision": 3
+        },
+        {
+          "id": "v6-L3-4",
+          "revision": 3
+        },
+        {
+          "id": "v6-L3-5",
+          "revision": 3
+        },
+        {
+          "id": "v6-L4-6",
+          "revision": 3
+        },
+        {
+          "id": "v6-L4-3",
+          "revision": 3
+        },
+        {
+          "id": "v6-L4-4",
+          "revision": 3
+        },
+        {
+          "id": "v6-L4-10",
+          "revision": 3
+        },
+        {
+          "id": "v6-L4-9",
+          "revision": 3
+        },
+        {
+          "id": "v6-R1-1",
+          "revision": 3
+        },
+        {
+          "id": "v6-R1-2",
+          "revision": 3
+        },
+        {
+          "id": "v6-R1-3",
+          "revision": 3
+        },
+        {
+          "id": "v6-R1-4",
+          "revision": 3
+        },
+        {
+          "id": "v6-R1-5",
+          "revision": 3
+        },
+        {
+          "id": "v6-R2-1",
+          "revision": 3
+        },
+        {
+          "id": "v6-R2-2",
+          "revision": 3
+        },
+        {
+          "id": "v6-R2-3",
+          "revision": 3
+        },
+        {
+          "id": "v6-R2-4",
+          "revision": 3
+        },
+        {
+          "id": "v6-R2-5",
+          "revision": 3
+        },
+        {
+          "id": "v6-R3-6",
+          "revision": 3
+        },
+        {
+          "id": "v6-R3-7",
+          "revision": 3
+        },
+        {
+          "id": "v6-R3-8",
+          "revision": 3
+        },
+        {
+          "id": "v6-R3-9",
+          "revision": 3
+        },
+        {
+          "id": "v6-R3-10",
+          "revision": 3
+        },
+        {
+          "id": "v6-R4-1",
+          "revision": 3
+        },
+        {
+          "id": "v6-R4-3",
+          "revision": 3
+        },
+        {
+          "id": "v6-R4-5",
+          "revision": 3
+        },
+        {
+          "id": "v6-R4-2",
+          "revision": 3
+        },
+        {
+          "id": "v6-R4-4",
+          "revision": 3
+        }
+      ]
+    },
+    {
+      "id": "v14-hsk2-platform",
+      "title": "HSK 2 · Platform Practice / BETA",
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "version": "hsk3",
+      "type": "full",
+      "scope": "privatePreview",
+      "questionCount": 60,
+      "durationMinutes": 52,
+      "sections": [
+        {
+          "id": "0",
+          "skill": "listening",
+          "label": "listening",
+          "questionCount": 25,
+          "durationMinutes": 17
+        },
+        {
+          "id": "1",
+          "skill": "reading",
+          "label": "reading",
+          "questionCount": 25,
+          "durationMinutes": 25
+        },
+        {
+          "id": "2",
+          "skill": "writing",
+          "label": "writing",
+          "questionCount": 10,
+          "durationMinutes": 10
+        }
+      ],
+      "canStart": false,
+      "modes": {
+        "practice": false,
+        "timed": false
+      },
+      "reasons": [
+        "AUDIO_NOT_READY:v9-hsk2-L1-001",
+        "IMAGE_RIGHTS_PENDING:v6-image-hospital-72c0c06241f3",
+        "IMAGE_RIGHTS_PENDING:v6-image-company-df3e72ec20b8",
+        "IMAGE_RIGHTS_PENDING:v6-image-shop-d9be9af14da0",
+        "AUDIO_NOT_READY:v10-hsk2-L1-005",
+        "IMAGE_RIGHTS_PENDING:v6-image-dog-a7eec4c5a959",
+        "IMAGE_RIGHTS_PENDING:v6-image-cat-ae5d67c7847b",
+        "IMAGE_RIGHTS_PENDING:v6-image-tea-cb2f9b509211",
+        "AUDIO_NOT_READY:v10-hsk2-L1-003",
+        "IMAGE_RIGHTS_PENDING:v6-image-computer-8ea36c01d77e",
+        "IMAGE_RIGHTS_PENDING:v6-image-phone-b951537b3e3c",
+        "IMAGE_RIGHTS_PENDING:v6-image-book-df9916f87ab6",
+        "AUDIO_NOT_READY:v10-hsk2-L1-002",
+        "IMAGE_RIGHTS_PENDING:v6-image-shirt-01c71b00acfa",
+        "IMAGE_RIGHTS_PENDING:v6-image-rain-dc8c0a4777b0",
+        "IMAGE_RIGHTS_PENDING:v6-image-water-5aa7b423013f",
+        "AUDIO_NOT_READY:v10-hsk2-L1-006",
+        "IMAGE_RIGHTS_PENDING:v6-image-table-6566c94ab34c",
+        "IMAGE_RIGHTS_PENDING:v6-image-house-f39a0886aadd",
+        "IMAGE_RIGHTS_PENDING:v6-image-chair-c29d3e2974d9",
+        "AUDIO_NOT_READY:v10-hsk2-L2-003",
+        "IMAGE_RIGHTS_PENDING:v6-image-reading-2b4d2ae6b38c",
+        "IMAGE_RIGHTS_PENDING:v6-image-writing-189d14996dc3",
+        "IMAGE_RIGHTS_PENDING:v6-image-calling-a391e185d990",
+        "IMAGE_RIGHTS_PENDING:v6-image-cooking-ecdb34052249",
+        "IMAGE_RIGHTS_PENDING:v6-image-eating-d7d30b81407d",
+        "IMAGE_RIGHTS_PENDING:v6-image-driving-062a5bfabb12",
+        "AUDIO_NOT_READY:v10-hsk2-L2-001",
+        "AUDIO_NOT_READY:v10-hsk2-L2-004",
+        "AUDIO_NOT_READY:v10-hsk2-L2-005",
+        "AUDIO_NOT_READY:v10-hsk2-L2-002",
+        "AUDIO_NOT_READY:v10-hsk2-L2-006",
+        "AUDIO_NOT_READY:v10-hsk2-L2-008",
+        "AUDIO_NOT_READY:v10-hsk2-L2-007",
+        "AUDIO_NOT_READY:v10-hsk2-L2-009",
+        "AUDIO_NOT_READY:v10-hsk2-L2-010",
+        "AUDIO_NOT_READY:v8-hsk2-L3-009",
+        "AUDIO_NOT_READY:v10-hsk2-L3-006",
+        "AUDIO_NOT_READY:v10-hsk2-L3-002",
+        "AUDIO_NOT_READY:v10-hsk2-L3-003",
+        "AUDIO_NOT_READY:v10-hsk2-L3-001",
+        "AUDIO_NOT_READY:v8-hsk2-L3-008",
+        "AUDIO_NOT_READY:v8-hsk2-L3-007",
+        "AUDIO_NOT_READY:v10-hsk2-L3-004",
+        "AUDIO_NOT_READY:v9-hsk2-L3-009",
+        "AUDIO_NOT_READY:v9-hsk2-L3-008",
+        "IMAGE_RIGHTS_PENDING:v6-image-plane-a2d8ccad1896",
+        "IMAGE_RIGHTS_PENDING:v6-image-train-c7243219bdaa",
+        "IMAGE_RIGHTS_PENDING:v6-image-rice-748e01963474",
+        "EXAM_AUDIO_PURPOSE_PENDING:v9-hsk2-L1-001",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-005",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-003",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-002",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-006",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-003",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-001",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-004",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-005",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-002",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-006",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-008",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-007",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-009",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-010",
+        "EXAM_AUDIO_PURPOSE_PENDING:v8-hsk2-L3-009",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-006",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-002",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-003",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-001",
+        "EXAM_AUDIO_PURPOSE_PENDING:v8-hsk2-L3-008",
+        "EXAM_AUDIO_PURPOSE_PENDING:v8-hsk2-L3-007",
+        "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-004",
+        "EXAM_AUDIO_PURPOSE_PENDING:v9-hsk2-L3-009",
+        "EXAM_AUDIO_PURPOSE_PENDING:v9-hsk2-L3-008",
+        "PRONUNCIATION_PENDING:v9-hsk2-L1-001",
+        "PRONUNCIATION_PENDING:v10-hsk2-L1-005",
+        "PRONUNCIATION_PENDING:v10-hsk2-L1-003",
+        "PRONUNCIATION_PENDING:v10-hsk2-L1-002",
+        "PRONUNCIATION_PENDING:v10-hsk2-L1-006",
+        "PRONUNCIATION_PENDING:v10-hsk2-L2-003",
+        "PRONUNCIATION_PENDING:v10-hsk2-L2-001",
+        "PRONUNCIATION_PENDING:v10-hsk2-L2-004",
+        "PRONUNCIATION_PENDING:v10-hsk2-L2-005",
+        "PRONUNCIATION_PENDING:v10-hsk2-L2-002",
+        "PRONUNCIATION_PENDING:v10-hsk2-L2-006",
+        "PRONUNCIATION_PENDING:v10-hsk2-L2-008",
+        "PRONUNCIATION_PENDING:v10-hsk2-L2-007",
+        "PRONUNCIATION_PENDING:v10-hsk2-L2-009",
+        "PRONUNCIATION_PENDING:v10-hsk2-L2-010",
+        "PRONUNCIATION_PENDING:v8-hsk2-L3-009",
+        "PRONUNCIATION_PENDING:v10-hsk2-L3-006",
+        "PRONUNCIATION_PENDING:v10-hsk2-L3-002",
+        "PRONUNCIATION_PENDING:v10-hsk2-L3-003",
+        "PRONUNCIATION_PENDING:v10-hsk2-L3-001",
+        "PRONUNCIATION_PENDING:v8-hsk2-L3-008",
+        "PRONUNCIATION_PENDING:v8-hsk2-L3-007",
+        "PRONUNCIATION_PENDING:v10-hsk2-L3-004",
+        "PRONUNCIATION_PENDING:v9-hsk2-L3-009",
+        "PRONUNCIATION_PENDING:v9-hsk2-L3-008",
+        "LANGUAGE_REVIEW_PENDING:v9-hsk2-L1-001",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-005",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-003",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-002",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-006",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-003",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-001",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-004",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-005",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-002",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-006",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-008",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-007",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-009",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-010",
+        "LANGUAGE_REVIEW_PENDING:v8-hsk2-L3-009",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-006",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-002",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-003",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-001",
+        "LANGUAGE_REVIEW_PENDING:v8-hsk2-L3-008",
+        "LANGUAGE_REVIEW_PENDING:v8-hsk2-L3-007",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-004",
+        "LANGUAGE_REVIEW_PENDING:v9-hsk2-L3-009",
+        "LANGUAGE_REVIEW_PENDING:v9-hsk2-L3-008",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-001",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-002",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-006",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-004",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-003",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-003",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-001",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-006",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-004",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-002",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-005",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-002",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-001",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-004",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-003",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-009",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-008",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-010",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-006",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-007",
+        "LANGUAGE_REVIEW_PENDING:v9-hsk2-R4-021",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-R4-001",
+        "LANGUAGE_REVIEW_PENDING:v8-hsk2-R4-021",
+        "LANGUAGE_REVIEW_PENDING:v8-hsk2-R4-019",
+        "LANGUAGE_REVIEW_PENDING:v9-hsk2-R4-019",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-006",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-002",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-003",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-001",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-004",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-001",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-004",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-002",
+        "LANGUAGE_REVIEW_PENDING:v8-hsk2-W2-026",
+        "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-006",
+        "LEVEL_REVIEW_PENDING:v9-hsk2-L1-001",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L1-005",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L1-003",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L1-002",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L1-006",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L2-003",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L2-001",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L2-004",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L2-005",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L2-002",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L2-006",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L2-008",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L2-007",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L2-009",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L2-010",
+        "LEVEL_REVIEW_PENDING:v8-hsk2-L3-009",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L3-006",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L3-002",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L3-003",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L3-001",
+        "LEVEL_REVIEW_PENDING:v8-hsk2-L3-008",
+        "LEVEL_REVIEW_PENDING:v8-hsk2-L3-007",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-L3-004",
+        "LEVEL_REVIEW_PENDING:v9-hsk2-L3-009",
+        "LEVEL_REVIEW_PENDING:v9-hsk2-L3-008",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R1-001",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R1-002",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R1-006",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R1-004",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R1-003",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R2-003",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R2-001",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R2-006",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R2-004",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R2-002",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R3-005",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R3-002",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R3-001",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R3-004",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R3-003",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R3-009",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R3-008",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R3-010",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R3-006",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R3-007",
+        "LEVEL_REVIEW_PENDING:v9-hsk2-R4-021",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-R4-001",
+        "LEVEL_REVIEW_PENDING:v8-hsk2-R4-021",
+        "LEVEL_REVIEW_PENDING:v8-hsk2-R4-019",
+        "LEVEL_REVIEW_PENDING:v9-hsk2-R4-019",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-W1-006",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-W1-002",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-W1-003",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-W1-001",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-W1-004",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-W2-001",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-W2-004",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-W2-002",
+        "LEVEL_REVIEW_PENDING:v8-hsk2-W2-026",
+        "LEVEL_REVIEW_PENDING:v10-hsk2-W2-006"
+      ],
+      "formatAuthority": "PLATFORM_PRACTICE",
+      "humanReviewed": false,
+      "published": false,
+      "launch": null,
+      "audioPolicy": {
+        "maxPlays": 2,
+        "allowPause": false,
+        "allowSeek": false,
+        "policyAuthority": "PLATFORM_DEFINED_NOT_VERIFIED_IBT",
+        "authority": "PLATFORM_POLICY"
+      },
+      "questionRevisions": [
+        {
+          "id": "v9-hsk2-L1-001",
+          "revision": 1
+        },
+        {
+          "id": "v10-hsk2-L1-005",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-L1-003",
+          "revision": 2
+        },
+        {
+          "id": "v10-hsk2-L1-002",
+          "revision": 2
+        },
+        {
+          "id": "v10-hsk2-L1-006",
+          "revision": 2
+        },
+        {
+          "id": "v10-hsk2-L2-003",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-L2-001",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-L2-004",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-L2-005",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-L2-002",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-L2-006",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-L2-008",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-L2-007",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-L2-009",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-L2-010",
+          "revision": 3
+        },
+        {
+          "id": "v8-hsk2-L3-009",
+          "revision": 2
+        },
+        {
+          "id": "v10-hsk2-L3-006",
+          "revision": 2
+        },
+        {
+          "id": "v10-hsk2-L3-002",
+          "revision": 2
+        },
+        {
+          "id": "v10-hsk2-L3-003",
+          "revision": 2
+        },
+        {
+          "id": "v10-hsk2-L3-001",
+          "revision": 2
+        },
+        {
+          "id": "v8-hsk2-L3-008",
+          "revision": 2
+        },
+        {
+          "id": "v8-hsk2-L3-007",
+          "revision": 2
+        },
+        {
+          "id": "v10-hsk2-L3-004",
+          "revision": 2
+        },
+        {
+          "id": "v9-hsk2-L3-009",
+          "revision": 1
+        },
+        {
+          "id": "v9-hsk2-L3-008",
+          "revision": 1
+        },
+        {
+          "id": "v10-hsk2-R1-001",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R1-002",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R1-006",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R1-004",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R1-003",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R2-003",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R2-001",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R2-006",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R2-004",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R2-002",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R3-005",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R3-002",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R3-001",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R3-004",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R3-003",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R3-009",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R3-008",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R3-010",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R3-006",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-R3-007",
+          "revision": 3
+        },
+        {
+          "id": "v9-hsk2-R4-021",
+          "revision": 1
+        },
+        {
+          "id": "v10-hsk2-R4-001",
+          "revision": 2
+        },
+        {
+          "id": "v8-hsk2-R4-021",
+          "revision": 2
+        },
+        {
+          "id": "v8-hsk2-R4-019",
+          "revision": 2
+        },
+        {
+          "id": "v9-hsk2-R4-019",
+          "revision": 1
+        },
+        {
+          "id": "v10-hsk2-W1-006",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-W1-002",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-W1-003",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-W1-001",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-W1-004",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-W2-001",
+          "revision": 2
+        },
+        {
+          "id": "v10-hsk2-W2-004",
+          "revision": 2
+        },
+        {
+          "id": "v10-hsk2-W2-002",
+          "revision": 2
+        },
+        {
+          "id": "v8-hsk2-W2-026",
+          "revision": 3
+        },
+        {
+          "id": "v10-hsk2-W2-006",
+          "revision": 2
+        }
+      ]
+    }
+  ],
+  "total": 3,
+  "available": 2,
+  "publiclyReleasable": 0,
+  "secureExam": false,
+  "filteredTotal": 3
+}

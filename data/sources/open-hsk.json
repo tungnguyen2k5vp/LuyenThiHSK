@@ -1,0 +1,25 @@
+{
+  "reviewedAt": "2026-10-22",
+  "no7z": {
+    "repository": "https://github.com/no7z/hsk-sentences-audio",
+    "commit": "857dfbab91027ebd97df01260e91b817cb6b4854",
+    "folder": "data/imports/no7z-857dfbab91027ebd97df01260e91b817cb6b4854",
+    "archiveUrl": "https://codeload.github.com/no7z/hsk-sentences-audio/zip/857dfbab91027ebd97df01260e91b817cb6b4854",
+    "archiveSha256": "c5b57ebbf844642b27e658ed3df161d44dfefed4db8ee7c399b898462ae21384",
+    "jsonSha256": "8f8ffd34eee29f395724ce060cad22511eeeabb7af731d5b5879dc0548e01660",
+    "datasetLicense": "CC BY-SA 4.0",
+    "codeLicense": "MIT",
+    "audio": "CosyVoice2-0.5B synthetic speech; distributed as part of CC BY-SA 4.0 dist dataset. Preserve upstream attribution including Apache-2.0 engine and CC-CEDICT.",
+    "levelBasis": "GF0025-2021, source community grading; not the 2025 exam syllabus"
+  },
+  "hearmandarin": {
+    "url": "https://hearmandarin.com/datasets/",
+    "downloadUrl": "https://hearmandarin.com/datasets/hsk-3-0-words.json",
+    "file": "data/imports/hearmandarin-2026-09-09/words.json",
+    "version": "2026-09-09",
+    "generated": "2026-09-28",
+    "sha256": "c8b590005c25def132c8401f4414c5b9cc9855a8fb00c9fad8cd22249895d0af",
+    "license": "CC BY 4.0",
+    "scope": "Word dataset only. Does not license the website audio, readers, test bank or other paid resources."
+  }
+}

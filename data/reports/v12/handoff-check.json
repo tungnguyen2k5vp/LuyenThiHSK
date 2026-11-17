@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-19T00:58:48.077Z",
+  "status": "PASS",
+  "checks": 3517,
+  "files": 328,
+  "failures": [],
+  "scope": "Consolidated local links, token/binary exclusion, current reviewer CAS, live build/private route and no-draft publication checks"
+}

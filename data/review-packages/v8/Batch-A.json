@@ -1,0 +1,4338 @@
+{
+  "id": "A",
+  "items": [
+    {
+      "id": "v6-L1-1",
+      "revision": 3,
+      "sourceFingerprint": "9d87db9ccbebea479e5f019cdcec41e70cbfb1dde6c75c99ada66ed011bb4526",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L1-1",
+        "number": 179,
+        "skill": "listening",
+        "section": "listening",
+        "part": 1,
+        "partId": "L1",
+        "type": "picture-choice",
+        "questionType": "picture-choice",
+        "difficulty": "easy",
+        "instruction": "Nghe và chọn hình phù hợp",
+        "promptZh": "这是我的猫。",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-cat-ae5d67c7847b",
+              "src": "/api/admin/v6/image/v6-image-cat-ae5d67c7847b",
+              "altText": "Một con mèo có tai nhọn và ria mép.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "ae5d67c7847b09d433feb5fd01b5ac2f927bc883f0ab8cd9371914befa1343f9"
+            },
+            "id": "A"
+          },
+          {
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-dog-a7eec4c5a959",
+              "src": "/api/admin/v6/image/v6-image-dog-a7eec4c5a959",
+              "altText": "Một con chó có tai rủ.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "a7eec4c5a95947fe08d76902dd8df7b42020c3117f13361dde618e593b430f2b"
+            },
+            "id": "B"
+          },
+          {
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-apple-0b7e884cce97",
+              "src": "/api/admin/v6/image/v6-image-apple-0b7e884cce97",
+              "altText": "Một quả táo có cuống và lá.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "0b7e884cce9794f0693339c947e4453794ef81937fdd268a4bb25caf45476bef"
+            },
+            "id": "C"
+          }
+        ],
+        "correctAnswer": "A",
+        "correctOptionId": "A",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Mèo được nhắc trực tiếp; phân biệt hình con vật với đồ ăn.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00046"
+        ],
+        "vocabularyIds": [
+          "cti25-v-279",
+          "cti25-v-188",
+          "cti25-v-221",
+          "cti25-v-30",
+          "cti25-v-119"
+        ],
+        "topicIds": [
+          "v6-topic-L1"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L1",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed pages1–2: three picture options per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-256b521d966ec53926166e69",
+        "promptPinyin": "zhè shì wǒ de māo。",
+        "pinyinDraft": "zhè shì wǒ de māo。",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-256b521d966ec53926166e69"
+        },
+        "audioDurationSeconds": 1.303,
+        "contentMeta": {
+          "instruction": "Nghe và chọn hình phù hợp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "zhè shì wǒ de māo。"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "9d87db9ccbebea479e5f019cdcec41e70cbfb1dde6c75c99ada66ed011bb4526",
+          "checkedAt": "2026-10-16T05:15:18.523Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.522Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.522Z",
+        "updatedAt": "2026-10-16T05:15:18.522Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "9d87db9ccbebea479e5f019cdcec41e70cbfb1dde6c75c99ada66ed011bb4526",
+          "importedFingerprint": "9d87db9ccbebea479e5f019cdcec41e70cbfb1dde6c75c99ada66ed011bb4526"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L1-10",
+      "revision": 3,
+      "sourceFingerprint": "552ad32ca33e61cf4805fb2b8ba500cd7cabbcff427d7b2da0f43c93e35562d1",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L1-10",
+        "number": 188,
+        "skill": "listening",
+        "section": "listening",
+        "part": 1,
+        "partId": "L1",
+        "type": "picture-choice",
+        "questionType": "picture-choice",
+        "difficulty": "easy",
+        "instruction": "Nghe và chọn hình phù hợp",
+        "promptZh": "这只狗很小。",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-dog-a7eec4c5a959",
+              "src": "/api/admin/v6/image/v6-image-dog-a7eec4c5a959",
+              "altText": "Một con chó có tai rủ.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "a7eec4c5a95947fe08d76902dd8df7b42020c3117f13361dde618e593b430f2b"
+            },
+            "id": "A"
+          },
+          {
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-cat-ae5d67c7847b",
+              "src": "/api/admin/v6/image/v6-image-cat-ae5d67c7847b",
+              "altText": "Một con mèo có tai nhọn và ria mép.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "ae5d67c7847b09d433feb5fd01b5ac2f927bc883f0ab8cd9371914befa1343f9"
+            },
+            "id": "B"
+          },
+          {
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-chair-c29d3e2974d9",
+              "src": "/api/admin/v6/image/v6-image-chair-c29d3e2974d9",
+              "altText": "Một chiếc ghế có tựa lưng.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "c29d3e2974d9fb00094505be2a4114183fcae98cc59fd84fddc5eb1dcd3854b4"
+            },
+            "id": "C"
+          }
+        ],
+        "correctAnswer": "A",
+        "correctOptionId": "A",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Nghe 狗 và phân biệt với mèo.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00046"
+        ],
+        "vocabularyIds": [
+          "cti25-v-279",
+          "cti25-v-287",
+          "cti25-v-64",
+          "cti25-v-79",
+          "cti25-v-234"
+        ],
+        "topicIds": [
+          "v6-topic-L1"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L1",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed pages1–2: three picture options per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-371520ca7f7853f61c5508c5",
+        "promptPinyin": "zhè zhǐ gǒu hěn xiǎo。",
+        "pinyinDraft": "zhè zhǐ gǒu hěn xiǎo。",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-371520ca7f7853f61c5508c5"
+        },
+        "audioDurationSeconds": 1.605,
+        "contentMeta": {
+          "instruction": "Nghe và chọn hình phù hợp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "zhè zhǐ gǒu hěn xiǎo。"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "552ad32ca33e61cf4805fb2b8ba500cd7cabbcff427d7b2da0f43c93e35562d1",
+          "checkedAt": "2026-10-16T05:15:18.529Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.528Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.528Z",
+        "updatedAt": "2026-10-16T05:15:18.528Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "552ad32ca33e61cf4805fb2b8ba500cd7cabbcff427d7b2da0f43c93e35562d1",
+          "importedFingerprint": "552ad32ca33e61cf4805fb2b8ba500cd7cabbcff427d7b2da0f43c93e35562d1"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L1-2",
+      "revision": 3,
+      "sourceFingerprint": "1740daeb4741252875fa2a0543f4e75ed59c35332bc3c403ac1bbcb65f1d619a",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L1-2",
+        "number": 180,
+        "skill": "listening",
+        "section": "listening",
+        "part": 1,
+        "partId": "L1",
+        "type": "picture-choice",
+        "questionType": "picture-choice",
+        "difficulty": "easy",
+        "instruction": "Nghe và chọn hình phù hợp",
+        "promptZh": "我想买手机。",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-computer-8ea36c01d77e",
+              "src": "/api/admin/v6/image/v6-image-computer-8ea36c01d77e",
+              "altText": "Một máy tính có màn hình và bàn phím.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "8ea36c01d77efd3a7861edcaf3f6d92cab08be1397e8a947e0f77ff3e6a64d3a"
+            },
+            "id": "A"
+          },
+          {
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-book-df9916f87ab6",
+              "src": "/api/admin/v6/image/v6-image-book-df9916f87ab6",
+              "altText": "Một cuốn sách đang mở.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "df9916f87ab6bd4f28a606a5ba87b45986d95d1541dcb6b977402aca5770a049"
+            },
+            "id": "B"
+          },
+          {
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-phone-b951537b3e3c",
+              "src": "/api/admin/v6/image/v6-image-phone-b951537b3e3c",
+              "altText": "Một chiếc điện thoại cầm tay.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "b951537b3e3c61e751bf3085dc3db7f1ce780770c174c595901aae539376db18"
+            },
+            "id": "C"
+          }
+        ],
+        "correctAnswer": "C",
+        "correctOptionId": "C",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Nghe 手机, không chọn máy tính hoặc sách.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00046"
+        ],
+        "vocabularyIds": [
+          "cti25-v-221",
+          "cti25-v-233",
+          "cti25-v-116",
+          "cti25-v-189"
+        ],
+        "topicIds": [
+          "v6-topic-L1"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L1",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed pages1–2: three picture options per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-d90080ede8254dceeb2993e5",
+        "promptPinyin": "wǒ xiǎng mǎi shǒu jī。",
+        "pinyinDraft": "wǒ xiǎng mǎi shǒu jī。",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-d90080ede8254dceeb2993e5"
+        },
+        "audioDurationSeconds": 1.489,
+        "contentMeta": {
+          "instruction": "Nghe và chọn hình phù hợp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "wǒ xiǎng mǎi shǒu jī。"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "1740daeb4741252875fa2a0543f4e75ed59c35332bc3c403ac1bbcb65f1d619a",
+          "checkedAt": "2026-10-16T05:15:18.523Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.523Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.523Z",
+        "updatedAt": "2026-10-16T05:15:18.523Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "1740daeb4741252875fa2a0543f4e75ed59c35332bc3c403ac1bbcb65f1d619a",
+          "importedFingerprint": "1740daeb4741252875fa2a0543f4e75ed59c35332bc3c403ac1bbcb65f1d619a"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L1-3",
+      "revision": 3,
+      "sourceFingerprint": "ce993ad00ab667ecc11d6b2054127bebd45ef591d556044e9213a2b50b764ab9",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L1-3",
+        "number": 181,
+        "skill": "listening",
+        "section": "listening",
+        "part": 1,
+        "partId": "L1",
+        "type": "picture-choice",
+        "questionType": "picture-choice",
+        "difficulty": "easy",
+        "instruction": "Nghe và chọn hình phù hợp",
+        "promptZh": "飞机来了。",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-chair-c29d3e2974d9",
+              "src": "/api/admin/v6/image/v6-image-chair-c29d3e2974d9",
+              "altText": "Một chiếc ghế có tựa lưng.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "c29d3e2974d9fb00094505be2a4114183fcae98cc59fd84fddc5eb1dcd3854b4"
+            },
+            "id": "A"
+          },
+          {
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-plane-a2d8ccad1896",
+              "src": "/api/admin/v6/image/v6-image-plane-a2d8ccad1896",
+              "altText": "Một chiếc máy bay có hai cánh.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "a2d8ccad18965b921980dafdb8e06ca485cd015da0005bcadbedded715f7a47b"
+            },
+            "id": "B"
+          },
+          {
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-train-c7243219bdaa",
+              "src": "/api/admin/v6/image/v6-image-train-c7243219bdaa",
+              "altText": "Một đoàn tàu chạy trên đường ray.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "c7243219bdaa10c8b8f2512eb6548f47dda5e16286babfa5fa1478ba391c00f6"
+            },
+            "id": "C"
+          }
+        ],
+        "correctAnswer": "B",
+        "correctOptionId": "B",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Phương tiện được nêu là máy bay",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00046"
+        ],
+        "vocabularyIds": [
+          "cti25-v-54",
+          "cti25-v-106",
+          "cti25-v-108"
+        ],
+        "topicIds": [
+          "v6-topic-L1"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L1",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed pages1–2: three picture options per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-0a5d95aacaa3508c29005b96",
+        "promptPinyin": "fēi jī lái le。",
+        "pinyinDraft": "fēi jī lái le。",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-0a5d95aacaa3508c29005b96"
+        },
+        "audioDurationSeconds": 1.175,
+        "contentMeta": {
+          "instruction": "Nghe và chọn hình phù hợp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "fēi jī lái le。"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "ce993ad00ab667ecc11d6b2054127bebd45ef591d556044e9213a2b50b764ab9",
+          "checkedAt": "2026-10-16T05:15:18.524Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.524Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.524Z",
+        "updatedAt": "2026-10-16T05:15:18.524Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "ce993ad00ab667ecc11d6b2054127bebd45ef591d556044e9213a2b50b764ab9",
+          "importedFingerprint": "ce993ad00ab667ecc11d6b2054127bebd45ef591d556044e9213a2b50b764ab9"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L1-4",
+      "revision": 3,
+      "sourceFingerprint": "ad7ec921a1f840db975dc87ab5ed03a35a96f85d715af11f0642d3c7ee8b92ca",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L1-4",
+        "number": 182,
+        "skill": "listening",
+        "section": "listening",
+        "part": 1,
+        "partId": "L1",
+        "type": "picture-choice",
+        "questionType": "picture-choice",
+        "difficulty": "easy",
+        "instruction": "Nghe và chọn hình phù hợp",
+        "promptZh": "这本书很好看。",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-book-df9916f87ab6",
+              "src": "/api/admin/v6/image/v6-image-book-df9916f87ab6",
+              "altText": "Một cuốn sách đang mở.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "df9916f87ab6bd4f28a606a5ba87b45986d95d1541dcb6b977402aca5770a049"
+            },
+            "id": "A"
+          },
+          {
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-shirt-01c71b00acfa",
+              "src": "/api/admin/v6/image/v6-image-shirt-01c71b00acfa",
+              "altText": "Một chiếc áo có tay.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "01c71b00acfaf40ef92ca5157b714231db2b389f2429fa80d97c1cc2c95bdf36"
+            },
+            "id": "B"
+          },
+          {
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-phone-b951537b3e3c",
+              "src": "/api/admin/v6/image/v6-image-phone-b951537b3e3c",
+              "altText": "Một chiếc điện thoại cầm tay.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "b951537b3e3c61e751bf3085dc3db7f1ce780770c174c595901aae539376db18"
+            },
+            "id": "C"
+          }
+        ],
+        "correctAnswer": "A",
+        "correctOptionId": "A",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "本书 chỉ sách; không suy đáp án từ màu hình.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00046"
+        ],
+        "vocabularyIds": [
+          "cti25-v-279",
+          "cti25-v-10",
+          "cti25-v-190",
+          "cti25-v-79",
+          "cti25-v-73"
+        ],
+        "topicIds": [
+          "v6-topic-L1"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L1",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed pages1–2: three picture options per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-af4bde9d49ff0613d0c9f8c1",
+        "promptPinyin": "zhè běn shū hěn hǎo kàn。",
+        "pinyinDraft": "zhè běn shū hěn hǎo kàn。",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-af4bde9d49ff0613d0c9f8c1"
+        },
+        "audioDurationSeconds": 1.663,
+        "contentMeta": {
+          "instruction": "Nghe và chọn hình phù hợp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "zhè běn shū hěn hǎo kàn。"
+        },
+        "reviewRisk": {
+          "score": 50,
+          "reasons": [
+            "POLYPHONE_CONTEXT",
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "ad7ec921a1f840db975dc87ab5ed03a35a96f85d715af11f0642d3c7ee8b92ca",
+          "checkedAt": "2026-10-16T05:15:18.525Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.525Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.525Z",
+        "updatedAt": "2026-10-16T05:15:18.525Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "ad7ec921a1f840db975dc87ab5ed03a35a96f85d715af11f0642d3c7ee8b92ca",
+          "importedFingerprint": "ad7ec921a1f840db975dc87ab5ed03a35a96f85d715af11f0642d3c7ee8b92ca"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L1-5",
+      "revision": 3,
+      "sourceFingerprint": "0a6548c52ffd1e66d3f896a3bec2124bd1f5133f2a7137d0124bcbba21e41966",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L1-5",
+        "number": 183,
+        "skill": "listening",
+        "section": "listening",
+        "part": 1,
+        "partId": "L1",
+        "type": "picture-choice",
+        "questionType": "picture-choice",
+        "difficulty": "easy",
+        "instruction": "Nghe và chọn hình phù hợp",
+        "promptZh": "我早上喝牛奶。",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-water-5aa7b423013f",
+              "src": "/api/admin/v6/image/v6-image-water-5aa7b423013f",
+              "altText": "Một cốc nước trong.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "5aa7b423013f22d4288507f026f64c450d627c73590ac582a73ea8c2e3935aee"
+            },
+            "id": "A"
+          },
+          {
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-tea-cb2f9b509211",
+              "src": "/api/admin/v6/image/v6-image-tea-cb2f9b509211",
+              "altText": "Một ấm trà và một tách.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "cb2f9b509211638fa2c84de2d3c69518b82a9d0405f8a4a56785dd5ba525ae85"
+            },
+            "id": "B"
+          },
+          {
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-milk-f4105aa16fc2",
+              "src": "/api/admin/v6/image/v6-image-milk-f4105aa16fc2",
+              "altText": "Một hộp sữa và một cốc.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "f4105aa16fc242fa704d20c78df6fa89a54256f40e4b952ea1e0dcd1a49c6a8d"
+            },
+            "id": "C"
+          }
+        ],
+        "correctAnswer": "C",
+        "correctOptionId": "C",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Loại đồ uống là 牛奶, không phải nước hoặc trà.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00046"
+        ],
+        "vocabularyIds": [
+          "cti25-v-221",
+          "cti25-v-275",
+          "cti25-v-77",
+          "cti25-v-151"
+        ],
+        "topicIds": [
+          "v6-topic-L1"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L1",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed pages1–2: three picture options per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-81ed22f7ebb1699d2741c9a4",
+        "promptPinyin": "wǒ zǎo shàng hē niú nǎi。",
+        "pinyinDraft": "wǒ zǎo shàng hē niú nǎi。",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-81ed22f7ebb1699d2741c9a4"
+        },
+        "audioDurationSeconds": 1.767,
+        "contentMeta": {
+          "instruction": "Nghe và chọn hình phù hợp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "wǒ zǎo shàng hē niú nǎi。"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "0a6548c52ffd1e66d3f896a3bec2124bd1f5133f2a7137d0124bcbba21e41966",
+          "checkedAt": "2026-10-16T05:15:18.526Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.526Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.526Z",
+        "updatedAt": "2026-10-16T05:15:18.526Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "0a6548c52ffd1e66d3f896a3bec2124bd1f5133f2a7137d0124bcbba21e41966",
+          "importedFingerprint": "0a6548c52ffd1e66d3f896a3bec2124bd1f5133f2a7137d0124bcbba21e41966"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L1-6",
+      "revision": 3,
+      "sourceFingerprint": "af6f61a72da5a0979eb9a2e21fd96e69573dada1fa26526cb5abf52c8b40acdc",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L1-6",
+        "number": 184,
+        "skill": "listening",
+        "section": "listening",
+        "part": 1,
+        "partId": "L1",
+        "type": "picture-choice",
+        "questionType": "picture-choice",
+        "difficulty": "easy",
+        "instruction": "Nghe và chọn hình phù hợp",
+        "promptZh": "这是椅子，请坐。",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-train-c7243219bdaa",
+              "src": "/api/admin/v6/image/v6-image-train-c7243219bdaa",
+              "altText": "Một đoàn tàu chạy trên đường ray.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "c7243219bdaa10c8b8f2512eb6548f47dda5e16286babfa5fa1478ba391c00f6"
+            },
+            "id": "A"
+          },
+          {
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-chair-c29d3e2974d9",
+              "src": "/api/admin/v6/image/v6-image-chair-c29d3e2974d9",
+              "altText": "Một chiếc ghế có tựa lưng.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "c29d3e2974d9fb00094505be2a4114183fcae98cc59fd84fddc5eb1dcd3854b4"
+            },
+            "id": "B"
+          },
+          {
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-table-6566c94ab34c",
+              "src": "/api/admin/v6/image/v6-image-table-6566c94ab34c",
+              "altText": "Một chiếc bàn bốn chân.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "6566c94ab34c46f00fa1223c26f106cf42364e5e03e885faafd123083471417d"
+            },
+            "id": "C"
+          }
+        ],
+        "correctAnswer": "B",
+        "correctOptionId": "B",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Ghế là vật để ngồi.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00046"
+        ],
+        "vocabularyIds": [
+          "cti25-v-279",
+          "cti25-v-188",
+          "cti25-v-260",
+          "cti25-v-165",
+          "cti25-v-298"
+        ],
+        "topicIds": [
+          "v6-topic-L1"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L1",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed pages1–2: three picture options per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-72560e39241e2f6b5c4c6468",
+        "promptPinyin": "zhè shì yǐ zi， qǐng zuò。",
+        "pinyinDraft": "zhè shì yǐ zi， qǐng zuò。",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-72560e39241e2f6b5c4c6468"
+        },
+        "audioDurationSeconds": 1.686,
+        "contentMeta": {
+          "instruction": "Nghe và chọn hình phù hợp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "zhè shì yǐ zi， qǐng zuò。"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "af6f61a72da5a0979eb9a2e21fd96e69573dada1fa26526cb5abf52c8b40acdc",
+          "checkedAt": "2026-10-16T05:15:18.527Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.526Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.526Z",
+        "updatedAt": "2026-10-16T05:15:18.526Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "af6f61a72da5a0979eb9a2e21fd96e69573dada1fa26526cb5abf52c8b40acdc",
+          "importedFingerprint": "af6f61a72da5a0979eb9a2e21fd96e69573dada1fa26526cb5abf52c8b40acdc"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L1-7",
+      "revision": 3,
+      "sourceFingerprint": "52e20ee638b6547c2bf218fffd8925d30b89df5c4994c00e774f56ca3103fb84",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L1-7",
+        "number": 185,
+        "skill": "listening",
+        "section": "listening",
+        "part": 1,
+        "partId": "L1",
+        "type": "picture-choice",
+        "questionType": "picture-choice",
+        "difficulty": "easy",
+        "instruction": "Nghe và chọn hình phù hợp",
+        "promptZh": "爸爸的电脑在房间里。",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-computer-8ea36c01d77e",
+              "src": "/api/admin/v6/image/v6-image-computer-8ea36c01d77e",
+              "altText": "Một máy tính có màn hình và bàn phím.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "8ea36c01d77efd3a7861edcaf3f6d92cab08be1397e8a947e0f77ff3e6a64d3a"
+            },
+            "id": "A"
+          },
+          {
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-phone-b951537b3e3c",
+              "src": "/api/admin/v6/image/v6-image-phone-b951537b3e3c",
+              "altText": "Một chiếc điện thoại cầm tay.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "b951537b3e3c61e751bf3085dc3db7f1ce780770c174c595901aae539376db18"
+            },
+            "id": "B"
+          },
+          {
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-book-df9916f87ab6",
+              "src": "/api/admin/v6/image/v6-image-book-df9916f87ab6",
+              "altText": "Một cuốn sách đang mở.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "df9916f87ab6bd4f28a606a5ba87b45986d95d1541dcb6b977402aca5770a049"
+            },
+            "id": "C"
+          }
+        ],
+        "correctAnswer": "A",
+        "correctOptionId": "A",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Vật được nói là máy tính, không hỏi địa điểm.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00046"
+        ],
+        "vocabularyIds": [
+          "cti25-v-3",
+          "cti25-v-30",
+          "cti25-v-36",
+          "cti25-v-271",
+          "cti25-v-52",
+          "cti25-v-110"
+        ],
+        "topicIds": [
+          "v6-topic-L1"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L1",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed pages1–2: three picture options per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-b0c06f30b0e7e086da40ef7b",
+        "promptPinyin": "bà bà de diàn nǎo zài fáng jiān lǐ。",
+        "pinyinDraft": "bà bà de diàn nǎo zài fáng jiān lǐ。",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-b0c06f30b0e7e086da40ef7b"
+        },
+        "audioDurationSeconds": 2.359,
+        "contentMeta": {
+          "instruction": "Nghe và chọn hình phù hợp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "bà bà de diàn nǎo zài fáng jiān lǐ。"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "52e20ee638b6547c2bf218fffd8925d30b89df5c4994c00e774f56ca3103fb84",
+          "checkedAt": "2026-10-16T05:15:18.527Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.527Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.527Z",
+        "updatedAt": "2026-10-16T05:15:18.527Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "52e20ee638b6547c2bf218fffd8925d30b89df5c4994c00e774f56ca3103fb84",
+          "importedFingerprint": "52e20ee638b6547c2bf218fffd8925d30b89df5c4994c00e774f56ca3103fb84"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L1-8",
+      "revision": 3,
+      "sourceFingerprint": "52f894a379a50b738fc713dd662dab34cef19ee94f34223830e4822d186edb06",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L1-8",
+        "number": 186,
+        "skill": "listening",
+        "section": "listening",
+        "part": 1,
+        "partId": "L1",
+        "type": "picture-choice",
+        "questionType": "picture-choice",
+        "difficulty": "easy",
+        "instruction": "Nghe và chọn hình phù hợp",
+        "promptZh": "孩子想吃苹果。",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-bread-9bc75841206a",
+              "src": "/api/admin/v6/image/v6-image-bread-9bc75841206a",
+              "altText": "Một ổ bánh mì.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "9bc75841206a058c83663004909909bb1cfab21d9eef459feacc2a51ddd6957e"
+            },
+            "id": "A"
+          },
+          {
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-rice-748e01963474",
+              "src": "/api/admin/v6/image/v6-image-rice-748e01963474",
+              "altText": "Một bát cơm có đũa.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "748e019634743996d4fc60f9500c84aa17699eec73cb1d93dcdb9c5e379e4350"
+            },
+            "id": "B"
+          },
+          {
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-apple-0b7e884cce97",
+              "src": "/api/admin/v6/image/v6-image-apple-0b7e884cce97",
+              "altText": "Một quả táo có cuống và lá.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "0b7e884cce9794f0693339c947e4453794ef81937fdd268a4bb25caf45476bef"
+            },
+            "id": "C"
+          }
+        ],
+        "correctAnswer": "C",
+        "correctOptionId": "C",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Nghe tên quả táo, không chọn hai loại thức ăn khác.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00046"
+        ],
+        "vocabularyIds": [
+          "cti25-v-68",
+          "cti25-v-233",
+          "cti25-v-21",
+          "cti25-v-159"
+        ],
+        "topicIds": [
+          "v6-topic-L1"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L1",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed pages1–2: three picture options per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-8d40a64892bd110f7f89af63",
+        "promptPinyin": "hái zi xiǎng chī píng guǒ。",
+        "pinyinDraft": "hái zi xiǎng chī píng guǒ。",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-8d40a64892bd110f7f89af63"
+        },
+        "audioDurationSeconds": 1.872,
+        "contentMeta": {
+          "instruction": "Nghe và chọn hình phù hợp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "hái zi xiǎng chī píng guǒ。"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "52f894a379a50b738fc713dd662dab34cef19ee94f34223830e4822d186edb06",
+          "checkedAt": "2026-10-16T05:15:18.527Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.527Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.527Z",
+        "updatedAt": "2026-10-16T05:15:18.527Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "52f894a379a50b738fc713dd662dab34cef19ee94f34223830e4822d186edb06",
+          "importedFingerprint": "52f894a379a50b738fc713dd662dab34cef19ee94f34223830e4822d186edb06"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L1-9",
+      "revision": 3,
+      "sourceFingerprint": "5f7a11319caed5cde97d3180b1fad95896d241547358e03c52b7cabe08949b8b",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L1-9",
+        "number": 187,
+        "skill": "listening",
+        "section": "listening",
+        "part": 1,
+        "partId": "L1",
+        "type": "picture-choice",
+        "questionType": "picture-choice",
+        "difficulty": "easy",
+        "instruction": "Nghe và chọn hình phù hợp",
+        "promptZh": "我们坐火车回家。",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-phone-b951537b3e3c",
+              "src": "/api/admin/v6/image/v6-image-phone-b951537b3e3c",
+              "altText": "Một chiếc điện thoại cầm tay.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "b951537b3e3c61e751bf3085dc3db7f1ce780770c174c595901aae539376db18"
+            },
+            "id": "A"
+          },
+          {
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-train-c7243219bdaa",
+              "src": "/api/admin/v6/image/v6-image-train-c7243219bdaa",
+              "altText": "Một đoàn tàu chạy trên đường ray.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "c7243219bdaa10c8b8f2512eb6548f47dda5e16286babfa5fa1478ba391c00f6"
+            },
+            "id": "B"
+          },
+          {
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-plane-a2d8ccad1896",
+              "src": "/api/admin/v6/image/v6-image-plane-a2d8ccad1896",
+              "altText": "Một chiếc máy bay có hai cánh.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "a2d8ccad18965b921980dafdb8e06ca485cd015da0005bcadbedded715f7a47b"
+            },
+            "id": "C"
+          }
+        ],
+        "correctAnswer": "B",
+        "correctOptionId": "B",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Nghe phương tiện 火车.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00046"
+        ],
+        "vocabularyIds": [
+          "cti25-v-222",
+          "cti25-v-298",
+          "cti25-v-83",
+          "cti25-v-81",
+          "cti25-v-86"
+        ],
+        "topicIds": [
+          "v6-topic-L1"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L1",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed pages1–2: three picture options per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-4514abbb77d3bbae3e0f5c1d",
+        "promptPinyin": "wǒ men zuò huǒ chē huí jiā。",
+        "pinyinDraft": "wǒ men zuò huǒ chē huí jiā。",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-4514abbb77d3bbae3e0f5c1d"
+        },
+        "audioDurationSeconds": 1.953,
+        "contentMeta": {
+          "instruction": "Nghe và chọn hình phù hợp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "wǒ men zuò huǒ chē huí jiā。"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "5f7a11319caed5cde97d3180b1fad95896d241547358e03c52b7cabe08949b8b",
+          "checkedAt": "2026-10-16T05:15:18.528Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.528Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.528Z",
+        "updatedAt": "2026-10-16T05:15:18.528Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "5f7a11319caed5cde97d3180b1fad95896d241547358e03c52b7cabe08949b8b",
+          "importedFingerprint": "5f7a11319caed5cde97d3180b1fad95896d241547358e03c52b7cabe08949b8b"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L2-1",
+      "revision": 3,
+      "sourceFingerprint": "5323c54a5fea4bad9d3793ad29e121772972dfcaa94510473d09756b2d73e67d",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L2-1",
+        "number": 189,
+        "skill": "listening",
+        "section": "listening",
+        "part": 2,
+        "partId": "L2",
+        "type": "dialogue",
+        "questionType": "dialogue",
+        "difficulty": "easy",
+        "instruction": "Nghe câu hỏi và chọn lời đáp",
+        "promptZh": "你在哪儿上学？",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "id": "A",
+            "text": "我在小学上学。",
+            "pinyin": "wǒ zài xiǎo xué shàng xué。"
+          },
+          {
+            "id": "B",
+            "text": "我六岁。",
+            "pinyin": "wǒ liù suì。"
+          },
+          {
+            "id": "C",
+            "text": "我喝水。",
+            "pinyin": "wǒ hē shuǐ。"
+          }
+        ],
+        "correctAnswer": "A",
+        "correctOptionId": "A",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Trả lời nơi học; không trả lời tuổi hoặc đồ uống.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00048"
+        ],
+        "vocabularyIds": [
+          "cti25-v-146",
+          "cti25-v-271",
+          "cti25-v-134",
+          "cti25-v-179",
+          "cti25-v-221",
+          "cti25-v-237",
+          "cti25-v-113",
+          "cti25-v-199",
+          "cti25-v-77",
+          "cti25-v-192"
+        ],
+        "topicIds": [
+          "v6-topic-L2"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L2",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed page3: three textual responses per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-a971a87918eeb9cf55e71130",
+        "promptPinyin": "nǐ zài nǎ ér shàng xué？",
+        "pinyinDraft": "nǐ zài nǎ ér shàng xué？",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-a971a87918eeb9cf55e71130"
+        },
+        "audioDurationSeconds": 1.64,
+        "contentMeta": {
+          "instruction": "Nghe câu hỏi và chọn lời đáp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "nǐ zài nǎ ér shàng xué？"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "5323c54a5fea4bad9d3793ad29e121772972dfcaa94510473d09756b2d73e67d",
+          "checkedAt": "2026-10-16T05:15:18.529Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.529Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.529Z",
+        "updatedAt": "2026-10-16T05:15:18.529Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "5323c54a5fea4bad9d3793ad29e121772972dfcaa94510473d09756b2d73e67d",
+          "importedFingerprint": "5323c54a5fea4bad9d3793ad29e121772972dfcaa94510473d09756b2d73e67d"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L2-10",
+      "revision": 3,
+      "sourceFingerprint": "b3e98e38de01654eb9ecf6ee3edd34583e6013fafe3157afe6e29941c8273fc4",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L2-10",
+        "number": 198,
+        "skill": "listening",
+        "section": "listening",
+        "part": 2,
+        "partId": "L2",
+        "type": "dialogue",
+        "questionType": "dialogue",
+        "difficulty": "easy",
+        "instruction": "Nghe câu hỏi và chọn lời đáp",
+        "promptZh": "谢谢你给我的书。",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "id": "A",
+            "text": "不客气。",
+            "pinyin": "bú kè qì。"
+          },
+          {
+            "id": "B",
+            "text": "你好。",
+            "pinyin": "nǐ hǎo。"
+          },
+          {
+            "id": "C",
+            "text": "再见。",
+            "pinyin": "zài jiàn。"
+          }
+        ],
+        "correctAnswer": "A",
+        "correctOptionId": "A",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Phản hồi lời cảm ơn bằng 不客气.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00045"
+        ],
+        "vocabularyIds": [
+          "cti25-v-241",
+          "cti25-v-146",
+          "cti25-v-61",
+          "cti25-v-221",
+          "cti25-v-30",
+          "cti25-v-190",
+          "cti25-v-14",
+          "cti25-v-147",
+          "cti25-v-272"
+        ],
+        "topicIds": [
+          "v6-topic-L2"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L2",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed page3: three textual responses per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-6259df457076c030f5e0a452",
+        "promptPinyin": "xiè xiè nǐ gěi wǒ de shū。",
+        "pinyinDraft": "xiè xiè nǐ gěi wǒ de shū。",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-6259df457076c030f5e0a452"
+        },
+        "audioDurationSeconds": 2.104,
+        "contentMeta": {
+          "instruction": "Nghe câu hỏi và chọn lời đáp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "xiè xiè nǐ gěi wǒ de shū。"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "b3e98e38de01654eb9ecf6ee3edd34583e6013fafe3157afe6e29941c8273fc4",
+          "checkedAt": "2026-10-16T05:15:18.535Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.535Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.535Z",
+        "updatedAt": "2026-10-16T05:15:18.535Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "b3e98e38de01654eb9ecf6ee3edd34583e6013fafe3157afe6e29941c8273fc4",
+          "importedFingerprint": "b3e98e38de01654eb9ecf6ee3edd34583e6013fafe3157afe6e29941c8273fc4"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L2-2",
+      "revision": 3,
+      "sourceFingerprint": "0187ed9a7ab4b8d97526eed49249a2648e9155f5bc510af679333c160b3c0eb0",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L2-2",
+        "number": 190,
+        "skill": "listening",
+        "section": "listening",
+        "part": 2,
+        "partId": "L2",
+        "type": "dialogue",
+        "questionType": "dialogue",
+        "difficulty": "easy",
+        "instruction": "Nghe câu hỏi và chọn lời đáp",
+        "promptZh": "你要喝什么？",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "id": "A",
+            "text": "我看书。",
+            "pinyin": "wǒ kàn shū。"
+          },
+          {
+            "id": "B",
+            "text": "她是老师。",
+            "pinyin": "tā shì lǎo shī。"
+          },
+          {
+            "id": "C",
+            "text": "我想喝茶。",
+            "pinyin": "wǒ xiǎng hē chá。"
+          }
+        ],
+        "correctAnswer": "C",
+        "correctOptionId": "C",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Câu hỏi hỏi đồ uống; trả lời bằng mong muốn uống trà.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00005"
+        ],
+        "vocabularyIds": [
+          "cti25-v-146",
+          "cti25-v-252",
+          "cti25-v-77",
+          "cti25-v-182",
+          "cti25-v-221",
+          "cti25-v-99",
+          "cti25-v-190",
+          "cti25-v-202",
+          "cti25-v-188",
+          "cti25-v-107",
+          "cti25-v-233",
+          "cti25-v-17"
+        ],
+        "topicIds": [
+          "v6-topic-L2"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L2",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed page3: three textual responses per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-c2ba371b726789dc527c06a8",
+        "promptPinyin": "nǐ yào hē shén me？",
+        "pinyinDraft": "nǐ yào hē shén me？",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-c2ba371b726789dc527c06a8"
+        },
+        "audioDurationSeconds": 1.64,
+        "contentMeta": {
+          "instruction": "Nghe câu hỏi và chọn lời đáp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "nǐ yào hē shén me？"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "0187ed9a7ab4b8d97526eed49249a2648e9155f5bc510af679333c160b3c0eb0",
+          "checkedAt": "2026-10-16T05:15:18.530Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.529Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.529Z",
+        "updatedAt": "2026-10-16T05:15:18.529Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "0187ed9a7ab4b8d97526eed49249a2648e9155f5bc510af679333c160b3c0eb0",
+          "importedFingerprint": "0187ed9a7ab4b8d97526eed49249a2648e9155f5bc510af679333c160b3c0eb0"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L2-3",
+      "revision": 3,
+      "sourceFingerprint": "4a6cb4d5792438f301ffd7cfd612943800886691d9442c7ae836b95c3df6806d",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L2-3",
+        "number": 191,
+        "skill": "listening",
+        "section": "listening",
+        "part": 2,
+        "partId": "L2",
+        "type": "dialogue",
+        "questionType": "dialogue",
+        "difficulty": "easy",
+        "instruction": "Nghe câu hỏi và chọn lời đáp",
+        "promptZh": "这件衣服贵不贵？",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "id": "A",
+            "text": "他不是学生。",
+            "pinyin": "tā bú shì xué shēng。"
+          },
+          {
+            "id": "B",
+            "text": "不贵，很便宜。",
+            "pinyin": "bù guì， hěn pián yi。"
+          },
+          {
+            "id": "C",
+            "text": "我不去。",
+            "pinyin": "wǒ bù qù。"
+          }
+        ],
+        "correctAnswer": "B",
+        "correctOptionId": "B",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Đáp vào cặp 贵不贵 bằng đánh giá giá tiền.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00049"
+        ],
+        "vocabularyIds": [
+          "cti25-v-279",
+          "cti25-v-89",
+          "cti25-v-255",
+          "cti25-v-65",
+          "cti25-v-13",
+          "cti25-v-200",
+          "cti25-v-188",
+          "cti25-v-248",
+          "cti25-v-79",
+          "cti25-v-157",
+          "cti25-v-221",
+          "cti25-v-167"
+        ],
+        "topicIds": [
+          "v6-topic-L2"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L2",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed page3: three textual responses per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-9f3b33fc1b18fd623b8e430f",
+        "promptPinyin": "zhè jiàn yī fú guì bù guì？",
+        "pinyinDraft": "zhè jiàn yī fú guì bù guì？",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-9f3b33fc1b18fd623b8e430f"
+        },
+        "audioDurationSeconds": 2.139,
+        "contentMeta": {
+          "instruction": "Nghe câu hỏi và chọn lời đáp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "zhè jiàn yī fú guì bù guì？"
+        },
+        "reviewRisk": {
+          "score": 50,
+          "reasons": [
+            "TONE_SANDHI_REVIEW",
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "4a6cb4d5792438f301ffd7cfd612943800886691d9442c7ae836b95c3df6806d",
+          "checkedAt": "2026-10-16T05:15:18.530Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.530Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.530Z",
+        "updatedAt": "2026-10-16T05:15:18.530Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "4a6cb4d5792438f301ffd7cfd612943800886691d9442c7ae836b95c3df6806d",
+          "importedFingerprint": "4a6cb4d5792438f301ffd7cfd612943800886691d9442c7ae836b95c3df6806d"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L2-4",
+      "revision": 3,
+      "sourceFingerprint": "14590835de4eaf07668e226d776d2110a185f0680af8141a14151695e7ce729a",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L2-4",
+        "number": 192,
+        "skill": "listening",
+        "section": "listening",
+        "part": 2,
+        "partId": "L2",
+        "type": "dialogue",
+        "questionType": "dialogue",
+        "difficulty": "easy",
+        "instruction": "Nghe câu hỏi và chọn lời đáp",
+        "promptZh": "今天星期几？",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "id": "A",
+            "text": "今天星期三。",
+            "pinyin": "jīn tiān xīng qī sān。"
+          },
+          {
+            "id": "B",
+            "text": "现在三点。",
+            "pinyin": "xiàn zài sān diǎn。"
+          },
+          {
+            "id": "C",
+            "text": "我有三本。",
+            "pinyin": "wǒ yǒu sān běn。"
+          }
+        ],
+        "correctAnswer": "A",
+        "correctOptionId": "A",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Phân biệt thứ trong tuần với giờ hoặc số lượng.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00069"
+        ],
+        "vocabularyIds": [
+          "cti25-v-94",
+          "cti25-v-243",
+          "cti25-v-85",
+          "cti25-v-173",
+          "cti25-v-232",
+          "cti25-v-33",
+          "cti25-v-221",
+          "cti25-v-263",
+          "cti25-v-10"
+        ],
+        "topicIds": [
+          "v6-topic-L2"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L2",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed page3: three textual responses per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-605af9612554866c848470f2",
+        "promptPinyin": "jīn tiān xīng qī jǐ？",
+        "pinyinDraft": "jīn tiān xīng qī jǐ？",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-605af9612554866c848470f2"
+        },
+        "audioDurationSeconds": 1.744,
+        "contentMeta": {
+          "instruction": "Nghe câu hỏi và chọn lời đáp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "jīn tiān xīng qī jǐ？"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "14590835de4eaf07668e226d776d2110a185f0680af8141a14151695e7ce729a",
+          "checkedAt": "2026-10-16T05:15:18.531Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.531Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.531Z",
+        "updatedAt": "2026-10-16T05:15:18.531Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "14590835de4eaf07668e226d776d2110a185f0680af8141a14151695e7ce729a",
+          "importedFingerprint": "14590835de4eaf07668e226d776d2110a185f0680af8141a14151695e7ce729a"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L2-5",
+      "revision": 3,
+      "sourceFingerprint": "fb4178608955bdab6ff8d245f4d0fd420b36a29ed2c043a76bbb3b487963c1ba",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L2-5",
+        "number": 193,
+        "skill": "listening",
+        "section": "listening",
+        "part": 2,
+        "partId": "L2",
+        "type": "dialogue",
+        "questionType": "dialogue",
+        "difficulty": "easy",
+        "instruction": "Nghe câu hỏi và chọn lời đáp",
+        "promptZh": "我可以坐这里吗？",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "id": "A",
+            "text": "在商店。",
+            "pinyin": "zài shāng diàn。"
+          },
+          {
+            "id": "B",
+            "text": "她很好看。",
+            "pinyin": "tā hěn hǎo kàn。"
+          },
+          {
+            "id": "C",
+            "text": "可以，请坐。",
+            "pinyin": "kě yǐ， qǐng zuò。"
+          }
+        ],
+        "correctAnswer": "C",
+        "correctOptionId": "C",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Một lời xin phép cần phản hồi đồng ý hoặc từ chối phù hợp.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00006"
+        ],
+        "vocabularyIds": [
+          "cti25-v-221",
+          "cti25-v-102",
+          "cti25-v-298",
+          "cti25-v-282",
+          "cti25-v-115",
+          "cti25-v-271",
+          "cti25-v-174",
+          "cti25-v-202",
+          "cti25-v-79",
+          "cti25-v-73",
+          "cti25-v-165"
+        ],
+        "topicIds": [
+          "v6-topic-L2"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L2",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed page3: three textual responses per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-a717fde949827c7a3915b8af",
+        "promptPinyin": "wǒ kě yǐ zuò zhè lǐ ma？",
+        "pinyinDraft": "wǒ kě yǐ zuò zhè lǐ ma？",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-a717fde949827c7a3915b8af"
+        },
+        "audioDurationSeconds": 1.698,
+        "contentMeta": {
+          "instruction": "Nghe câu hỏi và chọn lời đáp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "wǒ kě yǐ zuò zhè lǐ ma？"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "fb4178608955bdab6ff8d245f4d0fd420b36a29ed2c043a76bbb3b487963c1ba",
+          "checkedAt": "2026-10-16T05:15:18.532Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.531Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.531Z",
+        "updatedAt": "2026-10-16T05:15:18.531Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "fb4178608955bdab6ff8d245f4d0fd420b36a29ed2c043a76bbb3b487963c1ba",
+          "importedFingerprint": "fb4178608955bdab6ff8d245f4d0fd420b36a29ed2c043a76bbb3b487963c1ba"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L2-6",
+      "revision": 3,
+      "sourceFingerprint": "b184f216f9413491211bd84ce5c8f691f1e2c9ba87caaaf2b06e854d18ad8518",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L2-6",
+        "number": 194,
+        "skill": "listening",
+        "section": "listening",
+        "part": 2,
+        "partId": "L2",
+        "type": "dialogue",
+        "questionType": "dialogue",
+        "difficulty": "easy",
+        "instruction": "Nghe câu hỏi và chọn lời đáp",
+        "promptZh": "你有几本汉语书？",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "id": "A",
+            "text": "今天星期二。",
+            "pinyin": "jīn tiān xīng qī èr。"
+          },
+          {
+            "id": "B",
+            "text": "我有两本。",
+            "pinyin": "wǒ yǒu liǎng běn。"
+          },
+          {
+            "id": "C",
+            "text": "两点半。",
+            "pinyin": "liǎng diǎn bàn。"
+          }
+        ],
+        "correctAnswer": "B",
+        "correctOptionId": "B",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "几本 hỏi số sách, không phải thời gian.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00011"
+        ],
+        "vocabularyIds": [
+          "cti25-v-146",
+          "cti25-v-263",
+          "cti25-v-85",
+          "cti25-v-10",
+          "cti25-v-69",
+          "cti25-v-190",
+          "cti25-v-94",
+          "cti25-v-243",
+          "cti25-v-49",
+          "cti25-v-221",
+          "cti25-v-111",
+          "cti25-v-33",
+          "cti25-v-7"
+        ],
+        "topicIds": [
+          "v6-topic-L2"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L2",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed page3: three textual responses per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-f782b0861bd2a0a691d73c6a",
+        "promptPinyin": "nǐ yǒu jǐ běn hàn yǔ shū？",
+        "pinyinDraft": "nǐ yǒu jǐ běn hàn yǔ shū？",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-f782b0861bd2a0a691d73c6a"
+        },
+        "audioDurationSeconds": 1.918,
+        "contentMeta": {
+          "instruction": "Nghe câu hỏi và chọn lời đáp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "nǐ yǒu jǐ běn hàn yǔ shū？"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "b184f216f9413491211bd84ce5c8f691f1e2c9ba87caaaf2b06e854d18ad8518",
+          "checkedAt": "2026-10-16T05:15:18.532Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.532Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.532Z",
+        "updatedAt": "2026-10-16T05:15:18.532Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "b184f216f9413491211bd84ce5c8f691f1e2c9ba87caaaf2b06e854d18ad8518",
+          "importedFingerprint": "b184f216f9413491211bd84ce5c8f691f1e2c9ba87caaaf2b06e854d18ad8518"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L2-7",
+      "revision": 3,
+      "sourceFingerprint": "20ff0887da1ae9ebac11b18d84000c46b2936e52b4d689b136a7cb28e4723964",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L2-7",
+        "number": 195,
+        "skill": "listening",
+        "section": "listening",
+        "part": 2,
+        "partId": "L2",
+        "type": "dialogue",
+        "questionType": "dialogue",
+        "difficulty": "easy",
+        "instruction": "Nghe câu hỏi và chọn lời đáp",
+        "promptZh": "你认识那个医生吗？",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "id": "A",
+            "text": "认识，她是我姐姐。",
+            "pinyin": "rèn shí， tā shì wǒ jiě jiě。"
+          },
+          {
+            "id": "B",
+            "text": "我住学校里。",
+            "pinyin": "wǒ zhù xué xiào lǐ。"
+          },
+          {
+            "id": "C",
+            "text": "这杯水很热。",
+            "pinyin": "zhè bēi shuǐ hěn rè。"
+          }
+        ],
+        "correctAnswer": "A",
+        "correctOptionId": "A",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Trả lời xác nhận quen biết, bổ sung quan hệ.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00047"
+        ],
+        "vocabularyIds": [
+          "cti25-v-146",
+          "cti25-v-171",
+          "cti25-v-138",
+          "cti25-v-256",
+          "cti25-v-115",
+          "cti25-v-202",
+          "cti25-v-188",
+          "cti25-v-221",
+          "cti25-v-92",
+          "cti25-v-294",
+          "cti25-v-250",
+          "cti25-v-110",
+          "cti25-v-279",
+          "cti25-v-192",
+          "cti25-v-79",
+          "cti25-v-169"
+        ],
+        "topicIds": [
+          "v6-topic-L2"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L2",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed page3: three textual responses per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-3a94897846feec276009c64a",
+        "promptPinyin": "nǐ rèn shí nà ge yī shēng ma？",
+        "pinyinDraft": "nǐ rèn shí nà ge yī shēng ma？",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-3a94897846feec276009c64a"
+        },
+        "audioDurationSeconds": 2.232,
+        "contentMeta": {
+          "instruction": "Nghe câu hỏi và chọn lời đáp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "nǐ rèn shí nà ge yī shēng ma？"
+        },
+        "reviewRisk": {
+          "score": 52,
+          "reasons": [
+            "LEVEL_OR_SEGMENTATION_FLAGS",
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "20ff0887da1ae9ebac11b18d84000c46b2936e52b4d689b136a7cb28e4723964",
+          "checkedAt": "2026-10-16T05:15:18.533Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.532Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.532Z",
+        "updatedAt": "2026-10-16T05:15:18.532Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "20ff0887da1ae9ebac11b18d84000c46b2936e52b4d689b136a7cb28e4723964",
+          "importedFingerprint": "20ff0887da1ae9ebac11b18d84000c46b2936e52b4d689b136a7cb28e4723964"
+        }
+      },
+      "flags": [
+        "LEVEL_TOKEN_REVIEW"
+      ],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L2-8",
+      "revision": 3,
+      "sourceFingerprint": "f390dcac0827c948f28431bcb34cf7475ddc22812a944e9335ddc6665bf5494b",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L2-8",
+        "number": 196,
+        "skill": "listening",
+        "section": "listening",
+        "part": 2,
+        "partId": "L2",
+        "type": "dialogue",
+        "questionType": "dialogue",
+        "difficulty": "easy",
+        "instruction": "Nghe câu hỏi và chọn lời đáp",
+        "promptZh": "你怎么去公司？",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "id": "A",
+            "text": "公司很大。",
+            "pinyin": "gōng sī hěn dà。"
+          },
+          {
+            "id": "B",
+            "text": "我在公司。",
+            "pinyin": "wǒ zài gōng sī。"
+          },
+          {
+            "id": "C",
+            "text": "我坐出租车去。",
+            "pinyin": "wǒ zuò chū zū chē qù。"
+          }
+        ],
+        "correctAnswer": "C",
+        "correctOptionId": "C",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "怎么去 hỏi phương thức đi lại.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00057"
+        ],
+        "vocabularyIds": [
+          "cti25-v-146",
+          "cti25-v-276",
+          "cti25-v-167",
+          "cti25-v-62",
+          "cti25-v-79",
+          "cti25-v-25",
+          "cti25-v-221",
+          "cti25-v-271",
+          "cti25-v-298",
+          "cti25-v-22"
+        ],
+        "topicIds": [
+          "v6-topic-L2"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L2",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed page3: three textual responses per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-0499f70250ccf11996a79e7d",
+        "promptPinyin": "nǐ zěn me qù gōng sī？",
+        "pinyinDraft": "nǐ zěn me qù gōng sī？",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-0499f70250ccf11996a79e7d"
+        },
+        "audioDurationSeconds": 1.5,
+        "contentMeta": {
+          "instruction": "Nghe câu hỏi và chọn lời đáp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "nǐ zěn me qù gōng sī？"
+        },
+        "reviewRisk": {
+          "score": 42,
+          "reasons": [
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "f390dcac0827c948f28431bcb34cf7475ddc22812a944e9335ddc6665bf5494b",
+          "checkedAt": "2026-10-16T05:15:18.533Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.533Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.533Z",
+        "updatedAt": "2026-10-16T05:15:18.533Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "f390dcac0827c948f28431bcb34cf7475ddc22812a944e9335ddc6665bf5494b",
+          "importedFingerprint": "f390dcac0827c948f28431bcb34cf7475ddc22812a944e9335ddc6665bf5494b"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    },
+    {
+      "id": "v6-L2-9",
+      "revision": 3,
+      "sourceFingerprint": "950db1ba4d1556cf6b5c2266ad1bc08f8fff956321f7d728bc344fbd4a6c3a99",
+      "content": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V6 draft",
+        "sourceName": "LuyenThiHSK V6",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v6",
+        "license": "Original AI-assisted draft; human language and rights review pending",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "editorialRelease": "v6-hsk1",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T05:10:28.503Z"
+        },
+        "provenance": {
+          "source_url": "local:editorial/v6",
+          "source_name": "Original project content V6",
+          "source_version": "v6-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original draft, pending review",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original text/SVG; CTI referenced only for structure and syllabus membership"
+        },
+        "id": "v6-L2-9",
+        "number": 197,
+        "skill": "listening",
+        "section": "listening",
+        "part": 2,
+        "partId": "L2",
+        "type": "dialogue",
+        "questionType": "dialogue",
+        "difficulty": "easy",
+        "instruction": "Nghe câu hỏi và chọn lời đáp",
+        "promptZh": "你今天忙不忙？",
+        "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+        "options": [
+          {
+            "id": "A",
+            "text": "我不喝牛奶。",
+            "pinyin": "wǒ bù hē niú nǎi。"
+          },
+          {
+            "id": "B",
+            "text": "我今天不忙。",
+            "pinyin": "wǒ jīn tiān bù máng。"
+          },
+          {
+            "id": "C",
+            "text": "今天六号。",
+            "pinyin": "jīn tiān liù hào。"
+          }
+        ],
+        "correctAnswer": "B",
+        "correctOptionId": "B",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "explanation": "Nhắc lại đúng phạm vi bận/không bận của ngày hôm nay.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00049"
+        ],
+        "vocabularyIds": [
+          "cti25-v-146",
+          "cti25-v-94",
+          "cti25-v-118",
+          "cti25-v-13",
+          "cti25-v-221",
+          "cti25-v-77",
+          "cti25-v-151",
+          "cti25-v-113",
+          "cti25-v-76"
+        ],
+        "topicIds": [
+          "v6-topic-L2"
+        ],
+        "assessmentSuitability": "EXAM_CANDIDATE",
+        "fullMockEligible": true,
+        "estimatedTimeSeconds": 45,
+        "hanziIds": [],
+        "batch": "EXAM_L2",
+        "formatEvidence": {
+          "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+          "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+          "evidenceDescription": "Sample printed page3: three textual responses per item",
+          "verifiedAt": "2026-10-16",
+          "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+        },
+        "audioAssetId": "v6-audio-91ce0ca1a88ac6605b1a0b5f",
+        "promptPinyin": "nǐ jīn tiān máng bù máng？",
+        "pinyinDraft": "nǐ jīn tiān máng bù máng？",
+        "audio": {
+          "kind": "file",
+          "src": "/api/admin/v6/audio/v6-audio-91ce0ca1a88ac6605b1a0b5f"
+        },
+        "audioDurationSeconds": 1.547,
+        "contentMeta": {
+          "instruction": "Nghe câu hỏi và chọn lời đáp",
+          "scoring": "choice",
+          "acceptedAnswers": [],
+          "estimatedTimeSeconds": 45,
+          "hanziIds": [],
+          "promptPinyin": "nǐ jīn tiān máng bù máng？"
+        },
+        "reviewRisk": {
+          "score": 50,
+          "reasons": [
+            "TONE_SANDHI_REVIEW",
+            "RIGHTS_PENDING",
+            "MOCK_EXPOSURE"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "950db1ba4d1556cf6b5c2266ad1bc08f8fff956321f7d728bc344fbd4a6c3a99",
+          "checkedAt": "2026-10-16T05:15:18.535Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "importedAt": "2026-10-16T05:15:18.534Z",
+        "verifiedAt": null,
+        "createdAt": "2026-10-16T05:15:18.534Z",
+        "updatedAt": "2026-10-16T05:15:18.534Z",
+        "publishedAt": null,
+        "hskLevel": "1",
+        "alternativeAnswers": [],
+        "passageId": null,
+        "qualityScore": 0,
+        "editorialImport": {
+          "sourceFingerprint": "950db1ba4d1556cf6b5c2266ad1bc08f8fff956321f7d728bc344fbd4a6c3a99",
+          "importedFingerprint": "950db1ba4d1556cf6b5c2266ad1bc08f8fff956321f7d728bc344fbd4a6c3a99"
+        }
+      },
+      "flags": [],
+      "checklist": [
+        {
+          "item": "Chinese correctness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Naturalness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Pinyin",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Vietnamese explanation",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "HSK level",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Answer uniqueness",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Distractors",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Media",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Rights",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Format",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        },
+        {
+          "item": "Student-facing clarity",
+          "status": "NOT_REVIEWED",
+          "comment": ""
+        }
+      ],
+      "languageQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "levelQA": "BLOCKED_FOR_HUMAN_REVIEW",
+      "rightsQA": "UNVERIFIED"
+    }
+  ]
+}

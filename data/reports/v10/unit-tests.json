@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-19T06:12:29.555Z",
+  "status": "PASS",
+  "assertions": 485,
+  "fixtures": "Generated PCM tones and artificial rights flags only inside unit tests; never staged",
+  "humanReviewsCreated": 0,
+  "networkCalls": 0
+}

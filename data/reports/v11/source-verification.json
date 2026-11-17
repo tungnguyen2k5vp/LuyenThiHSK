@@ -1,0 +1,32 @@
+{
+  "at": "2026-10-18T03:51:57.886Z",
+  "checkedPrimaryPage": "https://www.chinesetest.cn/syllabus",
+  "checkedVia": "Web read on 2026-10-18; source of truth retained before community references",
+  "cachedPaperSample": {
+    "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+    "answerSha256": "4bb64c8d61a3b385c66cce19222edafbd6149d8542339fbaa4bf04487bc7dbfd",
+    "matchesFrozenV10": true,
+    "scope": "PAPER_SAMPLE_ONLY",
+    "parts": {
+      "listening": 25,
+      "reading": 25,
+      "writing": 10
+    },
+    "writingNumbering": "POSITIONAL_HYPOTHESIS_NOT_VERIFIED"
+  },
+  "platformRules": {
+    "minutes": 52,
+    "audioMaxPlays": 2,
+    "authority": "PLATFORM_DEFINED_NOT_VERIFIED_IBT"
+  },
+  "providerSources": [
+    "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice",
+    "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech",
+    "https://huggingface.co/myshell-ai/MeloTTS-Chinese",
+    "https://www.microsoft.com/licensing/terms/en-US/productoffering/MicrosoftAzure/OVOVS"
+  ],
+  "newContentSource": "ORIGINAL_AI_DRAFT_NOT_OFFICIAL",
+  "copiedCopyrightedQuestions": 0,
+  "downloadedModels": 0,
+  "paidCalls": 0
+}

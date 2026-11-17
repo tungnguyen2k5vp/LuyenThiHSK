@@ -1,0 +1,20 @@
+{
+  "at": "2026-10-19T00:57:20.056Z",
+  "status": "PASS",
+  "schemaUnchanged": true,
+  "tables": [
+    {
+      "name": "account_audit",
+      "beforeRows": 0,
+      "currentRows": 0,
+      "unchanged": true
+    },
+    {
+      "name": "account_sessions",
+      "beforeRows": 0,
+      "currentRows": 0,
+      "unchanged": true
+    }
+  ],
+  "scope": "Read-only logical comparison of local account database against V12 consistent backup; no session/token/owner values exported. Browser learner stores were never read or reset; QA uses isolated profiles. Cloud learning database remains unconfigured."
+}

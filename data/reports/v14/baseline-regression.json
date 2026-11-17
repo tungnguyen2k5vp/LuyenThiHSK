@@ -1,0 +1,185 @@
+{
+  "at": "2026-10-19T09:34:23.254Z",
+  "baseline": "2026-10-19T09:27:19.986Z",
+  "workspace": "D:\\ReactJS\\LuyenThiHSK\\.tmp\\v14-regression-1792402117268",
+  "status": "PASS",
+  "results": [
+    {
+      "name": "typecheck",
+      "exitCode": 0,
+      "durationMs": 684
+    },
+    {
+      "name": "lint",
+      "exitCode": 0,
+      "durationMs": 718
+    },
+    {
+      "name": "test",
+      "exitCode": 0,
+      "durationMs": 2437
+    },
+    {
+      "name": "test:v2",
+      "exitCode": 0,
+      "durationMs": 2333
+    },
+    {
+      "name": "test:v3",
+      "exitCode": 0,
+      "durationMs": 2350
+    },
+    {
+      "name": "test:v3-api",
+      "exitCode": 0,
+      "durationMs": 816
+    },
+    {
+      "name": "test:v4",
+      "exitCode": 0,
+      "durationMs": 3806
+    },
+    {
+      "name": "test:v5",
+      "exitCode": 0,
+      "durationMs": 531
+    },
+    {
+      "name": "test:v5-api",
+      "exitCode": 0,
+      "durationMs": 2706
+    },
+    {
+      "name": "test:v6",
+      "exitCode": 0,
+      "durationMs": 3245
+    },
+    {
+      "name": "test:v6-api",
+      "exitCode": 0,
+      "durationMs": 5069
+    },
+    {
+      "name": "test:account",
+      "exitCode": 0,
+      "durationMs": 1633
+    },
+    {
+      "name": "test:admin",
+      "exitCode": 0,
+      "durationMs": 671
+    },
+    {
+      "name": "check:content",
+      "exitCode": 0,
+      "durationMs": 2584
+    },
+    {
+      "name": "test:v7",
+      "exitCode": 0,
+      "durationMs": 3067
+    },
+    {
+      "name": "test:v7-api",
+      "exitCode": 0,
+      "durationMs": 2838
+    },
+    {
+      "name": "test:v7-account",
+      "exitCode": 0,
+      "durationMs": 375
+    },
+    {
+      "name": "test:v7-sync",
+      "exitCode": 0,
+      "durationMs": 1607
+    },
+    {
+      "name": "test:v8",
+      "exitCode": 0,
+      "durationMs": 1201
+    },
+    {
+      "name": "test:v8-api",
+      "exitCode": 0,
+      "durationMs": 1732
+    },
+    {
+      "name": "test:v8-grading",
+      "exitCode": 0,
+      "durationMs": 471
+    },
+    {
+      "name": "test:v8-grammar",
+      "exitCode": 0,
+      "durationMs": 3426
+    },
+    {
+      "name": "build",
+      "exitCode": 0,
+      "durationMs": 3603
+    },
+    {
+      "name": "test:v9",
+      "exitCode": 0,
+      "durationMs": 3025
+    },
+    {
+      "name": "test:v9-api",
+      "exitCode": 0,
+      "durationMs": 1342
+    },
+    {
+      "name": "test:v10",
+      "exitCode": 0,
+      "durationMs": 2559
+    },
+    {
+      "name": "test:v10-api",
+      "exitCode": 0,
+      "durationMs": 2307
+    },
+    {
+      "name": "test:v11",
+      "exitCode": 0,
+      "durationMs": 2733
+    },
+    {
+      "name": "test:v11-api",
+      "exitCode": 0,
+      "durationMs": 2672
+    },
+    {
+      "name": "test:v12",
+      "exitCode": 0,
+      "durationMs": 2813
+    },
+    {
+      "name": "test:v12-api",
+      "exitCode": 0,
+      "durationMs": 8082
+    },
+    {
+      "name": "test:v12-journey",
+      "exitCode": 0,
+      "durationMs": 2516
+    },
+    {
+      "name": "test:v13-contract",
+      "exitCode": 0,
+      "durationMs": 3585
+    },
+    {
+      "name": "test:v13-content",
+      "exitCode": 0,
+      "durationMs": 569
+    },
+    {
+      "name": "test:v13-api",
+      "exitCode": 0,
+      "durationMs": 4625
+    }
+  ],
+  "logs": "data/reports/v14/baseline-regression-1792402378494",
+  "scope": "Isolated source/data copy; API suites use disposable DBs. No V13 evidence overwritten."
+}

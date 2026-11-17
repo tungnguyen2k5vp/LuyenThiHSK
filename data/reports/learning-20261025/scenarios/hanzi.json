@@ -1,0 +1,84 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=hanzi&level=HSK%207-9"
+  },
+  "actions": [
+    {
+      "step_id": "loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "search",
+      "action": "fill",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-filters input[type=search]"
+      },
+      "value": {
+        "source": "literal",
+        "value": "绊"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "open",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "stroke_data",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".stroke-guide g path >> nth=7"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "animate",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Phát từng nét"
+      },
+      "timeout_ms": 10000
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

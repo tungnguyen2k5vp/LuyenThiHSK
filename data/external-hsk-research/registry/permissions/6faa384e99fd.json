@@ -1,0 +1,7 @@
+{
+  "allowed": false,
+  "text": "",
+  "error": "fetch failed",
+  "url": "https://www.chinesetest.cn/robots.txt",
+  "effectiveMinIntervalMs": 2000
+}

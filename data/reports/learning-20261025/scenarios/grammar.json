@@ -1,0 +1,91 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=grammar&level=HSK%201"
+  },
+  "actions": [
+    {
+      "step_id": "lessons",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "taxonomy",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Xem toàn bộ mục lục syllabus"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "taxonomy_enabled",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "button[aria-pressed=true]:has-text(\"Chỉ xem bài có giải thích\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "lessons_only",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Chỉ xem bài có giải thích"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "open",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "example",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".grammar-lesson blockquote >> nth=1"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

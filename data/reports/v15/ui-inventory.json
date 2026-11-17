@@ -1,0 +1,222 @@
+[
+  {
+    "file": "src/ui-v14/components/catalog/ExamCatalogCard.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "008d8d7a590bf762cba8e392098a0b040bbe8e9c4222cdfc98b5373985838a38"
+  },
+  {
+    "file": "src/ui-v14/components/catalog/ExamCatalogView.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "68a4441bf476cd2b4cad19bc1e67e937df204015003ed7cf3929ea1c2cb61b4e"
+  },
+  {
+    "file": "src/ui-v14/components/catalog/index.ts",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "494273dd04270fc120d9a29fa2ff7f0361c78f34ce38a3e2c10d55308e267d92"
+  },
+  {
+    "file": "src/ui-v14/components/exam/ExamNavigator.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "38bb743abb38b413f1d1f2e0d17149aa828a65510abdc6b2ddcb8ed83ce49bf5"
+  },
+  {
+    "file": "src/ui-v14/components/exam/ExamRoomShell.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "f7c47427cf6336845edd7010f9de447c5ccf11776b8b30a58840dc5bd7c27c49"
+  },
+  {
+    "file": "src/ui-v14/components/exam/ExamTimerCard.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "50467446982bc94eff466c93274e2a43074467f148f3aa15872e94cf0fdb8dc8"
+  },
+  {
+    "file": "src/ui-v14/components/exam/index.ts",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "d99337e9d340194012ae0b9ee1ed6cc48bc585169bdee0315532ee0bd4ffe4a8"
+  },
+  {
+    "file": "src/ui-v14/components/intro/ExamIntroCard.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "e31a17f7de0eff21bdbb30c611479b683f0cc9aacc17e87974b9069489a48285"
+  },
+  {
+    "file": "src/ui-v14/components/intro/index.ts",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "db3aa249dd7119fae95f1c51abd825c08b5573129afa1e55faa6645db6c899d0"
+  },
+  {
+    "file": "src/ui-v14/components/intro/ListeningInstructionModal.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "d659917b9e39006165e3d67cfd413fa9c39dc4e710dab6eeba96623748786889"
+  },
+  {
+    "file": "src/ui-v14/components/question/ExplanationAccordion.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "1c02026cf59285399c8c631e1b3c881a967f3ee5f53b070bc6e1f53b999537d6"
+  },
+  {
+    "file": "src/ui-v14/components/question/index.ts",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "4d49921dc5ec7f92d11fc0e40ecf415da44b8acd9b92c507aa07c1c1eb4c5374"
+  },
+  {
+    "file": "src/ui-v14/components/question/ListeningDialogue.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "5c73d5d8bb20b95b8d08d048f63aedce86609c091c200e7d831bb3e44942cd9c"
+  },
+  {
+    "file": "src/ui-v14/components/question/ListeningImageChoice.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "ecfdfc72670d688c76c1de052bddc64275f280d158fa402438c1226b9619627b"
+  },
+  {
+    "file": "src/ui-v14/components/question/ListeningMatching.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "f579c3681e289f4821b3f70d384c2f6af755e2f0e634544bc0bb4febd8ef4269"
+  },
+  {
+    "file": "src/ui-v14/components/question/ListeningTrueFalse.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "2c0ad7b75aaefd5671febc1ff4a554cbaf23f743b2b3132cd6940c4ef70e4c70"
+  },
+  {
+    "file": "src/ui-v14/components/question/ReadingPassageQuestion.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "9af6124f0f103b2b6097b4daf7cb6361c5ed124b685febfa8e0edfb2cb7f5f40"
+  },
+  {
+    "file": "src/ui-v14/components/question/WritingWorkspaceV14.tsx",
+    "state": "Component chưa mount trong luồng V15; giữ nguyên để tránh thay owner không cần thiết",
+    "sha256": "687e4a7ab110c4742b9710711e4244459fc64ae66c1ab08eb1b0cd67173f0a97"
+  },
+  {
+    "file": "src/ui-v14/components/result/index.ts",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "91fc7634155735ecc8da7e5555544f813db4684306971d0e887869417813a61d"
+  },
+  {
+    "file": "src/ui-v14/components/result/ResultPageViewV14.tsx",
+    "state": "Tái sử dụng/mount hoặc dependency của view hiện có",
+    "sha256": "8fb7fa4ff9a5d3ecfcfaf85340bc66dd2f77771a58d0140eeb70dbb14f6377b0"
+  },
+  {
+    "file": "src/ui-v14/index.ts",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "5286d875f9e5bd14d284adbf18ce590822ba32dd57c8fec5158df3ffce7b64d2"
+  },
+  {
+    "file": "src/ui-v14/primitives/AudioPlayerBar/AudioPlayerBar.tsx",
+    "state": "Không dùng làm audio owner trong phòng thi",
+    "sha256": "e5ea86e690e47c19972c7170dc8560ca1ca1661855142a3a732999ff045db570"
+  },
+  {
+    "file": "src/ui-v14/primitives/Badge/Badge.tsx",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "75dab155d663f741c054b1be532e50bfbab126544d4793bce8fa1644a7feace8"
+  },
+  {
+    "file": "src/ui-v14/primitives/Button/Button.tsx",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "48a816fdca48dc7ba08789a1f7f0bdcd4ca439b9e5bd51a81f02285012253a65"
+  },
+  {
+    "file": "src/ui-v14/primitives/Card/Card.tsx",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "8cb2708192ad4380af606fb6d1c24d2c1266ea8a9c4e8f3dbb1d86cd8022347e"
+  },
+  {
+    "file": "src/ui-v14/primitives/DigitalTimer/DigitalTimer.tsx",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "6103187146b2146a6e78a7af9457e61ed500175268f07331d57b70507362d9a8"
+  },
+  {
+    "file": "src/ui-v14/primitives/EmptyState/EmptyState.tsx",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "14212e8248180ac6f1a95d20ee43cada733332af5abe13036ab5856aee3f3c64"
+  },
+  {
+    "file": "src/ui-v14/primitives/index.ts",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "218cc2286a67fe69a2f3b7e08e0bd1121d272cacc1f84de5afacb7ad9004467d"
+  },
+  {
+    "file": "src/ui-v14/primitives/MiniAudioPlayer/MiniAudioPlayer.tsx",
+    "state": "Không dùng làm audio owner trong phòng thi",
+    "sha256": "ce39592346934608eeb5323ffecf76fbcb886dfaab378101174166e2d95a4ca6"
+  },
+  {
+    "file": "src/ui-v14/primitives/ToggleSwitch/ToggleSwitch.tsx",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "aa7d38ae511368d02073a3c41df5ef23bc3e4d34d5a608cb84e3c39c25a70be2"
+  },
+  {
+    "file": "src/ui-v14/styles/base.css",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "9059f4949cb6d8a49a00ccc33ace267f11470f11ff77b44974da0b80e3180640"
+  },
+  {
+    "file": "src/ui-v14/styles/components.css",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "ad73e6e012b5cf4a11bf07df505fc3a295ab024530ebfca17bbabd7be85178fe"
+  },
+  {
+    "file": "src/ui-v14/styles/exam-catalog.css",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "39f145e4cb222b585951e20d1521537858d72524fb7bffda0af83ef862f0aecb"
+  },
+  {
+    "file": "src/ui-v14/styles/exam-room.css",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "9d40ca0cd5331ff74fa180b48dd7ba68125288c79d1eb78fc8c0218e59c7121f"
+  },
+  {
+    "file": "src/ui-v14/styles/index.css",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "93b93008f469e73c414535b62939fc3958f4ae9ab6aac50ef6ba3b5ebf3e186a"
+  },
+  {
+    "file": "src/ui-v14/styles/tokens.css",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "2122c2a876aa34621b4bd5c0dcab4070fb8f259e53b6f18b2fa5e7cb80789a48"
+  },
+  {
+    "file": "src/ui-v14/types/callbacks.ts",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "e912477b1e0d00129ea2d75ef3fbad67099fe70205166a8a5c930ee7a85d33ff"
+  },
+  {
+    "file": "src/ui-v14/types/viewmodels.ts",
+    "state": "Hỗ trợ types/style/primitive",
+    "sha256": "591396ff5c8293d03f3f0256aea3e960d2c24ec379697b79e3343e9dadae3dc2"
+  },
+  {
+    "file": "src/ui-v14/views/ExamCatalogWorkspaceView.tsx",
+    "state": "Workspace wrapper chưa mount",
+    "sha256": "62dac1ef02aecf03f3b7b29de0119aa036842e6e60bb3a444875c1f880f3416e"
+  },
+  {
+    "file": "src/ui-v14/views/ExamIntroWorkspaceView.tsx",
+    "state": "Workspace wrapper chưa mount",
+    "sha256": "13136d74bf788b50d63821c93bb7e6453dafc5865751eacd094f06c7e48559dd"
+  },
+  {
+    "file": "src/ui-v14/views/ExamRoomWorkspaceView.tsx",
+    "state": "Workspace wrapper chưa mount",
+    "sha256": "e4d5381af248a5f267e4b0db518f1e23e3b995887633a5f2cf0cc9c7306cc88e"
+  },
+  {
+    "file": "src/ui-v14/views/index.ts",
+    "state": "Workspace wrapper chưa mount",
+    "sha256": "eb196a1df542378d5dd87d93e42c3a414da3319df7aed22cf47230e9b1333114"
+  },
+  {
+    "file": "src/ui-v14/views/ResultWorkspaceViewV14.tsx",
+    "state": "Workspace wrapper chưa mount",
+    "sha256": "e3205978e020295ad55057f4ca2e6c0935e53ce2ba43c38b4cc3d8231aa55ae4"
+  },
+  {
+    "file": "src/ui-v14/__fixtures__/mockData.ts",
+    "state": "Fixture không mount",
+    "sha256": "8942e11cc3623d1974c7c66759b74c38a3141d81c1ad628e3553b5f54c13db8c"
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "at": "2026-10-16T03:39:31.528Z",
+  "status": "PASS",
+  "scope": "HSK1 PRIVATE TECHNICAL BETA ONLY",
+  "counts": {
+    "vocabulary": {
+      "total": 300,
+      "draft": 0,
+      "needsReview": 300,
+      "internallyValidated": 300,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "grammar": {
+      "total": 68,
+      "draft": 0,
+      "needsReview": 68,
+      "internallyValidated": 68,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "questions": {
+      "total": 178,
+      "draft": 0,
+      "needsReview": 178,
+      "internallyValidated": 178,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "audio": {
+      "total": 40,
+      "draft": 0,
+      "needsReview": 40,
+      "internallyValidated": 40,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "templates": {
+      "total": 1,
+      "draft": 0,
+      "needsReview": 1,
+      "internallyValidated": 1,
+      "humanReviewed": 0,
+      "published": 0
+    }
+  },
+  "total": 587,
+  "draft": 0,
+  "needsReview": 587,
+  "internallyValidated": 587,
+  "humanReviewed": 0,
+  "published": 0,
+  "requiredDocuments": 17,
+  "screenshots": 56,
+  "viewportWidths": [
+    1280,
+    375
+  ],
+  "evidence": {
+    "final-regression.json": {
+      "status": "PASS",
+      "at": "2026-10-16T03:28:43.409Z"
+    },
+    "api-tests.json": {
+      "status": "PASS",
+      "at": "2026-10-16T03:28:43.372Z"
+    },
+    "progress-tests.json": {
+      "status": "PASS",
+      "at": "2026-10-16T03:31:24.308Z"
+    },
+    "review-package-validation.json": {
+      "status": "PASS",
+      "at": "2026-10-16T03:31:21.683Z"
+    },
+    "review-package-browser.json": {
+      "status": "PASS",
+      "at": "2026-10-16T03:23:35.296Z"
+    },
+    "e2e-v1-v3-chrome.json": {
+      "status": "PASS",
+      "at": "2026-10-16T03:29:46.438Z"
+    },
+    "e2e-v4-chrome.json": {
+      "status": "PASS",
+      "at": "2026-10-16T03:31:48.405Z"
+    },
+    "e2e-v5-chrome.json": {
+      "status": "PASS",
+      "at": "2026-10-16T03:34:18.667Z"
+    },
+    "e2e-v5-edge.json": {
+      "status": "PASS",
+      "at": "2026-10-16T03:37:17.079Z"
+    },
+    "e2e-audio-performance-chrome.json": {
+      "status": "PASS",
+      "at": "2026-10-16T03:31:37.023Z"
+    }
+  },
+  "secretScan": "NO_LIVE_TOKEN_IN_GENERATED_DELIVERABLES",
+  "blockers": [
+    "HUMAN_EXPERT_REVIEW",
+    "AUDIO_RIGHTS",
+    "AUTHENTIC_MOCK_FORMAT_RULES",
+    "PRODUCTION_AUTH_RBAC_INFRASTRUCTURE",
+    "REAL_DEVICE_CROSS_BROWSER_QA"
+  ]
+}

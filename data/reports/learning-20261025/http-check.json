@@ -1,0 +1,41 @@
+{
+  "result": "PASS",
+  "rows": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 2526,
+      "type": "text/html"
+    },
+    {
+      "path": "/api/health",
+      "status": 200,
+      "bytes": 53,
+      "type": "application/json; charset=utf-8"
+    },
+    {
+      "path": "/api/account/status",
+      "status": 200,
+      "bytes": 150,
+      "type": "application/json; charset=utf-8"
+    },
+    {
+      "path": "/data/learning/manifest.json",
+      "status": 200,
+      "bytes": 28795,
+      "type": "application/json"
+    },
+    {
+      "path": "/data/open-hsk/audio/d8757bc292f637020d925e48014790093207ef61e0080b6598a6526981a82544.mp3",
+      "status": 206,
+      "bytes": 1024,
+      "type": "audio/mpeg"
+    },
+    {
+      "path": "/data/open-hsk/audio/202a0e5501f3c800ee6bef993600dcab33ab1756cb998ea5eb50f614c2d83b96.mp3",
+      "status": 206,
+      "bytes": 1024,
+      "type": "audio/mpeg"
+    }
+  ]
+}

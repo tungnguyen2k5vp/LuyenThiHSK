@@ -1,0 +1,19 @@
+{
+  "vocabulary": {
+    "total": 11000,
+    "normalized": 8765,
+    "needsReview": 2235,
+    "missingVietnamese": 557,
+    "noShortMeaning": 758
+  },
+  "grammarTaxonomy": 576,
+  "completeApprovedLessons": 0,
+  "draftGrammarLessons": 8,
+  "hanzi": 3088,
+  "strokes": 2989,
+  "legacyQuestions": 20,
+  "newDraftQuestions": 8,
+  "publishedV3Questions": 0,
+  "audioPublished": 0,
+  "fullMocks": 0
+}

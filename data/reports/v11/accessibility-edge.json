@@ -1,0 +1,42 @@
+{
+  "at": "2026-10-19T06:24:17.011Z",
+  "status": "PASS",
+  "browser": "Edge",
+  "checks": [
+    "Native Tab moves focus to visible navigation control",
+    "Five primary nav buttons have labels and >=44px targets at desktop viewport",
+    "200% root font emulation retains main content without full-page horizontal overflow at 1280px"
+  ],
+  "targets": [
+    {
+      "label": "Hôm nay",
+      "height": 44,
+      "width": 235.1875
+    },
+    {
+      "label": "Từ vựng",
+      "height": 44,
+      "width": 235.203125
+    },
+    {
+      "label": "Ngữ pháp",
+      "height": 44,
+      "width": 235.203125
+    },
+    {
+      "label": "Luyện tập",
+      "height": 44,
+      "width": 235.203125
+    },
+    {
+      "label": "Ôn tập",
+      "height": 44,
+      "width": 235.1875
+    }
+  ],
+  "scope": "Keyboard/focus/DOM labels/target measurement/text scaling plus image alt and writing native input covered in main flow",
+  "screenReaders": "NOT_TESTED",
+  "physicalIME": "NOT_TESTED",
+  "realDevices": "NOT_TESTED",
+  "wcagCertification": false
+}

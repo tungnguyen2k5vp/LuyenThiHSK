@@ -1,0 +1,834 @@
+{
+  "at": "2026-10-16T10:48:22.099Z",
+  "status": "PASS",
+  "browser": "Chrome desktop + 375px viewport",
+  "samples": {
+    "coldDashboardReadyMs": [
+      355.09999999403954,
+      346.19999998807907,
+      334.2000000178814,
+      331.40000000596046,
+      333.19999998807907,
+      338.30000001192093,
+      338.5,
+      333.80000001192093,
+      352.69999998807907,
+      344.30000001192093,
+      352.89999997615814,
+      340.5,
+      353.90000000596046,
+      351.5,
+      349.69999998807907,
+      341,
+      344,
+      336.80000001192093,
+      348.59999999403954,
+      350
+    ],
+    "domInteractiveMs": [
+      22.30000001192093,
+      14.299999982118607,
+      12.400000005960464,
+      12.900000005960464,
+      12.799999982118607,
+      12.400000005960464,
+      22,
+      18,
+      22.599999994039536,
+      22.30000001192093,
+      20.799999982118607,
+      21,
+      19.19999998807907,
+      21.30000001192093,
+      18.69999998807907,
+      22.80000001192093,
+      17.5,
+      22.599999994039536,
+      23.299999982118607,
+      20.299999982118607
+    ],
+    "loadEventEndMs": [
+      60.400000005960464,
+      35.69999998807907,
+      22.400000005960464,
+      22.900000005960464,
+      23,
+      24,
+      38.30000001192093,
+      28.30000001192093,
+      34.79999998211861,
+      36.20000001788139,
+      36.39999997615814,
+      33,
+      33.099999994039536,
+      36,
+      33.30000001192093,
+      36.80000001192093,
+      30.900000005960464,
+      34.900000005960464,
+      35.89999997615814,
+      33.19999998807907
+    ],
+    "searchPaintMs": [
+      23,
+      32.70000001788139,
+      32.099999994039536,
+      31.099999994039536,
+      32.89999997615814,
+      32.20000001788139,
+      31.599999994039536,
+      32.099999994039536,
+      32.79999998211861,
+      31.19999998807907,
+      32.900000005960464,
+      31.799999982118607,
+      31.900000005960464,
+      31.69999998807907,
+      31.900000005960464,
+      32.599999994039536,
+      31.30000001192093,
+      33,
+      32,
+      32.400000005960464
+    ],
+    "questionTransitionPaintMs": [
+      31.099999994039536,
+      32.70000001788139,
+      32.20000001788139,
+      31.599999994039536,
+      32.60000002384186,
+      30.900000005960464,
+      33.099999994039536,
+      31.80000001192093,
+      32,
+      32.5,
+      32.5,
+      32.10000002384186,
+      32.400000005960464,
+      32.39999997615814,
+      31.30000001192093,
+      32.400000005960464,
+      33.099999994039536,
+      30.900000005960464,
+      32.5,
+      31.69999998807907
+    ],
+    "examStartRenderMs": [
+      321,
+      609.9000000059605,
+      438.7000000178814,
+      406,
+      441.69999998807907,
+      460.30000001192093,
+      444,
+      493.19999998807907,
+      485.7000000178814,
+      506.59999999403954,
+      571.1999999880791,
+      522.7999999821186,
+      520.3000000119209,
+      549.7000000178814,
+      462.80000001192093,
+      481,
+      499.7000000178814,
+      421.89999997615814,
+      494.7999999821186,
+      432.2999999821186
+    ],
+    "audioDownloadMs": [
+      60,
+      58.80000001192093,
+      60.70000001788139,
+      42.599999994039536,
+      54.69999998807907,
+      48.30000001192093,
+      57,
+      68.5,
+      64.2999999821186,
+      64.30000001192093,
+      65.59999999403954,
+      61.80000001192093,
+      43.099999994039536,
+      62.30000001192093,
+      56.19999998807907,
+      66.09999999403954,
+      65.7000000178814,
+      61.19999998807907,
+      55.69999998807907,
+      41.400000005960464
+    ],
+    "imageDownloadMs": [
+      62.5,
+      66.19999998807907,
+      106.40000000596046,
+      100.80000001192093,
+      83.69999998807907,
+      84.5,
+      82.19999998807907,
+      59.20000001788139,
+      65.90000000596046,
+      81.5,
+      91.5,
+      85.5,
+      70.7999999821186,
+      93.90000000596046,
+      62.400000005960464,
+      115,
+      85.80000001192093,
+      78.09999999403954,
+      78.69999998807907,
+      74.09999999403954
+    ],
+    "warmNavigationPaintMs": [
+      34.80000001192093,
+      31.700000017881393,
+      29.400000005960464,
+      32.5,
+      32.099999994039536,
+      32.30000001192093,
+      32.69999998807907,
+      30.700000017881393,
+      31.900000005960464,
+      31.19999998807907,
+      32.30000001192093,
+      32.39999997615814,
+      32.80000001192093,
+      31.200000017881393,
+      33,
+      31.69999998807907,
+      32.19999998807907,
+      32.5,
+      31.599999994039536,
+      32
+    ],
+    "catalogPaintMs": [
+      41.19999998807907,
+      49,
+      42.599999994039536,
+      34.400000005960464,
+      36.599999994039536,
+      35.20000001788139,
+      33.69999998807907,
+      40.900000005960464,
+      39.599999994039536,
+      49.70000001788139,
+      37.80000001192093,
+      38,
+      34.599999994039536,
+      38,
+      38.599999994039536,
+      37.39999997615814,
+      50.400000005960464,
+      36.5,
+      49.400000005960464,
+      46
+    ],
+    "matchingPaintMs": [
+      10.199999988079071,
+      28.69999998807907,
+      32.79999998211861,
+      31.100000023841858,
+      32.400000005960464,
+      32.900000005960464,
+      31.099999994039536,
+      31.5,
+      33.099999994039536,
+      32.599999994039536,
+      32.20000001788139,
+      31.30000001192093,
+      33.400000005960464,
+      31.400000005960464,
+      32,
+      32.5,
+      32.099999994039536,
+      32.80000001192093,
+      31.19999998807907,
+      32.30000001192093
+    ],
+    "autosavePersistMs": [
+      5.800000011920929,
+      3.5999999940395355,
+      2.5,
+      2.100000023841858,
+      4.199999988079071,
+      3.600000023841858,
+      3.0999999940395355,
+      2.9000000059604645,
+      2.9000000059604645,
+      2.2999999821186066,
+      3.9000000059604645,
+      3.4000000059604645,
+      2.0999999940395355,
+      2,
+      5.0999999940395355,
+      2.2000000178813934,
+      4,
+      2,
+      2.5999999940395355,
+      2.5
+    ],
+    "resumeRenderMs": [
+      22.299999982118607,
+      5.4000000059604645,
+      18.099999994039536,
+      20,
+      30.799999982118607,
+      13.400000005960464,
+      28.400000005960464,
+      6,
+      19.099999994039536,
+      31.700000017881393,
+      11.300000011920929,
+      6.200000017881393,
+      19.900000005960464,
+      5.699999988079071,
+      9.900000005960464,
+      19.900000005960464,
+      7.100000023841858,
+      13.199999988079071,
+      17.30000001192093,
+      29
+    ],
+    "resultRenderMs": [
+      30.30000001192093,
+      28.399999976158142,
+      26.5,
+      21.900000005960464,
+      23.5,
+      19.299999982118607,
+      22,
+      18.5,
+      20,
+      24.19999998807907,
+      24.799999982118607,
+      17.599999994039536,
+      23,
+      18.5,
+      27.900000005960464,
+      19.399999976158142,
+      20.599999994039536,
+      26.400000005960464,
+      29.900000005960464,
+      29
+    ],
+    "reviewFilterResponseMs": [
+      72.7000000178814,
+      88,
+      84,
+      83.5,
+      69.2999999821186,
+      71.5,
+      63.400000005960464,
+      90.40000000596046,
+      89.90000000596046,
+      68.89999997615814,
+      91.80000001192093,
+      83.09999999403954,
+      69.60000002384186,
+      81.09999999403954,
+      86.2999999821186,
+      83.10000002384186,
+      66.5,
+      98.5,
+      88.5,
+      70
+    ]
+  },
+  "summary": {
+    "coldDashboardReadyMs": {
+      "n": 20,
+      "min": 331.40000000596046,
+      "p50": 344,
+      "p95": 353.90000000596046,
+      "max": 355.09999999403954
+    },
+    "domInteractiveMs": {
+      "n": 20,
+      "min": 12.400000005960464,
+      "p50": 20.299999982118607,
+      "p95": 22.80000001192093,
+      "max": 23.299999982118607
+    },
+    "loadEventEndMs": {
+      "n": 20,
+      "min": 22.400000005960464,
+      "p50": 33.30000001192093,
+      "p95": 38.30000001192093,
+      "max": 60.400000005960464
+    },
+    "searchPaintMs": {
+      "n": 20,
+      "min": 23,
+      "p50": 32,
+      "p95": 32.900000005960464,
+      "max": 33
+    },
+    "questionTransitionPaintMs": {
+      "n": 20,
+      "min": 30.900000005960464,
+      "p50": 32.20000001788139,
+      "p95": 33.099999994039536,
+      "max": 33.099999994039536
+    },
+    "examStartRenderMs": {
+      "n": 20,
+      "min": 321,
+      "p50": 481,
+      "p95": 571.1999999880791,
+      "max": 609.9000000059605
+    },
+    "audioDownloadMs": {
+      "n": 20,
+      "min": 41.400000005960464,
+      "p50": 60,
+      "p95": 66.09999999403954,
+      "max": 68.5
+    },
+    "imageDownloadMs": {
+      "n": 20,
+      "min": 59.20000001788139,
+      "p50": 81.5,
+      "p95": 106.40000000596046,
+      "max": 115
+    },
+    "warmNavigationPaintMs": {
+      "n": 20,
+      "min": 29.400000005960464,
+      "p50": 32.099999994039536,
+      "p95": 33,
+      "max": 34.80000001192093
+    },
+    "catalogPaintMs": {
+      "n": 20,
+      "min": 33.69999998807907,
+      "p50": 38,
+      "p95": 49.70000001788139,
+      "max": 50.400000005960464
+    },
+    "matchingPaintMs": {
+      "n": 20,
+      "min": 10.199999988079071,
+      "p50": 32.099999994039536,
+      "p95": 33.099999994039536,
+      "max": 33.400000005960464
+    },
+    "autosavePersistMs": {
+      "n": 20,
+      "min": 2,
+      "p50": 2.9000000059604645,
+      "p95": 5.0999999940395355,
+      "max": 5.800000011920929
+    },
+    "resumeRenderMs": {
+      "n": 20,
+      "min": 5.4000000059604645,
+      "p50": 17.30000001192093,
+      "p95": 30.799999982118607,
+      "max": 31.700000017881393
+    },
+    "resultRenderMs": {
+      "n": 20,
+      "min": 17.599999994039536,
+      "p50": 23,
+      "p95": 29.900000005960464,
+      "max": 30.30000001192093
+    },
+    "reviewFilterResponseMs": {
+      "n": 20,
+      "min": 63.400000005960464,
+      "p50": 83.09999999403954,
+      "p95": 91.80000001192093,
+      "max": 98.5
+    }
+  },
+  "checks": {
+    "mobileOverflow": false
+  },
+  "cpuStart": {
+    "metrics": [
+      {
+        "name": "Timestamp",
+        "value": 181020.196233
+      },
+      {
+        "name": "AudioHandlers",
+        "value": 0
+      },
+      {
+        "name": "AudioWorkletProcessors",
+        "value": 0
+      },
+      {
+        "name": "Documents",
+        "value": 2
+      },
+      {
+        "name": "Frames",
+        "value": 1
+      },
+      {
+        "name": "JSEventListeners",
+        "value": 0
+      },
+      {
+        "name": "LayoutObjects",
+        "value": 4
+      },
+      {
+        "name": "MediaKeySessions",
+        "value": 0
+      },
+      {
+        "name": "MediaKeys",
+        "value": 0
+      },
+      {
+        "name": "Nodes",
+        "value": 8
+      },
+      {
+        "name": "Resources",
+        "value": 0
+      },
+      {
+        "name": "ContextLifecycleStateObservers",
+        "value": 4
+      },
+      {
+        "name": "V8PerContextDatas",
+        "value": 1
+      },
+      {
+        "name": "WorkerGlobalScopes",
+        "value": 0
+      },
+      {
+        "name": "UACSSResources",
+        "value": 0
+      },
+      {
+        "name": "RTCPeerConnections",
+        "value": 0
+      },
+      {
+        "name": "ResourceFetchers",
+        "value": 2
+      },
+      {
+        "name": "AdSubframes",
+        "value": 0
+      },
+      {
+        "name": "DetachedScriptStates",
+        "value": 0
+      },
+      {
+        "name": "ArrayBufferContents",
+        "value": 0
+      },
+      {
+        "name": "LayoutCount",
+        "value": 0
+      },
+      {
+        "name": "RecalcStyleCount",
+        "value": 0
+      },
+      {
+        "name": "LayoutDuration",
+        "value": 0
+      },
+      {
+        "name": "RecalcStyleDuration",
+        "value": 0
+      },
+      {
+        "name": "DevToolsCommandDuration",
+        "value": 0.000022
+      },
+      {
+        "name": "ScriptDuration",
+        "value": 0
+      },
+      {
+        "name": "V8CompileDuration",
+        "value": 0
+      },
+      {
+        "name": "TaskDuration",
+        "value": 0.000179
+      },
+      {
+        "name": "TaskOtherDuration",
+        "value": 0.000157
+      },
+      {
+        "name": "ThreadTime",
+        "value": 0
+      },
+      {
+        "name": "ProcessTime",
+        "value": 0.0625
+      },
+      {
+        "name": "JSHeapUsedSize",
+        "value": 442156
+      },
+      {
+        "name": "JSHeapTotalSize",
+        "value": 1048576
+      },
+      {
+        "name": "FirstMeaningfulPaint",
+        "value": 0
+      },
+      {
+        "name": "DomContentLoaded",
+        "value": 181020.156613
+      },
+      {
+        "name": "NavigationStart",
+        "value": 181020.111903
+      }
+    ]
+  },
+  "cpuEnd": {
+    "metrics": [
+      {
+        "name": "Timestamp",
+        "value": 181050.746244
+      },
+      {
+        "name": "AudioHandlers",
+        "value": 0
+      },
+      {
+        "name": "AudioWorkletProcessors",
+        "value": 0
+      },
+      {
+        "name": "Documents",
+        "value": 5
+      },
+      {
+        "name": "Frames",
+        "value": 5
+      },
+      {
+        "name": "JSEventListeners",
+        "value": 447
+      },
+      {
+        "name": "LayoutObjects",
+        "value": 447
+      },
+      {
+        "name": "MediaKeySessions",
+        "value": 0
+      },
+      {
+        "name": "MediaKeys",
+        "value": 0
+      },
+      {
+        "name": "Nodes",
+        "value": 756
+      },
+      {
+        "name": "Resources",
+        "value": 49
+      },
+      {
+        "name": "ContextLifecycleStateObservers",
+        "value": 20
+      },
+      {
+        "name": "V8PerContextDatas",
+        "value": 2
+      },
+      {
+        "name": "WorkerGlobalScopes",
+        "value": 1
+      },
+      {
+        "name": "UACSSResources",
+        "value": 0
+      },
+      {
+        "name": "RTCPeerConnections",
+        "value": 0
+      },
+      {
+        "name": "ResourceFetchers",
+        "value": 7
+      },
+      {
+        "name": "AdSubframes",
+        "value": 0
+      },
+      {
+        "name": "DetachedScriptStates",
+        "value": 0
+      },
+      {
+        "name": "ArrayBufferContents",
+        "value": 9
+      },
+      {
+        "name": "LayoutCount",
+        "value": 188
+      },
+      {
+        "name": "RecalcStyleCount",
+        "value": 431
+      },
+      {
+        "name": "LayoutDuration",
+        "value": 0.222332
+      },
+      {
+        "name": "RecalcStyleDuration",
+        "value": 0.115616
+      },
+      {
+        "name": "DevToolsCommandDuration",
+        "value": 0.021651
+      },
+      {
+        "name": "ScriptDuration",
+        "value": 0.404767
+      },
+      {
+        "name": "V8CompileDuration",
+        "value": 0
+      },
+      {
+        "name": "TaskDuration",
+        "value": 1.398996
+      },
+      {
+        "name": "TaskOtherDuration",
+        "value": 0.63463
+      },
+      {
+        "name": "ThreadTime",
+        "value": 1.413851
+      },
+      {
+        "name": "ProcessTime",
+        "value": 4.593251
+      },
+      {
+        "name": "JSHeapUsedSize",
+        "value": 7819888
+      },
+      {
+        "name": "JSHeapTotalSize",
+        "value": 8912896
+      },
+      {
+        "name": "FirstMeaningfulPaint",
+        "value": 181027.580659
+      },
+      {
+        "name": "DomContentLoaded",
+        "value": 181027.564535
+      },
+      {
+        "name": "NavigationStart",
+        "value": 181027.533336
+      }
+    ]
+  },
+  "memory": {
+    "usedJSHeapSize": 8310646,
+    "totalJSHeapSize": 9402926,
+    "jsHeapSizeLimit": 4395630592
+  },
+  "bundles": [
+    {
+      "name": "AdminContentForm-D9ZEmchb.js",
+      "bytes": 16277,
+      "gzipBytes": 6021
+    },
+    {
+      "name": "AdminWorkspaceV3-xPeX2GNV.js",
+      "bytes": 21864,
+      "gzipBytes": 7385
+    },
+    {
+      "name": "cloudSync-DS4LcPas.js",
+      "bytes": 7484,
+      "gzipBytes": 2932
+    },
+    {
+      "name": "ContentReviewV5-B7tZ5ViP.js",
+      "bytes": 27518,
+      "gzipBytes": 8543
+    },
+    {
+      "name": "CourseWorkspace-CXDJmOR8.js",
+      "bytes": 20694,
+      "gzipBytes": 7165
+    },
+    {
+      "name": "Diagnostic-EsZmka2r.js",
+      "bytes": 3364,
+      "gzipBytes": 1593
+    },
+    {
+      "name": "examCatalog-CuXgYhKj.js",
+      "bytes": 47376,
+      "gzipBytes": 15854
+    },
+    {
+      "name": "index-BvP546Us.js",
+      "bytes": 380930,
+      "gzipBytes": 114327
+    },
+    {
+      "name": "index-CvZKtUCy.css",
+      "bytes": 69351,
+      "gzipBytes": 14246
+    },
+    {
+      "name": "jsx-runtime-Dk72oS4N.js",
+      "bytes": 8774,
+      "gzipBytes": 3327
+    },
+    {
+      "name": "preview-CELTkWqN.css",
+      "bytes": 3905,
+      "gzipBytes": 1157
+    },
+    {
+      "name": "PreviewWorkspace-BOGw-nqv.js",
+      "bytes": 25076,
+      "gzipBytes": 9400
+    },
+    {
+      "name": "ResponseCenter-D54t7EE0.js",
+      "bytes": 5692,
+      "gzipBytes": 2578
+    },
+    {
+      "name": "vocabularyQuiz-RS24bqpp.js",
+      "bytes": 2202,
+      "gzipBytes": 1294
+    }
+  ],
+  "method": {
+    "load": "20 navigations with browser HTTP cache cleared; ready timestamp is first observed enabled dashboard, an upper bound. Not standard Web Vitals TTI.",
+    "interaction": "20 direct DOM events, then two requestAnimationFrame callbacks. Includes frame budget; avoids fixed 100ms CDP click delay.",
+    "media": "20 sequential authenticated no-store local requests per media type, response body consumed.",
+    "cpu": "Raw CDP Performance metrics before/after workload, not OS CPU percentage.",
+    "memory": "One actual Chrome heap snapshot summary after workload; not a leak proof.",
+    "limitations": [
+      "Local loopback, no cloud deployment or real mobile device",
+      "Synthetic file decode is technical QA, not human listening",
+      "OS RSS/CPU utilization and standard TTI NOT_MEASURED"
+    ],
+    "extra": "Real DOM/state/localStorage observations; no injected latency. Review filter metric is full API response, not visual paint. Resume is saved in-memory snapshot render, not page reload."
+  },
+  "deployment": "PRIVATE_LOCAL"
+}

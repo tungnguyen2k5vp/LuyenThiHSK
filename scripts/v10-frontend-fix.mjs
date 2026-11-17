@@ -1,0 +1,1 @@
+import {readFile,writeFile} from 'node:fs/promises';const p='src/components/preparation/PreviewWorkspace.tsx';let s=await readFile(p,'utf8');s=s.replace("targetLevel==='2'?'200 từ':all!.words.length+' từ'","all!.words.length+' từ'").replace("targetLevel==='2'?'71 cấu trúc':all!.lessons.length+' bài ngữ pháp'","all!.lessons.length+' bài ngữ pháp'");await writeFile(p,s);

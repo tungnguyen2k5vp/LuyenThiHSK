@@ -1,0 +1,127 @@
+{
+  "at": "2026-10-18T02:25:17.662Z",
+  "results": [
+    {
+      "name": "Chrome",
+      "run": 1,
+      "status": "PASS",
+      "durationMs": 6771
+    },
+    {
+      "name": "Chrome",
+      "run": 2,
+      "status": "PASS",
+      "durationMs": 7363
+    },
+    {
+      "name": "Chrome",
+      "run": 3,
+      "status": "PASS",
+      "durationMs": 7241
+    },
+    {
+      "name": "Chrome",
+      "run": 4,
+      "status": "PASS",
+      "durationMs": 7282
+    },
+    {
+      "name": "Chrome",
+      "run": 5,
+      "status": "PASS",
+      "durationMs": 7280
+    },
+    {
+      "name": "Chrome",
+      "run": 6,
+      "status": "PASS",
+      "durationMs": 6754
+    },
+    {
+      "name": "Chrome",
+      "run": 7,
+      "status": "PASS",
+      "durationMs": 6832
+    },
+    {
+      "name": "Chrome",
+      "run": 8,
+      "status": "PASS",
+      "durationMs": 7426
+    },
+    {
+      "name": "Chrome",
+      "run": 9,
+      "status": "PASS",
+      "durationMs": 7488
+    },
+    {
+      "name": "Chrome",
+      "run": 10,
+      "status": "PASS",
+      "durationMs": 7308
+    },
+    {
+      "name": "Edge",
+      "run": 1,
+      "status": "PASS",
+      "durationMs": 7057
+    },
+    {
+      "name": "Edge",
+      "run": 2,
+      "status": "PASS",
+      "durationMs": 7817
+    },
+    {
+      "name": "Edge",
+      "run": 3,
+      "status": "PASS",
+      "durationMs": 7796
+    },
+    {
+      "name": "Edge",
+      "run": 4,
+      "status": "PASS",
+      "durationMs": 7330
+    },
+    {
+      "name": "Edge",
+      "run": 5,
+      "status": "PASS",
+      "durationMs": 7370
+    },
+    {
+      "name": "Edge",
+      "run": 6,
+      "status": "PASS",
+      "durationMs": 7630
+    },
+    {
+      "name": "Edge",
+      "run": 7,
+      "status": "PASS",
+      "durationMs": 7085
+    },
+    {
+      "name": "Edge",
+      "run": 8,
+      "status": "PASS",
+      "durationMs": 7201
+    },
+    {
+      "name": "Edge",
+      "run": 9,
+      "status": "PASS",
+      "durationMs": 7651
+    },
+    {
+      "name": "Edge",
+      "run": 10,
+      "status": "PASS",
+      "durationMs": 7735
+    }
+  ],
+  "retries": 0,
+  "ci": "NOT_RUN_NO_CI_ENVIRONMENT"
+}

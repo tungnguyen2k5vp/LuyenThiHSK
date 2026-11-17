@@ -1,0 +1,902 @@
+[
+  {
+    "id": "v4-cq-001",
+    "partId": null,
+    "candidateText": "他是做什么的？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2278,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-002",
+    "partId": null,
+    "candidateText": "他妈妈在哪里工作？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2580,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-003",
+    "partId": null,
+    "candidateText": "桌子上有几个苹果？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2127,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-004",
+    "partId": null,
+    "candidateText": "他几点上班？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2603,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-005",
+    "partId": null,
+    "candidateText": "他喜欢喝什么？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2743,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-006",
+    "partId": null,
+    "candidateText": "弟弟在哪里？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2092,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-007",
+    "partId": null,
+    "candidateText": "书多少钱？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2650,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-008",
+    "partId": null,
+    "candidateText": "今天星期几？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2789,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-009",
+    "partId": null,
+    "candidateText": "妈妈在做什么？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3393,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-010",
+    "partId": null,
+    "candidateText": "他家有几口人？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3021,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-011",
+    "partId": null,
+    "candidateText": "他想买什么？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2685,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-012",
+    "partId": null,
+    "candidateText": "外边的天气怎么样？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3207,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-013",
+    "partId": null,
+    "candidateText": "他怎么去公司？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2894,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-014",
+    "partId": null,
+    "candidateText": "老师的手机在哪里？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3811,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-015",
+    "partId": null,
+    "candidateText": "妹妹今年几岁？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3358,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-016",
+    "partId": null,
+    "candidateText": "他们下午做什么？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3393,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-017",
+    "partId": null,
+    "candidateText": "他买了几杯茶？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2580,
+    "levelFlags": [
+      {
+        "word": "杯",
+        "level": "UNKNOWN"
+      }
+    ],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-018",
+    "partId": null,
+    "candidateText": "他觉得衣服怎么样？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3662,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-019",
+    "partId": null,
+    "candidateText": "小李是他的什么人？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3102,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-020",
+    "partId": null,
+    "candidateText": "他们可以去哪里？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2940,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-021",
+    "partId": null,
+    "candidateText": "今天的天气怎么样？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3091,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-022",
+    "partId": null,
+    "candidateText": "他给你什么？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2081,
+    "levelFlags": [
+      {
+        "word": "杯",
+        "level": "UNKNOWN"
+      }
+    ],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-023",
+    "partId": null,
+    "candidateText": "姐姐会写什么？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2835,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-024",
+    "partId": null,
+    "candidateText": "他昨天在哪里看书？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2557,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-025",
+    "partId": null,
+    "candidateText": "他们要吃什么饭？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3265,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-026",
+    "partId": null,
+    "candidateText": "狗是谁的？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3416,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-027",
+    "partId": null,
+    "candidateText": "他星期六做什么？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3346,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-028",
+    "partId": null,
+    "candidateText": "他想买什么？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3846,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-029",
+    "partId": null,
+    "candidateText": "他什么时候打电话？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3242,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-030",
+    "partId": null,
+    "candidateText": "学校后边是什么？",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3277,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-031",
+    "partId": null,
+    "candidateText": "他今天有汉语课。",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 3207,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-032",
+    "partId": null,
+    "candidateText": "这个杯子是他的。",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2731,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-033",
+    "partId": null,
+    "candidateText": "妈妈在超市。",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 1930,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-034",
+    "partId": null,
+    "candidateText": "他弟弟会开车。",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2127,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-035",
+    "partId": null,
+    "candidateText": "他们都是学生。",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 1709,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-036",
+    "partId": null,
+    "candidateText": "现在是早上九点。",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2940,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-037",
+    "partId": null,
+    "candidateText": "他有两本中文书。",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2418,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-038",
+    "partId": null,
+    "candidateText": "他们明天去看电影。",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2754,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-039",
+    "partId": null,
+    "candidateText": "他女儿喜欢喝牛奶。",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2998,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v4-cq-040",
+    "partId": null,
+    "candidateText": "他的手机在桌子下。",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": "NEEDS_LINGUISTIC_REVIEW",
+    "durationMs": 2127,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L1-1",
+    "partId": "L1",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1303,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L1-2",
+    "partId": "L1",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1489,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L1-3",
+    "partId": "L1",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1175,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L1-4",
+    "partId": "L1",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1663,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L1-5",
+    "partId": "L1",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1767,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L1-6",
+    "partId": "L1",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1686,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L1-7",
+    "partId": "L1",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 2359,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L1-8",
+    "partId": "L1",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1872,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L1-9",
+    "partId": "L1",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1953,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L1-10",
+    "partId": "L1",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1605,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L2-1",
+    "partId": "L2",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1640,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L2-2",
+    "partId": "L2",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1640,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L2-3",
+    "partId": "L2",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 2139,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L2-4",
+    "partId": "L2",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1744,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L2-5",
+    "partId": "L2",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1698,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L2-6",
+    "partId": "L2",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1918,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L2-7",
+    "partId": "L2",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 2232,
+    "levelFlags": [
+      {
+        "word": "杯",
+        "level": "UNKNOWN"
+      }
+    ],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L2-8",
+    "partId": "L2",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1500,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L2-9",
+    "partId": "L2",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 1547,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L2-10",
+    "partId": "L2",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 2104,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L3-1",
+    "partId": "L3",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 3349,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L3-2",
+    "partId": "L3",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 4536,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L3-3",
+    "partId": "L3",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 3152,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L3-4",
+    "partId": "L3",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 3964,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L3-5",
+    "partId": "L3",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 3628,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L3-6",
+    "partId": "L3",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 3442,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L3-7",
+    "partId": "L3",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 4150,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L3-8",
+    "partId": "L3",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 3999,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L3-9",
+    "partId": "L3",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 3964,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L3-10",
+    "partId": "L3",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 4429,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L4-1",
+    "partId": "L4",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 7578,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L4-2",
+    "partId": "L4",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 6309,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L4-3",
+    "partId": "L4",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 3895,
+    "levelFlags": [
+      {
+        "word": "杯",
+        "level": "UNKNOWN"
+      }
+    ],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L4-4",
+    "partId": "L4",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 5288,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L4-5",
+    "partId": "L4",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 4905,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L4-6",
+    "partId": "L4",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 8715,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L4-7",
+    "partId": "L4",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 4359,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L4-8",
+    "partId": "L4",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 5648,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L4-9",
+    "partId": "L4",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 6997,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "v6-L4-10",
+    "partId": "L4",
+    "candidateText": "Nghe nội dung và chọn đáp án.",
+    "transcriptHiddenBeforeCheck": true,
+    "audioRequired": true,
+    "durationMs": 5404,
+    "levelFlags": [],
+    "answerUniqueness": "AUTHOR_SELF_CHECKED_NOT_HUMAN",
+    "status": "NEEDS_REVIEW"
+  }
+]

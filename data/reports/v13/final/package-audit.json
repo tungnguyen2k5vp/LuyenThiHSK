@@ -1,0 +1,9 @@
+{
+  "at": "2026-10-19T07:30:40.625107+00:00",
+  "status": "PASS",
+  "files": 342,
+  "bytes": 8468180,
+  "forbiddenFiles": [],
+  "adminTokenMatches": [],
+  "scope": "Package filename audit and exact current admin token scan; does not inspect every possible secret format"
+}

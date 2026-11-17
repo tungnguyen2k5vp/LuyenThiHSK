@@ -1,0 +1,230 @@
+{
+  "vocabularyExamples": {
+    "cti25-v-36": [
+      "这是我的电脑。",
+      "Đây là máy tính của tôi."
+    ],
+    "cti25-v-44": [
+      "对，这是我的书。",
+      "Đúng, đây là sách của tôi."
+    ],
+    "cti25-v-56": [
+      "我们有十分钟。",
+      "Chúng ta có mười phút."
+    ],
+    "cti25-v-58": [
+      "我喜欢听歌。",
+      "Tôi thích nghe nhạc."
+    ],
+    "cti25-v-77": [
+      "你想喝什么？我想喝水。",
+      "Bạn muốn uống gì? Tôi muốn uống nước."
+    ],
+    "cti25-v-80": [
+      "学校后边有一家书店。",
+      "Phía sau trường có một nhà sách."
+    ],
+    "cti25-v-86": [
+      "我家在这里。",
+      "Nhà tôi ở đây."
+    ],
+    "cti25-v-97": [
+      "爸爸开车去公司。",
+      "Bố lái xe đến công ty."
+    ],
+    "cti25-v-107": [
+      "这是我们的老师。",
+      "Đây là giáo viên của chúng tôi."
+    ],
+    "cti25-v-110": [
+      "书在房间里。",
+      "Sách ở trong phòng."
+    ],
+    "cti25-v-127": [
+      "我喜欢吃面条儿。",
+      "Tôi thích ăn mì."
+    ],
+    "cti25-v-151": [
+      "我早上喝牛奶。",
+      "Buổi sáng tôi uống sữa."
+    ],
+    "cti25-v-161": [
+      "你今天几点起床？",
+      "Hôm nay bạn thức dậy lúc mấy giờ?"
+    ],
+    "cti25-v-163": [
+      "学校前边是商店。",
+      "Phía trước trường là cửa hàng."
+    ],
+    "cti25-v-194": [
+      "孩子睡了。",
+      "Đứa trẻ ngủ rồi."
+    ],
+    "cti25-v-220": [
+      "你有什么问题？",
+      "Bạn có câu hỏi gì?"
+    ],
+    "cti25-v-222": [
+      "我们去学校吧。",
+      "Chúng ta đến trường nhé."
+    ],
+    "cti25-v-237": [
+      "这是我的小学。",
+      "Đây là trường tiểu học của tôi."
+    ],
+    "cti25-v-249": [
+      "我们在学校学习汉语。",
+      "Chúng tôi học tiếng Trung ở trường."
+    ],
+    "cti25-v-250": [
+      "学校在这里。",
+      "Trường học ở đây."
+    ],
+    "cti25-v-257": [
+      "医院在那边。",
+      "Bệnh viện ở phía kia."
+    ],
+    "cti25-v-260": [
+      "这是我的椅子。",
+      "Đây là ghế của tôi."
+    ],
+    "cti25-v-270": [
+      "请再读这本书。",
+      "Xin đọc lại quyển sách này."
+    ],
+    "cti25-v-273": [
+      "现在还早。",
+      "Bây giờ vẫn còn sớm."
+    ],
+    "cti25-v-291": [
+      "中午我们在学校吃饭。",
+      "Buổi trưa chúng tôi ăn cơm ở trường."
+    ],
+    "cti25-v-292": [
+      "我在中学上学。",
+      "Tôi học ở trường trung học."
+    ],
+    "cti25-v-298": [
+      "请坐在这里。",
+      "Xin mời ngồi ở đây."
+    ]
+  },
+  "additionalMeanings": {
+    "cti25-v-10": [
+      "bản; vốn có (nghĩa khác, không thay lượng từ 本 trong 一本书)"
+    ],
+    "cti25-v-33": [
+      "điểm; chấm; một chút (tùy cấu trúc)"
+    ],
+    "cti25-v-44": [
+      "đối với (giới từ trong 对学生很好)"
+    ],
+    "cti25-v-55": [
+      "chia; phân chia"
+    ],
+    "cti25-v-67": [
+      "cũng còn; thêm nữa"
+    ],
+    "cti25-v-71": [
+      "tốt; khỏe; được (đồng ý)"
+    ],
+    "cti25-v-82": [
+      "biết làm nhờ kỹ năng; có khả năng xảy ra (cần ngữ cảnh)"
+    ],
+    "cti25-v-97": [
+      "mở; lái (xe)"
+    ],
+    "cti25-v-104": [
+      "miệng; người trong phép đếm thành viên gia đình"
+    ],
+    "cti25-v-105": [
+      "miếng; khối; tệ trong khẩu ngữ giá tiền"
+    ],
+    "cti25-v-233": [
+      "nghĩ; nhớ; muốn (tùy tân ngữ)"
+    ],
+    "cti25-v-252": [
+      "muốn; cần (mức độ quyết định tùy ngữ cảnh)"
+    ],
+    "cti25-v-269": [
+      "mặt trăng; tháng"
+    ],
+    "cti25-v-271": [
+      "ở một nơi; đang làm một hành động (hai cấu trúc khác nhau)"
+    ],
+    "cti25-v-298": [
+      "ngồi; đi bằng phương tiện như 坐火车"
+    ]
+  },
+  "questionReplacements": {
+    "v4-cq-018": {
+      "promptZh": "这件衣服很好看，也很贵。我不买了。",
+      "promptVi": "Bộ quần áo này đẹp, cũng rất đắt. Tôi không mua nữa."
+    },
+    "v4-cq-022": {
+      "promptZh": "请坐，我给你一杯水。",
+      "promptVi": "Xin mời ngồi, tôi đưa bạn một cốc nước.",
+      "candidatePromptZh": "他给你什么？"
+    },
+    "v4-cq-028": {
+      "candidatePromptZh": "他想买什么？"
+    },
+    "v4-cq-030": {
+      "promptZh": "我们学校前边是商店，后边是医院。",
+      "promptVi": "Phía trước trường chúng tôi là cửa hàng, phía sau là bệnh viện.",
+      "candidatePromptZh": "学校后边是什么？"
+    },
+    "v4-cq-046": {
+      "promptZh": "小李今天六点起床，七点吃早饭，八点上班。\n小李几点吃早饭？",
+      "candidatePromptZh": "小李今天六点起床，七点吃早饭，八点上班。\n小李几点吃早饭？"
+    },
+    "v4-cq-049": {
+      "promptZh": "学校前边有一家商店，后边有一家医院。我家在学校里。\n学校前边有什么？",
+      "candidatePromptZh": "学校前边有一家商店，后边有一家医院。我家在学校里。\n学校前边有什么？"
+    },
+    "v4-cq-053": {
+      "promptZh": "他没有车，今天坐出租车去学校。\n他今天怎么去学校？",
+      "candidatePromptZh": "他没有车，今天坐出租车去学校。\n他今天怎么去学校？"
+    },
+    "v4-cq-054": {
+      "promptZh": "这件衣服很漂亮，也很小。那件大一点儿，我要买那件。\n他要买哪件衣服？",
+      "candidatePromptZh": "这件衣服很漂亮，也很小。那件大一点儿，我要买那件。\n他要买哪件衣服？"
+    },
+    "v4-gq-00054": {
+      "promptZh": "学校后边___医院。（xác định địa điểm phía sau）",
+      "candidatePromptZh": "学校后边___医院。（xác định địa điểm phía sau）"
+    }
+  },
+  "grammarExamples": {
+    "v4-lesson-00054": [
+      [
+        "学校前边是商店。",
+        "Phía trước trường là cửa hàng."
+      ],
+      [
+        "学校后边是医院。",
+        "Phía sau trường là bệnh viện."
+      ]
+    ]
+  },
+  "grammarComparisons": {
+    "v4-lesson-00004": [
+      "会 thường nói kỹ năng đã học; 能 thường nói điều kiện hoặc khả năng thực hiện. Ngữ cảnh có thể làm nghĩa giao nhau."
+    ],
+    "v4-lesson-00012": [
+      "一本书 nói một quyển sách; 一个学生 nói một học sinh. Lượng từ phụ thuộc danh từ, không chỉ phụ thuộc số."
+    ],
+    "v4-lesson-00024": [
+      "的 đứng giữa phần bổ nghĩa và danh từ: 我的书. Không đưa 得 vào vị trí này."
+    ],
+    "v4-lesson-00047": [
+      "你是学生吗 hỏi xác nhận; 你是谁 hỏi thông tin. Không cần ghép 吗 vào câu hỏi có 谁 trong mẫu đang học."
+    ],
+    "v4-lesson-00053": [
+      "我有书 nói sở hữu; 桌子上有书 giới thiệu sự tồn tại ở một nơi. Phủ định của cả hai dùng 没有."
+    ],
+    "v4-lesson-00064": [
+      "他在家 nói vị trí; 他在看书 nói hành động đang diễn ra. Nhìn thành phần đứng sau 在 để phân biệt."
+    ]
+  }
+}

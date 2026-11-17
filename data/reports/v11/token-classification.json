@@ -1,0 +1,335 @@
+[
+  {
+    "id": "v10-hsk2-L3-004",
+    "revision": 2,
+    "contextHash": "030eb0c755437a5bb8c44474c5fd76182deb6d75d3aefcd54ca2a1336fb81346",
+    "tokens": [
+      {
+        "text": "北",
+        "level": "3",
+        "classification": "PLACE_NAME"
+      },
+      {
+        "text": "京",
+        "level": "UNKNOWN",
+        "classification": "PLACE_NAME"
+      },
+      {
+        "text": "没",
+        "level": "UNKNOWN",
+        "classification": "SEGMENTATION_FRAGMENT"
+      },
+      {
+        "text": "海",
+        "level": "3",
+        "classification": "PLACE_NAME"
+      },
+      {
+        "text": "北",
+        "level": "3",
+        "classification": "PLACE_NAME"
+      },
+      {
+        "text": "京",
+        "level": "UNKNOWN",
+        "classification": "PLACE_NAME"
+      },
+      {
+        "text": "海",
+        "level": "3",
+        "classification": "PLACE_NAME"
+      },
+      {
+        "text": "没",
+        "level": "UNKNOWN",
+        "classification": "SEGMENTATION_FRAGMENT"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  },
+  {
+    "id": "v10-hsk2-R1-004",
+    "revision": 3,
+    "contextHash": "08efab2c941f68e72e3a946524e069efa2b564e9d224f52fcf1be3e4926f610b",
+    "tokens": [
+      {
+        "text": "北",
+        "level": "3",
+        "classification": "PLACE_NAME"
+      },
+      {
+        "text": "京",
+        "level": "UNKNOWN",
+        "classification": "PLACE_NAME"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  },
+  {
+    "id": "v10-hsk2-R1-005",
+    "revision": 3,
+    "contextHash": "0184e4175673b2d1b936386385795b28905f690cd623714b80252d960ab41c69",
+    "tokens": [
+      {
+        "text": "海",
+        "level": "3",
+        "classification": "PLACE_NAME"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  },
+  {
+    "id": "v10-hsk2-R3-010",
+    "revision": 3,
+    "contextHash": "c44896d1256cfb3dc900528c9ba9c7d56b395b8070c994cdd763876a401a6021",
+    "tokens": [
+      {
+        "text": "北",
+        "level": "3",
+        "classification": "PLACE_NAME"
+      },
+      {
+        "text": "京",
+        "level": "UNKNOWN",
+        "classification": "PLACE_NAME"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  },
+  {
+    "id": "v10-hsk2-R4-004",
+    "revision": 2,
+    "contextHash": "10ec18defe2eefe347845f85ce7d012ef2dc3fc36e34406105db8fc9f25c0db3",
+    "tokens": [
+      {
+        "text": "王",
+        "level": "UNKNOWN",
+        "classification": "PROPER_NAME"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  },
+  {
+    "id": "v10-hsk2-W1-001",
+    "revision": 3,
+    "contextHash": "260522fe648d198c73b92021299a8982d3b0155269907d1efc87ba70d853034b",
+    "tokens": [
+      {
+        "text": "马",
+        "level": "3",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "木",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "吾",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "寸",
+        "level": "6",
+        "classification": "HANZI_COMPONENT"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  },
+  {
+    "id": "v10-hsk2-W1-002",
+    "revision": 3,
+    "contextHash": "13fbad1bc9c2bab4e0a41784fef632a02a222edac4a1404bed1acbf8792a3c38",
+    "tokens": [
+      {
+        "text": "亻",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "休",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "马",
+        "level": "3",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "木",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "吾",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "寸",
+        "level": "6",
+        "classification": "HANZI_COMPONENT"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  },
+  {
+    "id": "v10-hsk2-W1-003",
+    "revision": 3,
+    "contextHash": "89fe8e37eacc66bb6b8ea858ec364df505378efe81856a68f408290d342cdcad",
+    "tokens": [
+      {
+        "text": "亻",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "马",
+        "level": "3",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "木",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "吾",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "寸",
+        "level": "6",
+        "classification": "HANZI_COMPONENT"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  },
+  {
+    "id": "v10-hsk2-W1-004",
+    "revision": 3,
+    "contextHash": "d614d7363dd3e035a1f2a5617ae6c74f0628fb83fca3852cbd617effc0015b04",
+    "tokens": [
+      {
+        "text": "明",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "马",
+        "level": "3",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "木",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "吾",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "寸",
+        "level": "6",
+        "classification": "HANZI_COMPONENT"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  },
+  {
+    "id": "v10-hsk2-W1-005",
+    "revision": 3,
+    "contextHash": "e68ca31a1f3d4db21f170e561e65fba4725a44ed75923d6d6e8f4303a2f3e93c",
+    "tokens": [
+      {
+        "text": "讠",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "语",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "马",
+        "level": "3",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "木",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "吾",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "寸",
+        "level": "6",
+        "classification": "HANZI_COMPONENT"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  },
+  {
+    "id": "v10-hsk2-W1-006",
+    "revision": 3,
+    "contextHash": "ec1d3d47aa92deecffc3b3a4f198937902ceb13e03ad27c30c8f2355ff8ee873",
+    "tokens": [
+      {
+        "text": "马",
+        "level": "3",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "木",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "吾",
+        "level": "UNKNOWN",
+        "classification": "HANZI_COMPONENT"
+      },
+      {
+        "text": "寸",
+        "level": "6",
+        "classification": "HANZI_COMPONENT"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  },
+  {
+    "id": "v10-hsk2-W2-006",
+    "revision": 2,
+    "contextHash": "db509b7f0963ca6413d0f61579dc886657edaa7233bf042396e640473781d80e",
+    "tokens": [
+      {
+        "text": "电",
+        "level": "3",
+        "classification": "COMPOUND_FRAGMENT"
+      }
+    ],
+    "decision": "KEEP_FLAG_FOR_HUMAN_REVIEW",
+    "reason": "Context classification only; no automatic expert resolution or allowlist modification"
+  }
+]

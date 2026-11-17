@@ -1,0 +1,9 @@
+{
+  "at": "2026-10-19T04:22:28.217Z",
+  "name": "edge",
+  "status": "PASS",
+  "exitCode": 0,
+  "durationMs": 11123,
+  "log": "edge-1792383737094.log",
+  "retries": 0
+}

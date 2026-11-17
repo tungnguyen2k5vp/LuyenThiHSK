@@ -1,0 +1,93 @@
+{
+  "at": "2026-10-16T03:31:30.585Z",
+  "browser": "Chrome",
+  "initialPageMs": 345,
+  "navigation": {
+    "name": "http://127.0.0.1:4173/?view=preview",
+    "entryType": "navigation",
+    "startTime": 0,
+    "duration": 49.69999998807907,
+    "navigationId": 9475,
+    "initiatorType": "navigation",
+    "deliveryType": "",
+    "nextHopProtocol": "http/1.1",
+    "renderBlockingStatus": "non-blocking",
+    "contentType": "text/html",
+    "contentEncoding": "gzip",
+    "workerStart": 0,
+    "workerRouterEvaluationStart": 0,
+    "workerCacheLookupStart": 0,
+    "workerMatchedSourceType": "",
+    "workerFinalSourceType": "",
+    "redirectStart": 0,
+    "redirectEnd": 0,
+    "fetchStart": 0.699999988079071,
+    "domainLookupStart": 0.699999988079071,
+    "domainLookupEnd": 0.699999988079071,
+    "connectStart": 0.699999988079071,
+    "secureConnectionStart": 0,
+    "connectEnd": 0.699999988079071,
+    "requestStart": 2,
+    "responseStart": 4.5999999940395355,
+    "firstInterimResponseStart": 0,
+    "finalResponseHeadersStart": 4.5999999940395355,
+    "responseEnd": 5.299999982118607,
+    "transferSize": 1319,
+    "encodedBodySize": 1019,
+    "decodedBodySize": 1868,
+    "responseStatus": 200,
+    "serverTiming": [],
+    "unloadEventStart": 0,
+    "unloadEventEnd": 0,
+    "domInteractive": 12.699999988079071,
+    "domContentLoadedEventStart": 49.5,
+    "domContentLoadedEventEnd": 49.5,
+    "domComplete": 49.599999994039536,
+    "loadEventStart": 49.599999994039536,
+    "loadEventEnd": 49.69999998807907,
+    "type": "navigate",
+    "redirectCount": 0,
+    "activationStart": 0,
+    "criticalCHRestart": 0,
+    "notRestoredReasons": null,
+    "confidence": {}
+  },
+  "grammarOpenMs": 19,
+  "mockBuildMs": 228,
+  "failedColdAudio": "ERROR_SHOWN_TIMER_PAUSED",
+  "offlineResume": "ANSWERS_AND_PAUSE_PERSISTED",
+  "audioReconnectLoadMs": 1894,
+  "autoplayRestriction": "ERROR_RETRY_AVAILABLE",
+  "reconnectRecovery": "PASS",
+  "loadedBlobOffline": "PASS",
+  "memory": {
+    "usedJSHeapSize": 21640661,
+    "totalJSHeapSize": 29471381,
+    "jsHeapSizeLimit": 4395630592
+  },
+  "resources": [
+    {
+      "name": "v4-audio-033",
+      "duration": 0,
+      "transferSize": 0
+    },
+    {
+      "name": "v4-audio-033",
+      "duration": 0,
+      "transferSize": 0
+    },
+    {
+      "name": "v4-audio-033",
+      "duration": 1704.199999988079,
+      "transferSize": 0
+    },
+    {
+      "name": "v4-audio-033",
+      "duration": 146.30000001192093,
+      "transferSize": 0
+    }
+  ],
+  "status": "PASS",
+  "cachePolicy": "Private response no-store; only active in-memory blob reused; cold offline private audio unavailable",
+  "lighthouse": "NOT_INSTALLED_NOT_RUN"
+}

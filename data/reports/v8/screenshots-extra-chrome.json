@@ -1,0 +1,212 @@
+[
+  {
+    "filename": "v8-main-catalog.png",
+    "route": "?view=exams",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:27:41.568Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "Isolated learner profile; real private editorial content",
+    "testFixture": "Isolated learner profile; real private editorial content",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-preview-history.png",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:27:43.029Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "Isolated learner profile; real private editorial content",
+    "testFixture": "Isolated learner profile; real private editorial content",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-historical-result.png",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:27:43.187Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "Isolated learner profile; real private editorial content",
+    "testFixture": "Isolated learner profile; real private editorial content",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-review-dashboard-ready.png",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:27:45.852Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "Isolated learner profile; real private editorial content",
+    "testFixture": "Isolated learner profile; real private editorial content",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-edit-draft-fixture.png",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:27:47.799Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "QA content fixture newly created; not part of learner release",
+    "testFixture": "QA content fixture newly created; not part of learner release",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-save-and-next.png",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:27:49.799Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "QA content fixture; revision created and next item opened",
+    "testFixture": "QA content fixture; revision created and next item opened",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-draft-revision-before-after.png",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:27:52.224Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "QA fixture revision1 preserved and revision2 diff shown",
+    "testFixture": "QA fixture revision1 preserved and revision2 diff shown",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-stale-revision-conflict.png",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:27:56.090Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "QA concurrent editor fixture; server rejected stale write",
+    "testFixture": "QA concurrent editor fixture; server rejected stale write",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-import-validation-conflict.png",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:27:56.306Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "QA stale import file; dry run changed zero records",
+    "testFixture": "QA stale import file; dry run changed zero records",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-audio-review-focused.png",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:28:00.786Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "Isolated learner profile; real private editorial content",
+    "testFixture": "Isolated learner profile; real private editorial content",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-image-review-focused.png",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:28:02.998Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "Isolated learner profile; real private editorial content",
+    "testFixture": "Isolated learner profile; real private editorial content",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-empty-hsk2-fixture.png",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:28:04.505Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "NETWORK EMPTY CONTENT FIXTURE; production pilot actually has27 drafts",
+    "testFixture": "NETWORK EMPTY CONTENT FIXTURE; production pilot actually has27 drafts",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-sync-conflict-fixture.png",
+    "route": "?view=settings",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:28:04.924Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "ACCOUNT TRANSPORT/UI FIXTURE; live cloud remains NOT_CONFIGURED",
+    "testFixture": "ACCOUNT TRANSPORT/UI FIXTURE; live cloud remains NOT_CONFIGURED",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  },
+  {
+    "filename": "v8-sync-conflict-preserved-backup.png",
+    "route": "?view=settings",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "timestamp": "2026-10-16T15:28:05.080Z",
+    "browser": "Chrome",
+    "build": "V8",
+    "theme": "light",
+    "contentSource": "ACCOUNT UI FIXTURE; separate temporary browser profile",
+    "testFixture": "ACCOUNT UI FIXTURE; separate temporary browser profile",
+    "qaResult": "CAPTURED_FROM_RUNNING_APPLICATION"
+  }
+]

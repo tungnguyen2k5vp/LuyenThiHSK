@@ -1,0 +1,20 @@
+﻿import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {filterPracticeEntries,makePracticeSelection,validateImportedPractice} from '../src/services/practiceCatalog.ts';
+import {summarizeAttempt} from '../src/services/examScoring.ts';
+const entries=JSON.parse(await readFile('public/data/open-hsk/manifest.json','utf8')).sets;
+const filter={level:'all',skill:'all',type:'all',edition:'all',category:'all',query:'',status:'all',duration:'all',limit:10,sort:'level'},study={attempts:[],sessions:[]};
+const find=(over={},data=study)=>filterPracticeEntries(entries,{...filter,...over},data);
+assert.equal(find().length,entries.length);
+for(const edition of ['hsk2','hsk3','hsk3-2021','hsk3-2025']){const got=find({edition});assert(got.every(e=>edition==='hsk2'||edition==='hsk3'?e.version===edition:e.syllabusVersion===edition));}
+const combined=find({level:'HSK 5',skill:'listening',type:'fill-blank',edition:'hsk3-2021',category:'generated_practice',duration:'short'});assert(combined.length>0);assert(combined.every(e=>e.levelCode==='HSK 5'&&e.facets['listening|fill-blank']));
+assert.equal(find({skill:'writing',type:'fill-blank',edition:'hsk3-2021'}).length,0);
+const e=combined[0],bank=validateImportedPractice(JSON.parse(await readFile('public'+e.url,'utf8')));
+assert.equal(find({query:' '+e.id.toUpperCase()+' '}).length,1);
+const saved={examId:e.id+':practice:saved',updatedAt:'2026-10-22T00:00:00Z'},done={examId:combined[1].id+':practice:done',finishedAt:'2026-10-21T00:00:00Z'};
+const withHistory={sessions:[saved],attempts:[done]};assert.deepEqual(find({status:'progress'},withHistory).map(e=>e.id),[e.id]);assert.equal(find({status:'done'},withHistory)[0].id,combined[1].id);assert(!find({status:'new'},withHistory).some(x=>[e.id,combined[1].id].includes(x.id)));assert.equal(find({sort:'recent'},withHistory)[0].id,e.id);
+const names=find({sort:'name'}).map(e=>e.title);assert.deepEqual(names,[...names].sort((a,b)=>a.localeCompare(b,'vi',{numeric:true})));
+assert.equal(find({duration:'long',limit:10}).length,0);assert(find({duration:'long',limit:100}).length>0);
+const whole=makePracticeSelection(bank,{limit:bank.totalQuestions});assert.equal(whole.questions.length,bank.totalQuestions);assert.deepEqual(whole.questions.map(q=>q.id),bank.questions.map(q=>q.id));assert.equal(whole.durationKind,'custom');assert.notEqual(whole.mode,'full');
+const quiz=makePracticeSelection(bank,{skill:'listening',type:'fill-blank',limit:10});assert.equal(quiz.questions.length,10);const result=summarizeAttempt(quiz,{answers:{0:quiz.questions[0].acceptedAnswers[0],1:'错误答案'}});assert.equal(result.correctCount,1);assert.equal(result.incorrectCount,1);assert.equal(result.unansweredCount,8);
+console.log('PASS compact catalog: combined filters, IDs, editions, status, sort, duration, whole-bank order, exact-text grading and blanks');

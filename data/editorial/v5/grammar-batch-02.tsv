@@ -1,0 +1,21 @@
+# grammar suffix|prompt|answer|B|C|D|explanation
+00024|这是老师___杯子。|的|吗|呢|吧|的 nối 老师 với 杯子 để nói cốc của giáo viên. Các trợ từ cuối câu không làm chức năng sở hữu trong mẫu này.
+00024|我___书在这里。（ý: sách của tôi）|的|们|也|很|我的书 là sách của tôi; 我们书 thiếu quan hệ định ngữ trong ý được yêu cầu. Không đặt 也 hoặc 很 vào vị trí 的.
+00024|___手机是新的。（ý: điện thoại của cô ấy）|她的|她吗|她呢|她吧|她的 + 手机 tạo cụm sở hữu. 吗、呢、吧 không nối người sở hữu với vật trong mẫu này.
+00024|这本书是___。（ý: là của tôi）|我的|我吗|我呢|我吧|Khi vật đã rõ, có thể dùng 我的 mà không nhắc lại 书. Không dùng trợ từ hỏi thay 的.
+00047|你今天上班___？（hỏi có hay không）|吗|的|们|第|Thêm 吗 vào câu trần thuật để hỏi xác nhận. 的、们、第 không tạo câu hỏi xác nhận ở cuối câu này.
+00047|这___你的书吗？|是|正在|都|也|这是你的书 là câu trần thuật được thêm 吗 để hỏi. Động từ 是 cần đứng giữa 这 và cụm danh từ 你的书.
+00047|她会说汉语___？（hỏi có hay không）|吗|的|们|个|吗 ở cuối hỏi xác nhận khả năng nói tiếng Trung. Không bỏ qua 会 vì đó là kỹ năng được hỏi.
+00047|___是你的老师？（hỏi người nào）|谁|吗|吧|呢|谁 hỏi danh tính, đứng ở vị trí người chưa biết. Đây là câu hỏi thông tin, không thêm 吗; dùng để đối chiếu hai kiểu hỏi.
+00053|我___有手机。（ý: không có）|没|不|很|都|Phủ định 有 là 没有. 不有 không đúng trong mẫu sở hữu cơ bản; 很、都 không phủ định.
+00053|桌子上___一本书。（ý: có）|有|喝|写|去|有 sau nơi chốn giới thiệu sự tồn tại của một quyển sách. Các động từ còn lại không diễn đạt có trong ngữ cảnh.
+00053|你有___本书？（hỏi số lượng nhỏ）|几|谁|哪里|什么人|几 đứng trước lượng từ 本 để hỏi có mấy quyển sách. 谁、哪里 hỏi người/nơi, không hỏi số lượng ở vị trí này.
+00053|我有书，她___有书。（ý: cũng có）|也|不|正在|第|也 trước 有 bổ sung người thứ hai có sách. 不有 không là phủ định đúng, 正在 không dùng cho trạng thái sở hữu này.
+00064|他___看电视。（ý: đang）|正在|是|有|本|正在 trước động từ 看 đánh dấu hành động đang diễn ra. Không dùng 是 hoặc 有 làm dấu tiếp diễn ở đây.
+00064|妈妈正在___。（ý: nấu cơm）|做饭|米饭|学生|杯子|Sau 正在 cần một hành động; 做饭 là nấu cơm. 米饭、学生、杯子 là danh từ trong các nghĩa đang xét.
+00064|我在家___书。（ý: đang đọc sách）|看|是|有|本|看书 là đọc sách; 在家 nêu địa điểm, không phải tự nó là dấu tiếp diễn. Câu dùng để phân biệt 在 + nơi và 在 + hành động.
+00064|她在学习___。（nhấn mạnh đang học đấy）|呢|谁|什么|哪里|呢 cuối câu có thể nhấn mạnh hành động đang tiếp diễn. Các từ nghi vấn còn lại không phù hợp cấu trúc và ý đang yêu cầu.
+00012|我有两___猫。|只|本|件|口|只 dùng để đếm mèo; 本 cho sách, 件 cho một số đồ vật như quần áo, 口 cho thành viên gia đình.
+00012|妈妈买了一___衣服。|件|只|本|口|一件衣服 là một bộ/món quần áo. Chọn lượng từ theo danh từ, không theo màu sắc hay giá.
+00012|他家有三___人。|口|本|件|杯|Trong phép đếm người trong gia đình, 口 là lượng từ thường dùng. 本、件、杯 không đếm thành viên gia đình ở đây.
+00012|请给我一___水。|杯|本|件|只|一杯水 là một cốc nước; 杯 được taxonomy grammarHSK1 cho phép dù danh sách wordhead riêng có thể không liệt kê.

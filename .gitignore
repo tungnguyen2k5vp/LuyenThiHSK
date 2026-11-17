@@ -1,0 +1,35 @@
+node_modules/
+dist/
+.tmp/
+*.log
+.runtime/
+data/raw/
+.env.local
+
+.env
+.env.*
+!**/.env.example
+
+# Local sessions, credentials and generated review captures
+.impeccable/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.pem
+*.key
+admin-access.txt
+
+# Download archives and duplicated historical handover bundles stay on this PC
+*.zip
+*.rar
+/TAI_LIEU_TONG_HOP_HSK/
+/data/imports/
+/data/external-hsk-research/archive/
+/data/external-hsk-research/backups/
+/data/external-hsk-research/raw/
+/data/external-hsk-research/normalized/
+/data/external-hsk-research/duplicates/
+/data/external-hsk-research/logs/
+/data/external-hsk-research/review_queue/
+/data/external-hsk-research/reports/

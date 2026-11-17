@@ -1,0 +1,431 @@
+{
+  "at": "2026-10-16T09:41:48.050Z",
+  "records": [
+    {
+      "id": "v4-lesson-00006",
+      "before": {
+        "category": "动词",
+        "detail": "能愿动词",
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "Original HSK 1 instructional draft V4, AI assisted",
+        "sourceName": "LuyenThiHSK editorial V4",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v4",
+        "license": "Original AI-assisted draft; pending rights and expert review",
+        "licenseStatus": "UNVERIFIED",
+        "licenseEvidenceUrl": "local:editorial/v4",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "importedAt": "2026-10-15T00:00:00.000Z",
+        "verifiedAt": null,
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T04:12:34.709Z"
+        },
+        "contentEnvironment": "PREVIEW",
+        "id": "v4-lesson-00006",
+        "grammarPointId": "HSK30-2025-GRA-HSK1-00006",
+        "title": "可以 xin phép",
+        "shortMeaningVi": "可以 xin phép",
+        "pattern": "chủ ngữ + 可以 + động từ",
+        "formula": "chủ ngữ + 可以 + động từ",
+        "taxonomyPattern": "可以",
+        "taxonomySourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+        "sourcePage": 386,
+        "usage": "Đọc mẫu, đối chiếu hai ví dụ, chú ý lỗi thường gặp rồi làm câu luyện có lời giải.",
+        "explanationVi": "可以 diễn đạt được phép hoặc có thể làm việc gì trong điều kiện cụ thể. Dùng 可以…吗 để xin phép lịch sự.",
+        "examples": [
+          {
+            "zh": "我可以坐这里吗？",
+            "pinyin": "wǒ kě yǐ zuò zhè lǐ ma？",
+            "vi": "Tôi có thể ngồi đây không?",
+            "sourceType": "AI_GENERATED",
+            "reviewStatus": "NEEDS_REVIEW"
+          },
+          {
+            "zh": "你可以看这本书。",
+            "pinyin": "nǐ kě yǐ kàn zhè běn shū。",
+            "vi": "Bạn có thể đọc quyển sách này.",
+            "sourceType": "AI_GENERATED",
+            "reviewStatus": "NEEDS_REVIEW"
+          }
+        ],
+        "commonMistakes": [
+          "Không bỏ động từ sau 可以 khi ngữ cảnh chưa rõ hành động."
+        ],
+        "comparisons": [],
+        "prerequisites": [],
+        "relatedGrammarIds": [],
+        "relatedQuestionIds": [
+          "v4-gq-00006",
+          "v4-cq-020",
+          "v5-rq-006",
+          "v5-rq-016",
+          "v6-L2-5",
+          "v6-gq-010",
+          "v6-gq-011",
+          "v6-gq-012",
+          "v6-gq-013"
+        ],
+        "vocabularyIds": [
+          "cti25-v-10",
+          "cti25-v-99",
+          "cti25-v-102",
+          "cti25-v-110",
+          "cti25-v-115",
+          "cti25-v-146",
+          "cti25-v-190",
+          "cti25-v-221",
+          "cti25-v-279",
+          "cti25-v-282",
+          "cti25-v-298"
+        ],
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "1ffacc38bab2533f1f025864c36bf7bdb07f8b7aca5f6a5ad4e395573286b8b7",
+          "checkedAt": "2026-10-16T04:23:44.308Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "editorialRelease": "v6-hsk1",
+        "reviewRisk": {
+          "score": 12,
+          "reasons": [
+            "RIGHTS_PENDING"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "createdAt": "2026-10-16T02:44:25.769Z",
+        "updatedAt": "2026-10-16T04:23:44.307Z",
+        "publishedAt": null,
+        "editorialImport": {
+          "sourceFingerprint": "1ffacc38bab2533f1f025864c36bf7bdb07f8b7aca5f6a5ad4e395573286b8b7",
+          "importedFingerprint": "1ffacc38bab2533f1f025864c36bf7bdb07f8b7aca5f6a5ad4e395573286b8b7"
+        }
+      },
+      "after": {
+        "category": "动词",
+        "detail": "能愿动词",
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "Original HSK 1 instructional draft V4, AI assisted",
+        "sourceName": "LuyenThiHSK editorial V4",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v4",
+        "license": "Original AI-assisted draft; pending rights and expert review",
+        "licenseStatus": "UNVERIFIED",
+        "licenseEvidenceUrl": "local:editorial/v4",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 4,
+        "importedAt": "2026-10-15T00:00:00.000Z",
+        "verifiedAt": null,
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T04:12:34.709Z"
+        },
+        "contentEnvironment": "PREVIEW",
+        "id": "v4-lesson-00006",
+        "grammarPointId": "HSK30-2025-GRA-HSK1-00006",
+        "title": "可以 xin phép",
+        "shortMeaningVi": "可以 xin phép",
+        "pattern": "chủ ngữ + 可以 + động từ",
+        "formula": "chủ ngữ + 可以 + động từ",
+        "taxonomyPattern": "可以",
+        "taxonomySourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+        "sourcePage": 386,
+        "usage": "Đọc mẫu, đối chiếu hai ví dụ, chú ý lỗi thường gặp rồi làm câu luyện có lời giải.",
+        "explanationVi": "可以 diễn đạt được phép hoặc có thể làm việc gì trong điều kiện cụ thể. Dùng 可以…吗 để xin phép lịch sự.",
+        "examples": [
+          {
+            "zh": "我可以在家看书吗？",
+            "pinyin": "wǒ kě yǐ zài jiā kàn shū ma？",
+            "vi": "Tôi có thể đọc sách ở nhà không?",
+            "sourceType": "AI_GENERATED",
+            "reviewStatus": "NEEDS_REVIEW"
+          },
+          {
+            "zh": "你可以看这本书。",
+            "pinyin": "nǐ kě yǐ kàn zhè běn shū。",
+            "vi": "Bạn có thể đọc quyển sách này.",
+            "sourceType": "AI_GENERATED",
+            "reviewStatus": "NEEDS_REVIEW"
+          }
+        ],
+        "commonMistakes": [
+          "Không bỏ động từ sau 可以 khi ngữ cảnh chưa rõ hành động."
+        ],
+        "comparisons": [],
+        "prerequisites": [],
+        "relatedGrammarIds": [],
+        "relatedQuestionIds": [
+          "v4-gq-00006",
+          "v4-cq-020",
+          "v5-rq-006",
+          "v5-rq-016",
+          "v6-L2-5",
+          "v6-gq-010",
+          "v6-gq-011",
+          "v6-gq-012",
+          "v6-gq-013"
+        ],
+        "vocabularyIds": [
+          "cti25-v-10",
+          "cti25-v-99",
+          "cti25-v-102",
+          "cti25-v-110",
+          "cti25-v-115",
+          "cti25-v-146",
+          "cti25-v-190",
+          "cti25-v-221",
+          "cti25-v-279",
+          "cti25-v-282",
+          "cti25-v-298"
+        ],
+        "internalValidation": {
+          "status": "INVALIDATED",
+          "fingerprint": "1ffacc38bab2533f1f025864c36bf7bdb07f8b7aca5f6a5ad4e395573286b8b7",
+          "checkedAt": "2026-10-16T04:23:44.308Z",
+          "method": "V5 import schema/reference/asset validation; not human review",
+          "invalidatedAt": "2026-10-16T09:41:47.671Z"
+        },
+        "editorialRelease": "v6-hsk1",
+        "reviewRisk": {
+          "score": 12,
+          "reasons": [
+            "RIGHTS_PENDING"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "createdAt": "2026-10-16T02:44:25.769Z",
+        "updatedAt": "2026-10-16T09:41:47.671Z",
+        "publishedAt": null,
+        "editorialImport": {
+          "sourceFingerprint": "1ffacc38bab2533f1f025864c36bf7bdb07f8b7aca5f6a5ad4e395573286b8b7",
+          "importedFingerprint": "1ffacc38bab2533f1f025864c36bf7bdb07f8b7aca5f6a5ad4e395573286b8b7"
+        }
+      },
+      "reason": "Replace exact teaching-example overlap with independent assessment; no question/audio IDs or historical snapshots changed; linguistic expert review still required"
+    },
+    {
+      "id": "v4-lesson-00044",
+      "before": {
+        "category": "句型",
+        "detail": "单句",
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "Original HSK 1 instructional draft V4, AI assisted",
+        "sourceName": "LuyenThiHSK editorial V4",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v4",
+        "license": "Original AI-assisted draft; pending rights and expert review",
+        "licenseStatus": "UNVERIFIED",
+        "licenseEvidenceUrl": "local:editorial/v4",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 3,
+        "importedAt": "2026-10-15T00:00:00.000Z",
+        "verifiedAt": null,
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T04:12:34.709Z"
+        },
+        "contentEnvironment": "PREVIEW",
+        "id": "v4-lesson-00044",
+        "grammarPointId": "HSK30-2025-GRA-HSK1-00044",
+        "title": "Câu vị ngữ danh từ",
+        "shortMeaningVi": "Câu vị ngữ danh từ",
+        "pattern": "chủ ngữ + thời gian/tuổi",
+        "formula": "chủ ngữ + thời gian/tuổi",
+        "taxonomyPattern": "主谓句3：名词谓语句",
+        "taxonomySourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+        "sourcePage": 387,
+        "usage": "Đọc mẫu, đối chiếu hai ví dụ, chú ý lỗi thường gặp rồi làm câu luyện có lời giải.",
+        "explanationVi": "Cụm danh từ có thể làm vị ngữ trong một số câu ngày tháng hoặc tuổi. Dùng 是 vẫn có thể đúng trong một số ngữ cảnh, nên câu hỏi không coi nó luôn sai.",
+        "examples": [
+          {
+            "zh": "今天星期一。",
+            "pinyin": "jīn tiān xīng qī yī。",
+            "vi": "Hôm nay là thứ hai.",
+            "sourceType": "AI_GENERATED",
+            "reviewStatus": "NEEDS_REVIEW"
+          },
+          {
+            "zh": "她今年十岁。",
+            "pinyin": "tā jīn nián shí suì。",
+            "vi": "Năm nay cô ấy mười tuổi.",
+            "sourceType": "AI_GENERATED",
+            "reviewStatus": "NEEDS_REVIEW"
+          }
+        ],
+        "commonMistakes": [
+          "Không coi mẫu này là quy tắc bỏ 是 cho mọi danh từ."
+        ],
+        "comparisons": [],
+        "prerequisites": [],
+        "relatedGrammarIds": [],
+        "relatedQuestionIds": [
+          "v4-gq-00044",
+          "v6-gq-031",
+          "v6-gq-070",
+          "v6-gq-071",
+          "v6-gq-084"
+        ],
+        "vocabularyIds": [
+          "cti25-v-93",
+          "cti25-v-94",
+          "cti25-v-149",
+          "cti25-v-184",
+          "cti25-v-199",
+          "cti25-v-202",
+          "cti25-v-207",
+          "cti25-v-243",
+          "cti25-v-254"
+        ],
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "b689906f23cfed3380d315c44b432507465702acc55b99b42d9f0391ffbd7889",
+          "checkedAt": "2026-10-16T04:23:44.325Z",
+          "method": "V5 import schema/reference/asset validation; not human review"
+        },
+        "editorialRelease": "v6-hsk1",
+        "reviewRisk": {
+          "score": 20,
+          "reasons": [
+            "TONE_SANDHI_REVIEW",
+            "RIGHTS_PENDING"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "createdAt": "2026-10-16T02:44:25.778Z",
+        "updatedAt": "2026-10-16T04:23:44.325Z",
+        "publishedAt": null,
+        "editorialImport": {
+          "sourceFingerprint": "b689906f23cfed3380d315c44b432507465702acc55b99b42d9f0391ffbd7889",
+          "importedFingerprint": "b689906f23cfed3380d315c44b432507465702acc55b99b42d9f0391ffbd7889"
+        }
+      },
+      "after": {
+        "category": "句型",
+        "detail": "单句",
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "Original HSK 1 instructional draft V4, AI assisted",
+        "sourceName": "LuyenThiHSK editorial V4",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v4",
+        "license": "Original AI-assisted draft; pending rights and expert review",
+        "licenseStatus": "UNVERIFIED",
+        "licenseEvidenceUrl": "local:editorial/v4",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 4,
+        "importedAt": "2026-10-15T00:00:00.000Z",
+        "verifiedAt": null,
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null,
+          "reviewedAt": null
+        },
+        "internalReview": {
+          "status": "AI_SELF_CHECKED",
+          "method": "Author logic + automated validation; not expert human review",
+          "checkedAt": "2026-10-16T04:12:34.709Z"
+        },
+        "contentEnvironment": "PREVIEW",
+        "id": "v4-lesson-00044",
+        "grammarPointId": "HSK30-2025-GRA-HSK1-00044",
+        "title": "Câu vị ngữ danh từ",
+        "shortMeaningVi": "Câu vị ngữ danh từ",
+        "pattern": "chủ ngữ + thời gian/tuổi",
+        "formula": "chủ ngữ + thời gian/tuổi",
+        "taxonomyPattern": "主谓句3：名词谓语句",
+        "taxonomySourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+        "sourcePage": 387,
+        "usage": "Đọc mẫu, đối chiếu hai ví dụ, chú ý lỗi thường gặp rồi làm câu luyện có lời giải.",
+        "explanationVi": "Cụm danh từ có thể làm vị ngữ trong một số câu ngày tháng hoặc tuổi. Dùng 是 vẫn có thể đúng trong một số ngữ cảnh, nên câu hỏi không coi nó luôn sai.",
+        "examples": [
+          {
+            "zh": "今天星期一。",
+            "pinyin": "jīn tiān xīng qī yī。",
+            "vi": "Hôm nay là thứ hai.",
+            "sourceType": "AI_GENERATED",
+            "reviewStatus": "NEEDS_REVIEW"
+          },
+          {
+            "zh": "他今年八岁。",
+            "pinyin": "tā jīn nián bā suì。",
+            "vi": "Năm nay cậu ấy tám tuổi.",
+            "sourceType": "AI_GENERATED",
+            "reviewStatus": "NEEDS_REVIEW"
+          }
+        ],
+        "commonMistakes": [
+          "Không coi mẫu này là quy tắc bỏ 是 cho mọi danh từ."
+        ],
+        "comparisons": [],
+        "prerequisites": [],
+        "relatedGrammarIds": [],
+        "relatedQuestionIds": [
+          "v4-gq-00044",
+          "v6-gq-031",
+          "v6-gq-070",
+          "v6-gq-071",
+          "v6-gq-084"
+        ],
+        "vocabularyIds": [
+          "cti25-v-93",
+          "cti25-v-94",
+          "cti25-v-149",
+          "cti25-v-184",
+          "cti25-v-199",
+          "cti25-v-202",
+          "cti25-v-207",
+          "cti25-v-243",
+          "cti25-v-254"
+        ],
+        "internalValidation": {
+          "status": "INVALIDATED",
+          "fingerprint": "b689906f23cfed3380d315c44b432507465702acc55b99b42d9f0391ffbd7889",
+          "checkedAt": "2026-10-16T04:23:44.325Z",
+          "method": "V5 import schema/reference/asset validation; not human review",
+          "invalidatedAt": "2026-10-16T09:41:47.867Z"
+        },
+        "editorialRelease": "v6-hsk1",
+        "reviewRisk": {
+          "score": 20,
+          "reasons": [
+            "TONE_SANDHI_REVIEW",
+            "RIGHTS_PENDING"
+          ],
+          "meaning": "Review prioritization only; not a quality score"
+        },
+        "createdAt": "2026-10-16T02:44:25.778Z",
+        "updatedAt": "2026-10-16T09:41:47.867Z",
+        "publishedAt": null,
+        "editorialImport": {
+          "sourceFingerprint": "b689906f23cfed3380d315c44b432507465702acc55b99b42d9f0391ffbd7889",
+          "importedFingerprint": "b689906f23cfed3380d315c44b432507465702acc55b99b42d9f0391ffbd7889"
+        }
+      },
+      "reason": "Replace exact teaching-example overlap with independent assessment; no question/audio IDs or historical snapshots changed; linguistic expert review still required"
+    }
+  ],
+  "humanReviewed": 0,
+  "published": 0
+}

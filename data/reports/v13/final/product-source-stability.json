@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-19T07:15:45.286739+00:00",
+  "status": "PASS",
+  "comparedWith": "source-evidence-before-admin-isolation.json",
+  "checkedFiles": 293,
+  "changed": [],
+  "scope": "Product source/config/schema/editorial unchanged across carried browser results; QA helper changes excluded and separately hashed"
+}

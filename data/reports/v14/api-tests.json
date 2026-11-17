@@ -1,0 +1,10 @@
+{
+  "at": "2026-10-19T09:40:29.616Z",
+  "status": "PASS",
+  "assertions": 41,
+  "scope": "Isolated full V14 baseline clone; authenticated read-only metadata, filters, no keys, blocked HSK2, existing HSK1 launch and exact revisions",
+  "isolatedRuntime": "C:\\Users\\Admin\\AppData\\Local\\Temp\\hsk-v14-api-gh8mZz",
+  "mutationInClone": false,
+  "mainDatabaseWrites": false,
+  "baseline": "2026-10-19T09:27:19.986Z"
+}

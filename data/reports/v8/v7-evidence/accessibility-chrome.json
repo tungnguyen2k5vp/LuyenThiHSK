@@ -1,0 +1,1373 @@
+{
+  "at": "2026-10-16T10:39:06.792Z",
+  "status": "PARTIAL",
+  "dom": {
+    "visibleControls": 70,
+    "unnamedControls": [],
+    "contrast": [
+      {
+        "text": "QUẢN TRỊ NỘI DUNG · V7 · nội dung V6",
+        "foreground": "rgb(82, 101, 116)",
+        "background": [
+          245,
+          248,
+          250
+        ],
+        "ratio": 5.67,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Duyệt nội dung HSK 1",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          245,
+          248,
+          250
+        ],
+        "ratio": 16.74,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "Điểm rủi ro chỉ để ưu tiên kiểm tra. Ghi chú, bỏ qua và phân công khôn",
+        "foreground": "rgb(82, 101, 116)",
+        "background": [
+          245,
+          248,
+          250
+        ],
+        "ratio": 5.67,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Cập nhật hàng đợi",
+        "foreground": "rgb(255, 255, 255)",
+        "background": [
+          15,
+          118,
+          110
+        ],
+        "ratio": 5.47,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Content Issue Queue",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Readiness",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Chất lượng & duyệt V7",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "883Chờ duyệt",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "120Ưu tiên cao",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "0Người duyệt đã kiểm hôm nay",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "0Trả về sửa",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "883Chờ quyền sử dụng",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "0Được người có quyền phê duyệt",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "0Sẵn sàng công bố",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Ghi chú và kiểm tra tự động không phải phê duyệt chuyên môn. Mỗi quyết",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Xuất gói JSON cho reviewer",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Xuất CSV",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Nhập quyết định reviewer",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "JSON: items chứa id, revision, sourceFingerprint, workVersion, notes, ",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "File quyết định",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Reviewer ID",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Mã reviewer",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Ưu tiên duyệt",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "80Câu dự kiến dùng trong mock",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "80Audio chờ quyền và phát âm",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "30Ảnh chờ duyệt",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "68/68Bài ngữ pháp có ≥5 câu",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "2 bộ đủ 8 phần không trùng · Human Review chưa hoàn tất.",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Coverage theo phần",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "L1",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "picture-choice · 10 câu · 2 bộ",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "L2",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "dialogue · 10 câu · 2 bộ",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "L3",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "matching · 10 câu · 2 bộ",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "L4",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "short-passage · 10 câu · 2 bộ",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "R1",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "matching · 10 câu · 2 bộ",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "R2",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "shared-options · 10 câu · 2 bộ",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "R3",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "shared-options · 10 câu · 2 bộ",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "R4",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "short-passage · 10 câu · 2 bộ",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Xem backlog 178 câu V5",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Loại nội dungvocabularygrammarquestionsaudiotemplatesimagesoptionBanks",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          245,
+          248,
+          250
+        ],
+        "ratio": 12.28,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Tìm nội dung",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          245,
+          248,
+          250
+        ],
+        "ratio": 12.28,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Ưu tiên rủi ro cao (≥40)",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          245,
+          248,
+          250
+        ],
+        "ratio": 12.28,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Bộ lọc nâng cao",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          245,
+          248,
+          250
+        ],
+        "ratio": 12.28,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Xử lýTất cảPENDINGNOTEDNEEDS_CORRECTIONSKIPPED",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          245,
+          248,
+          250
+        ],
+        "ratio": 12.28,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Trạng tháiTất cảNEEDS_REVIEWLANGUAGE_REVIEWHSK_LEVEL_REVIEWAPPROVEDPUB",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          245,
+          248,
+          250
+        ],
+        "ratio": 12.28,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "300 mục · Đã ghi chú 2 · Cần sửa 0 · Bỏ qua 0",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          245,
+          248,
+          250
+        ],
+        "ratio": 12.28,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "cti25-v-116 · r3",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "NEEDS_REVIEW · Risk 20",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Nguồn, cấp và kiểm tra",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "HSK 1 · AI_GENERATED · local:editorial/v4",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Giấy phép: Original AI-assisted draft; pending rights and expert revie",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "ID ổn định",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Cấp HSKChọnunverified1234567-9",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "SyllabusChọnunverifiedhsk2-2015hsk3-2021hsk3-2025",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Hanzi giản thể",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Phồn thể",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Pinyin có dấu",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Nghĩa Việt — ngăn các nghĩa bằng dấu ;mua",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Nghĩa phụ (mỗi dòng một nghĩa)",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Nghĩa Anhto buy\nto purchase",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Từ loại动",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Chủ đề",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Câu tiếng Trung",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          243,
+          248,
+          249
+        ],
+        "ratio": 12.23,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Pinyin",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          243,
+          248,
+          249
+        ],
+        "ratio": 12.23,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Dịch Việt",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          243,
+          248,
+          249
+        ],
+        "ratio": 12.23,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Bỏ ví dụ",
+        "foreground": "rgb(71, 85, 105)",
+        "background": [
+          243,
+          248,
+          249
+        ],
+        "ratio": 7.07,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Thêm ví dụ",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Lưu sẽ chuẩn hóa nghĩa ngắn; vẫn cần duyệt ngôn ngữ. Không lấy nhãn NO",
+        "foreground": "rgb(83, 109, 126)",
+        "background": [
+          243,
+          247,
+          250
+        ],
+        "ratio": 5.06,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Nguồn và quyền phân phối",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Loại nguồnChọnAI_GENERATEDORIGINALINTERNALCOMMUNITYLICENSEDOFFICIAL_SA",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Tên nguồn",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Tên nguồn hiển thị",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "URL nguồn",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Giấy phép",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Bằng chứng quyền (URL hoặc local:permission/...)",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Đã xác minh quyền phân phối cho từng thành phần",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "AI draft luôn qua review. OFFICIAL_SAMPLE không đồng nghĩa được quyền ",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Kiểm tra nội dung hiện tại",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "Chưa có cờ tự động. Vẫn cần kiểm ngôn ngữ, ngữ cảnh và đáp án.",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Cờ tự động chỉ là gợi ý kiểm tra, không phải kết luận chuyên gia.",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Khác biệt revision 2 → 3",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "JSON nâng cao · ảnh, matching và snapshot nhóm lựa chọn",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Ảnh và nhóm lựa chọn phải có revision/hash khớp. Lưu sẽ tạo revision c",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Áp dụng JSON vào form",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "So sánh revision",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Hiện tại · r3",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "Trước đó · r2",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "Trước đó · r1",
+        "foreground": "rgb(15, 23, 42)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 17.85,
+        "minimum": 3,
+        "pass": true
+      },
+      {
+        "text": "Nhận xét / đề xuất sửaQA workflow note only; no human review.",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Người được phân công",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Lưu bản nháp",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Lưu và tiếp theo",
+        "foreground": "rgb(255, 255, 255)",
+        "background": [
+          15,
+          118,
+          110
+        ],
+        "ratio": 5.47,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Cần sửa",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Bỏ qua",
+        "foreground": "rgb(71, 85, 105)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 7.58,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Kiểm tra lại nội bộ",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Duyệt chuyên môn từng revision",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "BLOCKED_FOR_HUMAN_REVIEW: chưa cấu hình reviewer có quyền. Bạn vẫn lưu",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Mã reviewer được cấp riêng",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Tên reviewer thực tế",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Tôi thực sự đã kiểm tra revision này ở bước duyệt hiện tại.",
+        "foreground": "rgb(22, 50, 79)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 13.1,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Gắn cờ vấn đề",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Yêu cầu sửa revision",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Trả về hàng đợi",
+        "foreground": "rgb(51, 65, 85)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 10.35,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Về hàng đợi",
+        "foreground": "rgb(71, 85, 105)",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "ratio": 7.58,
+        "minimum": 4.5,
+        "pass": true
+      },
+      {
+        "text": "Mục tiêu và thiết lập",
+        "foreground": "rgb(71, 85, 105)",
+        "background": [
+          245,
+          248,
+          250
+        ],
+        "ratio": 7.1,
+        "minimum": 4.5,
+        "pass": true
+      }
+    ],
+    "alerts": 0,
+    "liveRegions": 2
+  },
+  "textScale": {
+    "percent": 200,
+    "overflow": false,
+    "method": "CSS root font size; not real device/browser zoom"
+  },
+  "axNodes": 685,
+  "criteria": [
+    "1.4.3 contrast samples",
+    "1.4.4 CSS text scaling",
+    "2.1.1 keyboard paths",
+    "2.4.7 focus",
+    "4.1.2 labels",
+    "4.1.3 status markup"
+  ],
+  "keyboard": "Matching native selects, numeric answers, flags, dialog Escape exercised in browser flow",
+  "screenReader": "NOT_VERIFIED_NO_NVDA_OR_VOICEOVER_SESSION",
+  "limits": "DOM + computed opaque color samples only; not complete WCAG audit, no anti-aliasing/background-image/text-over-image evaluation."
+}

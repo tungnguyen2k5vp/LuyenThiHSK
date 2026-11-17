@@ -1,0 +1,5841 @@
+{
+  "at": "2026-10-19T00:57:22.407Z",
+  "total": 1339,
+  "counts": {
+    "vocabulary": {
+      "total": 424,
+      "draft": 0,
+      "needsReview": 424,
+      "internallyValidated": 424,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "grammar": {
+      "total": 98,
+      "draft": 0,
+      "needsReview": 98,
+      "internallyValidated": 98,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "audio": {
+      "total": 80,
+      "draft": 0,
+      "needsReview": 80,
+      "internallyValidated": 80,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "templates": {
+      "total": 1,
+      "draft": 0,
+      "needsReview": 1,
+      "internallyValidated": 1,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "images": {
+      "total": 30,
+      "draft": 0,
+      "needsReview": 30,
+      "internallyValidated": 30,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "optionBanks": {
+      "total": 25,
+      "draft": 5,
+      "needsReview": 20,
+      "internallyValidated": 25,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "questions": {
+      "total": 681,
+      "draft": 0,
+      "needsReview": 681,
+      "internallyValidated": 681,
+      "humanReviewed": 0,
+      "published": 0
+    }
+  },
+  "workflow": {
+    "draft": 5,
+    "needsReview": 1334,
+    "internallyValidated": 1339,
+    "humanReviewed": 0,
+    "published": 0
+  },
+  "hsk1": {
+    "questions": 435,
+    "lessons": 68,
+    "qualityFlags": 199,
+    "expertResolved": 0
+  },
+  "hsk2": {
+    "questions": 246,
+    "partQuestions": 116,
+    "grammarQuestions": 130,
+    "playable": 206,
+    "parts": [
+      {
+        "partId": "L1",
+        "total": 12,
+        "uniqueContent": 12,
+        "uniqueObjective": 12,
+        "playable": 0,
+        "difficulty": {
+          "easy": 0,
+          "medium": 6,
+          "hard": 0
+        },
+        "manualUngraded": 0,
+        "answerFlags": [],
+        "nearDuplicates": [],
+        "explanationCoverage": 12,
+        "metadataComplete": 12,
+        "ambiguity": "BLOCKED_FOR_HUMAN_REVIEW",
+        "difficultyCalibration": "AUTHOR_ESTIMATE_NOT_PSYCHOMETRIC"
+      },
+      {
+        "partId": "L2",
+        "total": 16,
+        "uniqueContent": 16,
+        "uniqueObjective": 16,
+        "playable": 0,
+        "difficulty": {
+          "easy": 0,
+          "medium": 10,
+          "hard": 0
+        },
+        "manualUngraded": 0,
+        "answerFlags": [],
+        "nearDuplicates": [],
+        "explanationCoverage": 16,
+        "metadataComplete": 16,
+        "ambiguity": "BLOCKED_FOR_HUMAN_REVIEW",
+        "difficultyCalibration": "AUTHOR_ESTIMATE_NOT_PSYCHOMETRIC"
+      },
+      {
+        "partId": "L3",
+        "total": 12,
+        "uniqueContent": 12,
+        "uniqueObjective": 12,
+        "playable": 0,
+        "difficulty": {
+          "easy": 0,
+          "medium": 6,
+          "hard": 0
+        },
+        "manualUngraded": 0,
+        "answerFlags": [],
+        "nearDuplicates": [],
+        "explanationCoverage": 12,
+        "metadataComplete": 12,
+        "ambiguity": "BLOCKED_FOR_HUMAN_REVIEW",
+        "difficultyCalibration": "AUTHOR_ESTIMATE_NOT_PSYCHOMETRIC"
+      },
+      {
+        "partId": "R1",
+        "total": 12,
+        "uniqueContent": 12,
+        "uniqueObjective": 12,
+        "playable": 12,
+        "difficulty": {
+          "easy": 0,
+          "medium": 6,
+          "hard": 0
+        },
+        "manualUngraded": 0,
+        "answerFlags": [],
+        "nearDuplicates": [],
+        "explanationCoverage": 12,
+        "metadataComplete": 12,
+        "ambiguity": "BLOCKED_FOR_HUMAN_REVIEW",
+        "difficultyCalibration": "AUTHOR_ESTIMATE_NOT_PSYCHOMETRIC"
+      },
+      {
+        "partId": "R2",
+        "total": 12,
+        "uniqueContent": 12,
+        "uniqueObjective": 12,
+        "playable": 12,
+        "difficulty": {
+          "easy": 0,
+          "medium": 6,
+          "hard": 0
+        },
+        "manualUngraded": 0,
+        "answerFlags": [],
+        "nearDuplicates": [],
+        "explanationCoverage": 12,
+        "metadataComplete": 12,
+        "ambiguity": "BLOCKED_FOR_HUMAN_REVIEW",
+        "difficultyCalibration": "AUTHOR_ESTIMATE_NOT_PSYCHOMETRIC"
+      },
+      {
+        "partId": "R3",
+        "total": 16,
+        "uniqueContent": 16,
+        "uniqueObjective": 16,
+        "playable": 16,
+        "difficulty": {
+          "easy": 0,
+          "medium": 10,
+          "hard": 0
+        },
+        "manualUngraded": 0,
+        "answerFlags": [],
+        "nearDuplicates": [],
+        "explanationCoverage": 16,
+        "metadataComplete": 16,
+        "ambiguity": "BLOCKED_FOR_HUMAN_REVIEW",
+        "difficultyCalibration": "AUTHOR_ESTIMATE_NOT_PSYCHOMETRIC"
+      },
+      {
+        "partId": "R4",
+        "total": 12,
+        "uniqueContent": 12,
+        "uniqueObjective": 12,
+        "playable": 12,
+        "difficulty": {
+          "easy": 0,
+          "medium": 6,
+          "hard": 0
+        },
+        "manualUngraded": 0,
+        "answerFlags": [],
+        "nearDuplicates": [],
+        "explanationCoverage": 12,
+        "metadataComplete": 12,
+        "ambiguity": "BLOCKED_FOR_HUMAN_REVIEW",
+        "difficultyCalibration": "AUTHOR_ESTIMATE_NOT_PSYCHOMETRIC"
+      },
+      {
+        "partId": "W1",
+        "total": 12,
+        "uniqueContent": 12,
+        "uniqueObjective": 12,
+        "playable": 12,
+        "difficulty": {
+          "easy": 0,
+          "medium": 6,
+          "hard": 0
+        },
+        "manualUngraded": 0,
+        "answerFlags": [],
+        "nearDuplicates": [],
+        "explanationCoverage": 12,
+        "metadataComplete": 12,
+        "ambiguity": "BLOCKED_FOR_HUMAN_REVIEW",
+        "difficultyCalibration": "AUTHOR_ESTIMATE_NOT_PSYCHOMETRIC"
+      },
+      {
+        "partId": "W2",
+        "total": 12,
+        "uniqueContent": 12,
+        "uniqueObjective": 0,
+        "playable": 12,
+        "difficulty": {
+          "easy": 0,
+          "medium": 6,
+          "hard": 0
+        },
+        "manualUngraded": 12,
+        "answerFlags": [],
+        "nearDuplicates": [],
+        "explanationCoverage": 12,
+        "metadataComplete": 12,
+        "ambiguity": "BLOCKED_FOR_HUMAN_REVIEW",
+        "difficultyCalibration": "AUTHOR_ESTIMATE_NOT_PSYCHOMETRIC"
+      }
+    ],
+    "diagnostics": {
+      "checked": 246,
+      "issues": [],
+      "nearDuplicates": [
+        {
+          "a": "v11-hsk2-grammar-00006-4",
+          "b": "v11-hsk2-grammar-00035-4",
+          "score": 0.552,
+          "status": "NEEDS_REVIEW"
+        }
+      ],
+      "answerPositions": {
+        "A": 78,
+        "B": 71,
+        "C": 58,
+        "D": 13
+      },
+      "method": "Structural and character-bigram heuristics; no semantic or expert quality certification"
+    },
+    "newValidationErrors": []
+  },
+  "grammar": {
+    "taxonomy": 71,
+    "lessons": 30,
+    "rows": [
+      {
+        "id": "v10-lesson-00013",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00013",
+        "title": "Đếm số lần với 次",
+        "independentUnique": 5,
+        "questionIds": [
+          "v9-hsk2-R2-013",
+          "v10-hsk2-R2-005",
+          "v10-hsk2-grammar-00013-1",
+          "v10-hsk2-grammar-00013-2",
+          "v10-hsk2-grammar-00013-3"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v10-lesson-00015",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00015",
+        "title": "Làm việc cùng nhau với 一起",
+        "independentUnique": 6,
+        "questionIds": [
+          "v8-hsk2-R3-017",
+          "v8-hsk2-R4-019",
+          "v10-hsk2-R2-002",
+          "v10-hsk2-grammar-00015-1",
+          "v10-hsk2-grammar-00015-2",
+          "v10-hsk2-grammar-00015-3"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v10-lesson-00016",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00016",
+        "title": "Đã, còn và đang: 已经、还、正",
+        "independentUnique": 9,
+        "questionIds": [
+          "v8-hsk2-R1-011",
+          "v8-hsk2-R2-014",
+          "v10-hsk2-R1-001",
+          "v10-hsk2-R1-005",
+          "v10-hsk2-R2-001",
+          "v10-hsk2-R3-009",
+          "v10-hsk2-grammar-00016-1",
+          "v10-hsk2-grammar-00016-2",
+          "v10-hsk2-grammar-00016-3"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v10-lesson-00017",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00017",
+        "title": "Tần suất với 经常",
+        "independentUnique": 5,
+        "questionIds": [
+          "v10-hsk2-R2-006",
+          "v10-hsk2-R4-003",
+          "v10-hsk2-grammar-00017-1",
+          "v10-hsk2-grammar-00017-2",
+          "v10-hsk2-grammar-00017-3"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v10-lesson-00018",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00018",
+        "title": "Ngăn hành động bằng 别",
+        "independentUnique": 6,
+        "questionIds": [
+          "v9-hsk2-R2-014",
+          "v10-hsk2-grammar-00018-1",
+          "v10-hsk2-grammar-00018-2",
+          "v10-hsk2-grammar-00018-3",
+          "v11-hsk2-grammar-00018-1",
+          "v11-hsk2-grammar-00018-2"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v10-lesson-00019",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00019",
+        "title": "Thứ tự và nối tiếp với 再、就",
+        "independentUnique": 7,
+        "questionIds": [
+          "v9-hsk2-R4-019",
+          "v10-hsk2-R1-003",
+          "v10-hsk2-R1-006",
+          "v10-hsk2-R4-004",
+          "v10-hsk2-grammar-00019-1",
+          "v10-hsk2-grammar-00019-2",
+          "v10-hsk2-grammar-00019-3"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v10-lesson-00021",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00021",
+        "title": "Điểm xuất phát với 从",
+        "independentUnique": 5,
+        "questionIds": [
+          "v10-hsk2-R2-004",
+          "v10-hsk2-R3-010",
+          "v10-hsk2-grammar-00021-1",
+          "v10-hsk2-grammar-00021-2",
+          "v10-hsk2-grammar-00021-3"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v10-lesson-00024",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00024",
+        "title": "给: người nhận và đối tượng",
+        "independentUnique": 6,
+        "questionIds": [
+          "v9-hsk2-R1-012",
+          "v10-hsk2-R1-002",
+          "v10-hsk2-R4-001",
+          "v10-hsk2-grammar-00024-1",
+          "v10-hsk2-grammar-00024-2",
+          "v10-hsk2-grammar-00024-3"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v10-lesson-00025",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00025",
+        "title": "So sánh với 比",
+        "independentUnique": 5,
+        "questionIds": [
+          "v10-hsk2-R2-003",
+          "v10-hsk2-R4-005",
+          "v10-hsk2-grammar-00025-1",
+          "v10-hsk2-grammar-00025-2",
+          "v10-hsk2-grammar-00025-3"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v10-lesson-00029",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00029",
+        "title": "Liên kết nguyên nhân và tương phản",
+        "independentUnique": 7,
+        "questionIds": [
+          "v8-hsk2-R4-021",
+          "v9-hsk2-R4-020",
+          "v10-hsk2-R1-004",
+          "v10-hsk2-R4-002",
+          "v10-hsk2-grammar-00029-1",
+          "v10-hsk2-grammar-00029-2",
+          "v10-hsk2-grammar-00029-3"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v10-lesson-00031",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00031",
+        "title": "Trải nghiệm với 过",
+        "independentUnique": 6,
+        "questionIds": [
+          "v9-hsk2-R2-013",
+          "v10-hsk2-R2-005",
+          "v10-hsk2-R3-004",
+          "v10-hsk2-grammar-00031-1",
+          "v10-hsk2-grammar-00031-2",
+          "v10-hsk2-grammar-00031-3"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v10-lesson-00048",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00048",
+        "title": "Kết quả hành động với 完、懂、好",
+        "independentUnique": 6,
+        "questionIds": [
+          "v8-hsk2-R1-010",
+          "v10-hsk2-grammar-00048-1",
+          "v10-hsk2-grammar-00048-2",
+          "v10-hsk2-grammar-00048-3",
+          "v11-hsk2-grammar-00048-1",
+          "v11-hsk2-grammar-00048-2"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v11-lesson-00006",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00006",
+        "title": "Hỏi nguyên nhân với 为什么",
+        "independentUnique": 7,
+        "questionIds": [
+          "v8-hsk2-R2-015",
+          "v8-hsk2-R3-016",
+          "v11-hsk2-grammar-00006-1",
+          "v11-hsk2-grammar-00006-2",
+          "v11-hsk2-grammar-00006-3",
+          "v11-hsk2-grammar-00006-4",
+          "v11-hsk2-grammar-00006-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v11-lesson-00007",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00007",
+        "title": "Tự mình và bản thân với 自己",
+        "independentUnique": 9,
+        "questionIds": [
+          "v8-hsk2-R1-012",
+          "v8-hsk2-R2-013",
+          "v10-hsk2-R4-001",
+          "v10-hsk2-R4-006",
+          "v11-hsk2-grammar-00007-1",
+          "v11-hsk2-grammar-00007-2",
+          "v11-hsk2-grammar-00007-3",
+          "v11-hsk2-grammar-00007-4",
+          "v11-hsk2-grammar-00007-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v11-lesson-00035",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00035",
+        "title": "Lược danh từ trong cụm “的”",
+        "independentUnique": 7,
+        "questionIds": [
+          "v8-hsk2-R3-018",
+          "v9-hsk2-R4-021",
+          "v11-hsk2-grammar-00035-1",
+          "v11-hsk2-grammar-00035-2",
+          "v11-hsk2-grammar-00035-3",
+          "v11-hsk2-grammar-00035-4",
+          "v11-hsk2-grammar-00035-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v11-lesson-00036",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00036",
+        "title": "Nối hành động để nói mục đích",
+        "independentUnique": 5,
+        "questionIds": [
+          "v11-hsk2-grammar-00036-1",
+          "v11-hsk2-grammar-00036-2",
+          "v11-hsk2-grammar-00036-3",
+          "v11-hsk2-grammar-00036-4",
+          "v11-hsk2-grammar-00036-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": []
+      },
+      {
+        "id": "v12-lesson-00001",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00001",
+        "title": "Địa điểm với hậu tố 面",
+        "independentUnique": 5,
+        "questionIds": [
+          "v12-hsk2-grammar-00001-1",
+          "v12-hsk2-grammar-00001-2",
+          "v12-hsk2-grammar-00001-3",
+          "v12-hsk2-grammar-00001-4",
+          "v12-hsk2-grammar-00001-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00002",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00002",
+        "title": "Chỉ hướng với 左、右",
+        "independentUnique": 6,
+        "questionIds": [
+          "v9-hsk2-R2-015",
+          "v12-hsk2-grammar-00002-1",
+          "v12-hsk2-grammar-00002-2",
+          "v12-hsk2-grammar-00002-3",
+          "v12-hsk2-grammar-00002-4",
+          "v12-hsk2-grammar-00002-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00003",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00003",
+        "title": "Lặp động từ để nói làm thử",
+        "independentUnique": 6,
+        "questionIds": [
+          "v9-hsk2-R3-016",
+          "v12-hsk2-grammar-00003-1",
+          "v12-hsk2-grammar-00003-2",
+          "v12-hsk2-grammar-00003-3",
+          "v12-hsk2-grammar-00003-4",
+          "v12-hsk2-grammar-00003-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00004",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00004",
+        "title": "Nói khả năng với 可能",
+        "independentUnique": 5,
+        "questionIds": [
+          "v12-hsk2-grammar-00004-1",
+          "v12-hsk2-grammar-00004-2",
+          "v12-hsk2-grammar-00004-3",
+          "v12-hsk2-grammar-00004-4",
+          "v12-hsk2-grammar-00004-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00008",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00008",
+        "title": "Phân bố từng đối tượng với 每",
+        "independentUnique": 5,
+        "questionIds": [
+          "v12-hsk2-grammar-00008-1",
+          "v12-hsk2-grammar-00008-2",
+          "v12-hsk2-grammar-00008-3",
+          "v12-hsk2-grammar-00008-4",
+          "v12-hsk2-grammar-00008-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00011",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00011",
+        "title": "Lượng từ 条、位、间、名",
+        "independentUnique": 5,
+        "questionIds": [
+          "v12-hsk2-grammar-00011-1",
+          "v12-hsk2-grammar-00011-2",
+          "v12-hsk2-grammar-00011-3",
+          "v12-hsk2-grammar-00011-4",
+          "v12-hsk2-grammar-00011-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00014",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00014",
+        "title": "Mức cao nhất với 最",
+        "independentUnique": 5,
+        "questionIds": [
+          "v12-hsk2-grammar-00014-1",
+          "v12-hsk2-grammar-00014-2",
+          "v12-hsk2-grammar-00014-3",
+          "v12-hsk2-grammar-00014-4",
+          "v12-hsk2-grammar-00014-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00022",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00022",
+        "title": "Hướng đi với 往",
+        "independentUnique": 5,
+        "questionIds": [
+          "v12-hsk2-grammar-00022-1",
+          "v12-hsk2-grammar-00022-2",
+          "v12-hsk2-grammar-00022-3",
+          "v12-hsk2-grammar-00022-4",
+          "v12-hsk2-grammar-00022-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00026",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00026",
+        "title": "Cùng ai làm gì với 跟",
+        "independentUnique": 5,
+        "questionIds": [
+          "v12-hsk2-grammar-00026-1",
+          "v12-hsk2-grammar-00026-2",
+          "v12-hsk2-grammar-00026-3",
+          "v12-hsk2-grammar-00026-4",
+          "v12-hsk2-grammar-00026-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00030",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00030",
+        "title": "Phân biệt 地 và 得",
+        "independentUnique": 5,
+        "questionIds": [
+          "v12-hsk2-grammar-00030-1",
+          "v12-hsk2-grammar-00030-2",
+          "v12-hsk2-grammar-00030-3",
+          "v12-hsk2-grammar-00030-4",
+          "v12-hsk2-grammar-00030-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "structure",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00032",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00032",
+        "title": "Trạng thái đang duy trì với 着",
+        "independentUnique": 5,
+        "questionIds": [
+          "v12-hsk2-grammar-00032-1",
+          "v12-hsk2-grammar-00032-2",
+          "v12-hsk2-grammar-00032-3",
+          "v12-hsk2-grammar-00032-4",
+          "v12-hsk2-grammar-00032-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00042",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00042",
+        "title": "Đề nghị nhẹ với 还是……吧",
+        "independentUnique": 5,
+        "questionIds": [
+          "v12-hsk2-grammar-00042-1",
+          "v12-hsk2-grammar-00042-2",
+          "v12-hsk2-grammar-00042-3",
+          "v12-hsk2-grammar-00042-4",
+          "v12-hsk2-grammar-00042-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00043",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00043",
+        "title": "Sự việc sắp xảy ra với 快要……了",
+        "independentUnique": 5,
+        "questionIds": [
+          "v12-hsk2-grammar-00043-1",
+          "v12-hsk2-grammar-00043-2",
+          "v12-hsk2-grammar-00043-3",
+          "v12-hsk2-grammar-00043-4",
+          "v12-hsk2-grammar-00043-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "cloze",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      },
+      {
+        "id": "v12-lesson-00066",
+        "grammarPointId": "HSK30-2025-GRA-HSK2-00066",
+        "title": "Nhờ hoặc bảo ai làm gì với 请、叫、让",
+        "independentUnique": 6,
+        "questionIds": [
+          "v9-hsk2-R1-010",
+          "v10-hsk2-R1-003",
+          "v12-hsk2-grammar-00066-1",
+          "v12-hsk2-grammar-00066-3",
+          "v12-hsk2-grammar-00066-4",
+          "v12-hsk2-grammar-00066-5"
+        ],
+        "examples": 3,
+        "humanReviewed": false,
+        "practiceForms": [
+          "recognition",
+          "order",
+          "discrimination",
+          "context"
+        ]
+      }
+    ],
+    "atLeast5": 30,
+    "missing": 41,
+    "humanReviewed": 0,
+    "published": 0
+  },
+  "vocabulary": {
+    "total": 200,
+    "enriched": 124,
+    "flags": {
+      "MISSING_EXAMPLE": 76,
+      "MULTIPLE_MEANINGS": 22,
+      "NEEDS_HUMAN_REVIEW": 200,
+      "MISSING_RELATED_PRACTICE": 79
+    },
+    "humanReviewed": 0
+  },
+  "metadata": {
+    "audited": 27,
+    "fieldsPresent": 116,
+    "notApplicableGrammar": 6,
+    "notApplicableTask": 6,
+    "academicReviewed": 0,
+    "rows": [
+      {
+        "id": "v8-hsk2-L1-001",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-20",
+                "cti25-v-83",
+                "cti25-v-94",
+                "cti25-v-99",
+                "cti25-v-114",
+                "cti25-v-156",
+                "cti25-v-167",
+                "cti25-v-207",
+                "cti25-v-298"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00015"
+              ],
+              "evidence": "坐火车 chỉ đi tàu hỏa; 去看朋友 là mục đích."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-dca74427f9fa"
+              ],
+              "evidence": "问答出行情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-20",
+              "cti25-v-83",
+              "cti25-v-94",
+              "cti25-v-99",
+              "cti25-v-114",
+              "cti25-v-156",
+              "cti25-v-167",
+              "cti25-v-207",
+              "cti25-v-298"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00015"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Chủ thể mẹ đi tàu hỏa thăm bạn. Đối chiếu phương tiện trong hình, không chọn chỉ vì có người.",
+          "focus": "坐火车 chỉ đi tàu hỏa; 去看朋友 là mục đích.",
+          "mistake": "Đừng chọn máy bay hoặc xe ô tô chỉ vì đều là phương tiện."
+        }
+      },
+      {
+        "id": "v8-hsk2-L1-002",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-68",
+                "cti25-v-108",
+                "cti25-v-165",
+                "cti25-v-194",
+                "cti25-v-196",
+                "cti25-v-197",
+                "cti25-v-234",
+                "cti25-v-472"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00016"
+              ],
+              "evidence": "已经……了 diễn đạt sự việc đã xảy ra."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-ce0130396d14"
+              ],
+              "evidence": "介绍家庭日常生活 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-68",
+              "cti25-v-108",
+              "cti25-v-165",
+              "cti25-v-194",
+              "cti25-v-196",
+              "cti25-v-197",
+              "cti25-v-234",
+              "cti25-v-472"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00016"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Đứa trẻ đã ngủ nên cần nói nhỏ. Hình đúng phải phù hợp trạng thái ngủ.",
+          "focus": "已经……了 diễn đạt sự việc đã xảy ra.",
+          "mistake": "Không chọn hình nói điện thoại khi transcript nói đứa trẻ ngủ."
+        }
+      },
+      {
+        "id": "v8-hsk2-L1-003",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-108",
+                "cti25-v-212",
+                "cti25-v-226",
+                "cti25-v-227",
+                "cti25-v-267",
+                "cti25-v-311",
+                "cti25-v-403",
+                "cti25-v-447",
+                "cti25-v-452"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00018"
+              ],
+              "evidence": "别 + động từ là lời ngăn/nhắc đừng làm."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-429f12772948"
+              ],
+              "evidence": "介绍天气基本情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-108",
+              "cti25-v-212",
+              "cti25-v-226",
+              "cti25-v-227",
+              "cti25-v-267",
+              "cti25-v-311",
+              "cti25-v-403",
+              "cti25-v-447",
+              "cti25-v-452"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00018"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Ngoài trời mưa; người nói nhắc đừng quên mang ô.",
+          "focus": "别 + động từ là lời ngăn/nhắc đừng làm.",
+          "mistake": "Không suy thành trời nắng chỉ vì hình có người ra ngoài."
+        }
+      },
+      {
+        "id": "v8-hsk2-L2-004",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-50",
+                "cti25-v-86",
+                "cti25-v-200",
+                "cti25-v-207",
+                "cti25-v-215",
+                "cti25-v-216",
+                "cti25-v-271",
+                "cti25-v-299",
+                "cti25-v-399"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00008"
+              ],
+              "evidence": "每天 nêu tần suất, 做晚饭 là hành động."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-4724381b9e50"
+              ],
+              "evidence": "问答日常饮食 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-50",
+              "cti25-v-86",
+              "cti25-v-200",
+              "cti25-v-207",
+              "cti25-v-215",
+              "cti25-v-216",
+              "cti25-v-271",
+              "cti25-v-299",
+              "cti25-v-399"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00008"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Hành động là làm bữa tối ở nhà mỗi ngày. Đối chiếu hình nấu ăn.",
+          "focus": "每天 nêu tần suất, 做晚饭 là hành động.",
+          "mistake": "Phân biệt nấu ăn với đang ăn, không chỉ nhìn bát cơm."
+        }
+      },
+      {
+        "id": "v8-hsk2-L2-005",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-24",
+                "cti25-v-35",
+                "cti25-v-61",
+                "cti25-v-156",
+                "cti25-v-202",
+                "cti25-v-327"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00024"
+              ],
+              "evidence": "给 + người đứng trước 打电话."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-1c8186f11988"
+              ],
+              "evidence": "日常言语交往 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-24",
+              "cti25-v-35",
+              "cti25-v-61",
+              "cti25-v-156",
+              "cti25-v-202",
+              "cti25-v-327"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00024"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Cô ấy gọi điện cho bạn; 给朋友 xác định đối tượng cuộc gọi.",
+          "focus": "给 + người đứng trước 打电话.",
+          "mistake": "Phân biệt cầm điện thoại gọi với viết chữ hoặc uống nước."
+        }
+      },
+      {
+        "id": "v8-hsk2-L2-006",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-21",
+                "cti25-v-50",
+                "cti25-v-167",
+                "cti25-v-200",
+                "cti25-v-247",
+                "cti25-v-250",
+                "cti25-v-376",
+                "cti25-v-448"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00048"
+              ],
+              "evidence": "吃完 nêu hoàn tất; 就 nối việc tiếp sau."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-ce0130396d14"
+              ],
+              "evidence": "介绍家庭日常生活 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-21",
+              "cti25-v-50",
+              "cti25-v-167",
+              "cti25-v-200",
+              "cti25-v-247",
+              "cti25-v-250",
+              "cti25-v-376",
+              "cti25-v-448"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00048"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Anh ấy ăn xong rồi đi học. Cần bám chuỗi hành động trong câu.",
+          "focus": "吃完 nêu hoàn tất; 就 nối việc tiếp sau.",
+          "mistake": "Không đọc 就 thành lý do, cũng không bỏ hành động ăn xong."
+        }
+      },
+      {
+        "id": "v8-hsk2-L3-007",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-13",
+                "cti25-v-17",
+                "cti25-v-30",
+                "cti25-v-77",
+                "cti25-v-108",
+                "cti25-v-142",
+                "cti25-v-146",
+                "cti25-v-151",
+                "cti25-v-152",
+                "cti25-v-182",
+                "cti25-v-192",
+                "cti25-v-219",
+                "cti25-v-221",
+                "cti25-v-232",
+                "cti25-v-233",
+                "cti25-v-254",
+                "cti25-v-271",
+                "cti25-v-454",
+                "cti25-v-472"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00006"
+              ],
+              "evidence": "已经喝了一杯 là quá khứ gần; 现在想喝水 là thông tin cần chọn."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-4724381b9e50"
+              ],
+              "evidence": "问答日常饮食 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-13",
+              "cti25-v-17",
+              "cti25-v-30",
+              "cti25-v-77",
+              "cti25-v-108",
+              "cti25-v-142",
+              "cti25-v-146",
+              "cti25-v-151",
+              "cti25-v-152",
+              "cti25-v-182",
+              "cti25-v-192",
+              "cti25-v-219",
+              "cti25-v-221",
+              "cti25-v-232",
+              "cti25-v-233",
+              "cti25-v-254",
+              "cti25-v-271",
+              "cti25-v-454",
+              "cti25-v-472"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00006"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Người nam đã uống sữa và bây giờ muốn uống nước. Câu hỏi hỏi nhu cầu hiện tại.",
+          "focus": "已经喝了一杯 là quá khứ gần; 现在想喝水 là thông tin cần chọn.",
+          "mistake": "Không chọn sữa chỉ vì xuất hiện đầu hội thoại."
+        }
+      },
+      {
+        "id": "v8-hsk2-L3-008",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-30",
+                "cti25-v-71",
+                "cti25-v-94",
+                "cti25-v-102",
+                "cti25-v-115",
+                "cti25-v-116",
+                "cti25-v-129",
+                "cti25-v-142",
+                "cti25-v-152",
+                "cti25-v-167",
+                "cti25-v-175",
+                "cti25-v-176",
+                "cti25-v-182",
+                "cti25-v-185",
+                "cti25-v-190",
+                "cti25-v-207",
+                "cti25-v-215",
+                "cti25-v-217",
+                "cti25-v-219",
+                "cti25-v-221",
+                "cti25-v-252",
+                "cti25-v-254",
+                "cti25-v-273",
+                "cti25-v-275",
+                "cti25-v-304",
+                "cti25-v-431",
+                "cti25-v-473"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00015"
+              ],
+              "evidence": "明天 đối chiếu với 今天; 可以 chỉ khả năng/điều kiện được làm."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-75bdaaeac417"
+              ],
+              "evidence": "交流休闲活动 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-30",
+              "cti25-v-71",
+              "cti25-v-94",
+              "cti25-v-102",
+              "cti25-v-115",
+              "cti25-v-116",
+              "cti25-v-129",
+              "cti25-v-142",
+              "cti25-v-152",
+              "cti25-v-167",
+              "cti25-v-175",
+              "cti25-v-176",
+              "cti25-v-182",
+              "cti25-v-185",
+              "cti25-v-190",
+              "cti25-v-207",
+              "cti25-v-215",
+              "cti25-v-217",
+              "cti25-v-219",
+              "cti25-v-221",
+              "cti25-v-252",
+              "cti25-v-254",
+              "cti25-v-273",
+              "cti25-v-275",
+              "cti25-v-304",
+              "cti25-v-431",
+              "cti25-v-473"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00015"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Người nữ hôm nay đi làm và chỉ có thể mua sách ngày mai.",
+          "focus": "明天 đối chiếu với 今天; 可以 chỉ khả năng/điều kiện được làm.",
+          "mistake": "Không chọn sáng hoặc tối hôm nay, vì cả ngày được nói là đi làm."
+        }
+      },
+      {
+        "id": "v8-hsk2-L3-009",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-30",
+                "cti25-v-71",
+                "cti25-v-73",
+                "cti25-v-89",
+                "cti25-v-99",
+                "cti25-v-111",
+                "cti25-v-131",
+                "cti25-v-142",
+                "cti25-v-146",
+                "cti25-v-152",
+                "cti25-v-182",
+                "cti25-v-219",
+                "cti25-v-225",
+                "cti25-v-255",
+                "cti25-v-279",
+                "cti25-v-303",
+                "cti25-v-309",
+                "cti25-v-355",
+                "cti25-v-466"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00025"
+              ],
+              "evidence": "比……好看 so sánh vẻ đẹp; không nói áo trắng không đẹp."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-ac642b2d5d0e"
+              ],
+              "evidence": "问答商品情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-30",
+              "cti25-v-71",
+              "cti25-v-73",
+              "cti25-v-89",
+              "cti25-v-99",
+              "cti25-v-111",
+              "cti25-v-131",
+              "cti25-v-142",
+              "cti25-v-146",
+              "cti25-v-152",
+              "cti25-v-182",
+              "cti25-v-219",
+              "cti25-v-225",
+              "cti25-v-255",
+              "cti25-v-279",
+              "cti25-v-303",
+              "cti25-v-309",
+              "cti25-v-355",
+              "cti25-v-466"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00025"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Người nam thích áo màu xanh hơn áo trắng. Chọn màu của áo được ưa thích.",
+          "focus": "比……好看 so sánh vẻ đẹp; không nói áo trắng không đẹp.",
+          "mistake": "Không đảo hai vế so sánh hoặc coi câu là chọn màu đỏ."
+        }
+      },
+      {
+        "id": "v8-hsk2-R1-010",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-21",
+                "cti25-v-50",
+                "cti25-v-80",
+                "cti25-v-82",
+                "cti25-v-99",
+                "cti25-v-190",
+                "cti25-v-207",
+                "cti25-v-221",
+                "cti25-v-254",
+                "cti25-v-399",
+                "cti25-v-448",
+                "cti25-v-471"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00048"
+              ],
+              "evidence": "吃完饭以后 nêu mốc trước hoạt động 看书."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-75bdaaeac417"
+              ],
+              "evidence": "交流休闲活动 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-21",
+              "cti25-v-50",
+              "cti25-v-80",
+              "cti25-v-82",
+              "cti25-v-99",
+              "cti25-v-190",
+              "cti25-v-207",
+              "cti25-v-221",
+              "cti25-v-254",
+              "cti25-v-399",
+              "cti25-v-448",
+              "cti25-v-471"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00048"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Sau bữa ăn người nói đọc sách một lúc. Hình cần mô tả đọc sách.",
+          "focus": "吃完饭以后 nêu mốc trước hoạt động 看书.",
+          "mistake": "Phân biệt thời điểm sau ăn với hành động chính đang đọc."
+        }
+      },
+      {
+        "id": "v8-hsk2-R1-011",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-52",
+                "cti25-v-79",
+                "cti25-v-108",
+                "cti25-v-110",
+                "cti25-v-194",
+                "cti25-v-200",
+                "cti25-v-366",
+                "cti25-v-472"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00016"
+              ],
+              "evidence": "已经 + động từ + 了 nêu trạng thái đã hình thành."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-ce0130396d14"
+              ],
+              "evidence": "介绍家庭日常生活 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-52",
+              "cti25-v-79",
+              "cti25-v-108",
+              "cti25-v-110",
+              "cti25-v-194",
+              "cti25-v-200",
+              "cti25-v-366",
+              "cti25-v-472"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00016"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Anh ấy đã ngủ; phòng yên tĩnh. Hình phù hợp phải là người đang ngủ.",
+          "focus": "已经 + động từ + 了 nêu trạng thái đã hình thành.",
+          "mistake": "Không chọn đọc sách chỉ vì hoạt động đó cũng có thể yên lặng."
+        }
+      },
+      {
+        "id": "v8-hsk2-R1-012",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-30",
+                "cti25-v-123",
+                "cti25-v-130",
+                "cti25-v-240",
+                "cti25-v-296",
+                "cti25-v-310",
+                "cti25-v-404",
+                "cti25-v-494"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00007"
+              ],
+              "evidence": "自己的 chỉ chính em gái theo chủ ngữ câu."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-96e0b02c992a"
+              ],
+              "evidence": "介绍学习情况、学习经历 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-30",
+              "cti25-v-123",
+              "cti25-v-130",
+              "cti25-v-240",
+              "cti25-v-296",
+              "cti25-v-310",
+              "cti25-v-404",
+              "cti25-v-494"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00007"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Em gái dùng bút viết tên của mình. Hình mô tả viết, không phải đọc.",
+          "focus": "自己的 chỉ chính em gái theo chủ ngữ câu.",
+          "mistake": "Không hiểu 自己 là tên của người nói thay vì em gái."
+        }
+      },
+      {
+        "id": "v8-hsk2-R2-013",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-10",
+                "cti25-v-11",
+                "cti25-v-13",
+                "cti25-v-30",
+                "cti25-v-61",
+                "cti25-v-114",
+                "cti25-v-116",
+                "cti25-v-145",
+                "cti25-v-182",
+                "cti25-v-188",
+                "cti25-v-190",
+                "cti25-v-221",
+                "cti25-v-254",
+                "cti25-v-279",
+                "cti25-v-382",
+                "cti25-v-454",
+                "cti25-v-472",
+                "cti25-v-473",
+                "cti25-v-494",
+                "cti25-v-499",
+                "cti25-v-500"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00007"
+              ],
+              "evidence": "我自己买的 là cách nhấn người thực hiện."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-6be34197947e"
+              ],
+              "evidence": "问答物品情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-10",
+              "cti25-v-11",
+              "cti25-v-13",
+              "cti25-v-30",
+              "cti25-v-61",
+              "cti25-v-114",
+              "cti25-v-116",
+              "cti25-v-145",
+              "cti25-v-182",
+              "cti25-v-188",
+              "cti25-v-190",
+              "cti25-v-221",
+              "cti25-v-254",
+              "cti25-v-279",
+              "cti25-v-382",
+              "cti25-v-454",
+              "cti25-v-472",
+              "cti25-v-473",
+              "cti25-v-494",
+              "cti25-v-499",
+              "cti25-v-500"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00007"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "自己 nhấn mạnh người nói tự mua, đối chiếu với không phải mẹ cho.",
+          "focus": "我自己买的 là cách nhấn người thực hiện.",
+          "mistake": "已经 chỉ thời điểm hoàn thành, không nêu đối lập ai là người mua."
+        }
+      },
+      {
+        "id": "v8-hsk2-R2-014",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-11",
+                "cti25-v-13",
+                "cti25-v-15",
+                "cti25-v-25",
+                "cti25-v-32",
+                "cti25-v-108",
+                "cti25-v-145",
+                "cti25-v-165",
+                "cti25-v-182",
+                "cti25-v-194",
+                "cti25-v-196",
+                "cti25-v-197",
+                "cti25-v-252",
+                "cti25-v-254",
+                "cti25-v-382",
+                "cti25-v-454",
+                "cti25-v-472",
+                "cti25-v-473",
+                "cti25-v-494",
+                "cti25-v-499",
+                "cti25-v-500"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00016"
+              ],
+              "evidence": "已经睡了 diễn đạt đã đi vào trạng thái ngủ."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-ce0130396d14"
+              ],
+              "evidence": "介绍家庭日常生活 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-11",
+              "cti25-v-13",
+              "cti25-v-15",
+              "cti25-v-25",
+              "cti25-v-32",
+              "cti25-v-108",
+              "cti25-v-145",
+              "cti25-v-165",
+              "cti25-v-182",
+              "cti25-v-194",
+              "cti25-v-196",
+              "cti25-v-197",
+              "cti25-v-252",
+              "cti25-v-254",
+              "cti25-v-382",
+              "cti25-v-454",
+              "cti25-v-472",
+              "cti25-v-473",
+              "cti25-v-494",
+              "cti25-v-499",
+              "cti25-v-500"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00016"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "已经 phù hợp vì em trai đã ngủ nên không nên nói to.",
+          "focus": "已经睡了 diễn đạt đã đi vào trạng thái ngủ.",
+          "mistake": "可能 chỉ phỏng đoán, không phù hợp ý khẳng định hiện trạng của lời nhắc."
+        }
+      },
+      {
+        "id": "v8-hsk2-R2-015",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-11",
+                "cti25-v-94",
+                "cti25-v-103",
+                "cti25-v-106",
+                "cti25-v-145",
+                "cti25-v-146",
+                "cti25-v-175",
+                "cti25-v-177",
+                "cti25-v-182",
+                "cti25-v-207",
+                "cti25-v-254",
+                "cti25-v-382",
+                "cti25-v-454",
+                "cti25-v-472",
+                "cti25-v-473",
+                "cti25-v-494",
+                "cti25-v-499",
+                "cti25-v-500"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00006"
+              ],
+              "evidence": "为什么 đặt trước phần 今天没来上课 cần hỏi nguyên nhân."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-1c8186f11988"
+              ],
+              "evidence": "日常言语交往 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-11",
+              "cti25-v-94",
+              "cti25-v-103",
+              "cti25-v-106",
+              "cti25-v-145",
+              "cti25-v-146",
+              "cti25-v-175",
+              "cti25-v-177",
+              "cti25-v-182",
+              "cti25-v-207",
+              "cti25-v-254",
+              "cti25-v-382",
+              "cti25-v-454",
+              "cti25-v-472",
+              "cti25-v-473",
+              "cti25-v-494",
+              "cti25-v-499",
+              "cti25-v-500"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00006"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "为什么 hỏi lý do hôm nay không đến lớp.",
+          "focus": "为什么 đặt trước phần 今天没来上课 cần hỏi nguyên nhân.",
+          "mistake": "Không dùng 自己 hay 一起 để thay từ hỏi nguyên nhân."
+        }
+      },
+      {
+        "id": "v8-hsk2-R3-016",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-17",
+                "cti25-v-30",
+                "cti25-v-33",
+                "cti25-v-71",
+                "cti25-v-77",
+                "cti25-v-79",
+                "cti25-v-88",
+                "cti25-v-108",
+                "cti25-v-124",
+                "cti25-v-146",
+                "cti25-v-167",
+                "cti25-v-173",
+                "cti25-v-175",
+                "cti25-v-182",
+                "cti25-v-188",
+                "cti25-v-200",
+                "cti25-v-221",
+                "cti25-v-222",
+                "cti25-v-241",
+                "cti25-v-247",
+                "cti25-v-250",
+                "cti25-v-254",
+                "cti25-v-271",
+                "cti25-v-295",
+                "cti25-v-309",
+                "cti25-v-336",
+                "cti25-v-341",
+                "cti25-v-371",
+                "cti25-v-392",
+                "cti25-v-454",
+                "cti25-v-476",
+                "cti25-v-495",
+                "cti25-v-496"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00006"
+              ],
+              "evidence": "为什么 hỏi lý do; 因为 mở lời giải thích."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-dca74427f9fa"
+              ],
+              "evidence": "问答出行情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-17",
+              "cti25-v-30",
+              "cti25-v-33",
+              "cti25-v-71",
+              "cti25-v-77",
+              "cti25-v-79",
+              "cti25-v-88",
+              "cti25-v-108",
+              "cti25-v-124",
+              "cti25-v-146",
+              "cti25-v-167",
+              "cti25-v-173",
+              "cti25-v-175",
+              "cti25-v-182",
+              "cti25-v-188",
+              "cti25-v-200",
+              "cti25-v-221",
+              "cti25-v-222",
+              "cti25-v-241",
+              "cti25-v-247",
+              "cti25-v-250",
+              "cti25-v-254",
+              "cti25-v-271",
+              "cti25-v-295",
+              "cti25-v-309",
+              "cti25-v-336",
+              "cti25-v-341",
+              "cti25-v-371",
+              "cti25-v-392",
+              "cti25-v-454",
+              "cti25-v-476",
+              "cti25-v-495",
+              "cti25-v-496"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00006"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Vì trường gần nên đi bộ là câu trả lời đúng nguyên nhân.",
+          "focus": "为什么 hỏi lý do; 因为 mở lời giải thích.",
+          "mistake": "Câu trả lời vị trí 在桌子上 không trả lời vì sao đi bộ."
+        }
+      },
+      {
+        "id": "v8-hsk2-R3-017",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-17",
+                "cti25-v-30",
+                "cti25-v-33",
+                "cti25-v-38",
+                "cti25-v-71",
+                "cti25-v-77",
+                "cti25-v-79",
+                "cti25-v-88",
+                "cti25-v-99",
+                "cti25-v-108",
+                "cti25-v-115",
+                "cti25-v-124",
+                "cti25-v-167",
+                "cti25-v-173",
+                "cti25-v-175",
+                "cti25-v-188",
+                "cti25-v-200",
+                "cti25-v-221",
+                "cti25-v-222",
+                "cti25-v-241",
+                "cti25-v-247",
+                "cti25-v-250",
+                "cti25-v-254",
+                "cti25-v-271",
+                "cti25-v-295",
+                "cti25-v-309",
+                "cti25-v-336",
+                "cti25-v-341",
+                "cti25-v-371",
+                "cti25-v-473",
+                "cti25-v-476"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00015"
+              ],
+              "evidence": "一起 cho biết cùng tham gia hoạt động."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-75bdaaeac417"
+              ],
+              "evidence": "交流休闲活动 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-17",
+              "cti25-v-30",
+              "cti25-v-33",
+              "cti25-v-38",
+              "cti25-v-71",
+              "cti25-v-77",
+              "cti25-v-79",
+              "cti25-v-88",
+              "cti25-v-99",
+              "cti25-v-108",
+              "cti25-v-115",
+              "cti25-v-124",
+              "cti25-v-167",
+              "cti25-v-173",
+              "cti25-v-175",
+              "cti25-v-188",
+              "cti25-v-200",
+              "cti25-v-221",
+              "cti25-v-222",
+              "cti25-v-241",
+              "cti25-v-247",
+              "cti25-v-250",
+              "cti25-v-254",
+              "cti25-v-271",
+              "cti25-v-295",
+              "cti25-v-309",
+              "cti25-v-336",
+              "cti25-v-341",
+              "cti25-v-371",
+              "cti25-v-473",
+              "cti25-v-476"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00015"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Lời rủ đi xem phim cần được đáp bằng đồng ý và giờ gặp.",
+          "focus": "一起 cho biết cùng tham gia hoạt động.",
+          "mistake": "Không chọn câu nói người sở hữu hay so chiều cao."
+        }
+      },
+      {
+        "id": "v8-hsk2-R3-018",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-10",
+                "cti25-v-17",
+                "cti25-v-30",
+                "cti25-v-33",
+                "cti25-v-71",
+                "cti25-v-77",
+                "cti25-v-79",
+                "cti25-v-88",
+                "cti25-v-108",
+                "cti25-v-124",
+                "cti25-v-173",
+                "cti25-v-175",
+                "cti25-v-181",
+                "cti25-v-188",
+                "cti25-v-190",
+                "cti25-v-200",
+                "cti25-v-221",
+                "cti25-v-222",
+                "cti25-v-241",
+                "cti25-v-247",
+                "cti25-v-250",
+                "cti25-v-254",
+                "cti25-v-271",
+                "cti25-v-279",
+                "cti25-v-295",
+                "cti25-v-309",
+                "cti25-v-336",
+                "cti25-v-341",
+                "cti25-v-371",
+                "cti25-v-476"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00035"
+              ],
+              "evidence": "我的 lược danh từ 书 đã biết."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-6be34197947e"
+              ],
+              "evidence": "问答物品情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-10",
+              "cti25-v-17",
+              "cti25-v-30",
+              "cti25-v-33",
+              "cti25-v-71",
+              "cti25-v-77",
+              "cti25-v-79",
+              "cti25-v-88",
+              "cti25-v-108",
+              "cti25-v-124",
+              "cti25-v-173",
+              "cti25-v-175",
+              "cti25-v-181",
+              "cti25-v-188",
+              "cti25-v-190",
+              "cti25-v-200",
+              "cti25-v-221",
+              "cti25-v-222",
+              "cti25-v-241",
+              "cti25-v-247",
+              "cti25-v-250",
+              "cti25-v-254",
+              "cti25-v-271",
+              "cti25-v-279",
+              "cti25-v-295",
+              "cti25-v-309",
+              "cti25-v-336",
+              "cti25-v-341",
+              "cti25-v-371",
+              "cti25-v-476"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00035"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "谁的 hỏi người sở hữu sách, nên lời đáp 是我的 phù hợp.",
+          "focus": "我的 lược danh từ 书 đã biết.",
+          "mistake": "Không trả lời bằng vị trí sách khi câu hỏi hỏi của ai."
+        }
+      },
+      {
+        "id": "v8-hsk2-R4-019",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-10",
+                "cti25-v-40",
+                "cti25-v-78",
+                "cti25-v-89",
+                "cti25-v-94",
+                "cti25-v-108",
+                "cti25-v-111",
+                "cti25-v-116",
+                "cti25-v-122",
+                "cti25-v-124",
+                "cti25-v-156",
+                "cti25-v-167",
+                "cti25-v-182",
+                "cti25-v-190",
+                "cti25-v-192",
+                "cti25-v-193",
+                "cti25-v-200",
+                "cti25-v-203",
+                "cti25-v-207",
+                "cti25-v-219",
+                "cti25-v-234",
+                "cti25-v-254",
+                "cti25-v-255",
+                "cti25-v-263",
+                "cti25-v-473"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00015"
+              ],
+              "evidence": "Chủ thể 小林 khác 朋友; 没有买 phủ định mua trái cây."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-ac642b2d5d0e"
+              ],
+              "evidence": "问答商品情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-10",
+              "cti25-v-40",
+              "cti25-v-78",
+              "cti25-v-89",
+              "cti25-v-94",
+              "cti25-v-108",
+              "cti25-v-111",
+              "cti25-v-116",
+              "cti25-v-122",
+              "cti25-v-124",
+              "cti25-v-156",
+              "cti25-v-167",
+              "cti25-v-182",
+              "cti25-v-190",
+              "cti25-v-192",
+              "cti25-v-193",
+              "cti25-v-200",
+              "cti25-v-203",
+              "cti25-v-207",
+              "cti25-v-219",
+              "cti25-v-234",
+              "cti25-v-254",
+              "cti25-v-255",
+              "cti25-v-263",
+              "cti25-v-473"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00015"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Tiểu Lâm mua hai cuốn sách; quần áo do bạn mua, còn trái cây không mua.",
+          "focus": "Chủ thể 小林 khác 朋友; 没有买 phủ định mua trái cây.",
+          "mistake": "Không gộp đồ hai người mua thành đồ Tiểu Lâm."
+        }
+      },
+      {
+        "id": "v8-hsk2-R4-020",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-2",
+                "cti25-v-32",
+                "cti25-v-33",
+                "cti25-v-85",
+                "cti25-v-92",
+                "cti25-v-94",
+                "cti25-v-108",
+                "cti25-v-113",
+                "cti25-v-160",
+                "cti25-v-161",
+                "cti25-v-167",
+                "cti25-v-200",
+                "cti25-v-207",
+                "cti25-v-219",
+                "cti25-v-247",
+                "cti25-v-250",
+                "cti25-v-252",
+                "cti25-v-253",
+                "cti25-v-321",
+                "cti25-v-336",
+                "cti25-v-380",
+                "cti25-v-381",
+                "cti25-v-399",
+                "cti25-v-476"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00027"
+              ],
+              "evidence": "今天限定时间; 因为解释变化原因."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-4bc10a32d7ac"
+              ],
+              "evidence": "交流学校情况、课后活动 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-2",
+              "cti25-v-32",
+              "cti25-v-33",
+              "cti25-v-85",
+              "cti25-v-92",
+              "cti25-v-94",
+              "cti25-v-108",
+              "cti25-v-113",
+              "cti25-v-160",
+              "cti25-v-161",
+              "cti25-v-167",
+              "cti25-v-200",
+              "cti25-v-207",
+              "cti25-v-219",
+              "cti25-v-247",
+              "cti25-v-250",
+              "cti25-v-252",
+              "cti25-v-253",
+              "cti25-v-321",
+              "cti25-v-336",
+              "cti25-v-380",
+              "cti25-v-381",
+              "cti25-v-399",
+              "cti25-v-476"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00027"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Hôm nay em trai dậy lúc sáu giờ để đi thi, khác lịch thường ngày bảy giờ.",
+          "focus": "今天限定时间; 因为解释变化原因.",
+          "mistake": "Không dùng lịch thường lệ 七点 để trả lời câu hỏi hôm nay."
+        }
+      },
+      {
+        "id": "v8-hsk2-R4-021",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-9",
+                "cti25-v-13",
+                "cti25-v-30",
+                "cti25-v-49",
+                "cti25-v-60",
+                "cti25-v-65",
+                "cti25-v-105",
+                "cti25-v-108",
+                "cti25-v-116",
+                "cti25-v-164",
+                "cti25-v-182",
+                "cti25-v-184",
+                "cti25-v-202",
+                "cti25-v-206",
+                "cti25-v-219",
+                "cti25-v-223",
+                "cti25-v-225",
+                "cti25-v-233",
+                "cti25-v-234",
+                "cti25-v-254",
+                "cti25-v-263",
+                "cti25-v-267",
+                "cti25-v-287",
+                "cti25-v-355",
+                "cti25-v-439",
+                "cti25-v-454"
+              ],
+              "evidence": "Token links retained; actual prompt and options individually inspected"
+            },
+            "grammar": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "HSK30-2025-GRA-HSK2-00029"
+              ],
+              "evidence": "只有限制数量; 所以 nối kết quả mua cốc đỏ."
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v9-cti25-task-2-ac642b2d5d0e"
+              ],
+              "evidence": "问答商品情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-9",
+              "cti25-v-13",
+              "cti25-v-30",
+              "cti25-v-49",
+              "cti25-v-60",
+              "cti25-v-65",
+              "cti25-v-105",
+              "cti25-v-108",
+              "cti25-v-116",
+              "cti25-v-164",
+              "cti25-v-182",
+              "cti25-v-184",
+              "cti25-v-202",
+              "cti25-v-206",
+              "cti25-v-219",
+              "cti25-v-223",
+              "cti25-v-225",
+              "cti25-v-233",
+              "cti25-v-234",
+              "cti25-v-254",
+              "cti25-v-263",
+              "cti25-v-267",
+              "cti25-v-287",
+              "cti25-v-355",
+              "cti25-v-439",
+              "cti25-v-454"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00029"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Cô ấy chỉ có mười hai tệ; cốc xanh giá mười lăm nên quá đắt so với tiền hiện có.",
+          "focus": "只有限制数量; 所以 nối kết quả mua cốc đỏ.",
+          "mistake": "Không suy cô ấy ghét màu xanh: bài chỉ nêu giới hạn tiền."
+        }
+      },
+      {
+        "id": "v8-hsk2-W1-022",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-165"
+              ],
+              "evidence": "Target character in this item: 请"
+            },
+            "grammar": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character component recognition, not structure mastery"
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character component/recall drill, not a communicative syllabus task"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-165",
+              "cti25-v-400"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00035"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "请 gồm bộ 讠 và phần 青. Bài này kiểm tra nhận biết cấu tạo chữ, không kiểm ngữ pháp.",
+          "focus": "请 dùng trong lời yêu cầu; metadata từ chỉ hỗ trợ học chữ.",
+          "mistake": "Không coi ghép đúng bộ chữ là đã nắm cụm 的."
+        }
+      },
+      {
+        "id": "v8-hsk2-W1-023",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-414"
+              ],
+              "evidence": "Target character in this item: 跑"
+            },
+            "grammar": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character component recognition, not structure mastery"
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character component/recall drill, not a communicative syllabus task"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-307",
+              "cti25-v-400",
+              "cti25-v-414"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00005"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "跑 có bộ 足 dạng đứng bên trái và 包 ở bên phải.",
+          "focus": "跑 nghĩa chạy; đây là cấu tạo chữ.",
+          "mistake": "Không suy thành bằng chứng nắm ngữ pháp động từ ly hợp."
+        }
+      },
+      {
+        "id": "v8-hsk2-W1-024",
+        "revision": 2,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-219"
+              ],
+              "evidence": "Target character in this item: 问"
+            },
+            "grammar": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character component recognition, not structure mastery"
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character component/recall drill, not a communicative syllabus task"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-104",
+              "cti25-v-219",
+              "cti25-v-400"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00006"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "问 có 门 bao quanh 口. Dấu cộng biểu thị thành phần, không nhất thiết bố trí trái/phải.",
+          "focus": "问 nghĩa hỏi; chữ khác 门 đứng riêng.",
+          "mistake": "Không tính câu ghép chữ này thành bằng chứng nắm 为什么."
+        }
+      },
+      {
+        "id": "v8-hsk2-W2-025",
+        "revision": 3,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-77"
+              ],
+              "evidence": "Target character in this item: 喝"
+            },
+            "grammar": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character recall from pinyin; no grammar structure assessed"
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character component/recall drill, not a communicative syllabus task"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-30",
+              "cti25-v-70",
+              "cti25-v-165",
+              "cti25-v-180",
+              "cti25-v-192",
+              "cti25-v-221",
+              "cti25-v-233",
+              "cti25-v-240",
+              "cti25-v-254",
+              "cti25-v-296",
+              "cti25-v-316"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00035"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Chữ gợi ý 喝 (hē) là uống, phù hợp tân ngữ nước. Câu trả lời lưu để tự đối chiếu và người chấm xem.",
+          "focus": "我想喝水: muốn uống nước.",
+          "mistake": "Không tự chấm Writing chính thức bằng một chuỗi đúng duy nhất."
+        }
+      },
+      {
+        "id": "v8-hsk2-W2-026",
+        "revision": 3,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-173"
+              ],
+              "evidence": "Target character in this item: 三"
+            },
+            "grammar": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character recall from pinyin; no grammar structure assessed"
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character component/recall drill, not a communicative syllabus task"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-30",
+              "cti25-v-70",
+              "cti25-v-94",
+              "cti25-v-165",
+              "cti25-v-180",
+              "cti25-v-188",
+              "cti25-v-207",
+              "cti25-v-240",
+              "cti25-v-243",
+              "cti25-v-296",
+              "cti25-v-316"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00035"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Pinyin sān gợi chữ 三 trong 星期三. Nội dung được lưu dưới dạng bài viết chưa chấm.",
+          "focus": "星期三 là thứ Tư.",
+          "mistake": "Không xóa pinyin: đây là dữ kiện đề, không phải gợi ý được bật thêm."
+        }
+      },
+      {
+        "id": "v8-hsk2-W2-027",
+        "revision": 3,
+        "evidence": {
+          "version": "V12",
+          "fields": {
+            "vocabulary": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "cti25-v-10"
+              ],
+              "evidence": "Target character in this item: 本"
+            },
+            "grammar": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character recall from pinyin; no grammar structure assessed"
+            },
+            "topic": {
+              "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+              "ids": [
+                "v8-topic-hsk2-everyday"
+              ],
+              "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+            },
+            "task": {
+              "status": "NOT_APPLICABLE",
+              "ids": [],
+              "evidence": "Character component/recall drill, not a communicative syllabus task"
+            }
+          },
+          "source": "https://www.chinesetest.cn/syllabus",
+          "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+          "previous": {
+            "vocabularyIds": [
+              "cti25-v-30",
+              "cti25-v-70",
+              "cti25-v-111",
+              "cti25-v-165",
+              "cti25-v-180",
+              "cti25-v-190",
+              "cti25-v-221",
+              "cti25-v-240",
+              "cti25-v-263",
+              "cti25-v-296",
+              "cti25-v-316"
+            ],
+            "grammarIds": [
+              "HSK30-2025-GRA-HSK2-00035"
+            ],
+            "taskIds": null,
+            "topicIds": [
+              "v8-topic-hsk2-everyday"
+            ]
+          },
+          "reason": "Pinyin běn gợi 本, lượng từ cho sách. Lưu câu trả lời để người học tự đối chiếu.",
+          "focus": "两本书 là hai cuốn sách.",
+          "mistake": "Không gọi câu điền chữ này là đánh giá chính thức mọi kỹ năng Writing."
+        }
+      }
+    ]
+  },
+  "audio": {
+    "transcripts": 40,
+    "generated": 0,
+    "decodable": 0,
+    "licenseKnown": 0,
+    "rightsReviewed": 0,
+    "pronunciationReviewed": 0,
+    "playable": 0,
+    "mockEligible": 0,
+    "jobsMetadata": [
+      {
+        "id": "v10-audio-job-v8-hsk2-L1-001",
+        "questionId": "v8-hsk2-L1-001",
+        "questionRevision": 2,
+        "sourceFingerprint": "2da933193e2a5c1e9e936a4e971f2a964c0ced6aa54fdd5a1b820d05dcfea998",
+        "contentSignature": "b846a17b8795114301b7fefb5fcce32877b33ec3293282472109ba9fc014d47f",
+        "transcript": "妈妈今天坐火车去看朋友。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v8-hsk2-L1-001",
+          "revision": 2,
+          "sha256": "150ba22697cd21c65f9514f8855a2ef23482e15e6e1908a47ff5bd07de9c0a70"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v8-hsk2-L1-002",
+        "questionId": "v8-hsk2-L1-002",
+        "questionRevision": 2,
+        "sourceFingerprint": "00d345e924df5cbe306a7fa56f79a80a803843c60743e8ce8f2c8c63d85503f9",
+        "contentSignature": "e1eb808a5f0c40afd4a720b8cb315d36da63e0b20de3b704e4cd9a49f3cf2835",
+        "transcript": "孩子已经睡了，请小声说话。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v8-hsk2-L1-002",
+          "revision": 2,
+          "sha256": "b6efc6576776eb636e85128971cb9aec1c7d5b4f4630fa065a41acc5d6ebca0d"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v8-hsk2-L1-003",
+        "questionId": "v8-hsk2-L1-003",
+        "questionRevision": 2,
+        "sourceFingerprint": "338a8c889348474c4fd089803f594a3a73f55dba9845139825b2ab36280e39b4",
+        "contentSignature": "98c7688dd9b58412cc7a70f23596af91f18ac2521c3a1247ee79f658ba1c6c72",
+        "transcript": "外面下雨了，别忘了带伞。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v8-hsk2-L1-003",
+          "revision": 2,
+          "sha256": "75b0c5930dd354dfaf36b759c4328b407757ac96aa805af798de5a1483f8a1a1"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v8-hsk2-L2-004",
+        "questionId": "v8-hsk2-L2-004",
+        "questionRevision": 2,
+        "sourceFingerprint": "34675fa6dec8bb736ad4b5c8c1f76b928349a0739beb3a5f91faa09f57589cb8",
+        "contentSignature": "a7239048655e27747c3e1947d6e79066ce1974c71081a0fc50d16f7457e417d1",
+        "transcript": "他每天在家做晚饭。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v8-hsk2-L2-004",
+          "revision": 2,
+          "sha256": "90bf21b90ff3a051447633802f30766c31c327376587d01224b7746e76a3c4a0"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v8-hsk2-L2-005",
+        "questionId": "v8-hsk2-L2-005",
+        "questionRevision": 2,
+        "sourceFingerprint": "35cee587cde8e621fca661567e471853823f7eee49782638410f771930d98b12",
+        "contentSignature": "4d32ab924ab2890e69b24e4b84c2bdf3ed372be945e725e28627ab525a3f3249",
+        "transcript": "她给朋友打电话。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v8-hsk2-L2-005",
+          "revision": 2,
+          "sha256": "7b9864f4cf18a92ac9a84f710f1a7530e070488f4bda6f2ce68a6346ac0d35bd"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v8-hsk2-L2-006",
+        "questionId": "v8-hsk2-L2-006",
+        "questionRevision": 2,
+        "sourceFingerprint": "c25c8a07e558b16c64e1ce5f2f22bd2296e3f83ada972e9002d707cca2d4a250",
+        "contentSignature": "69d4aa694d03ee46967c087044f52b03f9617ac975735a57bec88521550c9c46",
+        "transcript": "他吃完饭就去学校。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v8-hsk2-L2-006",
+          "revision": 2,
+          "sha256": "0f6c328319da3a3ad4565180a1239fba654cc69f9b8d3b1b8289dae6053b4bc8"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v8-hsk2-L3-007",
+        "questionId": "v8-hsk2-L3-007",
+        "questionRevision": 2,
+        "sourceFingerprint": "c01a500f36d81764addc245270e651802b904350ddc627c2e815dbfd87bfa123",
+        "contentSignature": "badf7ccec2f4450890f38970645decc73a2fe3b71d679962a7658fa3541aedb9",
+        "transcript": "女：你为什么不喝牛奶？男：我已经喝了一杯，现在想喝水。问：男的现在想喝什么？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v8-hsk2-L3-007",
+          "revision": 2,
+          "sha256": "a8d47bbe8b4bebebd11b1496df19b979c6f953b34b302ebdd94e4c312f4eecec"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v8-hsk2-L3-008",
+        "questionId": "v8-hsk2-L3-008",
+        "questionRevision": 2,
+        "sourceFingerprint": "af887111804d141bdaf0062f45a6ed2d0370cc4c03a9f9e6fc38e7d0119d98f6",
+        "contentSignature": "aa02b01e348048b738f1ca19964baa4b6862a581b70730d873b63430f38d8c09",
+        "transcript": "男：今天一起去买书，好吗？女：今天我要上班，明天可以。问：女的什么时候可以买书？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v8-hsk2-L3-008",
+          "revision": 2,
+          "sha256": "06bd9c1a2e78100d27dccb34dd1fd2fe7da97f0b16ed168a8c1e25b3d93ead9c"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v8-hsk2-L3-009",
+        "questionId": "v8-hsk2-L3-009",
+        "questionRevision": 2,
+        "sourceFingerprint": "153eeec8982dc1e9f823143f42096e6812e474169b597b39e2b5f73572e59193",
+        "contentSignature": "3ccaab848b1eda73241f59476fca6d6a3fe48d84b5b591c11f12b48449a6a9d7",
+        "transcript": "女：这两件衣服，你喜欢哪件？男：蓝色的比白色的好看。问：男的更喜欢什么颜色？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v8-hsk2-L3-009",
+          "revision": 2,
+          "sha256": "3b217b59ffeba4797e695f879f30ebfc9bf6181dceae53045267f9012a0215cc"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v9-hsk2-L1-001",
+        "questionId": "v9-hsk2-L1-001",
+        "questionRevision": 1,
+        "sourceFingerprint": "ff3f5dc9c390a3f7b1dd011f877b5d7462be49cdce435eee24d3dad5bf7cdc95",
+        "contentSignature": "7b5b6adb81ae51cbe53c6239f79e164dd8b5201140be7231fd69e98e8d455d7e",
+        "transcript": "昨天我去医院看病，医生让我今天在家休息。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v9-hsk2-L1-001",
+          "revision": 1,
+          "sha256": "6d0b3496287dd99669a54d0dad504945b8e8f95fcb4c18470df193472f0976a0"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v9-hsk2-L1-002",
+        "questionId": "v9-hsk2-L1-002",
+        "questionRevision": 1,
+        "sourceFingerprint": "ecd9ce3a4d8906ebe865ca2b2d1ba4e6d83de3ebfbb6422d85f7c5254a1f82fd",
+        "contentSignature": "1c1bdd8d8f54c0e3a481cb9829ca3e8becabc04d751a619de98c33462e8b8dcf",
+        "transcript": "我正在电脑上看电影，没有看电视。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v9-hsk2-L1-002",
+          "revision": 1,
+          "sha256": "5e25b9aa417477bf6cd3fdf719bac71dd44d7b7dfdd595c14c2bbe9413d79c14"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v9-hsk2-L1-003",
+        "questionId": "v9-hsk2-L1-003",
+        "questionRevision": 1,
+        "sourceFingerprint": "c1b72db4e1e9d273c8d17c3930547754a7478d8820db5e0553642bf76586f512",
+        "contentSignature": "f8de190c5f3e7f484f75a1188fc0629104edec8b24a7e41e75bb892aeaa87209",
+        "transcript": "爸爸给了我一杯牛奶，让我喝完再走。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v9-hsk2-L1-003",
+          "revision": 1,
+          "sha256": "49d6ca99a6895ceb63501896b25af354c64fa80f33db1085d0a4e0a9dd8124de"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v9-hsk2-L2-004",
+        "questionId": "v9-hsk2-L2-004",
+        "questionRevision": 1,
+        "sourceFingerprint": "ac480f1b74def49f907df53cf503f34f81c20f7a7c146f3359a87604c75e12e6",
+        "contentSignature": "1db5e2f1ef8823b70589392b19d8b432942e670aed8ced92ed00fdf13aa8b3ea",
+        "transcript": "明天有汉语课，他正在看一本汉语书。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v9-hsk2-L2-004",
+          "revision": 1,
+          "sha256": "91d6dcb1dc41336018bf7a99e3dab98ef06844337e65a99f007fac64140a0389"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v9-hsk2-L2-005",
+        "questionId": "v9-hsk2-L2-005",
+        "questionRevision": 1,
+        "sourceFingerprint": "367ccd55943e5cb702e43b4fc305424b7bf829a6260f87c54bdb10e33f56b2d1",
+        "contentSignature": "906ecb22ff46586e62345be9cf8a906cd6959eca3b213c02fa8a6395c813d1d6",
+        "transcript": "请等一下，他正开车，现在不能打电话。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v9-hsk2-L2-005",
+          "revision": 1,
+          "sha256": "be50dd8e733c21326e954c88c3e0f8990225ccaca884168acfd7d3caaa538754"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v9-hsk2-L2-006",
+        "questionId": "v9-hsk2-L2-006",
+        "questionRevision": 1,
+        "sourceFingerprint": "a7cd0fe6c171be15c97add4d0bd5cf518f32e06de203597a7fdec3def65a3ecd",
+        "contentSignature": "7fd88224168632ad214c680ea4478dbfc1104d56965f32136541c1dfe9106bea",
+        "transcript": "她不是在看书，是在写明天上课的东西。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v9-hsk2-L2-006",
+          "revision": 1,
+          "sha256": "fce03bb541e8b51782367f3a2d6d972801d7859d060febb652caec8c30f81e39"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v9-hsk2-L3-007",
+        "questionId": "v9-hsk2-L3-007",
+        "questionRevision": 1,
+        "sourceFingerprint": "84695f46dac0d5a5eafe936651f6a0f33f5b7c02cf4fe39bdf008b0e96568d08",
+        "contentSignature": "1015165cbd8078ec6b76afee3f30008d3c20e51045f0cc35cb9dae0bc55b2b49",
+        "transcript": "男：电影七点开始，我们六点半在门口见？女：好，我去买票。问：他们几点见面？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v9-hsk2-L3-007",
+          "revision": 1,
+          "sha256": "7e8fd1a2494c0275b21b170d954338faa69205fd290b2fc504d9bc380ef01b1e"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v9-hsk2-L3-008",
+        "questionId": "v9-hsk2-L3-008",
+        "questionRevision": 1,
+        "sourceFingerprint": "af7f12ad4b7e2844582a783cd3b57ce21a3cee0058b2f9bd4badeb799cb884ff",
+        "contentSignature": "a334d7f3cdc969c08e3ff1a0e535ac42fc533f4b810f7206d825402e0324df53",
+        "transcript": "女：这个包比那个小，为什么还贵？男：这个是新的，那个已经买了一年了。问：哪个包是新的？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v9-hsk2-L3-008",
+          "revision": 1,
+          "sha256": "bba6505bfd2fed68d1316d2c780d57188c6ef37d0b72d28c669ecef200e2b3b3"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v9-hsk2-L3-009",
+        "questionId": "v9-hsk2-L3-009",
+        "questionRevision": 1,
+        "sourceFingerprint": "e45e4490edea09bde45bae7dc06c7093917398839280b7441258eaa8cb73376e",
+        "contentSignature": "b42373e259f4b1e5f777bb58616ca898deaa223a26781af2c4edf5751c463371",
+        "transcript": "男：你怎么还不走？女：我在等姐姐，她说十分钟后到。问：女的为什么没有走？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v9-hsk2-L3-009",
+          "revision": 1,
+          "sha256": "0b3d89f7f4a3c3bdfa4ac47fa118158baffd6287fac6ae81e0f302296f3712b4"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L1-001",
+        "questionId": "v10-hsk2-L1-001",
+        "questionRevision": 2,
+        "sourceFingerprint": "8d9d4c7c81f11e9f926720a05f9546af36c0e8fd37659512cc1f380524e4c3a6",
+        "contentSignature": "539afe8d087c9c2658366fd8167f02e7c1d6f8ab86126e8c61d5f6f38a0498ee",
+        "transcript": "明天上午的飞机太早了，我今天晚上就去机场旁边住。问：我明天坐什么？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L1-001",
+          "revision": 2,
+          "sha256": "318837ac5395e5b4d803232ad428aa137d0b464a4c6114d3d8638b497c97f56f"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L1-002",
+        "questionId": "v10-hsk2-L1-002",
+        "questionRevision": 2,
+        "sourceFingerprint": "58c9e03f2043855c34c6084206bbd1aac8e5db1c8485899c0a84a95de30d3d22",
+        "contentSignature": "44ab693fa175463166c4788e13823976c0fabe6e9745e813f1921c7fb80b4ca9",
+        "transcript": "外面下雨了，衣服还在外面，我得去拿回来。问：外面的天气怎么样？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L1-002",
+          "revision": 2,
+          "sha256": "1599804bb4e3a16cc374cd4a42e958123a28a529eb7d2fa75da46f054bbc8139"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L1-003",
+        "questionId": "v10-hsk2-L1-003",
+        "questionRevision": 2,
+        "sourceFingerprint": "007b579fb44a62b03176ff92694733e13b42b4f091c8d9c3a66de8a3a1a46322",
+        "contentSignature": "8693aa3fa728fcfe41beef21bf2db863ff9760d73d63210c9e2cd38024ef8470",
+        "transcript": "老师说，不能只看手机，今天晚上要看一本书。问：老师让我们看什么？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L1-003",
+          "revision": 2,
+          "sha256": "b39fa112e03c08a5bd152f424c3496d2f1811a676bf45f4ec2da5acbe9a461fc"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L1-004",
+        "questionId": "v10-hsk2-L1-004",
+        "questionRevision": 2,
+        "sourceFingerprint": "623fa76000fcd24a8a93f9978d3438f9d49d354cb58deb27760a8a24b1327964",
+        "contentSignature": "4e32a198140d21c12e9f53a414bb067e6b29fa6ec2befa4003daa357e7b00383",
+        "transcript": "姐姐跟我去商店买衣服，不是去公司上班。问：我们去哪里？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L1-004",
+          "revision": 2,
+          "sha256": "5fedcb7737bce882f57c83208dc5481b34ae3a4fef11cb54fb938809254519ae"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L1-005",
+        "questionId": "v10-hsk2-L1-005",
+        "questionRevision": 3,
+        "sourceFingerprint": "75279efc6b52ef4db3249df8ac52b1be95eb3d5732bf9c6725c6fb5f34c96107",
+        "contentSignature": "65196199c73625ab3b902eae994552ec1c7b8b6033a28a16ca871209844c59c6",
+        "transcript": "小狗不能喝茶，我给它喝了一点儿水。问：喝水的是猫还是狗？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L1-005",
+          "revision": 3,
+          "sha256": "a4a513e79332eeea62ad0ae9dbff0460342a785f39102142336783aad84024c1"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L1-006",
+        "questionId": "v10-hsk2-L1-006",
+        "questionRevision": 2,
+        "sourceFingerprint": "7429738c740892d53547fb860c70cfe14fca10508f07cca0936ef60e826247da",
+        "contentSignature": "fd4108ed625852b0ffe1267dcba9c93396bf1d15ecab2d7539eacba8fdf32543",
+        "transcript": "椅子太小了，爸爸坐不下，让孩子坐吧。问：什么东西太小了？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L1-006",
+          "revision": 2,
+          "sha256": "61fd7652ef5fd8780886d0efb0d2ea58416657f1cb4aa5083a22d49e29948c94"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L2-001",
+        "questionId": "v10-hsk2-L2-001",
+        "questionRevision": 3,
+        "sourceFingerprint": "a6567df204b904b5fec6e7a5bf43249b5ca4a7138eebf3af8aebd897bebe73f2",
+        "contentSignature": "3d8ffefc0b3dfaed6a1ffbc2dc77296930fa386e9a0d56556f95709df80d2ac4",
+        "transcript": "家人还没有回来，他正在做饭，等大家回来就能吃了。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L2-001",
+          "revision": 3,
+          "sha256": "4b515a0647f3c962710d3eb672aa57072b71aa030240285887d59eeb1b02b1be"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L2-002",
+        "questionId": "v10-hsk2-L2-002",
+        "questionRevision": 3,
+        "sourceFingerprint": "829b775f6b3d993f05c443794457888feb04ada70d93658f6ce7c1247c851345",
+        "contentSignature": "1c13365a409d04d620e2195177263852e86ddd896bfb9222f865cf33dbe978aa",
+        "transcript": "她说吃完早饭再吃药。现在还没有吃完早饭。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L2-002",
+          "revision": 3,
+          "sha256": "f2625db93834a33b64b7a7efe684cc1b3b2c2ec9bbd3186b5900ae4523276737"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L2-003",
+        "questionId": "v10-hsk2-L2-003",
+        "questionRevision": 3,
+        "sourceFingerprint": "98c6d417a0dc7ae02a6b4cf7642e302a20464dafa1bd1d752e2678a5cd488be0",
+        "contentSignature": "4501a1075a4d9d7062834e91856079fa829d7fa876e06372cd9416df1e1e092c",
+        "transcript": "这本书明天就要还，他今天晚上还在看。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L2-003",
+          "revision": 3,
+          "sha256": "82b82c3e8c0f47a1bda200756aca868e43674e99a6486d7c8c97ba92ae12f690"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L2-004",
+        "questionId": "v10-hsk2-L2-004",
+        "questionRevision": 3,
+        "sourceFingerprint": "0c6fd55900749be332c5e1349c0ddf4e306d6261fc7833d4b778672c4c93b02f",
+        "contentSignature": "f0383402db9bffd8acfbf036c5cfb179fee41f93db7b858f16ba40ada37d0de0",
+        "transcript": "明天要买的东西很多，我都写在本子上，就不会忘了。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L2-004",
+          "revision": 3,
+          "sha256": "d2d3e7e13b59c40e7d413c5cd189b38fa421d393dffe17c6e10a5742fdcfff8f"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L2-005",
+        "questionId": "v10-hsk2-L2-005",
+        "questionRevision": 3,
+        "sourceFingerprint": "dd6e1254fe251e8be6ed6586621399996e82c4f326e9797967497f0c133756c0",
+        "contentSignature": "73b8da1c2e90848288a64d87e80c2036fc1fcef7d7465429aaeff0e1d4595a3e",
+        "transcript": "孩子下课后没有见到爸爸，给他打电话问他在哪儿。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L2-005",
+          "revision": 3,
+          "sha256": "05bb415513a4102d4f50cb4eb940481a0dc578543d368d770cd3752b3ae99589"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L2-006",
+        "questionId": "v10-hsk2-L2-006",
+        "questionRevision": 3,
+        "sourceFingerprint": "ffa19b882164961b9e0e1d78ac4f69ac6b1dbd38bd4bfe5550c1c0f7f674460d",
+        "contentSignature": "fd81b7394fb7a24cec8124293c3254613dfcbfb055db7124ce0099f9d90e1311",
+        "transcript": "他没有坐在后面休息，是坐在前面开车。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L2-006",
+          "revision": 3,
+          "sha256": "fa835351816fbe46b81f1160869b2ae24a552452b85efaa152e9c5bcf9c1e1a4"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L2-007",
+        "questionId": "v10-hsk2-L2-007",
+        "questionRevision": 3,
+        "sourceFingerprint": "3877c2e0ceee9f11174bdd4f542ff0bc49c1297f0fe775713f4d749bca36249f",
+        "contentSignature": "1d7e29cbc2d4a3b99b8cc53697a30f0cdee3fa770299a6e2995185055dd81fca",
+        "transcript": "老师问的字他不认识，正在书里找。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L2-007",
+          "revision": 3,
+          "sha256": "4092b5dc31fd7875f7a3d236dbecab56a1a8b2e7e2e8eb366185aaa37bcdde94"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L2-008",
+        "questionId": "v10-hsk2-L2-008",
+        "questionRevision": 3,
+        "sourceFingerprint": "14614689d311b23eda87df2c6ce7c305a83c0b3ac7b217ba2043def06fd3ba07",
+        "contentSignature": "243f6eab118042f0a805c9d859ea07fe7e75d79558b711185e929c62ea3cebcd",
+        "transcript": "这个字我会写，但不知道怎么读。我写给你看。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L2-008",
+          "revision": 3,
+          "sha256": "2f71c7eedc8ec63d0330d469931131c59d5865dae00421e0c314d4de5b7a6984"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L2-009",
+        "questionId": "v10-hsk2-L2-009",
+        "questionRevision": 3,
+        "sourceFingerprint": "74b6930410fd58c54b24ac1a5db171edf7ce499b9b202c12e82d02ffcc9ba439",
+        "contentSignature": "2c999771d76ebe91207337f02dc73e3abbf541611d26f29705ea4df0c44d752e",
+        "transcript": "妈妈不在家，孩子给她打电话，问她什么时候回来。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L2-009",
+          "revision": 3,
+          "sha256": "ab77e4b29f24d560dbb924248035b2498e3921452efdab7ab13660b60b5ff3d7"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L2-010",
+        "questionId": "v10-hsk2-L2-010",
+        "questionRevision": 3,
+        "sourceFingerprint": "fe3dfff4eb6317bfd16aa334e4dacd09e1416ce3672f6c26d9a2654006c230c4",
+        "contentSignature": "16bd5451a8893277e83c264d4aa9d5b3d50a09d819151abeadb386cc439d54f7",
+        "transcript": "他吃完米饭，还想吃水果，现在吃苹果。",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L2-010",
+          "revision": 3,
+          "sha256": "4064963060b22c1d6c2511a62c6653deaceda38398bf629df6741c4d97a09fcd"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L3-001",
+        "questionId": "v10-hsk2-L3-001",
+        "questionRevision": 2,
+        "sourceFingerprint": "8902c4a307525c7b8abcc18b7cfbee5bbdb84e3cb958339337146e0e3f281d29",
+        "contentSignature": "efd97c9e687a23dba7e2a27e26c796cba869702dc0c6088e05ef3c4a52132f07",
+        "transcript": "女：我去买菜，晚上在家做饭吧。男：好，我来洗菜。问：他们晚上在哪里吃饭？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L3-001",
+          "revision": 2,
+          "sha256": "3d3f344e9227367b6ae120d3ac0464775f2821dd63235089dce8cff65c6d5ffc"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L3-002",
+        "questionId": "v10-hsk2-L3-002",
+        "questionRevision": 2,
+        "sourceFingerprint": "e938023822f77bed667ef14025013d987be3d37445e948e5b4885783b27501be",
+        "contentSignature": "dc22d485670e042c4d136f9a4acc15ca9ecc73b3e15c07d2ac957122fd502821",
+        "transcript": "男：你不是说十点来吗？女：对不起，我的手表慢了十分钟。问：女的为什么来晚了？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L3-002",
+          "revision": 2,
+          "sha256": "7eea1877e042f4de2cf94d299c5b6c82c1b467bb4c56c2c0688ee503ae8bd8ac"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L3-003",
+        "questionId": "v10-hsk2-L3-003",
+        "questionRevision": 2,
+        "sourceFingerprint": "792431e575b7176f8cd942684a9cb55381e6b3425d1f7b69a925096577f0f313",
+        "contentSignature": "1b71b4e1c0217d151f7216abd20c0d914db5fadbf91b01dba912f0ef72765dd9",
+        "transcript": "女：这件衣服是给你的吗？男：不是，是给我妹妹的，她明天过生日。问：衣服是给谁的？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L3-003",
+          "revision": 2,
+          "sha256": "d323ec8714b6dec3906428347b704cee9c51fd53f1de9c92fc77bffc79b4ceee"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L3-004",
+        "questionId": "v10-hsk2-L3-004",
+        "questionRevision": 2,
+        "sourceFingerprint": "9527c9dd042ce7b2de4880f807d97e178c4354599a471cc02eee4023033eba36",
+        "contentSignature": "a6b71593c4537412752ba454de6bce4ebde341fe5fadb9d7adf3d09d55094b22",
+        "transcript": "男：你去过北京吗？女：去过两次，但是没去过上海。问：女的去过哪里？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L3-004",
+          "revision": 2,
+          "sha256": "6117eb0ccd00cd9ec0cdbd82cef31004b812fc42f2a482e069fc92d55da47ade"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L3-005",
+        "questionId": "v10-hsk2-L3-005",
+        "questionRevision": 2,
+        "sourceFingerprint": "15deec16fbde904e247d9f37948a95ab5e56bf006773eb919770c9ca6f8508ab",
+        "contentSignature": "f71bc35e3244b226130969f4e7c4044b5f9eb663243a0955c9dc69d583b5bbed",
+        "transcript": "女：今天的课是不是八点开始？男：昨天说八点，但今天老师说九点开始。问：今天几点上课？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L3-005",
+          "revision": 2,
+          "sha256": "e5275750fe9c24c37650eb3a32ee73117da665963e7a4636ccc56608934d2ebf"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      },
+      {
+        "id": "v10-audio-job-v10-hsk2-L3-006",
+        "questionId": "v10-hsk2-L3-006",
+        "questionRevision": 2,
+        "sourceFingerprint": "dddb7d517e9962a514aa039bff3d07a4d7655f3e9986ff40bdca111501b1dd78",
+        "contentSignature": "ad41ecb70d5851c0305e4ad02d02763b5e867000e44acff55d87e624e74d1e87",
+        "transcript": "男：你游得比上个月快多了。女：我每天都游，已经一个月了。问：女的为什么游得快了？",
+        "transcriptPinyin": "",
+        "sourceType": "SYNTHETIC",
+        "provider": null,
+        "voice": null,
+        "durationMs": null,
+        "asset": null,
+        "mediaReviewSignature": null,
+        "reviewStatus": "DRAFT",
+        "rightsStatus": "RIGHTS_PENDING",
+        "pronunciationReview": "BLOCKED_FOR_HUMAN_REVIEW",
+        "state": "TRANSCRIPT_DRAFT",
+        "readiness": {
+          "available": false,
+          "errors": [
+            "NO_AUDIO_ASSET"
+          ],
+          "sourceType": null,
+          "provider": null,
+          "voice": null,
+          "productionReady": false
+        },
+        "audioPurpose": "PRACTICE",
+        "transcriptRevision": {
+          "questionId": "v10-hsk2-L3-006",
+          "revision": 2,
+          "sha256": "b5e33efcfc5dfb8bb3abbf4d896faa886b5b6a2489996882a28e4218e5d5781d"
+        },
+        "generationParameters": null,
+        "publicationEligible": false
+      }
+    ]
+  },
+  "mock": {
+    "status": "NOT_READY",
+    "fullMocksAvailable": 0,
+    "officialEquivalent": false,
+    "errors": [
+      "AUDIO_NOT_READY:v9-hsk2-L1-001",
+      "IMAGE_RIGHTS_PENDING:v6-image-hospital-72c0c06241f3",
+      "IMAGE_RIGHTS_PENDING:v6-image-company-df3e72ec20b8",
+      "IMAGE_RIGHTS_PENDING:v6-image-shop-d9be9af14da0",
+      "AUDIO_NOT_READY:v10-hsk2-L1-005",
+      "IMAGE_RIGHTS_PENDING:v6-image-dog-a7eec4c5a959",
+      "IMAGE_RIGHTS_PENDING:v6-image-cat-ae5d67c7847b",
+      "IMAGE_RIGHTS_PENDING:v6-image-tea-cb2f9b509211",
+      "AUDIO_NOT_READY:v10-hsk2-L1-003",
+      "IMAGE_RIGHTS_PENDING:v6-image-computer-8ea36c01d77e",
+      "IMAGE_RIGHTS_PENDING:v6-image-phone-b951537b3e3c",
+      "IMAGE_RIGHTS_PENDING:v6-image-book-df9916f87ab6",
+      "AUDIO_NOT_READY:v10-hsk2-L1-002",
+      "IMAGE_RIGHTS_PENDING:v6-image-shirt-01c71b00acfa",
+      "IMAGE_RIGHTS_PENDING:v6-image-rain-dc8c0a4777b0",
+      "IMAGE_RIGHTS_PENDING:v6-image-water-5aa7b423013f",
+      "AUDIO_NOT_READY:v10-hsk2-L1-006",
+      "IMAGE_RIGHTS_PENDING:v6-image-table-6566c94ab34c",
+      "IMAGE_RIGHTS_PENDING:v6-image-house-f39a0886aadd",
+      "IMAGE_RIGHTS_PENDING:v6-image-chair-c29d3e2974d9",
+      "AUDIO_NOT_READY:v10-hsk2-L2-003",
+      "IMAGE_RIGHTS_PENDING:v6-image-reading-2b4d2ae6b38c",
+      "IMAGE_RIGHTS_PENDING:v6-image-writing-189d14996dc3",
+      "IMAGE_RIGHTS_PENDING:v6-image-calling-a391e185d990",
+      "IMAGE_RIGHTS_PENDING:v6-image-cooking-ecdb34052249",
+      "IMAGE_RIGHTS_PENDING:v6-image-eating-d7d30b81407d",
+      "IMAGE_RIGHTS_PENDING:v6-image-driving-062a5bfabb12",
+      "AUDIO_NOT_READY:v10-hsk2-L2-001",
+      "AUDIO_NOT_READY:v10-hsk2-L2-004",
+      "AUDIO_NOT_READY:v10-hsk2-L2-005",
+      "AUDIO_NOT_READY:v10-hsk2-L2-002",
+      "AUDIO_NOT_READY:v10-hsk2-L2-006",
+      "AUDIO_NOT_READY:v10-hsk2-L2-008",
+      "AUDIO_NOT_READY:v10-hsk2-L2-007",
+      "AUDIO_NOT_READY:v10-hsk2-L2-009",
+      "AUDIO_NOT_READY:v10-hsk2-L2-010",
+      "AUDIO_NOT_READY:v8-hsk2-L3-009",
+      "AUDIO_NOT_READY:v10-hsk2-L3-006",
+      "AUDIO_NOT_READY:v10-hsk2-L3-002",
+      "AUDIO_NOT_READY:v10-hsk2-L3-003",
+      "AUDIO_NOT_READY:v10-hsk2-L3-001",
+      "AUDIO_NOT_READY:v8-hsk2-L3-008",
+      "AUDIO_NOT_READY:v8-hsk2-L3-007",
+      "AUDIO_NOT_READY:v10-hsk2-L3-004",
+      "AUDIO_NOT_READY:v9-hsk2-L3-009",
+      "AUDIO_NOT_READY:v9-hsk2-L3-008",
+      "IMAGE_RIGHTS_PENDING:v6-image-plane-a2d8ccad1896",
+      "IMAGE_RIGHTS_PENDING:v6-image-train-c7243219bdaa",
+      "IMAGE_RIGHTS_PENDING:v6-image-rice-748e01963474",
+      "EXAM_AUDIO_PURPOSE_PENDING:v9-hsk2-L1-001",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-005",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-003",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-002",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L1-006",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-003",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-001",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-004",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-005",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-002",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-006",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-008",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-007",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-009",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L2-010",
+      "EXAM_AUDIO_PURPOSE_PENDING:v8-hsk2-L3-009",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-006",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-002",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-003",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-001",
+      "EXAM_AUDIO_PURPOSE_PENDING:v8-hsk2-L3-008",
+      "EXAM_AUDIO_PURPOSE_PENDING:v8-hsk2-L3-007",
+      "EXAM_AUDIO_PURPOSE_PENDING:v10-hsk2-L3-004",
+      "EXAM_AUDIO_PURPOSE_PENDING:v9-hsk2-L3-009",
+      "EXAM_AUDIO_PURPOSE_PENDING:v9-hsk2-L3-008",
+      "PRONUNCIATION_PENDING:v9-hsk2-L1-001",
+      "PRONUNCIATION_PENDING:v10-hsk2-L1-005",
+      "PRONUNCIATION_PENDING:v10-hsk2-L1-003",
+      "PRONUNCIATION_PENDING:v10-hsk2-L1-002",
+      "PRONUNCIATION_PENDING:v10-hsk2-L1-006",
+      "PRONUNCIATION_PENDING:v10-hsk2-L2-003",
+      "PRONUNCIATION_PENDING:v10-hsk2-L2-001",
+      "PRONUNCIATION_PENDING:v10-hsk2-L2-004",
+      "PRONUNCIATION_PENDING:v10-hsk2-L2-005",
+      "PRONUNCIATION_PENDING:v10-hsk2-L2-002",
+      "PRONUNCIATION_PENDING:v10-hsk2-L2-006",
+      "PRONUNCIATION_PENDING:v10-hsk2-L2-008",
+      "PRONUNCIATION_PENDING:v10-hsk2-L2-007",
+      "PRONUNCIATION_PENDING:v10-hsk2-L2-009",
+      "PRONUNCIATION_PENDING:v10-hsk2-L2-010",
+      "PRONUNCIATION_PENDING:v8-hsk2-L3-009",
+      "PRONUNCIATION_PENDING:v10-hsk2-L3-006",
+      "PRONUNCIATION_PENDING:v10-hsk2-L3-002",
+      "PRONUNCIATION_PENDING:v10-hsk2-L3-003",
+      "PRONUNCIATION_PENDING:v10-hsk2-L3-001",
+      "PRONUNCIATION_PENDING:v8-hsk2-L3-008",
+      "PRONUNCIATION_PENDING:v8-hsk2-L3-007",
+      "PRONUNCIATION_PENDING:v10-hsk2-L3-004",
+      "PRONUNCIATION_PENDING:v9-hsk2-L3-009",
+      "PRONUNCIATION_PENDING:v9-hsk2-L3-008",
+      "LANGUAGE_REVIEW_PENDING:v9-hsk2-L1-001",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-005",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-003",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-002",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L1-006",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-003",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-001",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-004",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-005",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-002",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-006",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-008",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-007",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-009",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L2-010",
+      "LANGUAGE_REVIEW_PENDING:v8-hsk2-L3-009",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-006",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-002",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-003",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-001",
+      "LANGUAGE_REVIEW_PENDING:v8-hsk2-L3-008",
+      "LANGUAGE_REVIEW_PENDING:v8-hsk2-L3-007",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-L3-004",
+      "LANGUAGE_REVIEW_PENDING:v9-hsk2-L3-009",
+      "LANGUAGE_REVIEW_PENDING:v9-hsk2-L3-008",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-001",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-002",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-006",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-004",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R1-003",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-003",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-001",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-006",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-004",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R2-002",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-005",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-002",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-001",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-004",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-003",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-009",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-008",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-010",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-006",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R3-007",
+      "LANGUAGE_REVIEW_PENDING:v9-hsk2-R4-021",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-R4-001",
+      "LANGUAGE_REVIEW_PENDING:v8-hsk2-R4-021",
+      "LANGUAGE_REVIEW_PENDING:v8-hsk2-R4-019",
+      "LANGUAGE_REVIEW_PENDING:v9-hsk2-R4-019",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-006",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-002",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-003",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-001",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-W1-004",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-001",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-004",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-002",
+      "LANGUAGE_REVIEW_PENDING:v8-hsk2-W2-026",
+      "LANGUAGE_REVIEW_PENDING:v10-hsk2-W2-006",
+      "LEVEL_REVIEW_PENDING:v9-hsk2-L1-001",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L1-005",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L1-003",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L1-002",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L1-006",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L2-003",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L2-001",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L2-004",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L2-005",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L2-002",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L2-006",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L2-008",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L2-007",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L2-009",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L2-010",
+      "LEVEL_REVIEW_PENDING:v8-hsk2-L3-009",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L3-006",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L3-002",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L3-003",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L3-001",
+      "LEVEL_REVIEW_PENDING:v8-hsk2-L3-008",
+      "LEVEL_REVIEW_PENDING:v8-hsk2-L3-007",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-L3-004",
+      "LEVEL_REVIEW_PENDING:v9-hsk2-L3-009",
+      "LEVEL_REVIEW_PENDING:v9-hsk2-L3-008",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R1-001",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R1-002",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R1-006",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R1-004",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R1-003",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R2-003",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R2-001",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R2-006",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R2-004",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R2-002",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R3-005",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R3-002",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R3-001",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R3-004",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R3-003",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R3-009",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R3-008",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R3-010",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R3-006",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R3-007",
+      "LEVEL_REVIEW_PENDING:v9-hsk2-R4-021",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-R4-001",
+      "LEVEL_REVIEW_PENDING:v8-hsk2-R4-021",
+      "LEVEL_REVIEW_PENDING:v8-hsk2-R4-019",
+      "LEVEL_REVIEW_PENDING:v9-hsk2-R4-019",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-W1-006",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-W1-002",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-W1-003",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-W1-001",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-W1-004",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-W2-001",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-W2-004",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-W2-002",
+      "LEVEL_REVIEW_PENDING:v8-hsk2-W2-026",
+      "LEVEL_REVIEW_PENDING:v10-hsk2-W2-006"
+    ],
+    "template": {
+      "id": "v10-hsk2-platform-paper-sample-r1",
+      "revision": 1,
+      "level": "2",
+      "syllabusVersion": "hsk3-2025",
+      "authority": "PLATFORM_PRACTICE",
+      "officialEquivalent": false,
+      "totalQuestions": 60,
+      "parts": [
+        {
+          "partId": "L1",
+          "skill": "listening",
+          "type": "picture-choice",
+          "count": 5,
+          "groups": null,
+          "source": {
+            "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+            "archiveMember": "HSK/HSK（二级）样卷.pdf",
+            "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+            "pdfPages": [
+              3,
+              4
+            ],
+            "note": "Three image choices",
+            "checkedAt": "2026-10-16",
+            "scope": "PAPER_SAMPLE_ONLY"
+          }
+        },
+        {
+          "partId": "L2",
+          "skill": "listening",
+          "type": "matching",
+          "count": 10,
+          "groups": [
+            {
+              "count": 5,
+              "options": 6
+            },
+            {
+              "count": 5,
+              "options": 5
+            }
+          ],
+          "source": {
+            "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+            "archiveMember": "HSK/HSK（二级）样卷.pdf",
+            "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+            "pdfPages": [
+              5,
+              6
+            ],
+            "note": "Two fixed picture banks; bank sizes differ",
+            "checkedAt": "2026-10-16",
+            "scope": "PAPER_SAMPLE_ONLY"
+          }
+        },
+        {
+          "partId": "L3",
+          "skill": "listening",
+          "type": "dialogue",
+          "count": 10,
+          "groups": null,
+          "source": {
+            "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+            "archiveMember": "HSK/HSK（二级）样卷.pdf",
+            "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+            "pdfPages": [
+              7
+            ],
+            "note": "Dialogue and question, three textual choices",
+            "checkedAt": "2026-10-16",
+            "scope": "PAPER_SAMPLE_ONLY"
+          }
+        },
+        {
+          "partId": "R1",
+          "skill": "reading",
+          "type": "matching",
+          "count": 5,
+          "groups": [
+            {
+              "count": 5,
+              "options": 6
+            }
+          ],
+          "source": {
+            "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+            "archiveMember": "HSK/HSK（二级）样卷.pdf",
+            "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+            "pdfPages": [
+              10
+            ],
+            "note": "Sentence to shared image bank",
+            "checkedAt": "2026-10-16",
+            "scope": "PAPER_SAMPLE_ONLY"
+          }
+        },
+        {
+          "partId": "R2",
+          "skill": "reading",
+          "type": "shared-options",
+          "count": 5,
+          "groups": [
+            {
+              "count": 5,
+              "options": 6
+            }
+          ],
+          "source": {
+            "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+            "archiveMember": "HSK/HSK（二级）样卷.pdf",
+            "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+            "pdfPages": [
+              11
+            ],
+            "note": "Fill gaps using shared word bank",
+            "checkedAt": "2026-10-16",
+            "scope": "PAPER_SAMPLE_ONLY"
+          }
+        },
+        {
+          "partId": "R3",
+          "skill": "reading",
+          "type": "shared-options",
+          "count": 10,
+          "groups": [
+            {
+              "count": 5,
+              "options": 6
+            },
+            {
+              "count": 5,
+              "options": 5
+            }
+          ],
+          "source": {
+            "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+            "archiveMember": "HSK/HSK（二级）样卷.pdf",
+            "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+            "pdfPages": [
+              12,
+              13
+            ],
+            "note": "Two response banks with different sizes",
+            "checkedAt": "2026-10-16",
+            "scope": "PAPER_SAMPLE_ONLY"
+          }
+        },
+        {
+          "partId": "R4",
+          "skill": "reading",
+          "type": "short-passage",
+          "count": 5,
+          "groups": null,
+          "source": {
+            "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+            "archiveMember": "HSK/HSK（二级）样卷.pdf",
+            "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+            "pdfPages": [
+              14,
+              15
+            ],
+            "note": "Read short passage, choose response",
+            "checkedAt": "2026-10-16",
+            "scope": "PAPER_SAMPLE_ONLY"
+          }
+        },
+        {
+          "partId": "W1",
+          "skill": "writing",
+          "type": "shared-options",
+          "count": 5,
+          "groups": [
+            {
+              "count": 5,
+              "options": 6
+            }
+          ],
+          "source": {
+            "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+            "archiveMember": "HSK/HSK（二级）样卷.pdf",
+            "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+            "pdfPages": [
+              18
+            ],
+            "note": "Select missing character component; requires authored glyph accessibility QA",
+            "checkedAt": "2026-10-16",
+            "scope": "PAPER_SAMPLE_ONLY"
+          }
+        },
+        {
+          "partId": "W2",
+          "skill": "writing",
+          "type": "short-answer",
+          "count": 5,
+          "groups": null,
+          "source": {
+            "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+            "archiveMember": "HSK/HSK（二级）样卷.pdf",
+            "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+            "pdfPages": [
+              19
+            ],
+            "note": "Write a missing Hanzi using displayed pinyin; registered renderer path requires validation before activation",
+            "checkedAt": "2026-10-16",
+            "scope": "PAPER_SAMPLE_ONLY"
+          }
+        }
+      ],
+      "timing": {
+        "listening": 17,
+        "reading": 25,
+        "writing": 10
+      },
+      "audio": {
+        "maxPlays": 2,
+        "allowPause": false,
+        "allowSeek": false,
+        "policyAuthority": "PLATFORM_DEFINED_NOT_VERIFIED_IBT"
+      },
+      "navigation": {
+        "allowPreviousWithinSection": true,
+        "allowReturnToPreviousSection": false
+      },
+      "scoring": {
+        "officialScale": null,
+        "manualWriting": "UNSCORED_PRACTICE"
+      }
+    },
+    "parts": [
+      {
+        "partId": "L1",
+        "required": 5,
+        "total": 12,
+        "groupCompatible": true,
+        "selectedIds": [
+          "v9-hsk2-L1-001",
+          "v10-hsk2-L1-005",
+          "v10-hsk2-L1-003",
+          "v10-hsk2-L1-002",
+          "v10-hsk2-L1-006"
+        ]
+      },
+      {
+        "partId": "L2",
+        "required": 10,
+        "total": 16,
+        "groupCompatible": true,
+        "selectedIds": [
+          "v10-hsk2-L2-003",
+          "v10-hsk2-L2-001",
+          "v10-hsk2-L2-004",
+          "v10-hsk2-L2-005",
+          "v10-hsk2-L2-002",
+          "v10-hsk2-L2-006",
+          "v10-hsk2-L2-008",
+          "v10-hsk2-L2-007",
+          "v10-hsk2-L2-009",
+          "v10-hsk2-L2-010"
+        ]
+      },
+      {
+        "partId": "L3",
+        "required": 10,
+        "total": 12,
+        "groupCompatible": true,
+        "selectedIds": [
+          "v8-hsk2-L3-009",
+          "v10-hsk2-L3-006",
+          "v10-hsk2-L3-002",
+          "v10-hsk2-L3-003",
+          "v10-hsk2-L3-001",
+          "v8-hsk2-L3-008",
+          "v8-hsk2-L3-007",
+          "v10-hsk2-L3-004",
+          "v9-hsk2-L3-009",
+          "v9-hsk2-L3-008"
+        ]
+      },
+      {
+        "partId": "R1",
+        "required": 5,
+        "total": 12,
+        "groupCompatible": true,
+        "selectedIds": [
+          "v10-hsk2-R1-001",
+          "v10-hsk2-R1-002",
+          "v10-hsk2-R1-006",
+          "v10-hsk2-R1-004",
+          "v10-hsk2-R1-003"
+        ]
+      },
+      {
+        "partId": "R2",
+        "required": 5,
+        "total": 12,
+        "groupCompatible": true,
+        "selectedIds": [
+          "v10-hsk2-R2-003",
+          "v10-hsk2-R2-001",
+          "v10-hsk2-R2-006",
+          "v10-hsk2-R2-004",
+          "v10-hsk2-R2-002"
+        ]
+      },
+      {
+        "partId": "R3",
+        "required": 10,
+        "total": 16,
+        "groupCompatible": true,
+        "selectedIds": [
+          "v10-hsk2-R3-005",
+          "v10-hsk2-R3-002",
+          "v10-hsk2-R3-001",
+          "v10-hsk2-R3-004",
+          "v10-hsk2-R3-003",
+          "v10-hsk2-R3-009",
+          "v10-hsk2-R3-008",
+          "v10-hsk2-R3-010",
+          "v10-hsk2-R3-006",
+          "v10-hsk2-R3-007"
+        ]
+      },
+      {
+        "partId": "R4",
+        "required": 5,
+        "total": 12,
+        "groupCompatible": true,
+        "selectedIds": [
+          "v9-hsk2-R4-021",
+          "v10-hsk2-R4-001",
+          "v8-hsk2-R4-021",
+          "v8-hsk2-R4-019",
+          "v9-hsk2-R4-019"
+        ]
+      },
+      {
+        "partId": "W1",
+        "required": 5,
+        "total": 12,
+        "groupCompatible": true,
+        "selectedIds": [
+          "v10-hsk2-W1-006",
+          "v10-hsk2-W1-002",
+          "v10-hsk2-W1-003",
+          "v10-hsk2-W1-001",
+          "v10-hsk2-W1-004"
+        ]
+      },
+      {
+        "partId": "W2",
+        "required": 5,
+        "total": 12,
+        "groupCompatible": true,
+        "selectedIds": [
+          "v10-hsk2-W2-001",
+          "v10-hsk2-W2-004",
+          "v10-hsk2-W2-002",
+          "v8-hsk2-W2-026",
+          "v10-hsk2-W2-006"
+        ]
+      }
+    ],
+    "seed": "v10-readiness",
+    "manualWriting": 5,
+    "questionRevisions": [
+      [
+        "v9-hsk2-L1-001",
+        1
+      ],
+      [
+        "v10-hsk2-L1-005",
+        3
+      ],
+      [
+        "v10-hsk2-L1-003",
+        2
+      ],
+      [
+        "v10-hsk2-L1-002",
+        2
+      ],
+      [
+        "v10-hsk2-L1-006",
+        2
+      ],
+      [
+        "v10-hsk2-L2-003",
+        3
+      ],
+      [
+        "v10-hsk2-L2-001",
+        3
+      ],
+      [
+        "v10-hsk2-L2-004",
+        3
+      ],
+      [
+        "v10-hsk2-L2-005",
+        3
+      ],
+      [
+        "v10-hsk2-L2-002",
+        3
+      ],
+      [
+        "v10-hsk2-L2-006",
+        3
+      ],
+      [
+        "v10-hsk2-L2-008",
+        3
+      ],
+      [
+        "v10-hsk2-L2-007",
+        3
+      ],
+      [
+        "v10-hsk2-L2-009",
+        3
+      ],
+      [
+        "v10-hsk2-L2-010",
+        3
+      ],
+      [
+        "v8-hsk2-L3-009",
+        2
+      ],
+      [
+        "v10-hsk2-L3-006",
+        2
+      ],
+      [
+        "v10-hsk2-L3-002",
+        2
+      ],
+      [
+        "v10-hsk2-L3-003",
+        2
+      ],
+      [
+        "v10-hsk2-L3-001",
+        2
+      ],
+      [
+        "v8-hsk2-L3-008",
+        2
+      ],
+      [
+        "v8-hsk2-L3-007",
+        2
+      ],
+      [
+        "v10-hsk2-L3-004",
+        2
+      ],
+      [
+        "v9-hsk2-L3-009",
+        1
+      ],
+      [
+        "v9-hsk2-L3-008",
+        1
+      ],
+      [
+        "v10-hsk2-R1-001",
+        3
+      ],
+      [
+        "v10-hsk2-R1-002",
+        3
+      ],
+      [
+        "v10-hsk2-R1-006",
+        3
+      ],
+      [
+        "v10-hsk2-R1-004",
+        3
+      ],
+      [
+        "v10-hsk2-R1-003",
+        3
+      ],
+      [
+        "v10-hsk2-R2-003",
+        3
+      ],
+      [
+        "v10-hsk2-R2-001",
+        3
+      ],
+      [
+        "v10-hsk2-R2-006",
+        3
+      ],
+      [
+        "v10-hsk2-R2-004",
+        3
+      ],
+      [
+        "v10-hsk2-R2-002",
+        3
+      ],
+      [
+        "v10-hsk2-R3-005",
+        3
+      ],
+      [
+        "v10-hsk2-R3-002",
+        3
+      ],
+      [
+        "v10-hsk2-R3-001",
+        3
+      ],
+      [
+        "v10-hsk2-R3-004",
+        3
+      ],
+      [
+        "v10-hsk2-R3-003",
+        3
+      ],
+      [
+        "v10-hsk2-R3-009",
+        3
+      ],
+      [
+        "v10-hsk2-R3-008",
+        3
+      ],
+      [
+        "v10-hsk2-R3-010",
+        3
+      ],
+      [
+        "v10-hsk2-R3-006",
+        3
+      ],
+      [
+        "v10-hsk2-R3-007",
+        3
+      ],
+      [
+        "v9-hsk2-R4-021",
+        1
+      ],
+      [
+        "v10-hsk2-R4-001",
+        2
+      ],
+      [
+        "v8-hsk2-R4-021",
+        2
+      ],
+      [
+        "v8-hsk2-R4-019",
+        2
+      ],
+      [
+        "v9-hsk2-R4-019",
+        1
+      ],
+      [
+        "v10-hsk2-W1-006",
+        3
+      ],
+      [
+        "v10-hsk2-W1-002",
+        3
+      ],
+      [
+        "v10-hsk2-W1-003",
+        3
+      ],
+      [
+        "v10-hsk2-W1-001",
+        3
+      ],
+      [
+        "v10-hsk2-W1-004",
+        3
+      ],
+      [
+        "v10-hsk2-W2-001",
+        2
+      ],
+      [
+        "v10-hsk2-W2-004",
+        2
+      ],
+      [
+        "v10-hsk2-W2-002",
+        2
+      ],
+      [
+        "v8-hsk2-W2-026",
+        3
+      ],
+      [
+        "v10-hsk2-W2-006",
+        2
+      ]
+    ],
+    "humanExpertReviewed": 0,
+    "blockers": {
+      "missingAudio": [
+        "v9-hsk2-L1-001",
+        "v10-hsk2-L1-005",
+        "v10-hsk2-L1-003",
+        "v10-hsk2-L1-002",
+        "v10-hsk2-L1-006",
+        "v10-hsk2-L2-003",
+        "v10-hsk2-L2-001",
+        "v10-hsk2-L2-004",
+        "v10-hsk2-L2-005",
+        "v10-hsk2-L2-002",
+        "v10-hsk2-L2-006",
+        "v10-hsk2-L2-008",
+        "v10-hsk2-L2-007",
+        "v10-hsk2-L2-009",
+        "v10-hsk2-L2-010",
+        "v8-hsk2-L3-009",
+        "v10-hsk2-L3-006",
+        "v10-hsk2-L3-002",
+        "v10-hsk2-L3-003",
+        "v10-hsk2-L3-001",
+        "v8-hsk2-L3-008",
+        "v8-hsk2-L3-007",
+        "v10-hsk2-L3-004",
+        "v9-hsk2-L3-009",
+        "v9-hsk2-L3-008"
+      ],
+      "imageRightsPending": [
+        "v6-image-hospital-72c0c06241f3",
+        "v6-image-company-df3e72ec20b8",
+        "v6-image-shop-d9be9af14da0",
+        "v6-image-dog-a7eec4c5a959",
+        "v6-image-cat-ae5d67c7847b",
+        "v6-image-tea-cb2f9b509211",
+        "v6-image-computer-8ea36c01d77e",
+        "v6-image-phone-b951537b3e3c",
+        "v6-image-book-df9916f87ab6",
+        "v6-image-shirt-01c71b00acfa",
+        "v6-image-rain-dc8c0a4777b0",
+        "v6-image-water-5aa7b423013f",
+        "v6-image-table-6566c94ab34c",
+        "v6-image-house-f39a0886aadd",
+        "v6-image-chair-c29d3e2974d9",
+        "v6-image-reading-2b4d2ae6b38c",
+        "v6-image-writing-189d14996dc3",
+        "v6-image-calling-a391e185d990",
+        "v6-image-cooking-ecdb34052249",
+        "v6-image-eating-d7d30b81407d",
+        "v6-image-driving-062a5bfabb12",
+        "v6-image-plane-a2d8ccad1896",
+        "v6-image-train-c7243219bdaa",
+        "v6-image-rice-748e01963474"
+      ],
+      "pronunciationPending": [
+        "v9-hsk2-L1-001",
+        "v10-hsk2-L1-005",
+        "v10-hsk2-L1-003",
+        "v10-hsk2-L1-002",
+        "v10-hsk2-L1-006",
+        "v10-hsk2-L2-003",
+        "v10-hsk2-L2-001",
+        "v10-hsk2-L2-004",
+        "v10-hsk2-L2-005",
+        "v10-hsk2-L2-002",
+        "v10-hsk2-L2-006",
+        "v10-hsk2-L2-008",
+        "v10-hsk2-L2-007",
+        "v10-hsk2-L2-009",
+        "v10-hsk2-L2-010",
+        "v8-hsk2-L3-009",
+        "v10-hsk2-L3-006",
+        "v10-hsk2-L3-002",
+        "v10-hsk2-L3-003",
+        "v10-hsk2-L3-001",
+        "v8-hsk2-L3-008",
+        "v8-hsk2-L3-007",
+        "v10-hsk2-L3-004",
+        "v9-hsk2-L3-009",
+        "v9-hsk2-L3-008"
+      ],
+      "languagePending": [
+        "v9-hsk2-L1-001",
+        "v10-hsk2-L1-005",
+        "v10-hsk2-L1-003",
+        "v10-hsk2-L1-002",
+        "v10-hsk2-L1-006",
+        "v10-hsk2-L2-003",
+        "v10-hsk2-L2-001",
+        "v10-hsk2-L2-004",
+        "v10-hsk2-L2-005",
+        "v10-hsk2-L2-002",
+        "v10-hsk2-L2-006",
+        "v10-hsk2-L2-008",
+        "v10-hsk2-L2-007",
+        "v10-hsk2-L2-009",
+        "v10-hsk2-L2-010",
+        "v8-hsk2-L3-009",
+        "v10-hsk2-L3-006",
+        "v10-hsk2-L3-002",
+        "v10-hsk2-L3-003",
+        "v10-hsk2-L3-001",
+        "v8-hsk2-L3-008",
+        "v8-hsk2-L3-007",
+        "v10-hsk2-L3-004",
+        "v9-hsk2-L3-009",
+        "v9-hsk2-L3-008",
+        "v10-hsk2-R1-001",
+        "v10-hsk2-R1-002",
+        "v10-hsk2-R1-006",
+        "v10-hsk2-R1-004",
+        "v10-hsk2-R1-003",
+        "v10-hsk2-R2-003",
+        "v10-hsk2-R2-001",
+        "v10-hsk2-R2-006",
+        "v10-hsk2-R2-004",
+        "v10-hsk2-R2-002",
+        "v10-hsk2-R3-005",
+        "v10-hsk2-R3-002",
+        "v10-hsk2-R3-001",
+        "v10-hsk2-R3-004",
+        "v10-hsk2-R3-003",
+        "v10-hsk2-R3-009",
+        "v10-hsk2-R3-008",
+        "v10-hsk2-R3-010",
+        "v10-hsk2-R3-006",
+        "v10-hsk2-R3-007",
+        "v9-hsk2-R4-021",
+        "v10-hsk2-R4-001",
+        "v8-hsk2-R4-021",
+        "v8-hsk2-R4-019",
+        "v9-hsk2-R4-019",
+        "v10-hsk2-W1-006",
+        "v10-hsk2-W1-002",
+        "v10-hsk2-W1-003",
+        "v10-hsk2-W1-001",
+        "v10-hsk2-W1-004",
+        "v10-hsk2-W2-001",
+        "v10-hsk2-W2-004",
+        "v10-hsk2-W2-002",
+        "v8-hsk2-W2-026",
+        "v10-hsk2-W2-006"
+      ],
+      "levelPending": [
+        "v9-hsk2-L1-001",
+        "v10-hsk2-L1-005",
+        "v10-hsk2-L1-003",
+        "v10-hsk2-L1-002",
+        "v10-hsk2-L1-006",
+        "v10-hsk2-L2-003",
+        "v10-hsk2-L2-001",
+        "v10-hsk2-L2-004",
+        "v10-hsk2-L2-005",
+        "v10-hsk2-L2-002",
+        "v10-hsk2-L2-006",
+        "v10-hsk2-L2-008",
+        "v10-hsk2-L2-007",
+        "v10-hsk2-L2-009",
+        "v10-hsk2-L2-010",
+        "v8-hsk2-L3-009",
+        "v10-hsk2-L3-006",
+        "v10-hsk2-L3-002",
+        "v10-hsk2-L3-003",
+        "v10-hsk2-L3-001",
+        "v8-hsk2-L3-008",
+        "v8-hsk2-L3-007",
+        "v10-hsk2-L3-004",
+        "v9-hsk2-L3-009",
+        "v9-hsk2-L3-008",
+        "v10-hsk2-R1-001",
+        "v10-hsk2-R1-002",
+        "v10-hsk2-R1-006",
+        "v10-hsk2-R1-004",
+        "v10-hsk2-R1-003",
+        "v10-hsk2-R2-003",
+        "v10-hsk2-R2-001",
+        "v10-hsk2-R2-006",
+        "v10-hsk2-R2-004",
+        "v10-hsk2-R2-002",
+        "v10-hsk2-R3-005",
+        "v10-hsk2-R3-002",
+        "v10-hsk2-R3-001",
+        "v10-hsk2-R3-004",
+        "v10-hsk2-R3-003",
+        "v10-hsk2-R3-009",
+        "v10-hsk2-R3-008",
+        "v10-hsk2-R3-010",
+        "v10-hsk2-R3-006",
+        "v10-hsk2-R3-007",
+        "v9-hsk2-R4-021",
+        "v10-hsk2-R4-001",
+        "v8-hsk2-R4-021",
+        "v8-hsk2-R4-019",
+        "v9-hsk2-R4-019",
+        "v10-hsk2-W1-006",
+        "v10-hsk2-W1-002",
+        "v10-hsk2-W1-003",
+        "v10-hsk2-W1-001",
+        "v10-hsk2-W1-004",
+        "v10-hsk2-W2-001",
+        "v10-hsk2-W2-004",
+        "v10-hsk2-W2-002",
+        "v8-hsk2-W2-026",
+        "v10-hsk2-W2-006"
+      ]
+    },
+    "counts": {
+      "missingAudio": 25,
+      "imageRightsPending": 24,
+      "pronunciationPending": 25,
+      "languagePending": 60,
+      "levelPending": 60,
+      "manualWriting": 5,
+      "sourceVerificationPending": 1
+    },
+    "sourceVerification": {
+      "status": "CTI_PAPER_SAMPLE_FACTS_ONLY_IBT_RULES_UNVERIFIED",
+      "platformMinutes": 52,
+      "platformPlays": 2
+    },
+    "writingScoringStatus": "MANUAL_UNSCORED_NOT_OFFICIAL_SCORE",
+    "capabilities": {
+      "canGenerateCandidatePlan": true,
+      "canRenderInternalFixture": "SEE_ISOLATED_QA_REPORT",
+      "hasLicensedAudio": false,
+      "hasReviewedContent": false,
+      "canLaunchPrivatePractice": false,
+      "canPublish": false
+    },
+    "nextActions": [
+      "Tải/generate audio có căn cứ quyền, khớp transcript và qua PCM QA",
+      "Duyệt bằng chứng quyền ảnh hoặc tạo revision thay thế",
+      "Người có quyền nghe và duyệt phát âm từng audio revision",
+      "Duyệt ngôn ngữ và đáp án 60 câu ứng viên",
+      "Đối chiếu cấp HSK và quyết định chuyên môn",
+      "W2 cần người chấm; giữ ungraded và không quy đổi điểm HSK",
+      "Kiểm chứng quy tắc IBT với CTI; 52 phút/2 lượt nghe vẫn là platform policy"
+    ]
+  },
+  "safety": {
+    "historicalChanged": [],
+    "technicalMetadataOnly": [
+      {
+        "id": "v4-audio-001",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-002",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-003",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-004",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-005",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-006",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-007",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-008",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-009",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-010",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-011",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-012",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-013",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-014",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-015",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-016",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-017",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-019",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-020",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-021",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-023",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-024",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-025",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-026",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-027",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-028",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-029",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-031",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-032",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-033",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-034",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-035",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-036",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-037",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-038",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-039",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v4-audio-040",
+        "revision": 3,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v5-audio-018-d5fc52fdabeb",
+        "revision": 2,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v5-audio-022-82821affc011",
+        "revision": 2,
+        "field": "mediaValidation.checkedAt"
+      },
+      {
+        "id": "v5-audio-030-78fbf55ca168",
+        "revision": 2,
+        "field": "mediaValidation.checkedAt"
+      }
+    ],
+    "reviewWorkChanged": [],
+    "reviewWorkTimestampOnly": [
+      {
+        "id": "cti25-v-116",
+        "revision": 3,
+        "notesPreserved": true
+      }
+    ],
+    "publicFilesChanged": [],
+    "schemaChanged": false,
+    "browserProgress": "No real learner profiles extracted, reset or migrated; isolated QA profiles only.",
+    "status": "PASS"
+  }
+}

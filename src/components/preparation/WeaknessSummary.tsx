@@ -1,0 +1,11 @@
+import {useEffect,useState} from 'react';
+import {analyzeDimensions} from '../../services/weaknessDimensions';
+import type {CompletedAttempt} from '../../services/studyStorage';
+import {fetchData} from '../../services/curriculum';
+import type {CourseWord,GrammarPoint} from '../../types/curriculum';
+export function WeaknessSummary({attempts}:{attempts:CompletedAttempt[]}){
+ const rows=analyzeDimensions(attempts);const [labels,setLabels]=useState<Record<string,string>>({});
+ useEffect(()=>{let live=true;const metadataRows=rows.filter(r=>['grammar','vocabulary'].includes(r.dimension));if(!metadataRows.length)return;const levels=[...new Set(attempts.flatMap(a=>a.examSnapshot?.questions.filter(q=>[...(q.grammarIds??[]),...(q.vocabularyIds??[])].some(id=>metadataRows.some(r=>r.id===id))).map(q=>q.level).filter((level):level is string=>Boolean(level&&['1','2','3','4','5','6','7-9'].includes(level)))??[]))];void Promise.all(levels.map(async l=>[...await fetchData<CourseWord[]>('/data/hsk3-2025-'+l+'-words.json').then(w=>w.filter(w=>metadataRows.some(r=>r.id===w.id)).map(w=>({id:w.id,label:w.simplified}))),...await fetchData<GrammarPoint[]>('/data/hsk3-2025-'+l+'-grammar.json').then(g=>g.map(g=>({id:g.id,label:g.pattern})))] )).then(groups=>{if(live)setLabels(Object.fromEntries(groups.flat().map(g=>[g.id,g.label])));}).catch(()=>{});return()=>{live=false;};},[attempts]);
+ const names:Record<string,string>={skill:'Kỹ năng',questionType:'Dạng câu',grammar:'Ngữ pháp',topic:'Chủ đề',vocabulary:'Từ vựng'};
+ return <section className="card"><h2>Điểm yếu theo nội dung</h2><p>Ít nhất 3 mẫu cho mỗi nhóm. Mức ưu tiên xét lỗi lặp lại, độ mới, độ khó, thời gian và số lượt khắc phục; không phải điểm HSK.</p>{rows.length?<div className="result-dimensions">{['skill','questionType','grammar','topic','vocabulary'].map(d=><section key={d}><h3>{names[d]}</h3>{rows.filter(r=>r.dimension===d).slice(0,4).map(r=><div className="weakness-dimension" key={r.id}><span>{labels[r.id]??r.label}<small> · {r.wrong}/{r.total} lỗi · tin cậy dữ liệu {r.confidence}%</small></span><strong>{r.score}/100</strong></div>)}{!rows.some(r=>r.dimension===d)&&<p>Chưa đủ mẫu có nhãn.</p>}</section>)}</div>:<p>Chưa đủ dữ liệu để chỉ ra điểm yếu học thuật. Lịch sử câu sai phía dưới vẫn dùng được.</p>}</section>;
+}

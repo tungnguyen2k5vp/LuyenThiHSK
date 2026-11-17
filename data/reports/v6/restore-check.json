@@ -1,0 +1,57 @@
+{
+  "at": "2026-10-16T05:08:18.886Z",
+  "status": "PASS",
+  "source": ".runtime/backups/before-v6-2026-10-16/hsk-content.sqlite",
+  "target": "D:\\ReactJS\\LuyenThiHSK\\.tmp\\v6-restore-a7c7cbe4-0fc0-4174-9127-aff62388f715\\restored.sqlite",
+  "sha256": "6db77a937e7384ac8895af94e5259b87b6352586824e748febcaf3d7236a6416",
+  "rows": [
+    {
+      "kind": "audio",
+      "status": "ARCHIVED",
+      "count": 8
+    },
+    {
+      "kind": "grammar",
+      "status": "ARCHIVED",
+      "count": 8
+    },
+    {
+      "kind": "questions",
+      "status": "ARCHIVED",
+      "count": 17
+    },
+    {
+      "kind": "vocabulary",
+      "status": "ARCHIVED",
+      "count": 13
+    },
+    {
+      "kind": "audio",
+      "status": "NEEDS_REVIEW",
+      "count": 83
+    },
+    {
+      "kind": "grammar",
+      "status": "NEEDS_REVIEW",
+      "count": 149
+    },
+    {
+      "kind": "questions",
+      "status": "NEEDS_REVIEW",
+      "count": 341
+    },
+    {
+      "kind": "templates",
+      "status": "NEEDS_REVIEW",
+      "count": 2
+    },
+    {
+      "kind": "vocabulary",
+      "status": "NEEDS_REVIEW",
+      "count": 601
+    }
+  ],
+  "method": "Restore consistent VACUUM backup to separate temporary database; compare SHA256, integrity and query content",
+  "liveDatabaseReset": false,
+  "cloudRestore": "NOT_TESTED_NOT_DEPLOYED"
+}

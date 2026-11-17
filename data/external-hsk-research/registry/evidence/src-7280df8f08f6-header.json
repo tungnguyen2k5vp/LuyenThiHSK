@@ -1,0 +1,6 @@
+{
+  "file": "HocTiengTrungApp/data/raw/CVDICT.u8",
+  "sha256": "4dde4b204193efa9c192d7f7daeab1bb579c8ccd7c41ed90d1b6caee22ba0948",
+  "evidenceKind": "EXISTING_LOCAL_LICENSE",
+  "text": "# Từ điển Hán Việt CVDICT - Chinese-Vietnamese dictionary CVDICT\n# https://github.com/ph0ngp/CVDICT\n#\n# Tác giả: Phong Phan - Published by Phong Phan\n#\n# Giấy phép - License:\n# Creative Commons Attribution-ShareAlike 4.0 International License\n# https://creativecommons.org/licenses/by-sa/4.0/\n#\n# Dự án này dựa trên - This project is based on:\n# CC-CEDICT: https://www.mdbg.net/chinese/dictionary?page=cc-cedict\n# CEDICT - Copyright (C) 1997, 1998 Paul Andrew Denisowski\n#\n# Ý kiến đóng góp xin gửi về - For contributions please send to:\n# https://github.com/ph0ngp/CVDICT (issue, pull request)\n#\n#\n#\n#\n#\n#\n#! version=1.0.1\n#! subversion=0\n#! format=ts\n#! charset=UTF-8\n#! entries=122591\n#! publisher=Phong Phan\n#! license=https://creativecommons.org/licenses/by-sa/4.0/\n#! date=2024-12-02T17:46:19Z\n#! time=1733161579"
+}

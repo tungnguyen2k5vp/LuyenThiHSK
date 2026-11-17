@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-16T03:24:35.040Z",
+  "source": ".runtime/backups/before-v5-2026-10-16",
+  "frontend": 4174,
+  "api": 8788,
+  "method": "Missing baseline views captured from immutable before-V5 source and separate SQLite snapshot; no current production progress modified",
+  "pairs": 14,
+  "widths": [
+    1280,
+    375
+  ],
+  "status": "CAPTURED"
+}

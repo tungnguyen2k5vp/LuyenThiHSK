@@ -1,0 +1,11 @@
+{
+  "at": "2026-10-16T15:45:37.878Z",
+  "status": "FAIL",
+  "checks": 1963,
+  "errors": [
+    "TAI_LIEU_TONG_HOP_HSK\\V8_BAN_GIAO\\docs\\CONTENT_LICENSES.md → CURRENT_STATE.md",
+    "TAI_LIEU_TONG_HOP_HSK\\V8_BAN_GIAO\\docs\\DATA_SOURCES.md → CURRENT_STATE.md",
+    "TAI_LIEU_TONG_HOP_HSK\\V8_BAN_GIAO\\docs\\REFERENCE_REPOSITORIES.md → CURRENT_STATE.md"
+  ],
+  "scope": "Artifact/link/count/secret/HTTP checks, not functional-test or human-review count"
+}

@@ -1,0 +1,780 @@
+{
+  "at": "2026-10-17T06:12:28.735Z",
+  "status": "PASS",
+  "beforeRevisions": 3015,
+  "afterRevisions": 3092,
+  "missing": [],
+  "changedHistoricalContent": [],
+  "technicalOrReviewMetadataUpdated": [
+    {
+      "id": "v4-audio-001",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-002",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-003",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-004",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-005",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-006",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-007",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-008",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-009",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-010",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-011",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-012",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-013",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-014",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-015",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-016",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-017",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-019",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-020",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-021",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-023",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-024",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-025",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-026",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-027",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-028",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-029",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-031",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-032",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-033",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-034",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-035",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-036",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-037",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-038",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-039",
+      "revision": 3
+    },
+    {
+      "id": "v4-audio-040",
+      "revision": 3
+    },
+    {
+      "id": "v5-audio-018-d5fc52fdabeb",
+      "revision": 2
+    },
+    {
+      "id": "v5-audio-022-82821affc011",
+      "revision": 2
+    },
+    {
+      "id": "v5-audio-030-78fbf55ca168",
+      "revision": 2
+    }
+  ],
+  "changedOldWork": [],
+  "baselineWorkRows": 6,
+  "currentWorkRows": 8,
+  "publicDataUnchanged": true,
+  "publicChanged": [],
+  "schemaChanged": false,
+  "integrity": {
+    "integrity_check": "ok"
+  },
+  "sourceHash": "ab4a0704f9e267f76ef4ccaf6c16414aa11c43e044bcffe658d60b8677816d2a",
+  "sourceFiles": [
+    {
+      "file": "src/App.tsx",
+      "hash": "38f3d0a3a23c30ea1473dada8697063244757cbef23a0a66e10cbab0e03aa0a7"
+    },
+    {
+      "file": "src/components/admin/AdminAudioManager.tsx",
+      "hash": "777db2b4beb7c41f682525b5b494b0eefadc2d1400fff864b569346a4580acd2"
+    },
+    {
+      "file": "src/components/admin/AdminContentForm.tsx",
+      "hash": "7b8c05f9d2a99460f4e151664faa1c34118068a4a4201a8ec7ac94e32c1f8271"
+    },
+    {
+      "file": "src/components/admin/AdminExamBuilder.tsx",
+      "hash": "354ea54e067e79b1f9e966175699c4ac4a485c8dcf48974e8b6b6b0da40e90c2"
+    },
+    {
+      "file": "src/components/admin/AdminStudentPreview.tsx",
+      "hash": "a7c64b0ebc147d32a8c911dbfeb350416d55d46fb1924ac4803236b16046c819"
+    },
+    {
+      "file": "src/components/admin/AdminTemplateReference.tsx",
+      "hash": "90828df5a2f3dd62a63008c10940348b86f7f86927710180634dd734df421e09"
+    },
+    {
+      "file": "src/components/admin/AdminWorkspace.tsx",
+      "hash": "05fac6ade90c83934f48f5b476d3498ad54c152d1224df23e2b096aab60ac5fb"
+    },
+    {
+      "file": "src/components/admin/AdminWorkspaceV3.tsx",
+      "hash": "80423d15a32c1b1832bd6b52467fa1e88ee5672bb07791eb3388e8234bc0a0a0"
+    },
+    {
+      "file": "src/components/admin/ContentReviewV5.tsx",
+      "hash": "81ab14d5af3342bb22a8f0bd803f472cd32934ff993ab6214b5c240e19fd1efa"
+    },
+    {
+      "file": "src/components/admin/RecordJsonEditor.tsx",
+      "hash": "a585c2179f80a91a3315f7c9e3116f2f64ca24d1c3c2e35e93a23dcafa0c0d61"
+    },
+    {
+      "file": "src/components/admin/ReviewV6Tools.tsx",
+      "hash": "eceaf76d5e860bd801888275aff6e573f128d2cd898250247ab24e7caf536fe1"
+    },
+    {
+      "file": "src/components/admin/ReviewV7Tools.tsx",
+      "hash": "9dd7c7c210449fefd1e92d530335a21904e5bc243c946dec0f5e80066c3b2253"
+    },
+    {
+      "file": "src/components/admin/ReviewV8Tools.tsx",
+      "hash": "814f8607692a47edd4e7997781e0d22ddebc10f08b40c58992822c5be3dd785e"
+    },
+    {
+      "file": "src/components/admin/ReviewV9Tools.tsx",
+      "hash": "895b6fbe12a6aa6ac9425802ef61f487b355d56ab149375ee9cba852298fa3dc"
+    },
+    {
+      "file": "src/components/dashboard/StudyDashboard.tsx",
+      "hash": "4325afe107e1afb1a02224f6aee5ecafda17f555fe2ca38d92de6da187f3ccf4"
+    },
+    {
+      "file": "src/components/exam/AttemptResult.tsx",
+      "hash": "1e60de8183eb820315733f48c89048d4c27db9ede36767acf08479765367a93a"
+    },
+    {
+      "file": "src/components/exam/ContentIssue.tsx",
+      "hash": "10d8e6c2d926bb83f2634a962490fba575e4f46281ebeb29b6dbf189c37e180e"
+    },
+    {
+      "file": "src/components/exam/ExamAudio.tsx",
+      "hash": "c1eee2649bfdcb042dc50bd764e2fd79f8919d83970c7d509f6d3fd99a641340"
+    },
+    {
+      "file": "src/components/exam/ExamRoom.tsx",
+      "hash": "22a34cb4bd695ffa93471fa04e3d774e185bc0a3dd300670f0276cde56b1b67a"
+    },
+    {
+      "file": "src/components/exam/QuestionSolution.tsx",
+      "hash": "d848ed2c3406f13c37abd35d8b4222485d6e64ce654585188fb02e892bd21326"
+    },
+    {
+      "file": "src/components/exam/QuestionTypeRenderer.tsx",
+      "hash": "9821910816741086dd4cae198fa75b76884dba456631499037fead1900c26e2e"
+    },
+    {
+      "file": "src/components/exam/RequiredMediaContext.ts",
+      "hash": "0ba72bb811a75edd511f35002f1b4a70a76bfdc7be0475d775cbf1905a8c5dfa"
+    },
+    {
+      "file": "src/components/exam/ResultInsights.tsx",
+      "hash": "56c388379ce175f5901342d781dad9271a5cceec3bea7631744e14470e55b6cd"
+    },
+    {
+      "file": "src/components/exam/WritingWorkspace.tsx",
+      "hash": "c54c6ffe40e1422abe032ef4ed0e50e4f2a2033167281575d1f19ba42242bbaf"
+    },
+    {
+      "file": "src/components/learning/CourseWorkspace.tsx",
+      "hash": "d3a6eb4fa8b02c4986428f0dca584182b6230a05938ff4ef8924b21f5d9ee8e8"
+    },
+    {
+      "file": "src/components/learning/GrammarLessonView.tsx",
+      "hash": "cc14ba263b278399a31aff0f8161edcc90d2d91fdfc51d4e396e29d7d2a0b70e"
+    },
+    {
+      "file": "src/components/learning/HanziPractice.tsx",
+      "hash": "af54803e64aa91bc3f2fc2f8fdcc8dfb30396c249d52d9f0eb2e2432e225a492"
+    },
+    {
+      "file": "src/components/learning/PracticeDictionary.tsx",
+      "hash": "17df32a705bda424a6bbf08e88e23c53ee215b947289ae452c59affbf33a702a"
+    },
+    {
+      "file": "src/components/library/VocabularyWorkspace.tsx",
+      "hash": "d8b4fd8c630aa1ed19b883ce80116de7079c97110ce5e507656a06f2dc47782b"
+    },
+    {
+      "file": "src/components/preparation/AccountSettings.tsx",
+      "hash": "50a1b612dbc5e604b8409d39640c7c8b84109814a562cd82676f299d3c33b427"
+    },
+    {
+      "file": "src/components/preparation/Diagnostic.tsx",
+      "hash": "0d87a280eb0aa06b6c366bc691188b8fb8af25c6cef5be752282d36f3df247e3"
+    },
+    {
+      "file": "src/components/preparation/HSK2Blueprint.tsx",
+      "hash": "9c14467d844757467d8e44c41e4060c956acfe5dd897dce833f7f30b38506255"
+    },
+    {
+      "file": "src/components/preparation/HSK2Pilot.tsx",
+      "hash": "0cd60f0673f603e7b48ecf093cfd4b7d4c0afcb69da453e6be8dc9e5672b9419"
+    },
+    {
+      "file": "src/components/preparation/HSK2Today.tsx",
+      "hash": "764cc7a46faea817ca142917ddf9075dc4a3de6a2f3bc7449f5d27f2f16c2104"
+    },
+    {
+      "file": "src/components/preparation/LearningHubs.tsx",
+      "hash": "67886bd6419fe44e7b2bd66c2f540906b47eae52649dba281ebb644742ec1558"
+    },
+    {
+      "file": "src/components/preparation/Onboarding.tsx",
+      "hash": "5d5a7ee4748b1146b98a90783240112616ab1237d3598fc3949935393c9c1409"
+    },
+    {
+      "file": "src/components/preparation/PreviewWorkspace.tsx",
+      "hash": "183dbb06072b48b8b417c9bac92b1be457cc0c27192200b571ad6c46412759fb"
+    },
+    {
+      "file": "src/components/preparation/ProfileSettings.tsx",
+      "hash": "a87d4f65be98629de3eee36df927e8e8a9efa6a28622637f1da80834a1a0a056"
+    },
+    {
+      "file": "src/components/preparation/ResponseCenter.tsx",
+      "hash": "471876d5f6679f59b195882d90562fa47bc7d01b999406a33d0e1dc62f48c727"
+    },
+    {
+      "file": "src/components/preparation/TodayDashboard.tsx",
+      "hash": "7c3cbc6938e53b5af666ec32ed9e94ad6aeab1754380f71fcb92c28c01ce9a58"
+    },
+    {
+      "file": "src/components/preparation/WeaknessSummary.tsx",
+      "hash": "c09cd85c22576991769b4181e0666ffd58d5be6fbef5d7710d998f97f446a48e"
+    },
+    {
+      "file": "src/components/preparation/WeaknessWorkspace.tsx",
+      "hash": "c622b0f33d0f4947f4e88c7b70f51bef965ad19ad208584a0ec85e1370d605f2"
+    },
+    {
+      "file": "src/data/contentMetadata.ts",
+      "hash": "abbcc32067a59b6e5702b8a2a484fa2c6073598d6432777bf5f2a5532a628157"
+    },
+    {
+      "file": "src/data/contentValidation.ts",
+      "hash": "7460de8cb86aff66de5ea9cbba417697a6d5bf313dbb7d42e3c6c875697f6ebf"
+    },
+    {
+      "file": "src/data/examBlueprints.ts",
+      "hash": "1eb8a1d27ad3a09ec783966c6d3c834fc0bfed84d6aa1a8bc845fd0d3635a7f0"
+    },
+    {
+      "file": "src/data/examCatalog.ts",
+      "hash": "112f6d06e390f6e5fa9d5b2cace8ee78ec239c88c7d45deacf41b1ab49055d9f"
+    },
+    {
+      "file": "src/data/mockExams.ts",
+      "hash": "33173e9d16226586bd97f37495dc9c35e40354fee295027ca958684c71966272"
+    },
+    {
+      "file": "src/data/mockQuestions.ts",
+      "hash": "131f516270d2ba24035ae98ed7b94d8ef059528bf8116f1f635f1cd7cf13800e"
+    },
+    {
+      "file": "src/data/mockQuestionsAdvanced.ts",
+      "hash": "dbf4dac555823af426ae696e35f717b190e19a83f0da5b5d5875e74d96d90432"
+    },
+    {
+      "file": "src/data/mockQuestionsHsk2.ts",
+      "hash": "bd3f7545b2957fb1c81cdff9236cb808870b6059a5556bd596c80c54714de625"
+    },
+    {
+      "file": "src/data/prepareQuestion.ts",
+      "hash": "16c3fbf3dc77565c6d5adf778672ac09fe776f9503f75edfd7880b18d151a8c3"
+    },
+    {
+      "file": "src/ExamApp.tsx",
+      "hash": "6b7f5effe863e1c255457c90f5877084e25cf352cfe322a5b435ff95efb484eb"
+    },
+    {
+      "file": "src/main.tsx",
+      "hash": "e204132821d52e66f1bb2a6633f0160023a346e921bb84290b75e063a55a672e"
+    },
+    {
+      "file": "src/services/adminImport.ts",
+      "hash": "38e896a5319a6ebfc1e9095d5b7f1f2a74162f7b59b28f5f1479d2645d094627"
+    },
+    {
+      "file": "src/services/adminTemplates.ts",
+      "hash": "ddcd75eb49e9ac66314584c70e37eee36b6152ae984e8d3b9aa03613ce3f32ad"
+    },
+    {
+      "file": "src/services/answerScoring.ts",
+      "hash": "9512166c2b18bacb45e0470220eb989c779793b0d068f4913b473926633049f9"
+    },
+    {
+      "file": "src/services/cloudSync.ts",
+      "hash": "c322c2e72ef74fbb7e3fb80a2f9ac71436ecc382843a58d8bda5a696b3b8b4f7"
+    },
+    {
+      "file": "src/services/curriculum.ts",
+      "hash": "3edd18c087cb7dfd803724961bcc313bd33ae1eec80f9f827572af3fae4b6e2d"
+    },
+    {
+      "file": "src/services/diagnosticSelection.ts",
+      "hash": "43515ac9443259dda4052e6296e7f3527d89e7de4930389549a0ae2ae2fda899"
+    },
+    {
+      "file": "src/services/examRoute.ts",
+      "hash": "896fa3ef6132a5063571c5bd28c42b119a66a7ba2697ce993b16ac463c12294c"
+    },
+    {
+      "file": "src/services/examRules.ts",
+      "hash": "5d55c089e4c22b6d91f9afb388ed7028d1d6681ff225edbdc1739cd4727e228c"
+    },
+    {
+      "file": "src/services/examScoring.ts",
+      "hash": "4352143133a6ee0002a48efba1fa5935673587cd7c2f44c8790f9c07beb86887"
+    },
+    {
+      "file": "src/services/grammarPractice.ts",
+      "hash": "5c19c00c8bf8a2db89585868a6a0a7d59642523038790756c9cc09717037fbe1"
+    },
+    {
+      "file": "src/services/lexicalPresentation.ts",
+      "hash": "baa007f03cb89d89766e941246255a5fe892e262d2986120c19375c485cca708"
+    },
+    {
+      "file": "src/services/localApi.ts",
+      "hash": "aac7d9085e102ce3a98c3094fb6bc13b136ebf09eb6c64d6dae5056caf7576a6"
+    },
+    {
+      "file": "src/services/mediaFairness.ts",
+      "hash": "d697c196d843911cd3859b63d447678bb7f03798518ea1f931826121f119afcf"
+    },
+    {
+      "file": "src/services/partPractice.ts",
+      "hash": "24ad644b3308210ffa2b172f0eafa47b6fcbc7e12fee8753795ccc2b3174fade"
+    },
+    {
+      "file": "src/services/preparationStorage.ts",
+      "hash": "129d7f414b69505ec2761b3fe23366c91e56ae75743dd0b287ee736879980249"
+    },
+    {
+      "file": "src/services/previewContent.ts",
+      "hash": "458acb67e942eb54271d0121aca49e5c01ab5c2794a00916b036af53310f52a1"
+    },
+    {
+      "file": "src/services/previewEvidence.ts",
+      "hash": "59cc366df306c362fe596dc34d9c55b255be51e1c0673fb80707460e8de85852"
+    },
+    {
+      "file": "src/services/previewReview.ts",
+      "hash": "f99917ef6308bf07525b7a32e2de3d3ece0e341dcdbda75de4d0e111e53708dd"
+    },
+    {
+      "file": "src/services/questionTiming.ts",
+      "hash": "e5daa243feabdc1b7fef0aec8d13166e66030a6f7ec783c75fe8b3ca7336c9be"
+    },
+    {
+      "file": "src/services/readiness.ts",
+      "hash": "bc7de1fd9d2710a9ee676993f589375d809ffe6216dfb0fedf8b0696d87c47ca"
+    },
+    {
+      "file": "src/services/resultAnalytics.ts",
+      "hash": "c0c20e39faec05825277361c387aec7fe7b9c15d67e8d56ae0863e32e82ed60f"
+    },
+    {
+      "file": "src/services/reviewQueue.ts",
+      "hash": "429eeccf44655a7d592684d2bbbddc8d8129513fb02b69b6ca0a2a41fc216b14"
+    },
+    {
+      "file": "src/services/sessionClock.ts",
+      "hash": "5329e1400ee61f50195f8d627aa790cb355c8eba5836783a6083da4f97d622cc"
+    },
+    {
+      "file": "src/services/sessionLease.ts",
+      "hash": "d48668b2537219ccd51644e970876ef97b3a7b955a4cfedfad3634ae0bc9fa7b"
+    },
+    {
+      "file": "src/services/sm2.ts",
+      "hash": "0577877c812d08f9dcf4d6d74bb3413468b7ae1df09d61acb1a300099ab6dbd5"
+    },
+    {
+      "file": "src/services/speechProvider.ts",
+      "hash": "8e6599e936e1c0a405c657284e1b9ab62adfa7b81d46241d0198bf767daf528e"
+    },
+    {
+      "file": "src/services/studyPlan.ts",
+      "hash": "dfc1da9ec492024261f152c3e20200a77b01fcd9f4cf127555506cc387611248"
+    },
+    {
+      "file": "src/services/studyStorage.ts",
+      "hash": "ec8c4664840b74d95574d2017c402287ebcb8c7cccac62d89b8f08a522a0370c"
+    },
+    {
+      "file": "src/services/useDialogFocus.ts",
+      "hash": "b7b7515bb03259abcc1bf63e8bf9321e963d243f367403433088f29c0e33cd67"
+    },
+    {
+      "file": "src/services/vocabularyImport.ts",
+      "hash": "416283e4a2509af90fc0df4f8cbdbc7d3f9e12684a87cf55b114d51699d26587"
+    },
+    {
+      "file": "src/services/vocabularyQuiz.ts",
+      "hash": "7f8a4c78e26354a7433341ade6450287e6a0e0a5c2805479822921500107f2a0"
+    },
+    {
+      "file": "src/services/weaknessDimensions.ts",
+      "hash": "a9155f985b0c4081d6464da24af4ec5f6147c7009a8bd49b8bfe5c54e2196ff1"
+    },
+    {
+      "file": "src/services/weaknessEngine.ts",
+      "hash": "ffe6338b4f806922bae7eaa72ffbac542114d90488b260685cf8cd33d548d198"
+    },
+    {
+      "file": "src/styles/content-v3.css",
+      "hash": "609053f7b53c1ff562e07622ee6091df5fd1617ab016cda2c5dae43e2c147ba3"
+    },
+    {
+      "file": "src/styles/dashboard.css",
+      "hash": "c73b7c0af7c7d209ba5a5f4c189ef1965df7938570af8e6bf5a487eb832a861e"
+    },
+    {
+      "file": "src/styles/exam-focus.css",
+      "hash": "38acfbaa09505ed389c4eae8271dc0cd734a2ff1a04886278906ac21923c33c7"
+    },
+    {
+      "file": "src/styles/main.css",
+      "hash": "590388d879cfe6c36653619d1c010b5cf603f1d4b291b7eef926c4d292f7a79c"
+    },
+    {
+      "file": "src/styles/preparation.css",
+      "hash": "5338543864fb4c03826ed009575ab31ab4d61816039197963cd7afaccee1c725"
+    },
+    {
+      "file": "src/styles/preview.css",
+      "hash": "f3ca592b7c6e5db6711c87b131e0f9f53881222066d8648efa83ca245b111fea"
+    },
+    {
+      "file": "src/styles/question-types.css",
+      "hash": "96a493a993d8a80e50664182fc0b4351f96f16e6b719954ab377a144bd86e6b6"
+    },
+    {
+      "file": "src/styles/runtime.css",
+      "hash": "7989dde735c37e24ae050157d250993ef8eb2a08ea6d04c6214398f104329ea7"
+    },
+    {
+      "file": "src/styles/tokens.css",
+      "hash": "91bd9d54964363af8ee4b1dd534838cbf805a919a323a31ec0853884002ccdb9"
+    },
+    {
+      "file": "src/styles/vocabulary.css",
+      "hash": "d0e48ea45deb96691c56684becb16f54f3717674e39f1d9203f908ef49bfad0d"
+    },
+    {
+      "file": "src/types/curriculum.ts",
+      "hash": "a55068cb1c0328a43d922b10df6ee2785e6ab8d64b8b70ff1407856955ae1b1d"
+    },
+    {
+      "file": "src/types/index.ts",
+      "hash": "1401f11d0f73d281804bc4f67b7d673964a2e3aa0babc11a65ae4314c0504a2f"
+    },
+    {
+      "file": "src/vite-env.d.ts",
+      "hash": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+    },
+    {
+      "file": "shared/content-quality.d.mts",
+      "hash": "1d0134c8dc76ea904274fb15543865b2e59522a876c9e60ffcbc1a760d2d567b"
+    },
+    {
+      "file": "shared/content-quality.mjs",
+      "hash": "216b7de64b41fa0dfa2ef668eca7263ad14c526a954ca459a24cbcb8e466c063"
+    },
+    {
+      "file": "shared/dictionary-selection.mjs",
+      "hash": "db46804d32512dd6b9467f730758e7c8d01a2894b1568ecc1f45414ee3dcfbd0"
+    },
+    {
+      "file": "shared/grammar-quality.d.mts",
+      "hash": "9a7e8f89a4a36ba7fc6182dca0dd2a9db7d8982c896a3c327f881485fcfec309"
+    },
+    {
+      "file": "shared/grammar-quality.mjs",
+      "hash": "d3389a63348ad3776019a06db8cd993f041945b27d491f7006f1d9f43f90c8b9"
+    },
+    {
+      "file": "shared/guest-merge.mjs",
+      "hash": "7a4f63ddfe84718355c031ca63d1052af098bee64c657ce8f9f32cb0c808eb34"
+    },
+    {
+      "file": "shared/hsk1-parts.d.mts",
+      "hash": "36bc82d313a1d0f52262d8df062e77127341397ccaee485c4c1a07fabe9046d0"
+    },
+    {
+      "file": "shared/hsk1-parts.mjs",
+      "hash": "fe5ac8fb3da913226585b484ff9c2a160fe1c3eca65b736c66f689ac76a26dee"
+    },
+    {
+      "file": "shared/import-plan.mjs",
+      "hash": "9c15de2b962c240f6d5e8a84d38434cb4ad535e63fc924cf880ee6f9c7397d58"
+    },
+    {
+      "file": "shared/level-blueprints.d.mts",
+      "hash": "087d76c6c279dda167964790f7bf710256c201633b01a8276e77102a7e78bdce"
+    },
+    {
+      "file": "shared/level-blueprints.mjs",
+      "hash": "2b0852ae5c41eba2739ea22270682b7f1f416266fa63f0ee6b20c9999302e5ea"
+    },
+    {
+      "file": "shared/lexical-normalization.mjs",
+      "hash": "4b50dd7f2b7ad9d404f00dcbe6d2bf42bfaaa2cbdacd8bbce0171188a0d7f65b"
+    },
+    {
+      "file": "shared/practice-audio.mjs",
+      "hash": "972c0d105588dc6311d0d5d753830c686cf1d3c5a5d88fb3937fb65d80ab926a"
+    },
+    {
+      "file": "shared/practice-selection.d.mts",
+      "hash": "9cd1bc7dc34e9e3df9cdb192660bbcf837bdbf18611910601276b6eb2c021b0f"
+    },
+    {
+      "file": "shared/practice-selection.mjs",
+      "hash": "856d67caf16eaebcec0d2b5522a0cf2622283dae83013c894f250ea1c4d54d96"
+    },
+    {
+      "file": "shared/preview-content.mjs",
+      "hash": "a6eada33f3b2e936c0035d5bc1ab37fb4adc448a4aaba4d27056417560a5a30c"
+    },
+    {
+      "file": "shared/question-types.d.mts",
+      "hash": "ea783d485648dd0bf7767f086f47ff44a6a39828d57783ee4326802cafeedac0"
+    },
+    {
+      "file": "shared/question-types.mjs",
+      "hash": "c9ff16830404ea65e15aa03d9cae7147f406587b6543dae49160fb026abe1a66"
+    },
+    {
+      "file": "shared/sync-contract.mjs",
+      "hash": "82727c4b0992985fbe563eb5bc2c177529f98b1948660853a9552154aec8fd35"
+    },
+    {
+      "file": "shared/v5-quality.mjs",
+      "hash": "63c0f52110b540ab020b215e960f9639e0547c1ec17f95afc223dccb44742393"
+    },
+    {
+      "file": "shared/v6-quality.mjs",
+      "hash": "b6853a8201c20e483e13a46aadbb5c5c7cb9213f56b687d9d97baa509ebed61b"
+    },
+    {
+      "file": "shared/v7-quality.mjs",
+      "hash": "5b6109127b0225726d6c77dcaa038a721659fb465634b9219e50d304a3ac1a2e"
+    },
+    {
+      "file": "shared/v8-authoring-validation.mjs",
+      "hash": "6076fdf0b074e4e2e5b5f8ccaf763d882d69f2c8165e7b5211dd5640dca35b9b"
+    },
+    {
+      "file": "shared/v8-resolution.d.mts",
+      "hash": "594170931eb0242fb7621015765ac878f27a12f215ef97fbd673427495c62345"
+    },
+    {
+      "file": "shared/v8-resolution.mjs",
+      "hash": "d5125c05dfaa2464dd051dd68f3d37c660a793872f452b861b5bea28d1935ee0"
+    },
+    {
+      "file": "shared/v8-review-contract.d.mts",
+      "hash": "594170931eb0242fb7621015765ac878f27a12f215ef97fbd673427495c62345"
+    },
+    {
+      "file": "shared/v8-review-contract.mjs",
+      "hash": "004a4d55dc214041df456079bae62f10890f76b650b66cc43a36697cab3aa776"
+    },
+    {
+      "file": "shared/v9-authoring.mjs",
+      "hash": "2afc1b3b6729e5a71fcef3141fd18b831f5e0f13baaf827b2fc88cd44f05c84a"
+    },
+    {
+      "file": "server/account-server.mjs",
+      "hash": "7f6f2d816539becab7491299bc6405e8705214dcf6516d8b4a04c29f86a4f04e"
+    },
+    {
+      "file": "server/admin-server.mjs",
+      "hash": "495233fb89b2bce73af3a902fb4977cf6475184b50dcc6f93645b24df148dd8a"
+    },
+    {
+      "file": "server/cloud/.env.example",
+      "hash": "72f8dfdf48a61c7a18b5107e0cc83ebe695b1f956b9397fecbf25910702390a4"
+    },
+    {
+      "file": "server/cloud/account-service.mjs",
+      "hash": "00ee79174d4323a8b3cdbe2676fbff31b8b1bce82ef9a59281b8a826dfe307af"
+    },
+    {
+      "file": "server/cloud/migrations/001_learning_sync.sql",
+      "hash": "0ffee78b31db8b846017e616aca590516f87fafbe2e33d3221c315622bc263de"
+    },
+    {
+      "file": "server/cloud/supabase-adapter.mjs",
+      "hash": "7f92c40f61154c235637aea5a4f04314ba8a5191d040b4e67959d44e55a6a67d"
+    },
+    {
+      "file": "server/cloud/tests/rls-integration.sql",
+      "hash": "4a3d9c39053f0e1cc8e49a43a05f3b4ad31dfa2dc07127fcc15a5fd030a5b76d"
+    },
+    {
+      "file": "server/content-contract.mjs",
+      "hash": "442f21528224e36e1add36a91b019cf008e053b206d7fc3976a53c51f3579d18"
+    },
+    {
+      "file": "server/grading-adapter.mjs",
+      "hash": "45c4ffc9d193c616bc8ff1e85396c725380a51d04a80976d4d125094b2a3ca01"
+    },
+    {
+      "file": "server/media-store.mjs",
+      "hash": "40915129f535d2b939b13171442d4cf4a068617ffefb0a6d59ae9a62dd732cca"
+    },
+    {
+      "file": "server/qa-grading-store.mjs",
+      "hash": "159715b4d41d95da736f0dee5c9b561630562e7fd6b52f6c88c1496fdbbb9b2e"
+    },
+    {
+      "file": "server/speech-providers.mjs",
+      "hash": "a771d9d54a1a2e05216738af5119e791949ac0cee5a74501eea76b11fa2d1335"
+    },
+    {
+      "file": "server/v3-content-service.mjs",
+      "hash": "7fd84da752a65317bf571241e037d76ddefd85212d9649cd589b568a9e3bc556"
+    },
+    {
+      "file": "server/v4-content-service.mjs",
+      "hash": "15d1f25242e895305cd3b2de12c44f0ada827d4a7e8563e0d7f0886838192045"
+    },
+    {
+      "file": "server/v5-content-service.mjs",
+      "hash": "50e6a359d7af72a9cd45d38f0cf28f5e1e0f7e81bb635e79125a4f8c2477d2f6"
+    },
+    {
+      "file": "server/v6-content-service.mjs",
+      "hash": "e1cdf82817a0cc998299a519a8c7e2fe3c3b583f865673d746c8f382f0f53f55"
+    },
+    {
+      "file": "server/v7-review-service.mjs",
+      "hash": "2990d69c7e8b2f7d5186a4bb41a9658f7942c6892ea65258691a4ae03284b27a"
+    },
+    {
+      "file": "server/v8-content-service.mjs",
+      "hash": "91431980a12da5ebe3a003b594ebc16fd2297180ae6f20f8e71ab1ea1382de6c"
+    },
+    {
+      "file": "server/v9-content-service.mjs",
+      "hash": "7d2819d4acd0d5a95fdfee46662b9e7d048d5c9728d27bd18f708d9b52daba6d"
+    },
+    {
+      "file": "schemas/question-types-v1.schema.json",
+      "hash": "cd867dbf37358bb500ddca26e1d69e2149dcbb68159436e2318a2442a4f6ac77"
+    }
+  ],
+  "backup": ".runtime/backups/before-v9-2026-10-16T16-05-47-730Z",
+  "restore": {
+    "path": ".tmp/v9-restore-1792166748448.sqlite",
+    "integrity": {
+      "integrity_check": "ok"
+    },
+    "status": "PASS",
+    "fingerprint": "8ee54198a4b4f5e71667bf17e11947fb8455a4dc576bf739d6a9d7139177592d"
+  },
+  "learnerStorage": "No real user browser profile accessed/reset. Valid guest history/vocabulary sentinel and isolated Preview tested in Chrome/Edge. Old attempts/snapshots/SM2 tested through existing regressions; this is not a byte audit of every learner device."
+}

@@ -1,0 +1,7 @@
+{
+  "at": "2026-10-17T06:13:43.683Z",
+  "status": "PASS",
+  "checks": 878,
+  "errors": [],
+  "scope": "Artifact/count/link/hash/secret/local HTTP verification; not a human review or live cloud certification"
+}

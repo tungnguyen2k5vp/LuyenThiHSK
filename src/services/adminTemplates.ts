@@ -1,0 +1,9 @@
+export function adminTemplate(kind:string){
+  const meta={id:'draft-'+crypto.randomUUID(),syllabusVersion:'unverified',level:'1',source:'Bản nháp do AI hỗ trợ',sourceName:'Bản nháp do AI hỗ trợ',sourceType:'AI_GENERATED',sourceUrl:'local:editor',license:'Original draft; requires academic/source review',licenseStatus:'UNVERIFIED',licenseEvidenceUrl:''};
+  if(kind==='questions')return{...meta,number:1,skill:'reading',section:'reading',part:1,type:'multiple-choice',questionType:'multiple-choice',difficulty:'easy',topicIds:[],grammarIds:[],vocabularyIds:[],hanziIds:[],estimatedTimeSeconds:45,instruction:'Chọn từ phù hợp để hoàn thành câu.',promptZh:'我每天___汉语。',options:[{id:'A',text:'学习'},{id:'B',text:'天气'},{id:'C',text:'昨天'}],correctOptionId:'A',scoring:'choice',answerVerified:false,explanation:'学习 là động từ phù hợp với tân ngữ 汉语. Đây là câu tự tạo cần duyệt trước khi dùng.'};
+  if(kind==='grammar')return{...meta,grammarPointId:'',title:'',shortMeaningVi:'',pattern:'',category:'',detail:'',usage:'',explanationVi:'',examples:[],commonMistakes:[],comparisons:[],prerequisites:[],relatedGrammarIds:[],relatedQuestionIds:[]};
+  if(kind==='hanzi')return{...meta,character:'学',pinyin:'xué',meaningVi:'học',strokeUrl:null,strokeCount:null,exampleWords:['学习']};
+  if(kind==='audio')return{...meta,storageUrl:'',durationMs:0,speakerCount:1,speakerMetadata:[],accent:'',transcript:'',questionId:''};
+  if(kind==='templates')return{...meta,sourceType:'INTERNAL',title:'Mini mock template',mockType:'mini',sections:[{skill:'reading',label:'Đọc',count:5,durationMinutes:10,scoreWeight:1,questionTypes:['multiple-choice']}],verifiedAgainstCti:false,administrationMinutes:0};
+  return{...meta,simplified:'学习',traditional:'學習',pinyin:'xuéxí',meaningVi:'học, học tập',meaningsEn:[],pos:['动'],topic:'Học tập'};
+}

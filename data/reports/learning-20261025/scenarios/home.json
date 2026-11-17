@@ -1,0 +1,42 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    }
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/"
+  },
+  "actions": [
+    {
+      "step_id": "home",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".hsk-home"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

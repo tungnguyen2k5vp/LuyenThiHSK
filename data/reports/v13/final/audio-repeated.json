@@ -1,0 +1,70 @@
+{
+  "at": "2026-10-19T05:54:01.024Z",
+  "status": "PASS",
+  "results": [
+    {
+      "name": "v11-edge-1",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 22060
+    },
+    {
+      "name": "v11-edge-2",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 18022
+    },
+    {
+      "name": "v11-edge-3",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 17709
+    },
+    {
+      "name": "v11-edge-4",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 18975
+    },
+    {
+      "name": "v11-edge-5",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 18949
+    },
+    {
+      "name": "v11-edge-6",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 17623
+    },
+    {
+      "name": "v11-edge-7",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 18752
+    },
+    {
+      "name": "v11-edge-8",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 19022
+    },
+    {
+      "name": "v11-edge-9",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 18796
+    },
+    {
+      "name": "v11-edge-10",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 18401
+    }
+  ],
+  "logs": "data/reports/v13/final/audio-repeated-1792389052708",
+  "retries": 0,
+  "scope": "10 consecutive Edge V11 fixture runs after observed cold audio timeout; no product/media gate changes",
+  "ci": "NOT_RUN"
+}

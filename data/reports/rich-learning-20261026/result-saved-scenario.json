@@ -1,0 +1,96 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "timezone": "Asia/Bangkok",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "reduced_motion": "no-preference"
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=progress"
+  },
+  "storage": {
+    "local_storage": [
+      {
+        "origin": "http://127.0.0.1:4173/",
+        "entries": [
+          {
+            "name": "hsk-study-data-v1",
+            "value": {
+              "source": "literal",
+              "value": "{\"schemaVersion\":3,\"sessions\":[],\"attempts\":[{\"id\":\"rich-today-a\",\"examId\":\"exam-hsk3-general-demo\",\"mode\":\"practice\",\"answers\":{},\"flaggedQuestionIds\":[],\"selfRatings\":{},\"startedAt\":\"2026-10-26T16:25:09.577Z\",\"finishedAt\":\"2026-10-26T16:27:09.577Z\",\"durationSeconds\":120},{\"id\":\"rich-today-b\",\"examId\":\"exam-hsk3-general-demo\",\"mode\":\"practice\",\"answers\":{},\"flaggedQuestionIds\":[],\"selfRatings\":{},\"startedAt\":\"2026-10-26T16:23:09.577Z\",\"finishedAt\":\"2026-10-26T16:27:09.577Z\",\"durationSeconds\":240},{\"id\":\"rich-yesterday\",\"examId\":\"exam-hsk3-general-demo\",\"mode\":\"practice\",\"answers\":{},\"flaggedQuestionIds\":[],\"selfRatings\":{},\"startedAt\":\"2026-10-25T16:25:39.577Z\",\"finishedAt\":\"2026-10-25T16:27:09.577Z\",\"durationSeconds\":90},{\"id\":\"rich-older\",\"examId\":\"exam-hsk3-general-demo\",\"mode\":\"practice\",\"answers\":{},\"flaggedQuestionIds\":[],\"selfRatings\":{},\"startedAt\":\"2026-10-16T16:26:09.577Z\",\"finishedAt\":\"2026-10-16T16:27:09.577Z\",\"durationSeconds\":60}],\"reviewItems\":[],\"vocabulary\":{},\"wordEntries\":[]}"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "actions": [
+    {
+      "step_id": "results_available",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".dashboard-recent-row >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "open_saved_result",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".dashboard-recent-row >> nth=0 >> button"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "completion_mark",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".result-completion-heading .completion-mark"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "score_still_real",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".exam-result-counts"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "result_settled",
+      "action": "wait_for_timeout",
+      "duration_ms": 800
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility",
+      "storage"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "storage",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

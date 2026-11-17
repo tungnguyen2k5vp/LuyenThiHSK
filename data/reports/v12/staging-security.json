@@ -1,0 +1,97 @@
+{
+  "at": "2026-10-19T00:57:20.944Z",
+  "status": "PASS_STATIC_AND_LOCAL_HTTP",
+  "checks": [
+    {
+      "name": "RLS enabled and forced on 3 owner tables",
+      "status": "PASS"
+    },
+    {
+      "name": "Policies compare auth.uid owner",
+      "status": "PASS"
+    },
+    {
+      "name": "Direct writes revoked",
+      "status": "PASS"
+    },
+    {
+      "name": "RPC locks and idempotent receipts",
+      "status": "PASS"
+    },
+    {
+      "name": "SRS conflict is explicit",
+      "status": "PASS"
+    },
+    {
+      "name": "Attempts and SRS events immutable",
+      "status": "PASS"
+    },
+    {
+      "name": "RPC rejects unknown operation fields",
+      "status": "PASS"
+    },
+    {
+      "name": "Session cookies protected",
+      "status": "PASS"
+    },
+    {
+      "name": "Mutations require exact allowed Origin",
+      "status": "PASS"
+    },
+    {
+      "name": "Production HTTPS origins required",
+      "status": "PASS"
+    },
+    {
+      "name": "Local admin refuses production",
+      "status": "PASS"
+    },
+    {
+      "name": "Local admin listens loopback",
+      "status": "PASS"
+    },
+    {
+      "name": "V12 routes use existing admin auth",
+      "status": "PASS"
+    },
+    {
+      "name": "Live local account remains unconfigured",
+      "status": "PASS"
+    },
+    {
+      "name": "No unauthenticated V12 admin access",
+      "status": "PASS"
+    },
+    {
+      "name": "No V12 draft in public content",
+      "status": "PASS"
+    },
+    {
+      "name": "No runtime DB/token/env/model copied into build",
+      "status": "PASS"
+    }
+  ],
+  "sourceHashes": {
+    "server/cloud/migrations/001_learning_sync.sql": "0ffee78b31db8b846017e616aca590516f87fafbe2e33d3221c315622bc263de",
+    "server/cloud/tests/rls-integration.sql": "4a3d9c39053f0e1cc8e49a43a05f3b4ad31dfa2dc07127fcc15a5fd030a5b76d",
+    "server/cloud/account-service.mjs": "00ee79174d4323a8b3cdbe2676fbff31b8b1bce82ef9a59281b8a826dfe307af",
+    "server/cloud/supabase-adapter.mjs": "7f92c40f61154c235637aea5a4f04314ba8a5191d040b4e67959d44e55a6a67d",
+    "server/account-server.mjs": "7f6f2d816539becab7491299bc6405e8705214dcf6516d8b4a04c29f86a4f04e",
+    "server/admin-server.mjs": "26abd3113834d1a6c9c91b110d8aaa3a60c8fe84725a6cdf1a2965e177540aa0",
+    "server/v12-content-service.mjs": "78ebab148a0776882234b3f701e4f335524986d8eed9195b086a7e628015314b"
+  },
+  "localAccount": {
+    "configured": false,
+    "deployment": "NOT_CONFIGURED",
+    "guestAvailable": true,
+    "googleOAuth": "NOT_CONFIGURED",
+    "productionContent": "BLOCKED_FOR_HUMAN_REVIEW"
+  },
+  "cloudDeployment": "NOT_DEPLOYED",
+  "liveAuthRLS": "NOT_VERIFIED",
+  "liveCloudTests": "NOT_RUN_NO_STAGING_CREDENTIALS",
+  "twoPhysicalDevices": "NOT_TESTED",
+  "secureGrading": "Existing V8 HTTP/SQLite QA adapter regression; not mounted production",
+  "scope": "Source inspection and local HTTP checks, not a PostgreSQL execution or penetration test",
+  "exposed": []
+}

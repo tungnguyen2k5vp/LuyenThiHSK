@@ -1,0 +1,41 @@
+{
+  "source": {
+    "sourceId": "src-b5ec679d324b",
+    "name": "HSK QKT — Thi thử HSK 3.0 miễn phí, đề mô phỏng chuẩn cấu trúc mới",
+    "baseUrl": "https://hskqkt.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T04:51:42.296Z",
+    "termsUrl": null,
+    "robotsUrl": "https://hskqkt.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200.",
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:11:53.545Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-b5ec679d324b-public-page.json"
+  }
+}

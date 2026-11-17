@@ -1,0 +1,41 @@
+{
+  "source": {
+    "sourceId": "src-63863b61fc60",
+    "name": "Chinese Grammar Wiki",
+    "baseUrl": "https://resources.allsetlearning.com/chinese/grammar/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T04:51:44.552Z",
+    "termsUrl": null,
+    "robotsUrl": "https://resources.allsetlearning.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200.",
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:09.766Z",
+      "status": 200,
+      "classification": "import_allowed"
+    },
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-63863b61fc60-public-page.json"
+  }
+}

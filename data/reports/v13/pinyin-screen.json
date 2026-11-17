@@ -1,0 +1,208 @@
+{
+  "method": "Local pypinyin 0.55 dictionary + tone_sandhi, whitespace/punctuation/case ignored; not phonetic/human certification",
+  "checked": 20,
+  "matches": 14,
+  "rows": [
+    {
+      "id": "v13-vocab-cti25-v-366",
+      "zh": "我家有三间房间。",
+      "authored": "Wǒ jiā yǒu sān jiān fángjiān.",
+      "dictionary": "wǒjiāyǒusānjiānfángjiān",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-443",
+      "zh": "水里有两条鱼。",
+      "authored": "Shuǐ lǐ yǒu liǎng tiáo yú.",
+      "dictionary": "shuǐlǐyǒuliǎngtiáoyú",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-482",
+      "zh": "商店在学校右边。",
+      "authored": "Shāngdiàn zài xuéxiào yòubian.",
+      "dictionary": "shāngdiànzàixuéxiàoyòubiān",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-500",
+      "zh": "我的左边是小王。",
+      "authored": "Wǒ de zuǒbian shì Xiǎo Wáng.",
+      "dictionary": "wǒdezuǒbiānshìxiǎowáng",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-330",
+      "zh": "这本书很小，但很好看。",
+      "authored": "Zhè běn shū hěn xiǎo, dàn hěn hǎokàn.",
+      "dictionary": "zhèběnshūhěnxiǎodànhěnhǎokàn",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-414",
+      "zh": "小狗跑得很快。",
+      "authored": "Xiǎo gǒu pǎo de hěn kuài.",
+      "dictionary": "xiǎogǒupǎodéhěnkuài",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-419",
+      "zh": "学校前面有一家商店。",
+      "authored": "Xuéxiào qiánmiàn yǒu yì jiā shāngdiàn.",
+      "dictionary": "xuéxiàoqiánmiànyǒuyìjiāshāngdiàn",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-484",
+      "zh": "我家离学校很远。",
+      "authored": "Wǒ jiā lí xuéxiào hěn yuǎn.",
+      "dictionary": "wǒjiālíxuéxiàohěnyuǎn",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-488",
+      "zh": "今天怎么这么冷？",
+      "authored": "Jīntiān zěnme zhème lěng?",
+      "dictionary": "jīntiānzěnmezhèmelěng",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-489",
+      "zh": "这样做很好。",
+      "authored": "Zhèyàng zuò hěn hǎo.",
+      "dictionary": "zhèyàngzuòhěnhǎo",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-329",
+      "zh": "请打开这本书。",
+      "authored": "Qǐng dǎkāi zhè běn shū.",
+      "dictionary": "qǐngdǎkāizhèběnshū",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-355",
+      "zh": "她喜欢红色。",
+      "authored": "Tā xǐhuan hóngsè.",
+      "dictionary": "tāxǐhuānhóngsè",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-356",
+      "zh": "他在我后面。",
+      "authored": "Tā zài wǒ hòumiàn.",
+      "dictionary": "tāzàiwǒhòumiàn",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-386",
+      "zh": "快要下雨了。",
+      "authored": "Kuàiyào xià yǔ le.",
+      "dictionary": "kuàiyàoxiàyǔle",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-403",
+      "zh": "我今天想吃面。",
+      "authored": "Wǒ jīntiān xiǎng chī miàn.",
+      "dictionary": "wǒjīntiānxiǎngchīmiàn",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-404",
+      "zh": "他是一名老师。",
+      "authored": "Tā shì yì míng lǎoshī.",
+      "dictionary": "tāshìyīmínglǎoshī",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-452",
+      "zh": "我忘了他的名字。",
+      "authored": "Wǒ wàng le tā de míngzi.",
+      "dictionary": "wǒwàngletādemíngzì",
+      "status": "DICTIONARY_DIFFERENCE_NEEDS_REVIEW",
+      "category": "TONE_NEUTRAL_OR_SANDHI_DIFFERENCE",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-459",
+      "zh": "桌子下面有一只猫。",
+      "authored": "Zhuōzi xiàmiàn yǒu yì zhī māo.",
+      "dictionary": "zhuōzixiàmiànyǒuyìzhīmāo",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-491",
+      "zh": "他正看书呢。",
+      "authored": "Tā zhèng kàn shū ne.",
+      "dictionary": "tāzhèngkànshūne",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    },
+    {
+      "id": "v13-vocab-cti25-v-496",
+      "zh": "我每天走路去学校。",
+      "authored": "Wǒ měitiān zǒulù qù xuéxiào.",
+      "dictionary": "wǒměitiānzǒulùqùxuéxiào",
+      "status": "MATCH",
+      "category": "MATCH",
+      "decision": "KEEP_DRAFT_NO_HUMAN_APPROVAL",
+      "note": "Dictionary/citation/neutral-tone/sandhi conventions can differ; do not replace authored pinyin mechanically."
+    }
+  ],
+  "humanReviewed": 0
+}

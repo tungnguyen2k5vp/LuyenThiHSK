@@ -1,0 +1,54 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "timezone": "Asia/Bangkok",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "reduced_motion": "no-preference"
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=practice&level=HSK%201"
+  },
+  "storage": {
+    "local_storage": []
+  },
+  "actions": [
+    {
+      "step_id": "scenes_loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".scene-headphones"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "scenes_settled",
+      "action": "wait_for_timeout",
+      "duration_ms": 800
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility",
+      "storage"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "storage",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

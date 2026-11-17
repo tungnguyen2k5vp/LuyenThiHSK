@@ -1,0 +1,41 @@
+{
+  "source": {
+    "sourceId": "src-4f13f0d31a24",
+    "name": "HearMandarin: Learn Mandarin by Ear, Free HSK 3.0 Words, Stories, Tones",
+    "baseUrl": "https://hearmandarin.com/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T04:51:42.475Z",
+    "termsUrl": null,
+    "robotsUrl": "https://hearmandarin.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Historical metadata only. No new rights inference from previous HTTP 200.",
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "previousObservation": {
+      "at": "2026-10-22T04:12:08.767Z",
+      "status": 200,
+      "classification": "reference_only"
+    },
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-4f13f0d31a24-public-page.json"
+  }
+}

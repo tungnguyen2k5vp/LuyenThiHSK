@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-16T03:31:24.308Z",
+  "status": "PASS",
+  "checks": [
+    "reading-does-not-fill-listening",
+    "explicit-skill-count",
+    "unknown-legacy-excluded",
+    "known-single-skill-legacy-preserved",
+    "opening-is-not-mastery",
+    "dedupe-by-question",
+    "latest-answer-replaces-evidence"
+  ]
+}

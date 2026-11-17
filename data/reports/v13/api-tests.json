@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-19T06:13:53.474Z",
+  "status": "PASS",
+  "checks": 7541,
+  "scope": "Disposable database from V13 backup; no main bank mutation or reviewer credentials",
+  "runtime": "C:\\Users\\Admin\\AppData\\Local\\Temp\\hsk-v13-api-GK9ytU",
+  "paidCalls": 0
+}

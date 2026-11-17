@@ -1,0 +1,772 @@
+{
+  "at": "2026-10-16T15:45:32.339Z",
+  "count": 33,
+  "flagged": 27,
+  "rows": [
+    {
+      "id": "v8-hsk1-grammar-00001",
+      "revision": 1,
+      "sourceFingerprint": "d77b86efb9d8507c84aeb425cf759b029cfcc8c42777e80d54c3a43bc42b97da",
+      "level": "1",
+      "flags": [],
+      "tokensToReview": [],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk1-grammar-00002",
+      "revision": 1,
+      "sourceFingerprint": "a9715a999962e36eb9ae834e6c21489179a5296414fca9ca7014bfe8c423ef79",
+      "level": "1",
+      "flags": [],
+      "tokensToReview": [],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk1-grammar-00008",
+      "revision": 1,
+      "sourceFingerprint": "41e5b293c03411476f578a2512df61273a68ff1f783501921d067c3d851d18bc",
+      "level": "1",
+      "flags": [],
+      "tokensToReview": [],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk1-grammar-00018",
+      "revision": 1,
+      "sourceFingerprint": "ff31ceef2f1755bbb98999936bdaed9fab4b55d9685e8c519ccffb35a6c9cdfb",
+      "level": "1",
+      "flags": [],
+      "tokensToReview": [],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk1-grammar-00022",
+      "revision": 1,
+      "sourceFingerprint": "24a825c64fd401df352f2fc8efea918be62dbf2c024942dfaae01d8ef4f3a914",
+      "level": "1",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "一起",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk1-grammar-00027",
+      "revision": 1,
+      "sourceFingerprint": "f09a32d5825f1cd2df3f418d4329b383113a7a79521b79f482f16d9471f01625",
+      "level": "1",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "时",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "对方",
+          "indexedLevel": "4"
+        },
+        {
+          "text": "接",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "走",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-L1-001",
+      "revision": 1,
+      "sourceFingerprint": "25ad95735e9fa63865e6406ae9d111c48833d1608bb72167782dc35486c8ffb7",
+      "level": "2",
+      "flags": [
+        "MISSING_AUDIO"
+      ],
+      "tokensToReview": [],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-L1-002",
+      "revision": 1,
+      "sourceFingerprint": "e6a23709d7adeffe0ad6f177899a8c73efd80cedd56a59b8d226f65351bb63fa",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW",
+        "MISSING_AUDIO"
+      ],
+      "tokensToReview": [
+        {
+          "text": "声",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-L1-003",
+      "revision": 1,
+      "sourceFingerprint": "324f92bbbdef101e99d801eb4b38daeb56c5c843c6979e331223a3cd1f4cfccc",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW",
+        "MISSING_AUDIO"
+      ],
+      "tokensToReview": [
+        {
+          "text": "带",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "伞",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-L2-004",
+      "revision": 1,
+      "sourceFingerprint": "954147cf30a41b357a3d0f4218920150b3c3ef07d4069dbfe0c887cec3543de9",
+      "level": "2",
+      "flags": [
+        "MISSING_AUDIO"
+      ],
+      "tokensToReview": [],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-L2-005",
+      "revision": 1,
+      "sourceFingerprint": "50dcb276299f9b5607386581e097f4bcc9f3b1fa87ac16cde519c0532bcb5120",
+      "level": "2",
+      "flags": [
+        "MISSING_AUDIO"
+      ],
+      "tokensToReview": [],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-L2-006",
+      "revision": 1,
+      "sourceFingerprint": "17f1beb2f0215ad26ab528d1da97c5f96c74d8383e4dcad856b47bbef2b9f0b1",
+      "level": "2",
+      "flags": [
+        "MISSING_AUDIO"
+      ],
+      "tokensToReview": [],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-L3-007",
+      "revision": 1,
+      "sourceFingerprint": "b63b1f31ecff86073de457934e1c4adc4780fd5b3e5256e2fffaa644e1611e41",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW",
+        "MISSING_AUDIO"
+      ],
+      "tokensToReview": [
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-L3-008",
+      "revision": 1,
+      "sourceFingerprint": "0d15b46671d7a05c63782d74c80457bbf3ab3667ebd8b0b9b7eb8f4275378db8",
+      "level": "2",
+      "flags": [
+        "MISSING_AUDIO"
+      ],
+      "tokensToReview": [],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-L3-009",
+      "revision": 1,
+      "sourceFingerprint": "0d9e5258cac0014191493457911ab598da077713081a3e9b8c46735495fa5c5a",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW",
+        "MISSING_AUDIO"
+      ],
+      "tokensToReview": [
+        {
+          "text": "蓝",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "色",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "更",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "蓝",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "色",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R1-010",
+      "revision": 1,
+      "sourceFingerprint": "5e55f3365261bf8200af3a2ddab89fb527da67035f2d22814e9ccb199dbef144",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "以后",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R1-011",
+      "revision": 1,
+      "sourceFingerprint": "6fb36eb9ec48855d84e9a0a74f2d46d6d41a12826739e0f027002574e282314c",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "安静",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R1-012",
+      "revision": 1,
+      "sourceFingerprint": "6f15ae8b8a8286b824cffac53dead3400a0e65543edc2c1b29fda233c3c6bed7",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "用",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R2-013",
+      "revision": 1,
+      "sourceFingerprint": "95ebab6a2c4a18bc6ec999ebe4ce4e9680749fc97ce47c5d4a15f0ca780bbd0e",
+      "level": "2",
+      "flags": [],
+      "tokensToReview": [],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R2-014",
+      "revision": 1,
+      "sourceFingerprint": "253e2c1824c3fad867edc7ee493cdccd4dda8b29b2f1aae36d69fcbf4a3aeb9d",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "声",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R2-015",
+      "revision": 1,
+      "sourceFingerprint": "0f3e02fcd2367c1011d6b6e802cf080e657048498a4d20639cbe25021a2de02e",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "没",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R3-016",
+      "revision": 1,
+      "sourceFingerprint": "cee542623161df67b13a6780c7e70b2099fb189a694ec3753f00400c91a2f375",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R3-017",
+      "revision": 1,
+      "sourceFingerprint": "5041e8ea4d8ddd5b463dbdf49f823377fd8cc101860a7c4ba317f4f553fd0bff",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R3-018",
+      "revision": 1,
+      "sourceFingerprint": "230b515c4fb733dd82412b611682ba4a447f30853a14b6bb8c999614ae6d6c0c",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R4-019",
+      "revision": 1,
+      "sourceFingerprint": "47bc5368f5590ba8dc4c413f629f6f3d7df6fa87edae8c12e1e3bac46d7595dd",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "林",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "林",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "林",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R4-020",
+      "revision": 1,
+      "sourceFingerprint": "4b3c67ce2ff3a2e2d0bd782620cf25ef8390b9324ab38593ddd0424050f289e2",
+      "level": "2",
+      "flags": [],
+      "tokensToReview": [],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-R4-021",
+      "revision": 1,
+      "sourceFingerprint": "d65ede2a273e0e9527a14afa41c329f09bb323c83da24fca2acdcabcfaae5ed3",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "蓝",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "色",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "蓝",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "色",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "蓝",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "色",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-W1-022",
+      "revision": 1,
+      "sourceFingerprint": "7b692e33f55049280831a19d9703e083afeddb76c07304ebcadedfac75267a46",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW",
+        "CHARACTER_COMPONENT_PRESENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "青",
+          "indexedLevel": "5"
+        },
+        {
+          "text": "讠",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "足",
+          "indexedLevel": "6"
+        },
+        {
+          "text": "氵",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "亻",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "木",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-W1-023",
+      "revision": 1,
+      "sourceFingerprint": "a38b6e122de00293231ba65de49aedb9c02000eecaef200559b0990a27fa32f2",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW",
+        "CHARACTER_COMPONENT_PRESENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "讠",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "足",
+          "indexedLevel": "6"
+        },
+        {
+          "text": "氵",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "亻",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "木",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-W1-024",
+      "revision": 1,
+      "sourceFingerprint": "5efb0dc727ba7312d4bdbb6fafa0480dfc40d0df467a2417355537577bde4369",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW",
+        "CHARACTER_COMPONENT_PRESENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "讠",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "足",
+          "indexedLevel": "6"
+        },
+        {
+          "text": "氵",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "亻",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "木",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "status": "NOT_PRESENT"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-W2-025",
+      "revision": 2,
+      "sourceFingerprint": "8f19fdad8d78799462519e9ba648bdc0414a68fa433e4e96b9de385163c79143",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "缺少",
+          "indexedLevel": "4"
+        },
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": {
+        "expectedCharacter": "喝",
+        "displayedPinyin": "hē",
+        "indexedPinyin": "hē",
+        "status": "AI_CROSS_CHECK_NOT_HUMAN_REVIEW"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-W2-026",
+      "revision": 2,
+      "sourceFingerprint": "f613020a360ede2022a377008c6d9a22e013b76dcc657d450c8bb59c53be33bf",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "缺少",
+          "indexedLevel": "4"
+        }
+      ],
+      "pinyin": {
+        "expectedCharacter": "三",
+        "displayedPinyin": "sān",
+        "indexedPinyin": "sān",
+        "status": "AI_CROSS_CHECK_NOT_HUMAN_REVIEW"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    },
+    {
+      "id": "v8-hsk2-W2-027",
+      "revision": 2,
+      "sourceFingerprint": "608c47920b334fcf18e93fd89aef700fc3152f4906ebccb3071416b6eb293c37",
+      "level": "2",
+      "flags": [
+        "LEVEL_OR_SEGMENTATION_REVIEW"
+      ],
+      "tokensToReview": [
+        {
+          "text": "缺少",
+          "indexedLevel": "4"
+        }
+      ],
+      "pinyin": {
+        "expectedCharacter": "本",
+        "displayedPinyin": "běn",
+        "indexedPinyin": "běn",
+        "status": "AI_CROSS_CHECK_NOT_HUMAN_REVIEW"
+      },
+      "state": "PENDING",
+      "requiredReviewer": "LANGUAGE_REVIEW / HSK_LEVEL_REVIEW",
+      "note": "Tokenizer flags can include exam directions, names, components or derived grammar. They do not prove a wrong level or bad Chinese."
+    }
+  ],
+  "nearDuplicates": [],
+  "automaticCorrections": 0,
+  "humanApproval": 0
+}

@@ -1,0 +1,3 @@
+import {readFile,writeFile} from 'node:fs/promises';const edit=async(p,f)=>writeFile(p,f(await readFile(p,'utf8')));
+await edit('src/components/admin/ContentReviewV5.tsx',s=>s.replace('setReviewTab(id);setPage(0);','setReviewTab(id);if(id===\'high\')setKind(\'questions\');setPage(0);'));
+await edit('server/v7-review-service.mjs',s=>s.replace('...bundle.optionBanks,...bundle.templates],workRows=',"...bundle.optionBanks,...bundle.templates,...db.prepare(\"SELECT c.payload FROM content c WHERE c.revision=(SELECT MAX(x.revision) FROM content x WHERE x.id=c.id) AND json_extract(c.payload,'$.editorialRelease') IN ('v8-hsk2-pilot','v8-hsk1-supplement')\").all().map(r=>JSON.parse(r.payload))],workRows="));

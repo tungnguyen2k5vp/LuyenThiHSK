@@ -1,0 +1,23 @@
+{
+  "url": "https://hearmandarin.com/datasets/",
+  "status": 200,
+  "at": "2026-10-25T05:09:36.791Z",
+  "sha256": "00a631aa5f1da1b15c13cc54db6f4abb4c299d19759dd348eef466eccdf1cd48",
+  "bytes": 46704,
+  "title": "HSK 3.0 Word List Dataset: Free CSV and JSON Download (CC BY 4.0)",
+  "licenseExcerpts": [
+    "A row for each of the 11,147 words on our HSK 3.0 map, in the same format whether you open the CSV in a spreadsheet or the JSON in your own code. Build flashcards, a frequency list, or a study app on top of it; the license only asks for a credit.",
+    "License and attribution",
+    "CC BY 4.0. Copy, adapt, and use it for any purpose, including commercially, as long as you give credit.",
+    "Suggested attribution: HearMandarin (https://hearmandarin.com)",
+    "Read the full CC BY 4.0 license",
+    "The dataset does not include the CC-CEDICT dictionary text (CC-CEDICT is Share-Alike, and that term would carry into anything built from this dataset) and does not include audio. Audio plays only on the HearMandarin site.",
+    "Can I use this dataset commercially?  Yes. The license is CC BY 4.0, so you can use it in a paid app, a course, or any other product, as long as you credit HearMandarin with a link.",
+    "Why isn&#39;t the dictionary definition included?  The starting dictionary, CC-CEDICT, is licensed Share-Alike, which would force that same license onto anything built from this dataset. The gloss_en column is a short teaching gloss written or reviewed in-house instead, under the plain CC BY 4.0 terms above."
+  ],
+  "policyLinks": [
+    "https://creativecommons.org/licenses/by/4.0/",
+    "https://hearmandarin.com/terms/",
+    "https://hearmandarin.com/privacy/"
+  ]
+}

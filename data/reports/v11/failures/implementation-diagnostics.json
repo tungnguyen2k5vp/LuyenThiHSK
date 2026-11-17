@@ -1,0 +1,50 @@
+{
+  "at": "2026-10-18T03:28:16.307Z",
+  "resolved": [
+    {
+      "case": "Baseline Chrome CDP Runtime.enable timeout in sandbox",
+      "fix": "Run browser tool with required permission; full 10-job baseline then passed"
+    },
+    {
+      "case": "Unit positive mock fixture NOT_READY",
+      "fix": "Restamp fixture after its in-memory audio binding changed; production validator unchanged"
+    },
+    {
+      "case": "Media matrix included 6 obsolete V4/V5 assets",
+      "fix": "Explicit current-release scope, 80WAV/30SVG; legacy records preserved"
+    },
+    {
+      "case": "API harness await in synchronous assertion; empty Origin-rejection response JSON parse",
+      "fix": "Separate async request and tolerate legitimately empty rejection body; still assert403"
+    },
+    {
+      "case": "Post-stage vocabulary POS overwritten by legacy normalizer",
+      "fix": "Preserve V11 authored POS; CAS revisions for 24 words; post-decoration validation in staging"
+    },
+    {
+      "case": "New question internal_question_id inherited authoring template ID",
+      "fix": "Canonical internal ID validation and 24 CAS revisions; old revisions retained"
+    },
+    {
+      "case": "Browser fixture missing study store on clean profile",
+      "fix": "Initialize owned empty QA store only"
+    },
+    {
+      "case": "CDP Object reference chain too long",
+      "fix": "Return Boolean for DOM existence, not DOM node"
+    },
+    {
+      "case": "Static SQL audit expected IDEMPOTENCY_KEY_REUSED string",
+      "fix": "Inspect actual OPERATION_ID_REUSED + request_hash comparison; no SQL change"
+    },
+    {
+      "case": "Media dashboard rows collided with legacy admin-record selectors",
+      "fix": "Own media-rights-row class; complete matrix and repeated browser sequences passed"
+    },
+    {
+      "case": "Report helper template literal contained unescaped Markdown backticks",
+      "fix": "Removed inline code delimiters in generated prose; successful helper and handoff check recorded"
+    }
+  ],
+  "note": "Diagnostic failures are not passing runs; final sequences and live data safety reported separately"
+}

@@ -1,0 +1,342 @@
+/**
+ * HSK UI V13 - PRACTICE HUB & QUESTION PRESENTATION STYLES
+ * Scoped strictly to .hsk-ui-v13
+ */
+
+/* Practice Hub Workspace */
+.hsk-ui-v13 .hsk-practice-workspace {
+  display: flex;
+  flex-direction: column;
+  gap: var(--hsk-space-6);
+  width: 100%;
+}
+
+.hsk-ui-v13 .hsk-practice-skill-group {
+  display: flex;
+  flex-direction: column;
+  gap: var(--hsk-space-4);
+  padding: var(--hsk-space-5);
+  background-color: var(--hsk-color-surface);
+  border-radius: var(--hsk-radius-2xl);
+  border: 1px solid var(--hsk-color-border-subtle);
+  box-shadow: var(--hsk-shadow-xs);
+}
+
+.hsk-ui-v13 .hsk-practice-skill-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--hsk-space-2);
+  border-bottom: 1px solid var(--hsk-color-border-subtle);
+  padding-bottom: var(--hsk-space-3);
+}
+
+.hsk-ui-v13 .hsk-practice-parts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--hsk-space-4);
+}
+
+.hsk-ui-v13 .hsk-practice-part-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: var(--hsk-space-4);
+  background-color: var(--hsk-color-surface-soft);
+  border-radius: var(--hsk-radius-xl);
+  border: 1px solid var(--hsk-color-border-subtle);
+  transition: all var(--hsk-transition-fast);
+}
+
+.hsk-ui-v13 .hsk-practice-part-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--hsk-color-primary-light);
+  box-shadow: var(--hsk-shadow-sm);
+}
+
+.hsk-ui-v13 .hsk-practice-part-card.is-disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* ==========================================================================
+   QUESTION PRESENTATION CONTAINER
+   ========================================================================== */
+
+.hsk-ui-v13 .hsk-question-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--hsk-space-5);
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+  background-color: var(--hsk-color-surface);
+  border-radius: var(--hsk-radius-2xl);
+  border: 1px solid var(--hsk-color-border-subtle);
+  box-shadow: var(--hsk-shadow-sm);
+  padding: var(--hsk-space-6);
+}
+
+@media (max-width: 640px) {
+  .hsk-ui-v13 .hsk-question-container {
+    padding: var(--hsk-space-4);
+    border-radius: var(--hsk-radius-xl);
+  }
+}
+
+/* Question Header */
+.hsk-ui-v13 .hsk-question-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: var(--hsk-space-3);
+  border-bottom: 1px solid var(--hsk-color-border-subtle);
+  flex-wrap: wrap;
+  gap: var(--hsk-space-2);
+}
+
+.hsk-ui-v13 .hsk-question-number-badge {
+  font-size: var(--hsk-font-size-base);
+  font-weight: 700;
+  color: var(--hsk-color-text-main);
+  display: flex;
+  align-items: center;
+  gap: var(--hsk-space-2);
+}
+
+.hsk-ui-v13 .hsk-flag-btn {
+  background: transparent;
+  border: 1px solid var(--hsk-color-border-subtle);
+  border-radius: var(--hsk-radius-lg);
+  padding: var(--hsk-space-1-5) var(--hsk-space-3);
+  font-size: var(--hsk-font-size-xs);
+  color: var(--hsk-color-text-secondary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: var(--hsk-space-1);
+  transition: all var(--hsk-transition-fast);
+}
+
+.hsk-ui-v13 .hsk-flag-btn:hover {
+  border-color: var(--hsk-color-amber);
+  color: var(--hsk-color-amber-dark);
+}
+
+.hsk-ui-v13 .hsk-flag-btn.is-flagged {
+  background-color: var(--hsk-color-amber-light);
+  border-color: var(--hsk-color-amber);
+  color: var(--hsk-color-amber-dark);
+}
+
+/* Question Prompt & Content */
+.hsk-ui-v13 .hsk-question-prompt-box {
+  display: flex;
+  flex-direction: column;
+  gap: var(--hsk-space-3);
+}
+
+.hsk-ui-v13 .hsk-question-instruction {
+  font-size: var(--hsk-font-size-sm);
+  color: var(--hsk-color-text-secondary);
+  font-style: italic;
+}
+
+.hsk-ui-v13 .hsk-question-prompt-zh {
+  font-family: var(--hsk-font-hanzi);
+  font-size: var(--hsk-font-size-xl);
+  font-weight: 600;
+  color: var(--hsk-color-text-main);
+  line-height: 1.6;
+}
+
+.hsk-ui-v13 .hsk-question-context-zh {
+  font-family: var(--hsk-font-hanzi);
+  font-size: var(--hsk-font-size-base);
+  color: var(--hsk-color-text-secondary);
+  background-color: var(--hsk-color-surface-soft);
+  padding: var(--hsk-space-4);
+  border-radius: var(--hsk-radius-lg);
+  line-height: 1.7;
+  border-left: 3px solid var(--hsk-color-primary);
+}
+
+/* Multiple Choice Options */
+.hsk-ui-v13 .hsk-options-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--hsk-space-3);
+}
+
+.hsk-ui-v13 .hsk-option-item {
+  display: flex;
+  align-items: center;
+  gap: var(--hsk-space-3);
+  padding: var(--hsk-space-3-5) var(--hsk-space-4);
+  border-radius: var(--hsk-radius-xl);
+  border: 1.5px solid var(--hsk-color-border-subtle);
+  background-color: var(--hsk-color-surface);
+  cursor: pointer;
+  transition: all var(--hsk-transition-fast);
+  min-height: 48px;
+  user-select: none;
+}
+
+.hsk-ui-v13 .hsk-option-item:hover:not(.is-disabled) {
+  border-color: var(--hsk-color-primary-light);
+  background-color: var(--hsk-color-surface-soft);
+}
+
+.hsk-ui-v13 .hsk-option-item.is-selected {
+  border-color: var(--hsk-color-primary);
+  background-color: var(--hsk-color-primary-light);
+  box-shadow: 0 0 0 1px var(--hsk-color-primary);
+}
+
+.hsk-ui-v13 .hsk-option-item.is-disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.hsk-ui-v13 .hsk-option-letter {
+  width: 28px;
+  height: 28px;
+  border-radius: var(--hsk-radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: var(--hsk-font-size-sm);
+  background-color: var(--hsk-color-surface-soft);
+  color: var(--hsk-color-text-secondary);
+  border: 1px solid var(--hsk-color-border-subtle);
+  flex-shrink: 0;
+  transition: all var(--hsk-transition-fast);
+}
+
+.hsk-ui-v13 .hsk-option-item.is-selected .hsk-option-letter {
+  background-color: var(--hsk-color-primary);
+  color: #ffffff;
+  border-color: var(--hsk-color-primary);
+}
+
+.hsk-ui-v13 .hsk-option-text {
+  font-family: var(--hsk-font-hanzi);
+  font-size: var(--hsk-font-size-base);
+  color: var(--hsk-color-text-main);
+  flex: 1;
+}
+
+/* Image Choice Grid */
+.hsk-ui-v13 .hsk-image-options-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: var(--hsk-space-4);
+}
+
+.hsk-ui-v13 .hsk-image-option-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--hsk-space-3);
+  border-radius: var(--hsk-radius-xl);
+  border: 2px solid var(--hsk-color-border-subtle);
+  background-color: var(--hsk-color-surface);
+  cursor: pointer;
+  transition: all var(--hsk-transition-fast);
+}
+
+.hsk-ui-v13 .hsk-image-option-card:hover:not(.is-disabled) {
+  border-color: var(--hsk-color-primary-light);
+  transform: translateY(-2px);
+}
+
+.hsk-ui-v13 .hsk-image-option-card.is-selected {
+  border-color: var(--hsk-color-primary);
+  background-color: var(--hsk-color-primary-light);
+}
+
+.hsk-ui-v13 .hsk-image-option-preview {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: var(--hsk-radius-lg);
+  background-color: var(--hsk-color-surface-soft);
+}
+
+/* Matching UI */
+.hsk-ui-v13 .hsk-matching-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--hsk-space-3);
+}
+
+.hsk-ui-v13 .hsk-matching-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--hsk-space-3);
+  padding: var(--hsk-space-3) var(--hsk-space-4);
+  background-color: var(--hsk-color-surface-soft);
+  border-radius: var(--hsk-radius-xl);
+  border: 1px solid var(--hsk-color-border-subtle);
+}
+
+.hsk-ui-v13 .hsk-matching-select {
+  padding: var(--hsk-space-2) var(--hsk-space-3);
+  border-radius: var(--hsk-radius-lg);
+  border: 1px solid var(--hsk-color-border-subtle);
+  background-color: var(--hsk-color-surface);
+  color: var(--hsk-color-text-main);
+  font-size: var(--hsk-font-size-sm);
+  outline: none;
+  min-width: 120px;
+}
+
+/* Practice Feedback Card */
+.hsk-ui-v13 .hsk-feedback-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--hsk-space-3);
+  padding: var(--hsk-space-4);
+  border-radius: var(--hsk-radius-xl);
+  border: 1px solid var(--hsk-color-border-subtle);
+  animation: hskFadeIn 0.25s ease-out;
+}
+
+.hsk-ui-v13 .hsk-feedback-card.is-correct {
+  background-color: #f0fdf4;
+  border-color: #86efac;
+}
+
+.hsk-ui-v13 .hsk-feedback-card.is-incorrect {
+  background-color: #fef2f2;
+  border-color: #fca5a5;
+}
+
+.hsk-ui-v13 .hsk-feedback-card.is-ungraded {
+  background-color: #f8fafc;
+  border-color: #cbd5e1;
+}
+
+.hsk-ui-v13 .hsk-feedback-status-title {
+  display: flex;
+  align-items: center;
+  gap: var(--hsk-space-2);
+  font-weight: 700;
+  font-size: var(--hsk-font-size-base);
+}
+
+.hsk-ui-v13 .hsk-feedback-solution {
+  font-size: var(--hsk-font-size-sm);
+  font-weight: 600;
+  color: var(--hsk-color-text-main);
+}
+
+.hsk-ui-v13 .hsk-feedback-explanation {
+  font-size: var(--hsk-font-size-sm);
+  color: var(--hsk-color-text-secondary);
+  line-height: 1.6;
+}

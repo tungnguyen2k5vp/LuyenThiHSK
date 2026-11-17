@@ -1,0 +1,24 @@
+{
+  "at": "2026-10-18T02:25:17.669Z",
+  "results": [
+    {
+      "name": "regression",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 141798
+    },
+    {
+      "name": "browser-matrix",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 244304
+    },
+    {
+      "name": "browser-repeat",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 146471
+    }
+  ],
+  "retries": 0
+}

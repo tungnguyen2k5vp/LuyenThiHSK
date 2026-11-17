@@ -1,0 +1,619 @@
+{
+  "count": 6,
+  "changes": [
+    {
+      "id": "v8-hsk1-grammar-00001",
+      "before": null,
+      "after": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk1-supplement",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk1-grammar-00001",
+        "number": 1,
+        "part": 1,
+        "type": "grammar-practice",
+        "questionType": "grammar-practice",
+        "skill": "reading",
+        "promptZh": "我家有三个孩子，我是（　）个孩子。",
+        "candidatePromptZh": "我家有三个孩子，我是（　）个孩子。",
+        "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+        "options": [
+          {
+            "id": "A",
+            "text": "一第"
+          },
+          {
+            "id": "B",
+            "text": "第二"
+          },
+          {
+            "id": "C",
+            "text": "二第"
+          }
+        ],
+        "correctAnswer": "B",
+        "correctOptionId": "B",
+        "explanation": "第 đặt trước số để chỉ thứ tự: 第二 là thứ hai.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00001"
+        ],
+        "vocabularyIds": [
+          "cti25-v-31",
+          "cti25-v-49",
+          "cti25-v-60",
+          "cti25-v-68",
+          "cti25-v-86",
+          "cti25-v-173",
+          "cti25-v-188",
+          "cti25-v-221",
+          "cti25-v-254",
+          "cti25-v-263"
+        ],
+        "topicIds": [
+          "v8-topic-hsk1-grammar"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "mediaRequirement": {
+          "audio": false,
+          "status": "NOT_REQUIRED"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-L1-001",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "d77b86efb9d8507c84aeb425cf759b029cfcc8c42777e80d54c3a43bc42b97da",
+          "method": "Schema, refs and exact teaching overlap; human review pending"
+        },
+        "hskLevel": "1"
+      },
+      "reason": "Selective addition to one of six topics with only three non-overlap independent questions",
+      "validation": "PASSED_STRUCTURE_AND_EXACT_OVERLAP",
+      "approvalStatus": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v8-hsk1-grammar-00002",
+      "before": null,
+      "after": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk1-supplement",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk1-grammar-00002",
+        "number": 2,
+        "part": 1,
+        "type": "grammar-practice",
+        "questionType": "grammar-practice",
+        "skill": "reading",
+        "promptZh": "小王和小李是学生，他（　）都在学校。",
+        "candidatePromptZh": "小王和小李是学生，他（　）都在学校。",
+        "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+        "options": [
+          {
+            "id": "A",
+            "text": "们"
+          },
+          {
+            "id": "B",
+            "text": "的"
+          },
+          {
+            "id": "C",
+            "text": "吗"
+          }
+        ],
+        "correctAnswer": "A",
+        "correctOptionId": "A",
+        "explanation": "Thêm 们 sau 他 tạo 他们, chỉ nhiều người.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00002"
+        ],
+        "vocabularyIds": [
+          "cti25-v-30",
+          "cti25-v-41",
+          "cti25-v-78",
+          "cti25-v-115",
+          "cti25-v-124",
+          "cti25-v-188",
+          "cti25-v-200",
+          "cti25-v-234",
+          "cti25-v-247",
+          "cti25-v-248",
+          "cti25-v-250",
+          "cti25-v-271"
+        ],
+        "topicIds": [
+          "v8-topic-hsk1-grammar"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "mediaRequirement": {
+          "audio": false,
+          "status": "NOT_REQUIRED"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-L1-001",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "a9715a999962e36eb9ae834e6c21489179a5296414fca9ca7014bfe8c423ef79",
+          "method": "Schema, refs and exact teaching overlap; human review pending"
+        },
+        "hskLevel": "1"
+      },
+      "reason": "Selective addition to one of six topics with only three non-overlap independent questions",
+      "validation": "PASSED_STRUCTURE_AND_EXACT_OVERLAP",
+      "approvalStatus": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v8-hsk1-grammar-00008",
+      "before": null,
+      "after": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk1-supplement",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk1-grammar-00008",
+        "number": 3,
+        "part": 1,
+        "type": "grammar-practice",
+        "questionType": "grammar-practice",
+        "skill": "reading",
+        "promptZh": "A：你（　）时候去学校？ B：明天早上。",
+        "candidatePromptZh": "A：你（　）时候去学校？ B：明天早上。",
+        "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+        "options": [
+          {
+            "id": "A",
+            "text": "谁"
+          },
+          {
+            "id": "B",
+            "text": "哪里"
+          },
+          {
+            "id": "C",
+            "text": "什么"
+          }
+        ],
+        "correctAnswer": "C",
+        "correctOptionId": "C",
+        "explanation": "什么时候 hỏi thời gian; câu trả lời 明天早上 là thời gian.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00008"
+        ],
+        "vocabularyIds": [
+          "cti25-v-110",
+          "cti25-v-129",
+          "cti25-v-131",
+          "cti25-v-133",
+          "cti25-v-146",
+          "cti25-v-167",
+          "cti25-v-175",
+          "cti25-v-181",
+          "cti25-v-182",
+          "cti25-v-185",
+          "cti25-v-207",
+          "cti25-v-247",
+          "cti25-v-250",
+          "cti25-v-273",
+          "cti25-v-275"
+        ],
+        "topicIds": [
+          "v8-topic-hsk1-grammar"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "mediaRequirement": {
+          "audio": false,
+          "status": "NOT_REQUIRED"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-L1-001",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "41e5b293c03411476f578a2512df61273a68ff1f783501921d067c3d851d18bc",
+          "method": "Schema, refs and exact teaching overlap; human review pending"
+        },
+        "hskLevel": "1"
+      },
+      "reason": "Selective addition to one of six topics with only three non-overlap independent questions",
+      "validation": "PASSED_STRUCTURE_AND_EXACT_OVERLAP",
+      "approvalStatus": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v8-hsk1-grammar-00018",
+      "before": null,
+      "after": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk1-supplement",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk1-grammar-00018",
+        "number": 4,
+        "part": 1,
+        "type": "grammar-practice",
+        "questionType": "grammar-practice",
+        "skill": "reading",
+        "promptZh": "A：今天不去看电影吗？ B：今天没有时间，明天（　）去吧。",
+        "candidatePromptZh": "A：今天不去看电影吗？ B：今天没有时间，明天（　）去吧。",
+        "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+        "options": [
+          {
+            "id": "A",
+            "text": "不"
+          },
+          {
+            "id": "B",
+            "text": "再"
+          },
+          {
+            "id": "C",
+            "text": "也不"
+          }
+        ],
+        "correctAnswer": "B",
+        "correctOptionId": "B",
+        "explanation": "再 trước động từ chỉ làm ở thời điểm sau, ở đây là ngày mai.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00018"
+        ],
+        "vocabularyIds": [
+          "cti25-v-4",
+          "cti25-v-13",
+          "cti25-v-38",
+          "cti25-v-94",
+          "cti25-v-99",
+          "cti25-v-115",
+          "cti25-v-122",
+          "cti25-v-129",
+          "cti25-v-167",
+          "cti25-v-186",
+          "cti25-v-207",
+          "cti25-v-253",
+          "cti25-v-263",
+          "cti25-v-270"
+        ],
+        "topicIds": [
+          "v8-topic-hsk1-grammar"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "mediaRequirement": {
+          "audio": false,
+          "status": "NOT_REQUIRED"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-L1-001",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "ff31ceef2f1755bbb98999936bdaed9fab4b55d9685e8c519ccffb35a6c9cdfb",
+          "method": "Schema, refs and exact teaching overlap; human review pending"
+        },
+        "hskLevel": "1"
+      },
+      "reason": "Selective addition to one of six topics with only three non-overlap independent questions",
+      "validation": "PASSED_STRUCTURE_AND_EXACT_OVERLAP",
+      "approvalStatus": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v8-hsk1-grammar-00022",
+      "before": null,
+      "after": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk1-supplement",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk1-grammar-00022",
+        "number": 5,
+        "part": 1,
+        "type": "grammar-practice",
+        "questionType": "grammar-practice",
+        "skill": "reading",
+        "promptZh": "A：你一个人去买书吗？ B：不是，我（　）妈妈一起去。",
+        "candidatePromptZh": "A：你一个人去买书吗？ B：不是，我（　）妈妈一起去。",
+        "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+        "options": [
+          {
+            "id": "A",
+            "text": "和"
+          },
+          {
+            "id": "B",
+            "text": "在"
+          },
+          {
+            "id": "C",
+            "text": "对"
+          }
+        ],
+        "correctAnswer": "A",
+        "correctOptionId": "A",
+        "explanation": "和 + người + 一起 + động từ: cùng mẹ đi.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00022"
+        ],
+        "vocabularyIds": [
+          "cti25-v-13",
+          "cti25-v-44",
+          "cti25-v-60",
+          "cti25-v-78",
+          "cti25-v-114",
+          "cti25-v-115",
+          "cti25-v-116",
+          "cti25-v-146",
+          "cti25-v-167",
+          "cti25-v-170",
+          "cti25-v-188",
+          "cti25-v-190",
+          "cti25-v-221",
+          "cti25-v-254",
+          "cti25-v-271"
+        ],
+        "topicIds": [
+          "v8-topic-hsk1-grammar"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "mediaRequirement": {
+          "audio": false,
+          "status": "NOT_REQUIRED"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-L1-001",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "24a825c64fd401df352f2fc8efea918be62dbf2c024942dfaae01d8ef4f3a914",
+          "method": "Schema, refs and exact teaching overlap; human review pending"
+        },
+        "hskLevel": "1"
+      },
+      "reason": "Selective addition to one of six topics with only three non-overlap independent questions",
+      "validation": "PASSED_STRUCTURE_AND_EXACT_OVERLAP",
+      "approvalStatus": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v8-hsk1-grammar-00027",
+      "before": null,
+      "after": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "1",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk1-supplement",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk1-grammar-00027",
+        "number": 6,
+        "part": 1,
+        "type": "grammar-practice",
+        "questionType": "grammar-practice",
+        "skill": "reading",
+        "promptZh": "打电话时，听到对方接了电话，可以先说什么？",
+        "candidatePromptZh": "打电话时，听到对方接了电话，可以先说什么？",
+        "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+        "options": [
+          {
+            "id": "A",
+            "text": "再见，我走了。"
+          },
+          {
+            "id": "B",
+            "text": "明天再来。"
+          },
+          {
+            "id": "C",
+            "text": "喂，你好！"
+          }
+        ],
+        "correctAnswer": "C",
+        "correctOptionId": "C",
+        "explanation": "喂 dùng để mở đầu lời nói khi gọi/nhận điện thoại; ngữ cảnh khác với lời tạm biệt.",
+        "grammarIds": [
+          "HSK30-2025-GRA-HSK1-00027"
+        ],
+        "vocabularyIds": [
+          "cti25-v-24",
+          "cti25-v-29",
+          "cti25-v-35",
+          "cti25-v-44",
+          "cti25-v-71",
+          "cti25-v-88",
+          "cti25-v-102",
+          "cti25-v-106",
+          "cti25-v-108",
+          "cti25-v-129",
+          "cti25-v-146",
+          "cti25-v-147",
+          "cti25-v-182",
+          "cti25-v-196",
+          "cti25-v-207",
+          "cti25-v-209",
+          "cti25-v-218",
+          "cti25-v-221",
+          "cti25-v-270",
+          "cti25-v-272"
+        ],
+        "topicIds": [
+          "v8-topic-hsk1-grammar"
+        ],
+        "difficulty": "unverified",
+        "assessmentSuitability": "INDEPENDENT_PRACTICE",
+        "answerVerified": false,
+        "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+        "scoring": "choice",
+        "mediaRequirement": {
+          "audio": false,
+          "status": "NOT_REQUIRED"
+        },
+        "audioAssetId": null,
+        "source_question_number": null,
+        "internal_question_id": "v8-hsk2-L1-001",
+        "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+        "provenance": {
+          "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+          "source_url": "local:editorial/v8/hsk2-original",
+          "source_version": "v8-pilot-r1",
+          "retrieved_at": "2026-10-16",
+          "license": "Original AI-assisted draft; language, level and rights review required",
+          "rights_status": "original",
+          "is_original": true,
+          "attribution": "Original project draft; CTI structure only"
+        },
+        "internalValidation": {
+          "status": "PASSED",
+          "fingerprint": "f09a32d5825f1cd2df3f418d4329b383113a7a79521b79f482f16d9471f01625",
+          "method": "Schema, refs and exact teaching overlap; human review pending"
+        },
+        "hskLevel": "1"
+      },
+      "reason": "Selective addition to one of six topics with only three non-overlap independent questions",
+      "validation": "PASSED_STRUCTURE_AND_EXACT_OVERLAP",
+      "approvalStatus": "NEEDS_REVIEW"
+    }
+  ]
+}

@@ -1,0 +1,4170 @@
+{
+  "at": "2026-10-16T15:16:59.988Z",
+  "audio": [
+    {
+      "id": "v4-audio-001",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我叫小王，我是学生。",
+      "durationMs": 2278,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2278,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -17.11,
+        "clippedRatio": 0.00001990683600748497,
+        "silentSampleRatio": 0.2189154755743122,
+        "leadingSilenceMs": 42,
+        "trailingSilenceMs": 201,
+        "sha256": "8cab7e57349e4816ea3b58e607baf853be66867fcdd28c67d3cad016a7507228",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-001",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-002",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我妈妈在医院工作，她是医生。",
+      "durationMs": 2580,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2580,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.86,
+        "clippedRatio": 0.000017577781683951486,
+        "silentSampleRatio": 0.14663385480752328,
+        "leadingSilenceMs": 10,
+        "trailingSilenceMs": 200,
+        "sha256": "7833fb9d56bfba61ed75fd35140de4929b68dc1dd35b03a665abd65ccd6385c7",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-002",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-003",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "桌子上有三个苹果。",
+      "durationMs": 2127,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2127,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.22,
+        "clippedRatio": 0.000021319234213107066,
+        "silentSampleRatio": 0.1964354240395685,
+        "leadingSilenceMs": 3,
+        "trailingSilenceMs": 223,
+        "sha256": "1b938977e24352cecf1ef4d0a3666055ceda5317217ef4c60b9cf26b95a05857",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-003",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-004",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我今天七点起床，八点上班。",
+      "durationMs": 2603,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2603,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.89,
+        "clippedRatio": 0.00001742099578411902,
+        "silentSampleRatio": 0.15365318281592977,
+        "leadingSilenceMs": 7,
+        "trailingSilenceMs": 200,
+        "sha256": "9367e3b2a1f191b68e4a55573121214cfb4d0dd71ba0c08a0a8f7a51be8a7886",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-004",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-005",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我不喜欢喝茶，我喜欢喝牛奶。",
+      "durationMs": 2743,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2743,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.72,
+        "clippedRatio": 0.00001653603201375798,
+        "silentSampleRatio": 0.15578595760161393,
+        "leadingSilenceMs": 6,
+        "trailingSilenceMs": 203,
+        "sha256": "760808cd875451c3855b46c690f10683b1c4dae37d7a6012b7a6d3f13c13c881",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-005",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-006",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "姐姐在学校，弟弟在家。",
+      "durationMs": 2092,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2092,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.04,
+        "clippedRatio": 0.000021674108110451255,
+        "silentSampleRatio": 0.19784125883219905,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 228,
+        "sha256": "bdcb90070c34c20caf5c7b47beee0bd3b41b13ae467ef9d54d8db42a484d3b35",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-006",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-007",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "这本书二十元，那个杯子十元。",
+      "durationMs": 2650,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2650,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.77,
+        "clippedRatio": 0.000017115667682196283,
+        "silentSampleRatio": 0.17297093759627563,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 223,
+        "sha256": "1229ab2ca4a472567c1a290e27bfbc386bcd51a080279226f45b3f05dd9463e4",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-007",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-008",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "今天星期五，明天我不上班。",
+      "durationMs": 2789,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2789,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -12.91,
+        "clippedRatio": 0.000016260691404598525,
+        "silentSampleRatio": 0.12504471690136265,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 200,
+        "sha256": "b728dd48d2a29ce1a2666bdc917a433ccbbc393b404f9244d961e1554d9655a6",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-008",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-009",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "爸爸正在看电视，妈妈正在做饭。",
+      "durationMs": 3393,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3393,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -18.95,
+        "clippedRatio": 0.00001336719689881032,
+        "silentSampleRatio": 0.2364122443523593,
+        "leadingSilenceMs": 137,
+        "trailingSilenceMs": 315,
+        "sha256": "66be9a09aa05d62d0bf4eb6cf4d87f525bbe20a208f3e4ca1ef0f940cabfa49f",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-009",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-010",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我家有四口人，爸爸、妈妈、姐姐和我。",
+      "durationMs": 3021,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3021,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.81,
+        "clippedRatio": 0.000015010957999339518,
+        "silentSampleRatio": 0.15446275781320365,
+        "leadingSilenceMs": 7,
+        "trailingSilenceMs": 220,
+        "sha256": "b0f0f8f14cd719a6041c2d20355f3b502b2c1ca1ea6547c582467e7a43e0cc91",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-010",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-011",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我想去书店买一本中文书。",
+      "durationMs": 2685,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2685,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.38,
+        "clippedRatio": 0.000016893604081494745,
+        "silentSampleRatio": 0.15418792445180254,
+        "leadingSilenceMs": 4,
+        "trailingSilenceMs": 235,
+        "sha256": "6a75eb44eddce5b8434c583eaaa8428050e1eee626ddbf359c2676b61000c09a",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-011",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-012",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "外边下雨了，我今天不去看电影。",
+      "durationMs": 3207,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3207,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.77,
+        "clippedRatio": 0.000014141471278671833,
+        "silentSampleRatio": 0.1716067539666827,
+        "leadingSilenceMs": 4,
+        "trailingSilenceMs": 201,
+        "sha256": "d9cce507006de711b59e23b90c99332af6a45007f141ba452395abef1d36f437",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-012",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-013",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我没有车，今天坐出租车去公司。",
+      "durationMs": 2894,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2894,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.63,
+        "clippedRatio": 0.00001567348985925206,
+        "silentSampleRatio": 0.18624807999749224,
+        "leadingSilenceMs": 7,
+        "trailingSilenceMs": 200,
+        "sha256": "fde7cf8d136c9274087eeebda9ba7befb6f83eb18bdaa37ad7f5ad241da85747",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-013",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-014",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "老师的手机在桌子上，我的手机在椅子上。",
+      "durationMs": 3811,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3811,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -19.05,
+        "clippedRatio": 0.000011901078237688335,
+        "silentSampleRatio": 0.19423749791731132,
+        "leadingSilenceMs": 11,
+        "trailingSilenceMs": 204,
+        "sha256": "ea26699380300faa55c0853e054707dd06cfb9b7d43453fb759899b05b902638",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-014",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-015",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我妹妹今年九岁，在小学上学。",
+      "durationMs": 3358,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3358,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -17.76,
+        "clippedRatio": 0.000013505848032197942,
+        "silentSampleRatio": 0.21213635504173306,
+        "leadingSilenceMs": 77,
+        "trailingSilenceMs": 252,
+        "sha256": "1b12e1e42254ee7185e5e3f5671381d6e61ea617d9c2d71453f434086930ead4",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-015",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-016",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我们上午学习汉语，下午去看电影。",
+      "durationMs": 3393,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3393,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.54,
+        "clippedRatio": 0.00001336719689881032,
+        "silentSampleRatio": 0.13721427616628792,
+        "leadingSilenceMs": 11,
+        "trailingSilenceMs": 224,
+        "sha256": "e8cc2bf21ab87e066d265bc4e689e22889c1404aa0f1feb90348fc7b6ecd7319",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-016",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-017",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我买了两杯茶和一杯牛奶。",
+      "durationMs": 2580,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2580,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -17.13,
+        "clippedRatio": 0.000017577781683951486,
+        "silentSampleRatio": 0.16020390226753384,
+        "leadingSilenceMs": 14,
+        "trailingSilenceMs": 200,
+        "sha256": "99129319d3db9b8a3874a4de48efd329cf0fbac09667817c1b73a3edaedf71a1",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-017",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v5-audio-018-d5fc52fdabeb",
+      "revision": 2,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "这件衣服很好看，也很贵。我不买了。",
+      "durationMs": 3662,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3662,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.51,
+        "clippedRatio": 0.00003714894249343702,
+        "silentSampleRatio": 0.21505522809450692,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 200,
+        "sha256": "df2693092af875dfe3e3052eb60445c998f83a7517a4d7426e7f68de273bf1bb",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-018",
+          "revision": 6,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-019",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我认识小李，他是我的大学同学。",
+      "durationMs": 3102,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3102,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -17.61,
+        "clippedRatio": 0.000014617745943575501,
+        "silentSampleRatio": 0.2036982897237246,
+        "leadingSilenceMs": 37,
+        "trailingSilenceMs": 220,
+        "sha256": "87d88d1243d061f816312ff81f9568df0ae5ec06aaaecf5e39280b94d1fc7578",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-019",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-020",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我现在有时间，可以和你去超市。",
+      "durationMs": 2940,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2940,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.59,
+        "clippedRatio": 0.000015425909357356616,
+        "silentSampleRatio": 0.19899423070990035,
+        "leadingSilenceMs": 70,
+        "trailingSilenceMs": 244,
+        "sha256": "a82b9b46f7d5c16c60bce9699037409f0ac82f2ba88955c0d797ff688aa99987",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-020",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-021",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "今天很冷，请穿那件新衣服。",
+      "durationMs": 3091,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3091,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.04,
+        "clippedRatio": 0.000014672653109135193,
+        "silentSampleRatio": 0.20688440883880624,
+        "leadingSilenceMs": 48,
+        "trailingSilenceMs": 224,
+        "sha256": "6ef6d37297c163ff25c1227b780ac77f1cf158f19f459151ba38dc033b65e627",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-021",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v5-audio-022-82821affc011",
+      "revision": 2,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "请坐，我给你一杯水。",
+      "durationMs": 2081,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2081,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.01,
+        "clippedRatio": 0.000021795039449021402,
+        "silentSampleRatio": 0.19739767228978686,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 259,
+        "sha256": "a8a6c1a01c4e0784c9e73cd33275a5f90994bebac1a377975b41b0cd1f83d6ae",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-022",
+          "revision": 6,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-023",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我姐姐会说汉语，也会写汉字。",
+      "durationMs": 2835,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2835,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -17.64,
+        "clippedRatio": 0.000015994369981766418,
+        "silentSampleRatio": 0.16304660759412687,
+        "leadingSilenceMs": 11,
+        "trailingSilenceMs": 201,
+        "sha256": "98869f4611712ef33aabb795fd3cac001fd3ef808613d3ce68e971ddcaa99788",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-023",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-024",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我昨天在家看书，没有去学校。",
+      "durationMs": 2557,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2557,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.54,
+        "clippedRatio": 0.000017737415303841924,
+        "silentSampleRatio": 0.17980417893504558,
+        "leadingSilenceMs": 1,
+        "trailingSilenceMs": 200,
+        "sha256": "f897dca72e4dd7ea2734d1ecc073de709c77f3c4c2a669b819fd8aee1a5a9322",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-024",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-025",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "现在是中午十二点，我们去吃午饭吧。",
+      "durationMs": 3265,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3265,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.23,
+        "clippedRatio": 0.000013890046392754953,
+        "silentSampleRatio": 0.1765285996055227,
+        "leadingSilenceMs": 5,
+        "trailingSilenceMs": 200,
+        "sha256": "39ec1e5bd770e1841399268ace2123a4f2d8ba99af50fe1ddd6c8e15aefbf775",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-025",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-026",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "这只猫是我妹妹的，那只狗是我哥哥的。",
+      "durationMs": 3416,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3416,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.23,
+        "clippedRatio": 0.000013276333607710895,
+        "silentSampleRatio": 0.1514829664639813,
+        "leadingSilenceMs": 1,
+        "trailingSilenceMs": 200,
+        "sha256": "e9a485ee0e9fbb65c284104a868aa0d3fc814a259f44c25085ab3c759d7e87fe",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-026",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-027",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我星期一到星期五上班，星期六休息。",
+      "durationMs": 3346,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3346,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -17.24,
+        "clippedRatio": 0.000013552706475483154,
+        "silentSampleRatio": 0.14104301629035318,
+        "leadingSilenceMs": 20,
+        "trailingSilenceMs": 278,
+        "sha256": "9121e4dba8ac966aeeded1d7e3b0cdf4fe7cec448abf162c8e01bccfb735d986",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-027",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-028",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "这儿的水果很便宜，我想买一些苹果。",
+      "durationMs": 3846,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3846,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.49,
+        "clippedRatio": 0.0000117932872608911,
+        "silentSampleRatio": 0.18437625303677146,
+        "leadingSilenceMs": 88,
+        "trailingSilenceMs": 200,
+        "sha256": "8c612341c6f027e6c468b15e516abf097978e3c04ddb8115c641b28c553bc544",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-028",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-029",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我今天不忙，晚上可以给你打电话。",
+      "durationMs": 3242,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3242,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -17.45,
+        "clippedRatio": 0.000013989535827201254,
+        "silentSampleRatio": 0.18552922414034304,
+        "leadingSilenceMs": 16,
+        "trailingSilenceMs": 210,
+        "sha256": "c6248b7a3fc5f4c949f925394acad2cc42f923f22c333cfeb704417bd96d3101",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-029",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v5-audio-030-78fbf55ca168",
+      "revision": 2,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我们学校前边是商店，后边是医院。",
+      "durationMs": 3277,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3277,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.58,
+        "clippedRatio": 0.000013840830449826989,
+        "silentSampleRatio": 0.1163044982698962,
+        "leadingSilenceMs": 5,
+        "trailingSilenceMs": 202,
+        "sha256": "ad57ca2c09db4aecf19562c8338ac8cdbd518230375520e76547582945231faf",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-030",
+          "revision": 6,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-031",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我今天没有汉语课，明天有汉语课。",
+      "durationMs": 3207,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3207,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.77,
+        "clippedRatio": 0.000014141471278671833,
+        "silentSampleRatio": 0.16274005147495546,
+        "leadingSilenceMs": 2,
+        "trailingSilenceMs": 217,
+        "sha256": "4f15e5640f6a960cbc95cde295aa477eb25f66ab9ae90e45e022a28b1d4026a2",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-031",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-032",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "这个杯子是新的，不是我的。",
+      "durationMs": 2731,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2731,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.26,
+        "clippedRatio": 0.000016606330333122987,
+        "silentSampleRatio": 0.2637583446809924,
+        "leadingSilenceMs": 65,
+        "trailingSilenceMs": 290,
+        "sha256": "dfdeeb2541d9834c4a43d7fc792cea1f848b34826323f76ca1e00630883c5405",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-032",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-033",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "妈妈在超市买菜。",
+      "durationMs": 1930,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1930,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.27,
+        "clippedRatio": 0.00002349955350848334,
+        "silentSampleRatio": 0.23024862527611975,
+        "leadingSilenceMs": 24,
+        "trailingSilenceMs": 200,
+        "sha256": "cbe52767262a38b6a2c20e1b195fb48760f8a75bf2de93cddd7778f001fdc0e6",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-033",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-034",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我弟弟不会开车。",
+      "durationMs": 2127,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2127,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.72,
+        "clippedRatio": 0.000021319234213107066,
+        "silentSampleRatio": 0.28373768814224193,
+        "leadingSilenceMs": 54,
+        "trailingSilenceMs": 231,
+        "sha256": "260cde0ec2dc2971af95699cd96b85bcdd78b9b9c7a49ec8080f6cb03762e0d3",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-034",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-035",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我们都是大学生。",
+      "durationMs": 1709,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1709,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.22,
+        "clippedRatio": 0.000026532236667551075,
+        "silentSampleRatio": 0.24091270894136377,
+        "leadingSilenceMs": 4,
+        "trailingSilenceMs": 300,
+        "sha256": "a1b9037927370f33d6c515a08daa59540c606eea177e1ced0c2afcf47df55441",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-035",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-036",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "现在是晚上九点，我想睡觉了。",
+      "durationMs": 2940,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2940,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.59,
+        "clippedRatio": 0.000015425909357356616,
+        "silentSampleRatio": 0.14515780705272577,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 269,
+        "sha256": "e18ee5046c39f9e682e581cb04ef032b8c590d6d4f6043a69175c02dc8e1f101",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-036",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-037",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我有两本书，一本是中文书。",
+      "durationMs": 2418,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2418,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.65,
+        "clippedRatio": 0.000018759614302329943,
+        "silentSampleRatio": 0.16817994222038796,
+        "leadingSilenceMs": 3,
+        "trailingSilenceMs": 202,
+        "sha256": "e4d299c929383de8cc5a6d8a033350f6f735bdf5fa5b13be67b452f1ed69582d",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-037",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-038",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "明天我和爸爸去看电影。",
+      "durationMs": 2754,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2754,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.02,
+        "clippedRatio": 0.000016466326362588506,
+        "silentSampleRatio": 0.24421208628355015,
+        "leadingSilenceMs": 68,
+        "trailingSilenceMs": 200,
+        "sha256": "ffd41b2e822f7789f13e87cf6027ac0b8776ebbfa4b57dfda88cfe1f4e41c933",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-038",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-039",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我女儿喜欢喝水，不喜欢喝牛奶。",
+      "durationMs": 2998,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2998,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.95,
+        "clippedRatio": 0.00001512721991952319,
+        "silentSampleRatio": 0.14004780201494568,
+        "leadingSilenceMs": 7,
+        "trailingSilenceMs": 224,
+        "sha256": "012c791203db80c8b5088cf275db5ccc4c1a6364a3a81e4dcd9fb70e760afb3c",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-039",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v4-audio-040",
+      "revision": 3,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我的手机在桌子上。",
+      "durationMs": 2127,
+      "license": "Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2127,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -17.44,
+        "clippedRatio": 0.000021319234213107066,
+        "silentSampleRatio": 0.2703492090564107,
+        "leadingSilenceMs": 16,
+        "trailingSilenceMs": 380,
+        "sha256": "27e517de4eca8add93f73fc9aa1987856d45a50ea72e1ba0907329f9bc62b94b",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v4-cq-040",
+          "revision": 5,
+          "part": null,
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-256b521d966ec53926166e69",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "这是我的猫。",
+      "durationMs": 1303,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1303,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.18,
+        "clippedRatio": 0.000034806822137138876,
+        "silentSampleRatio": 0.2214061956143404,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 200,
+        "sha256": "b10ad5d4a3748377b6b91bb2b2e233f2c3cfe2194baf7fff966b9f1b2431cbab",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L1-1",
+          "revision": 3,
+          "part": "L1",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-d90080ede8254dceeb2993e5",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我想买手机。",
+      "durationMs": 1489,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1489,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.76,
+        "clippedRatio": 0.00003046365685736916,
+        "silentSampleRatio": 0.276366295010053,
+        "leadingSilenceMs": 1,
+        "trailingSilenceMs": 296,
+        "sha256": "ff0080b90fc6d6a0ad0a33ecc77dcc177f617c87ae1ef441e9a821f77740b71a",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L1-2",
+          "revision": 3,
+          "part": "L1",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-0a5d95aacaa3508c29005b96",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "飞机来了。",
+      "durationMs": 1175,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1175,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.62,
+        "clippedRatio": 0.00003858917959404183,
+        "silentSampleRatio": 0.26275372385583085,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 207,
+        "sha256": "2ad987051aaa79d553c5031ebf94deceadcd5db1b16242f1cc5ff4baff80c6c1",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L1-3",
+          "revision": 3,
+          "part": "L1",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-af4bde9d49ff0613d0c9f8c1",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "这本书很好看。",
+      "durationMs": 1663,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1663,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.87,
+        "clippedRatio": 0.00002727322314951181,
+        "silentSampleRatio": 0.24022254950090002,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 299,
+        "sha256": "34a302499c44f8a81bfab4517e97abd573d675b09b86d9b190d2d09cf041b54d",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L1-4",
+          "revision": 3,
+          "part": "L1",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-81ed22f7ebb1699d2741c9a4",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我早上喝牛奶。",
+      "durationMs": 1767,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1767,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -17.15,
+        "clippedRatio": 0.000025660764690787784,
+        "silentSampleRatio": 0.2634590710803182,
+        "leadingSilenceMs": 62,
+        "trailingSilenceMs": 200,
+        "sha256": "c3873e0a41275b059c284038ee310bed1df60ad47e0dba954593ec50438cc00c",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L1-5",
+          "revision": 3,
+          "part": "L1",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-72560e39241e2f6b5c4c6468",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "这是椅子，请坐。",
+      "durationMs": 1686,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1686,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.08,
+        "clippedRatio": 0.0000268976276292431,
+        "silentSampleRatio": 0.228038087040723,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 213,
+        "sha256": "8b4455d1e04413e8d6fe56f8022e0a22712f6b3502b6123eac358a9004945d49",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L1-6",
+          "revision": 3,
+          "part": "L1",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-b0c06f30b0e7e086da40ef7b",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "爸爸的电脑在房间里。",
+      "durationMs": 2359,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2359,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -17.32,
+        "clippedRatio": 0.00001922115865144351,
+        "silentSampleRatio": 0.23107676930765386,
+        "leadingSilenceMs": 5,
+        "trailingSilenceMs": 212,
+        "sha256": "c5cd6a918b6035ef7b70f1f1a1e4ffcc3fb172cf9309516803dbfcdad143fecd",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L1-7",
+          "revision": 3,
+          "part": "L1",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-8d40a64892bd110f7f89af63",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "孩子想吃苹果。",
+      "durationMs": 1872,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1872,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.97,
+        "clippedRatio": 0.00002422832776081795,
+        "silentSampleRatio": 0.20286378834132868,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 213,
+        "sha256": "9872b985bb905a000368826883cadc0732b0e4ce98f983de3479f783ce137c1a",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L1-8",
+          "revision": 3,
+          "part": "L1",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-4514abbb77d3bbae3e0f5c1d",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我们坐火车回家。",
+      "durationMs": 1953,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1953,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.27,
+        "clippedRatio": 0.000023220173686899178,
+        "silentSampleRatio": 0.21669066084614313,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 200,
+        "sha256": "ab560348026e7365963cd7bdd5b0bb2e6fbf60c07f32c2069a9ed7e7b5e0dfb7",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L1-9",
+          "revision": 3,
+          "part": "L1",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-371520ca7f7853f61c5508c5",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "这只狗很小。",
+      "durationMs": 1605,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1605,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.57,
+        "clippedRatio": 0.000028259763748375065,
+        "silentSampleRatio": 0.28485841858362065,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 251,
+        "sha256": "45b0758768c115c62f98db4d73afed74cfe871aa9b3715290038916c4c4dfff2",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L1-10",
+          "revision": 3,
+          "part": "L1",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-a971a87918eeb9cf55e71130",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "你在哪儿上学？",
+      "durationMs": 1640,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1640,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -14.74,
+        "clippedRatio": 0.000027659456768269073,
+        "silentSampleRatio": 0.22304585937932178,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 279,
+        "sha256": "04376fc20fceb6557d41441bb2d361450082f81918ffd2c7ff8c284aeef85dfd",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L2-1",
+          "revision": 3,
+          "part": "L2",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-c2ba371b726789dc527c06a8",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "你要喝什么？",
+      "durationMs": 1640,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1640,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.1,
+        "clippedRatio": 0.000027659456768269073,
+        "silentSampleRatio": 0.2963710792720031,
+        "leadingSilenceMs": 54,
+        "trailingSilenceMs": 200,
+        "sha256": "7efdad60249e4b50aafb299640de9c3a4f8512f64c3100e09c1ef9899209feac",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L2-2",
+          "revision": 3,
+          "part": "L2",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-9f3b33fc1b18fd623b8e430f",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "这件衣服贵不贵？",
+      "durationMs": 2139,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2139,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.32,
+        "clippedRatio": 0.000021203511301471523,
+        "silentSampleRatio": 0.31924006615495526,
+        "leadingSilenceMs": 49,
+        "trailingSilenceMs": 200,
+        "sha256": "90229491814518dd88d23ff90f0eb9c1c3f7c3b55c92e28e967f0e9e6e356777",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L2-3",
+          "revision": 3,
+          "part": "L2",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-605af9612554866c848470f2",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "今天星期几？",
+      "durationMs": 1744,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1744,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -14.34,
+        "clippedRatio": 0.000026002392220084247,
+        "silentSampleRatio": 0.27411721878412815,
+        "leadingSilenceMs": 50,
+        "trailingSilenceMs": 200,
+        "sha256": "790f7df7e927b4f32179beb70d263f5a7a6179203f0c14388494afbe553619f6",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L2-4",
+          "revision": 3,
+          "part": "L2",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-a717fde949827c7a3915b8af",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我可以坐这里吗？",
+      "durationMs": 1698,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1698,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.03,
+        "clippedRatio": 0.00002671368274830368,
+        "silentSampleRatio": 0.23243575359299032,
+        "leadingSilenceMs": 10,
+        "trailingSilenceMs": 200,
+        "sha256": "b6ca83480a4ce912ccbf8291f1ee0114fb41adc8ddd10c22e5e93b6572e53b6d",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L2-5",
+          "revision": 3,
+          "part": "L2",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-f782b0861bd2a0a691d73c6a",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "你有几本汉语书？",
+      "durationMs": 1918,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1918,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -14.83,
+        "clippedRatio": 0.00002364177975317982,
+        "silentSampleRatio": 0.22350938578656201,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 200,
+        "sha256": "f7b41150744a49279a1d3fdf064f325ea749b86275ca9e9dca959e4000342fad",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L2-6",
+          "revision": 3,
+          "part": "L2",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-3a94897846feec276009c64a",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "你认识那个医生吗？",
+      "durationMs": 2232,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2232,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -14.08,
+        "clippedRatio": 0.0000203210729526519,
+        "silentSampleRatio": 0.23934159723633408,
+        "leadingSilenceMs": 65,
+        "trailingSilenceMs": 201,
+        "sha256": "a26f52f3631d6a05326e8a6d234556bb74f020d20af66424b322165720c61ef1",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L2-7",
+          "revision": 3,
+          "part": "L2",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-0499f70250ccf11996a79e7d",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "你怎么去公司？",
+      "durationMs": 1500,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1500,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.15,
+        "clippedRatio": 0.000030227918505531708,
+        "silentSampleRatio": 0.2575720935856357,
+        "leadingSilenceMs": 10,
+        "trailingSilenceMs": 200,
+        "sha256": "e7bc2cb6a2c62d690ec43d5d57c72164bec22cb2c3e33546651e1fd1841e355a",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L2-8",
+          "revision": 3,
+          "part": "L2",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-91ce0ca1a88ac6605b1a0b5f",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "你今天忙不忙？",
+      "durationMs": 1547,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 1547,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -12.61,
+        "clippedRatio": 0.000029320354189878612,
+        "silentSampleRatio": 0.19445258898727497,
+        "leadingSilenceMs": 5,
+        "trailingSilenceMs": 200,
+        "sha256": "4dabefff1decd3550dde4e3b12a7c232fb0c82ce74a089cbbf0456dd7f2f1e0c",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L2-9",
+          "revision": 3,
+          "part": "L2",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-6259df457076c030f5e0a452",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "谢谢你给我的书。",
+      "durationMs": 2104,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 2104,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.82,
+        "clippedRatio": 0.000021554511359227488,
+        "silentSampleRatio": 0.26188731301461393,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 290,
+        "sha256": "01853111c8922781e11cfa7581b1f05111df00dac95d5c95170bc5e66d789e5f",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L2-10",
+          "revision": 3,
+          "part": "L2",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-5285413559ee366b040a6839",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "男：小李呢？女：他在房间里看书呢。",
+      "durationMs": 3349,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3349,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.14,
+        "clippedRatio": 0.000027084123286929202,
+        "silentSampleRatio": 0.2006121011862846,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 235,
+        "sha256": "280e49224abd969064542fa1782771ff6f24b0fd84b0db56cf5cae5399d55698",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L3-1",
+          "revision": 3,
+          "part": "L3",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-a378cd2ca95ecb246706d6b7",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "女：午饭吃什么？男：米饭。我现在做饭。",
+      "durationMs": 4536,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 4536,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.11,
+        "clippedRatio": 0.000029995800587917693,
+        "silentSampleRatio": 0.27680124782530446,
+        "leadingSilenceMs": 82,
+        "trailingSilenceMs": 217,
+        "sha256": "b506cbfbc5f0c318df56c791264d571353b8b98a40307da4b07d6c8c433f4a61",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L3-2",
+          "revision": 3,
+          "part": "L3",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-a1cc6597c294e031a742ad55",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "男：你喝茶吗？女：不，我喝水。",
+      "durationMs": 3152,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3152,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.18,
+        "clippedRatio": 0.000028780291256547518,
+        "silentSampleRatio": 0.23280377597421287,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 200,
+        "sha256": "ff2ca8fc05550a9b2aef59623ccc7e22e96cc5bfd8a1860253f92cdfdfe6243b",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L3-3",
+          "revision": 3,
+          "part": "L3",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-6ab7c48e9198d019c77de0aa",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "女：孩子呢？男：他睡觉了，现在不要说话。",
+      "durationMs": 3964,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3964,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.3,
+        "clippedRatio": 0.00002288015375463323,
+        "silentSampleRatio": 0.20695099071065756,
+        "leadingSilenceMs": 9,
+        "trailingSilenceMs": 200,
+        "sha256": "1d9943146c899729bea12d1ab63f2f41004a6eeb4504855be1e455f429b63fe6",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L3-4",
+          "revision": 3,
+          "part": "L3",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-214a49c7f17156d5643773e3",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "男：你给谁打电话？女：我给老师打电话。",
+      "durationMs": 3628,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3628,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.15,
+        "clippedRatio": 0.00002500375056258439,
+        "silentSampleRatio": 0.21550732609891485,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 269,
+        "sha256": "8d96529c796305071d3581e3a473560af5bb132a386d222bbcc8907d4a36e8df",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L3-5",
+          "revision": 3,
+          "part": "L3",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-9a156e463eaba08e36ec2b54",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "女：你在做什么？男：我在写汉字呢。",
+      "durationMs": 3442,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3442,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -14.36,
+        "clippedRatio": 0.000026353238813050125,
+        "silentSampleRatio": 0.20685974806303695,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 200,
+        "sha256": "f608ea8de0cad6a723215437d0fe3d17c9e568f1d253608807da5dab6b96d4a9",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L3-6",
+          "revision": 3,
+          "part": "L3",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-6526d7c64574c425cd44e451",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "男：你们怎么去中国？女：我们坐飞机去。",
+      "durationMs": 4150,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 4150,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -14.73,
+        "clippedRatio": 0.00002185601258906325,
+        "silentSampleRatio": 0.2266796345674695,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 200,
+        "sha256": "9b1291a3f5a921ade68b16c10aa8483719e626efd258bf2c10941edb6b6478bf",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L3-7",
+          "revision": 3,
+          "part": "L3",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-aebf6c249092de25653dcce2",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "女：你想吃什么？男：我想吃面包，现在吃。",
+      "durationMs": 3999,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3999,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -14.69,
+        "clippedRatio": 0.000022680880018144703,
+        "silentSampleRatio": 0.1790768881832615,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 200,
+        "sha256": "24245badbf45df7499699152c09ebde00fc4f31dadd2eb9eb7370f1d83e95694",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L3-8",
+          "revision": 3,
+          "part": "L3",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-a36b4160d21903d5b8580717",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "男：谁开车去医院？女：我爸爸，他会开车。",
+      "durationMs": 3964,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3964,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.81,
+        "clippedRatio": 0.00002288015375463323,
+        "silentSampleRatio": 0.21477600329474214,
+        "leadingSilenceMs": 18,
+        "trailingSilenceMs": 212,
+        "sha256": "f0736b39e250c7001f8a1775f2175f2a033397deff3b3461dc97c34510ae2fa5",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L3-9",
+          "revision": 3,
+          "part": "L3",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-6126476f2e614e3b79ecd3c6",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "女：外边天气怎么样？男：下雨了，我们在家吧。",
+      "durationMs": 4429,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 4429,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -14.95,
+        "clippedRatio": 0.000030721336992585915,
+        "silentSampleRatio": 0.16987875312333592,
+        "leadingSilenceMs": 4,
+        "trailingSilenceMs": 200,
+        "sha256": "6f5ad25930f8004f732d3552a48a9fa2056a0a2e6f6736328d8af6bc489ba062",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L3-10",
+          "revision": 3,
+          "part": "L3",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-10f922da1985a7a57be91133",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我今天不上班。上午我在家休息，下午去医院看病。问：我下午去哪里？",
+      "durationMs": 7578,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 7578,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.59,
+        "clippedRatio": 0.000017954825658642853,
+        "silentSampleRatio": 0.24492776175143338,
+        "leadingSilenceMs": 2,
+        "trailingSilenceMs": 200,
+        "sha256": "bde90b1143c8334ed5d279a0e86a25836d607eaf1d350963e93cca1109d076a8",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L4-1",
+          "revision": 3,
+          "part": "L4",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-ba66c4f0b80e703a06152dcb",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "小张买了两本书，给老师一本，还有一本是他的。问：小张给老师几本书？",
+      "durationMs": 6309,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 6309,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -17.69,
+        "clippedRatio": 0.000014375664874500445,
+        "silentSampleRatio": 0.17836606193036428,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 233,
+        "sha256": "300aefe1672c0e405e9ee2294dd6145739fa5494ed8be7c358eaef903a0fc41a",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L4-2",
+          "revision": 3,
+          "part": "L4",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-46d1b0775404a3442f1fd3ab",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "这杯茶很热，我现在不喝。问：茶怎么样？",
+      "durationMs": 3895,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 3895,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.6,
+        "clippedRatio": 0.00002328939400996786,
+        "silentSampleRatio": 0.22907447948204387,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 243,
+        "sha256": "f899c45ef1efec99637245aefd1405ff9a2af164f45782e6fea1fd07dcbb48dc",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L4-3",
+          "revision": 3,
+          "part": "L4",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-8ee236e9fb54cae061755e88",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我女儿今年七岁，在小学上学。问：我女儿是大学生吗？",
+      "durationMs": 5288,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 5288,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.21,
+        "clippedRatio": 0.000017153247109677864,
+        "silentSampleRatio": 0.15856461628186216,
+        "leadingSilenceMs": 10,
+        "trailingSilenceMs": 200,
+        "sha256": "8293d39afecb810d28f21271abfbd3bbccdc551bd4a020f9960072e5e68c3468",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L4-4",
+          "revision": 3,
+          "part": "L4",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-b38ba0630e1053c5efc13594",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "现在八点半，我九点去学校。问：我几点去学校？",
+      "durationMs": 4905,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 4905,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.29,
+        "clippedRatio": 0.00001849317601804934,
+        "silentSampleRatio": 0.24766061323371677,
+        "leadingSilenceMs": 85,
+        "trailingSilenceMs": 200,
+        "sha256": "07cd0528ed25be78c9640d6d0901a968d7f36c1aeb30375b4bea33ebc435c4f2",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L4-5",
+          "revision": 3,
+          "part": "L4",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-5bc97649887ec2247eb3c01a",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "弟弟喜欢吃面条儿，不喜欢吃米饭。今天中午妈妈做了面条儿。问：弟弟喜欢吃什么？",
+      "durationMs": 8715,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 8715,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -14.52,
+        "clippedRatio": 0.00001561085266477255,
+        "silentSampleRatio": 0.14233975459739612,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 212,
+        "sha256": "792720807dbb2cb816195802a592b13d12abb7783654abd6dbb68b9d3450c20a",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L4-6",
+          "revision": 3,
+          "part": "L4",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-c0a3c33d6780a1e52b2dcdfb",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "我的手机不在桌子上，在椅子上。问：手机在哪儿？",
+      "durationMs": 4359,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 4359,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.28,
+        "clippedRatio": 0.000020808190103624785,
+        "silentSampleRatio": 0.2182675100919722,
+        "leadingSilenceMs": 2,
+        "trailingSilenceMs": 200,
+        "sha256": "17660700bb6519d196bf8476a76309604a5e51cc25b84ff3ee74d0f3d917ae7f",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L4-7",
+          "revision": 3,
+          "part": "L4",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-6ee2d7dcfc67774777c04a78",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "哥哥和姐姐都在公司上班，我在中学上学。问：谁在中学上学？",
+      "durationMs": 5648,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 5648,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -15.29,
+        "clippedRatio": 0.000016060129123438154,
+        "silentSampleRatio": 0.16417466996434651,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 208,
+        "sha256": "e31844424c3e902d21e83567399ef09ecb5aa7fb85ec37fb68fe3ae6305e17eb",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L4-8",
+          "revision": 3,
+          "part": "L4",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-20958e738bc5676240fd7036",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "星期天我和朋友去电影院。今天星期六，我们明天见。问：我们什么时候见？",
+      "durationMs": 6997,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 6997,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -14.79,
+        "clippedRatio": 0.000019444408436280672,
+        "silentSampleRatio": 0.14090066499876852,
+        "leadingSilenceMs": 0,
+        "trailingSilenceMs": 204,
+        "sha256": "7b6208b236ef6747fd0ce77ab96279f4f9315295c323671c14515d632d17e9af",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L4-9",
+          "revision": 3,
+          "part": "L4",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    },
+    {
+      "id": "v6-audio-2966c093e8b4c8edaf9a3a6e",
+      "revision": 1,
+      "sourceType": "SYNTHETIC",
+      "provider": "Piper local 2023.11.14-2",
+      "voice": "zh_CN-huayan-medium",
+      "transcript": "爸爸给我十元，妈妈也给我十元。问：妈妈给我多少钱？",
+      "durationMs": 5404,
+      "license": "Huayan voice training data UNKNOWN; private development only",
+      "licenseStatus": "UNVERIFIED",
+      "pronunciation": "BLOCKED_FOR_HUMAN_REVIEW",
+      "hashMatches": true,
+      "durationMatches": true,
+      "metrics": {
+        "durationMs": 5404,
+        "sampleRate": 22050,
+        "channels": 1,
+        "bits": 16,
+        "rmsDbFS": -16.04,
+        "clippedRatio": 0.000016784719191647924,
+        "silentSampleRatio": 0.19806807882104133,
+        "leadingSilenceMs": 2,
+        "trailingSilenceMs": 200,
+        "sha256": "8665b3bb2d3ff15d9219f70ff0d4292ff879182fb1fff60bd3f28fc3bda93323",
+        "method": "PCM16 threshold amplitude metrics, not pronunciation or transcript alignment validation"
+      },
+      "questionIds": [
+        {
+          "id": "v6-L4-10",
+          "revision": 3,
+          "part": "L4",
+          "transcriptInputMatches": true
+        }
+      ],
+      "expertChecklist": [
+        "playable",
+        "transcript alignment",
+        "missing sounds",
+        "distortion",
+        "pronunciation",
+        "tones",
+        "speed",
+        "silence",
+        "speaker labels",
+        "correct part",
+        "distribution rights"
+      ],
+      "humanListened": false
+    }
+  ],
+  "images": [
+    {
+      "id": "v6-image-cat-ae5d67c7847b",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một con mèo có tai nhọn và ria mép.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-dog-a7eec4c5a959",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một con chó có tai rủ.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-apple-0b7e884cce97",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một quả táo có cuống và lá.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-book-df9916f87ab6",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một cuốn sách đang mở.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-phone-b951537b3e3c",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một chiếc điện thoại cầm tay.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-plane-a2d8ccad1896",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một chiếc máy bay có hai cánh.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-chair-c29d3e2974d9",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một chiếc ghế có tựa lưng.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-milk-f4105aa16fc2",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một hộp sữa và một cốc.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-computer-8ea36c01d77e",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một máy tính có màn hình và bàn phím.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-train-c7243219bdaa",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một đoàn tàu chạy trên đường ray.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-rice-748e01963474",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một bát cơm có đũa.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-tea-cb2f9b509211",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một ấm trà và một tách.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-table-6566c94ab34c",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một chiếc bàn bốn chân.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-shirt-01c71b00acfa",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một chiếc áo có tay.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-water-5aa7b423013f",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một cốc nước trong.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-bread-9bc75841206a",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một ổ bánh mì.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-reading-2b4d2ae6b38c",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một người đang ngồi đọc sách.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-cooking-ecdb34052249",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một người đang nấu ăn bên bếp.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-drinking-f9fd9a88a84c",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một người đưa cốc lên miệng uống.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-sleeping-8190c7c819f6",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một người nằm ngủ trên giường.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-calling-a391e185d990",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một người cầm điện thoại cạnh tai.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-writing-189d14996dc3",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một người dùng bút viết trên giấy.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-eating-d7d30b81407d",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một người cầm đũa trước bát thức ăn.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-driving-062a5bfabb12",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một người ngồi sau vô lăng xe.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-rain-dc8c0a4777b0",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Mây và nhiều hạt mưa phía trên một chiếc ô.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-school-0305d17277c9",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một tòa nhà có chuông, sách và hai học sinh.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-hospital-72c0c06241f3",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một tòa nhà có biểu tượng y tế màu xanh.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-shop-d9be9af14da0",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một cửa hàng có mái che sọc và hàng hóa.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-company-df3e72ec20b8",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một tòa nhà văn phòng có nhiều cửa kính và cặp tài liệu.",
+      "expertReviewed": false
+    },
+    {
+      "id": "v6-image-house-f39a0886aadd",
+      "revision": 1,
+      "hashMatches": true,
+      "licenseStatus": "ORIGINAL_PENDING_REVIEW",
+      "altText": "Một ngôi nhà có mái nghiêng, cửa và cửa sổ.",
+      "expertReviewed": false
+    }
+  ],
+  "rightsGate": "BLOCKED",
+  "humanPronunciationVerified": 0,
+  "note": "WAV PCM/hash checks do not validate pronunciation or grant rights. Browser decode evidence is separate."
+}

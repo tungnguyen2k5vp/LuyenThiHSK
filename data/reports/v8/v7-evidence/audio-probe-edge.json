@@ -1,0 +1,32 @@
+{
+  "at": "2026-10-16T10:20:53.030Z",
+  "log": [
+    {
+      "visible": "visible"
+    },
+    {
+      "state": "loading",
+      "src": "",
+      "attribute": null,
+      "ready": 0,
+      "network": 0,
+      "paused": true,
+      "visible": "visible"
+    },
+    {
+      "state": "ready",
+      "src": "blob:http://127.0.0.1:4173/07488849-6522-46d3-a665-29fe3f35c87e",
+      "attribute": "blob:http://127.0.0.1:4173/07488849-6522-46d3-a665-29fe3f35c87e",
+      "ready": 4,
+      "network": 1,
+      "paused": true,
+      "visible": "visible"
+    }
+  ],
+  "actual": {
+    "http": 200,
+    "mime": "audio/wav",
+    "bytes": 0,
+    "duration": 1.9531041666666666
+  }
+}

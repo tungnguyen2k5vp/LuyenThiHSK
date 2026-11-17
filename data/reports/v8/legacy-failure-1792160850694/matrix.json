@@ -1,0 +1,25 @@
+{
+  "at": "2026-10-16T14:26:36.875Z",
+  "results": [
+    {
+      "suite": "v5",
+      "status": "FAIL",
+      "durationMs": 21355
+    },
+    {
+      "suite": "v4",
+      "status": "FAIL",
+      "durationMs": 20923
+    },
+    {
+      "suite": "v1-v3",
+      "status": "FAIL",
+      "durationMs": 20917
+    },
+    {
+      "suite": "v6-stress",
+      "status": "FAIL",
+      "durationMs": 21519
+    }
+  ]
+}

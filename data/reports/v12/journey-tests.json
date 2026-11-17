@@ -1,0 +1,48 @@
+{
+  "at": "2026-10-19T06:13:32.403Z",
+  "status": "PASS",
+  "assertions": 70,
+  "runs": [
+    {
+      "run": 1,
+      "status": "PASS"
+    },
+    {
+      "run": 2,
+      "status": "PASS"
+    },
+    {
+      "run": 3,
+      "status": "PASS"
+    },
+    {
+      "run": 4,
+      "status": "PASS"
+    },
+    {
+      "run": 5,
+      "status": "PASS"
+    },
+    {
+      "run": 6,
+      "status": "PASS"
+    },
+    {
+      "run": 7,
+      "status": "PASS"
+    },
+    {
+      "run": 8,
+      "status": "PASS"
+    },
+    {
+      "run": 9,
+      "status": "PASS"
+    },
+    {
+      "run": 10,
+      "status": "PASS"
+    }
+  ],
+  "scope": "Grammar errors enter Today mistake input; manual W2 remains ungraded; actual count and no required missing-audio task; pure planner, no main learner writes"
+}

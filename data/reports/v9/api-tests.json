@@ -1,0 +1,20 @@
+{
+  "at": "2026-10-19T06:12:12.674Z",
+  "status": "PASS",
+  "assertions": 50,
+  "isolatedDatabase": true,
+  "liveHumanApprovals": 0,
+  "areas": [
+    "dry-run and transactional idempotent stage",
+    "54-question private practice",
+    "media blocking",
+    "revision and note CAS",
+    "legacy bypass denied",
+    "atomic assignment rollback",
+    "forged approval invalidated",
+    "malformed upload",
+    "auth and origin",
+    "public content exclusion"
+  ],
+  "stderr": "(node) ExperimentalWarning: SQLite is an experimental feature and might change at any time\n(Use `node --trace-warnings ...` to show where the warning was created)\n{\"event\":\"request_error\",\"path\":\"/api/admin/v9/assign\",\"message\":\"STALE_REVISION_OR_REVIEW_NOTES\"}\n{\"event\":\"request_error\",\"path\":\"/api/admin/v9/assign\",\"message\":\"STALE_REVISION_OR_REVIEW_NOTES\"}\n{\"event\":\"request_error\",\"path\":\"/api/admin/v3/media\",\"message\":\"File audio quá ngắn hoặc sai định dạng\"}\n"
+}

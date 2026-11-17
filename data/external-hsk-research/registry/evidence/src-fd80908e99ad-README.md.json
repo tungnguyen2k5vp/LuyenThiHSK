@@ -1,0 +1,14 @@
+{
+  "url": "https://raw.githubusercontent.com/ivankra/hsk30/4ff9e3915ce87baaecd7ebe263085573a4ea3192/README.md",
+  "status": 200,
+  "at": "2026-10-25T04:50:51.329Z",
+  "sha256": "e37a5c99d93dbbed73fd40b6d0534088f4a88e1b6dce1b22d81c94e62cdefdda",
+  "bytes": 5443,
+  "title": null,
+  "licenseExcerpts": [
+    "* `CEDICT`: matching [CC-CEDICT](https://www.mdbg.net/chinese/dictionary?page=cc-cedict) (MDBG) entries. Just the entry key in its usual format: `traditional|simplified[numbered pinyin]`, multiple keys separated by `/`.",
+    "License:",
+    "* Code (`*.ipynb`) is MIT licensed.",
+    "* Data (`hsk30*.csv`) is largely derived from [elkmovie/hsk30](https://github.com/elkmovie/hsk30) and [shawkynasr/HSK-official-Query-System](https://github.com/shawkynasr/HSK-official-Query-System/) repos, both also under MIT license and claiming copyright -- of course, somewhat questionably, as the [original work](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202103/t20210329_523304.html) they *copy* is PRC's government work (notice on website: `版权所有：中华人民共和国教育部`). Depending on PRC law specifics might be public domain."
+  ]
+}

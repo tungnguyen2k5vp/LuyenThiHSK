@@ -1,0 +1,621 @@
+{
+  "at": "2026-10-17T06:12:29.413Z",
+  "count": 46,
+  "items": [
+    {
+      "filename": "v9-hsk1-today.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:03.423Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk1-today.png",
+      "sha256": "ed194f59b738f757b3e6d47e0e7b8083b4060c7a4201c2329dfdbd20df01f928"
+    },
+    {
+      "filename": "v9-hsk1-grammar-independent-five.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:03.664Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk1-grammar-independent-five.png",
+      "sha256": "8da6a81cbc47cdda6d14a5bd39812d875a575f88bccb5fade51c896caee5b27d"
+    },
+    {
+      "filename": "v9-hsk1-full-mock-preflight.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:03.981Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk1-full-mock-preflight.png",
+      "sha256": "980f8492b879d63c5fdb171dbc3c5cb10d54d2bc422eaba991267ac32a3121fa"
+    },
+    {
+      "filename": "v9-hsk2-landing.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:04.060Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-landing.png",
+      "sha256": "15eb67ef985fdd10199077a53d936ee0362c4b22c4acde3ff56c3d49b60eafa4"
+    },
+    {
+      "filename": "v9-hsk2-listening-blocked.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:04.127Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-listening-blocked.png",
+      "sha256": "f14c0f2b453373e935875d16b550d49c48a789032852d786c0b669f0f49c4092"
+    },
+    {
+      "filename": "v9-hsk2-reading-resumed.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-6f367a29-22dd-468d-a9ab-3abf065125f6",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:04.474Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-reading-resumed.png",
+      "sha256": "42c28dad9eef217e7e5e495bd6e2b64e518d640c58e5222e295db48c9afa9281"
+    },
+    {
+      "filename": "v9-hsk2-reading-result.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:04.573Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-reading-result.png",
+      "sha256": "0adf51a5d4a9f78cadb9c2e4dcfabfba39a2cd4c5f09baffe281460b6eded09a"
+    },
+    {
+      "filename": "v9-hsk2-mistake-book.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:04.660Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-mistake-book.png",
+      "sha256": "2d9395f5e75db10111bf1f90a35c3d4e94f9401638149afa5d16326daa4fb786"
+    },
+    {
+      "filename": "v9-hsk2-reading-new-passage.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-53203e7c-4283-400a-924b-7d81b7fb0569",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:06.267Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-reading-new-passage.png",
+      "sha256": "8c77d569890e191db44e46c85859af358de46f08af5f15b6cf90322660f53796"
+    },
+    {
+      "filename": "v9-hsk2-writing-components-new.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-a772b3e7-1db2-411f-99be-ea5b13903277",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:06.526Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-writing-components-new.png",
+      "sha256": "83d4b96a120891e9ac3dad02e4b4218fd599960249e40a63c2b1b3281668c5f3"
+    },
+    {
+      "filename": "v9-hsk2-writing-editor.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-d4779d6a-4460-4139-a74e-15dc7440ab9d",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:11.637Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-writing-editor.png",
+      "sha256": "403075293242b5ee30a61b5fb6e1bcf8e08fd221a4cc3d811c94195caf36af11"
+    },
+    {
+      "filename": "v9-hsk2-writing-restored.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-d4779d6a-4460-4139-a74e-15dc7440ab9d",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:12.088Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-writing-restored.png",
+      "sha256": "0176384d3604f0d8f2f6cfc1f05f9a51b457c356b896b52e92d1acefbad8ec6a"
+    },
+    {
+      "filename": "v9-hsk2-writing-ungraded-result.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:12.206Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-writing-ungraded-result.png",
+      "sha256": "9a32ee0ff3424139e78308b49bdc9f7129e669e6271f3378d6ac433c7ad94ed0"
+    },
+    {
+      "filename": "v9-hsk2-study-plan.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:12.392Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-study-plan.png",
+      "sha256": "7117c38c52434935d70ab81707f559921c452bff7830bbf9fe8124715b6bee25"
+    },
+    {
+      "filename": "v9-hsk2-history.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:12.513Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-hsk2-history.png",
+      "sha256": "b0b7bac22837876add44edb4eeae2b177f87b50e2a2ab8aa7caad20f5596f166"
+    },
+    {
+      "filename": "v9-mobile-practice.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:12.612Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-mobile-practice.png",
+      "sha256": "1122d9e17672e4bbb482fc4f4ac27344c6bd92950debcf9ef7a13a6fc82ddaf2"
+    },
+    {
+      "filename": "v9-mobile-writing.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-f608b7f6-b829-49d9-8c6e-7ddcdb8d5311",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:12.747Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-mobile-writing.png",
+      "sha256": "3f606cb881810462f55b9a962d1761ac06c20dabcc30be49ea0762b8b5392d50"
+    },
+    {
+      "filename": "v9-review-queue.png",
+      "browser": "Chrome",
+      "build": "V9 filesystem",
+      "route": "/?view=content-review",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:08:14.450Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-chrome/v9-review-queue.png",
+      "sha256": "e0809a336d4e82e30f28b687fc69818311422f2de0fd1cfaab72e53f0e445528"
+    },
+    {
+      "filename": "v9-offline-review-package.png",
+      "browser": "chrome",
+      "source": "Offline package; isolated QA note/export test, not expert approval",
+      "path": "docs/screenshots/v9/after-chrome/v9-offline-review-package.png",
+      "sha256": "9fdf6dd754ccceb4e2c70065a41bed74342b388da52b06cd07616f0066fc9b8e"
+    },
+    {
+      "filename": "v9-hsk1-today.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:26.451Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk1-today.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk1-grammar-independent-five.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:26.845Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk1-grammar-independent-five.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk1-full-mock-preflight.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:27.310Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk1-full-mock-preflight.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-landing.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:27.540Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-landing.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-listening-blocked.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:27.797Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-listening-blocked.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-reading-resumed.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-30f85a8c-1145-4b22-82d1-c52bad8e5e81",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:28.741Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-reading-resumed.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-reading-result.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:29.014Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-reading-result.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-mistake-book.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:29.255Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-mistake-book.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-reading-new-passage.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-21ba9a1e-3fda-4dc6-9b46-43c0af62f1b8",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:31.154Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-reading-new-passage.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-writing-components-new.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-e032ee39-ecb8-41f7-9b0c-8fa19e2b99fa",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:31.587Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-writing-components-new.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-writing-editor.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-a3832ea0-a229-4054-a256-46eb09115fc7",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:32.135Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-writing-editor.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-writing-restored.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-a3832ea0-a229-4054-a256-46eb09115fc7",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:32.789Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-writing-restored.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-writing-ungraded-result.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:33.076Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-writing-ungraded-result.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-study-plan.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:33.423Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-study-plan.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-hsk2-history.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:33.670Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-hsk2-history.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-mobile-practice.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:33.913Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-mobile-practice.png",
+      "sha256": "b8cad7997805f04cd16f4ff42ad437efcfe0b6432d87c62db9645a65d9bf29b5"
+    },
+    {
+      "filename": "v9-mobile-writing.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=preview&previewSession=preview-session-19f978ad-f14e-459a-a415-7fc0c8da846b",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:34.190Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-mobile-writing.png",
+      "sha256": "b8cad7997805f04cd16f4ff42ad437efcfe0b6432d87c62db9645a65d9bf29b5"
+    },
+    {
+      "filename": "v9-review-queue.png",
+      "browser": "Edge",
+      "build": "V9 filesystem",
+      "route": "/?view=content-review",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "at": "2026-10-17T06:10:35.457Z",
+      "source": "Real private editorial data; isolated learner progress",
+      "realMobile": "NOT_VERIFIED",
+      "path": "docs/screenshots/v9/after-edge/v9-review-queue.png",
+      "sha256": "99092a90eacd0681e935764de920e0537b4bba23f4c6158e15770aa66c5ee2a9"
+    },
+    {
+      "filename": "v9-offline-review-package.png",
+      "browser": "edge",
+      "source": "Offline package; isolated QA note/export test, not expert approval",
+      "path": "docs/screenshots/v9/after-edge/v9-offline-review-package.png",
+      "sha256": "a88532f3e0d960feda5e294a0a90cf93a6f4a4edd784dd3438ae02f041b7bde9"
+    },
+    {
+      "filename": "v7-desktop-today.png",
+      "phase": "V8_BASELINE",
+      "path": "docs/screenshots/v9/before-selected/v7-desktop-today.png",
+      "source": "Frozen V8 baseline before V9 changes; isolated learner data",
+      "sha256": "3185d6f385c9de2f915b4d3479b91f77d87c95e3912a95ee6a322b2d23ad750c"
+    },
+    {
+      "filename": "v7-desktop-grammar.png",
+      "phase": "V8_BASELINE",
+      "path": "docs/screenshots/v9/before-selected/v7-desktop-grammar.png",
+      "source": "Frozen V8 baseline before V9 changes; isolated learner data",
+      "sha256": "860d05db3a33e00572f228fb186aa31ed7c9ef00cdb588b0ba3da86061b205c7"
+    },
+    {
+      "filename": "v7-desktop-full-mock-setup.png",
+      "phase": "V8_BASELINE",
+      "path": "docs/screenshots/v9/before-selected/v7-desktop-full-mock-setup.png",
+      "source": "Frozen V8 baseline before V9 changes; isolated learner data",
+      "sha256": "a66d2ac8313f330eec26ca996a8064578121118c17d1694ec735258bb1a9bc65"
+    },
+    {
+      "filename": "v8-hsk2-landing-reading-list.png",
+      "phase": "V8_BASELINE",
+      "path": "docs/screenshots/v9/before-selected/v8-hsk2-landing-reading-list.png",
+      "source": "Frozen V8 baseline before V9 changes; isolated learner data",
+      "sha256": "7748c4f91a3bcb17f3c5250b20bec6497eff425a5028d5f59a5a17f9eda47a9d"
+    },
+    {
+      "filename": "v8-hsk2-listening-media-unavailable.png",
+      "phase": "V8_BASELINE",
+      "path": "docs/screenshots/v9/before-selected/v8-hsk2-listening-media-unavailable.png",
+      "source": "Frozen V8 baseline before V9 changes; isolated learner data",
+      "sha256": "e2013f84d786b3b9ac7310195cedce8e06dfc3143634d18ccd3593edf7c29ba4"
+    },
+    {
+      "filename": "v8-hsk2-writing-hanzi-input.png",
+      "phase": "V8_BASELINE",
+      "path": "docs/screenshots/v9/before-selected/v8-hsk2-writing-hanzi-input.png",
+      "source": "Frozen V8 baseline before V9 changes; isolated learner data",
+      "sha256": "cca10b94e1e47b41d96ec2ff3ee19077c2cd7b0e557624be9654d7833e74c823"
+    },
+    {
+      "filename": "v8-hsk2-width-390.png",
+      "phase": "V8_BASELINE",
+      "path": "docs/screenshots/v9/before-selected/v8-hsk2-width-390.png",
+      "source": "Frozen V8 baseline before V9 changes; isolated learner data",
+      "sha256": "6a4d3d5a833b3e44713f94714e0dd251c86364717bfa3dfc44fa9264549027d9"
+    },
+    {
+      "filename": "v8-review-resolution-dashboard.png",
+      "phase": "V8_BASELINE",
+      "path": "docs/screenshots/v9/before-selected/v8-review-resolution-dashboard.png",
+      "source": "Frozen V8 baseline before V9 changes; isolated learner data",
+      "sha256": "fb8b388201ceeb1e25481f30edab717c37f4f4e84abc93148720ba203dbda351"
+    }
+  ],
+  "limitations": [
+    "Viewport emulation is not a real mobile device",
+    "Different learner state/scroll/content may appear in before/after",
+    "Composition events are a QA simulation, not physical IME verification"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-19T06:22:02.394Z",
+  "status": "PASS",
+  "browser": "Chrome",
+  "durationMs": 65109,
+  "screenshots": 84,
+  "requiredMedia": "Image failure + refresh + retry + cumulative budget + untimed fallback",
+  "legacy": "V6 real flow and 80 WAV decode included",
+  "human": 0,
+  "cloud": "NOT_DEPLOYED",
+  "mobile": "VIEWPORT_EMULATION_NOT_REAL_DEVICE"
+}

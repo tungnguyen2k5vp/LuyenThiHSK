@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-19T07:30:41.565Z",
+  "status": "PASS",
+  "checkedArchivedFixtureIds": [
+    "qa-browser-1792391184328",
+    "qa-v3-1792391575178-audio",
+    "qa-v3-1792391575178-lesson",
+    "qa-v3-1792391575178-lesson-question",
+    "qa-v3-1792391575178-question"
+  ],
+  "publicQaRecords": 0
+}

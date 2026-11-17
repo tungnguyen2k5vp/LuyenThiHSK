@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "hsk3-2025-level3-paper-blueprint-v9",
+  "level": "3",
+  "syllabusVersion": "hsk3-2025",
+  "status": "BLUEPRINT_ONLY",
+  "learnerAvailable": false,
+  "createdAfter": "HSK2 reading/writing Chrome journey passed; no HSK2 listening/full-mock claim",
+  "source": {
+    "sourcePage": "https://www.chinesetest.cn/syllabus",
+    "archive": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+    "bytesDownloaded": 494588,
+    "pdfs": [
+      {
+        "archiveMember": "HSK/HSK（三级）样卷.pdf",
+        "localPath": ".runtime\\references\\v9\\cti-hsk3-reference-1.pdf",
+        "sha256": "626134246b804b905ba37bc4018bcf5450759dd4d287b0a9981fbee7aab95870",
+        "bytes": 433896,
+        "pages": 17
+      },
+      {
+        "archiveMember": "HSK/HSK（三级）样卷答案.pdf",
+        "localPath": ".runtime\\references\\v9\\cti-hsk3-reference-2.pdf",
+        "sha256": "4acbfcbb9a99322d8d83f9df1f1e761362ed0929cd90067ae54d338f76696cdf",
+        "bytes": 90490,
+        "pages": 2
+      }
+    ]
+  },
+  "edition": "HSK（三级）样卷 in CTI-linked HSK3.0.zip; no independent edition date/code established",
+  "totalQuestions": 70,
+  "parts": [
+    {
+      "partId": "L1",
+      "skill": "listening",
+      "proposedRenderer": "matching",
+      "count": 10,
+      "sourceQuestionRange": [
+        1,
+        10
+      ],
+      "internalQuestionIds": [],
+      "observation": "Audio to shared pictures",
+      "evidence": {
+        "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "sourcePage": "https://www.chinesetest.cn/syllabus",
+        "archiveMember": "HSK/HSK（三级）样卷.pdf",
+        "sampleSha256": "626134246b804b905ba37bc4018bcf5450759dd4d287b0a9981fbee7aab95870",
+        "pdfPages": [
+          3,
+          4
+        ],
+        "scope": "PAPER_SAMPLE_ONLY",
+        "checkedAt": "2026-10-16T17:04:51.455Z"
+      },
+      "activation": "BLOCKED_ORIGINAL_CONTENT_MEDIA_AND_EXPERT_REVIEW",
+      "rendererQA": "NOT_RUN_FOR_HSK3"
+    },
+    {
+      "partId": "L2",
+      "skill": "listening",
+      "proposedRenderer": "dialogue",
+      "count": 10,
+      "sourceQuestionRange": [
+        11,
+        20
+      ],
+      "internalQuestionIds": [],
+      "observation": "Dialogue with three textual choices",
+      "evidence": {
+        "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "sourcePage": "https://www.chinesetest.cn/syllabus",
+        "archiveMember": "HSK/HSK（三级）样卷.pdf",
+        "sampleSha256": "626134246b804b905ba37bc4018bcf5450759dd4d287b0a9981fbee7aab95870",
+        "pdfPages": [
+          5
+        ],
+        "scope": "PAPER_SAMPLE_ONLY",
+        "checkedAt": "2026-10-16T17:04:51.456Z"
+      },
+      "activation": "BLOCKED_ORIGINAL_CONTENT_MEDIA_AND_EXPERT_REVIEW",
+      "rendererQA": "NOT_RUN_FOR_HSK3"
+    },
+    {
+      "partId": "L3",
+      "skill": "listening",
+      "proposedRenderer": "short-passage",
+      "count": 10,
+      "sourceQuestionRange": [
+        21,
+        30
+      ],
+      "internalQuestionIds": [],
+      "observation": "Short listening passage and choice",
+      "evidence": {
+        "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "sourcePage": "https://www.chinesetest.cn/syllabus",
+        "archiveMember": "HSK/HSK（三级）样卷.pdf",
+        "sampleSha256": "626134246b804b905ba37bc4018bcf5450759dd4d287b0a9981fbee7aab95870",
+        "pdfPages": [
+          6,
+          7
+        ],
+        "scope": "PAPER_SAMPLE_ONLY",
+        "checkedAt": "2026-10-16T17:04:51.456Z"
+      },
+      "activation": "BLOCKED_ORIGINAL_CONTENT_MEDIA_AND_EXPERT_REVIEW",
+      "rendererQA": "NOT_RUN_FOR_HSK3"
+    },
+    {
+      "partId": "R1",
+      "skill": "reading",
+      "proposedRenderer": "shared-options",
+      "count": 10,
+      "sourceQuestionRange": [
+        31,
+        40
+      ],
+      "internalQuestionIds": [],
+      "observation": "Match sentence and response; two banks",
+      "evidence": {
+        "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "sourcePage": "https://www.chinesetest.cn/syllabus",
+        "archiveMember": "HSK/HSK（三级）样卷.pdf",
+        "sampleSha256": "626134246b804b905ba37bc4018bcf5450759dd4d287b0a9981fbee7aab95870",
+        "pdfPages": [
+          8,
+          9
+        ],
+        "scope": "PAPER_SAMPLE_ONLY",
+        "checkedAt": "2026-10-16T17:04:51.456Z"
+      },
+      "activation": "BLOCKED_ORIGINAL_CONTENT_MEDIA_AND_EXPERT_REVIEW",
+      "rendererQA": "NOT_RUN_FOR_HSK3"
+    },
+    {
+      "partId": "R2",
+      "skill": "reading",
+      "proposedRenderer": "shared-options",
+      "count": 10,
+      "sourceQuestionRange": [
+        41,
+        50
+      ],
+      "internalQuestionIds": [],
+      "observation": "Fill gaps in sentence/dialogue; two banks",
+      "evidence": {
+        "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "sourcePage": "https://www.chinesetest.cn/syllabus",
+        "archiveMember": "HSK/HSK（三级）样卷.pdf",
+        "sampleSha256": "626134246b804b905ba37bc4018bcf5450759dd4d287b0a9981fbee7aab95870",
+        "pdfPages": [
+          10,
+          11
+        ],
+        "scope": "PAPER_SAMPLE_ONLY",
+        "checkedAt": "2026-10-16T17:04:51.456Z"
+      },
+      "activation": "BLOCKED_ORIGINAL_CONTENT_MEDIA_AND_EXPERT_REVIEW",
+      "rendererQA": "NOT_RUN_FOR_HSK3"
+    },
+    {
+      "partId": "R3",
+      "skill": "reading",
+      "proposedRenderer": "short-passage",
+      "count": 10,
+      "sourceQuestionRange": [
+        51,
+        60
+      ],
+      "internalQuestionIds": [],
+      "observation": "Passage questions, including two questions per passage",
+      "evidence": {
+        "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "sourcePage": "https://www.chinesetest.cn/syllabus",
+        "archiveMember": "HSK/HSK（三级）样卷.pdf",
+        "sampleSha256": "626134246b804b905ba37bc4018bcf5450759dd4d287b0a9981fbee7aab95870",
+        "pdfPages": [
+          12,
+          13
+        ],
+        "scope": "PAPER_SAMPLE_ONLY",
+        "checkedAt": "2026-10-16T17:04:51.456Z"
+      },
+      "activation": "BLOCKED_ORIGINAL_CONTENT_MEDIA_AND_EXPERT_REVIEW",
+      "rendererQA": "NOT_RUN_FOR_HSK3"
+    },
+    {
+      "partId": "W1",
+      "skill": "writing",
+      "proposedRenderer": "short-answer",
+      "count": 5,
+      "sourceQuestionRange": [
+        61,
+        65
+      ],
+      "internalQuestionIds": [],
+      "observation": "Missing Hanzi with displayed pinyin; manual until a reviewed policy exists",
+      "evidence": {
+        "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "sourcePage": "https://www.chinesetest.cn/syllabus",
+        "archiveMember": "HSK/HSK（三级）样卷.pdf",
+        "sampleSha256": "626134246b804b905ba37bc4018bcf5450759dd4d287b0a9981fbee7aab95870",
+        "pdfPages": [
+          16
+        ],
+        "scope": "PAPER_SAMPLE_ONLY",
+        "checkedAt": "2026-10-16T17:04:51.456Z"
+      },
+      "activation": "BLOCKED_ORIGINAL_CONTENT_MEDIA_AND_EXPERT_REVIEW",
+      "rendererQA": "NOT_RUN_FOR_HSK3"
+    },
+    {
+      "partId": "W2",
+      "skill": "writing",
+      "proposedRenderer": "short-answer",
+      "count": 5,
+      "sourceQuestionRange": [
+        66,
+        70
+      ],
+      "internalQuestionIds": [],
+      "observation": "Picture and given word to form sentence; requires prompt image and manual rubric",
+      "evidence": {
+        "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+        "sourcePage": "https://www.chinesetest.cn/syllabus",
+        "archiveMember": "HSK/HSK（三级）样卷.pdf",
+        "sampleSha256": "626134246b804b905ba37bc4018bcf5450759dd4d287b0a9981fbee7aab95870",
+        "pdfPages": [
+          17
+        ],
+        "scope": "PAPER_SAMPLE_ONLY",
+        "checkedAt": "2026-10-16T17:04:51.456Z"
+      },
+      "activation": "BLOCKED_ORIGINAL_CONTENT_MEDIA_AND_EXPERT_REVIEW",
+      "rendererQA": "NOT_RUN_FOR_HSK3"
+    }
+  ],
+  "timing": {
+    "listeningMinutes": 23,
+    "readingMinutes": 30,
+    "writingMinutes": 20,
+    "answerTransferMinutes": 5,
+    "administrationMinutes": 5,
+    "totalApproximateMinutes": 83,
+    "evidence": {
+      "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+      "sourcePage": "https://www.chinesetest.cn/syllabus",
+      "archiveMember": "HSK/HSK（三级）样卷.pdf",
+      "sampleSha256": "626134246b804b905ba37bc4018bcf5450759dd4d287b0a9981fbee7aab95870",
+      "pdfPages": [
+        1
+      ],
+      "scope": "PAPER_SAMPLE_ONLY",
+      "checkedAt": "2026-10-16T17:04:51.456Z"
+    },
+    "application": "Reference only; no active exam timer template"
+  },
+  "scoring": {
+    "officialScale": null,
+    "passThreshold": null,
+    "officialEquivalent": false,
+    "status": "NOT_VERIFIED",
+    "manualWriting": "UNSCORED_PRACTICE"
+  },
+  "notVerified": [
+    "IBT navigation/replay/pause rules",
+    "Listening recording repetition policy",
+    "Current operational exam edition equivalence",
+    "Official score conversion and pass threshold",
+    "Writing answer-key compatibility and rubric"
+  ],
+  "contentGaps": {
+    "authoredQuestions": 0,
+    "reviewedQuestions": 0,
+    "licensedAudio": 0,
+    "authoredGrammarLessons": 0,
+    "fullMockAvailable": false
+  },
+  "higherLevels": {
+    "4": "DATA_ONLY",
+    "5": "DATA_ONLY",
+    "6": "DATA_ONLY",
+    "7-9": "DATA_ONLY"
+  },
+  "rights": "Structure facts only; no CTI questions, images, keys, PDFs or audio imported into public data"
+}

@@ -1,0 +1,150 @@
+{
+  "at": "2026-10-18T03:11:15.533Z",
+  "changes": [
+    {
+      "id": "v11-vocab-cti25-v-304",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-305",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-307",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-308",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-322",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-326",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-341",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-468",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-475",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-483",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-499",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-498",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-454",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-382",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-450",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-352",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-494",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-490",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-335",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-315",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-466",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-467",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-310",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    },
+    {
+      "id": "v11-vocab-cti25-v-456",
+      "from": 1,
+      "to": 2,
+      "reason": "Preserve authored Vietnamese POS through lexical decoration; historical revision retained"
+    }
+  ],
+  "humanApproved": false
+}

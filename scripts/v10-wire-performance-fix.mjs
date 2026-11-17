@@ -1,0 +1,1 @@
+import {readFile,writeFile,copyFile} from 'node:fs/promises';await copyFile('data/reports/v10/performance.json','data/reports/v10/performance-first.json');const p='src/components/preparation/PreviewWorkspace.tsx';let s=await readFile(p,'utf8');s=s.replace('<HSK2Pilot onMock=',"<HSK2Pilot showMock={targetLevel==='2'} onMock=");await writeFile(p,s);

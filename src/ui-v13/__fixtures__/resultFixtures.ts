@@ -1,0 +1,112 @@
+import { ResultVM } from '../../contracts/ui-v13';
+
+export const mockResultSample: ResultVM = {
+  meta: {
+    contractVersion: '13.0',
+    level: '1',
+    content: {
+      environment: 'preview',
+      label: 'AI_GENERATED / NEEDS_REVIEW',
+      humanReviewed: false,
+      published: false,
+      rights: 'unknown',
+    },
+    a11y: {
+      headingId: 'v13-result-att991',
+      label: 'Kết quả luyện thi HSK 1',
+      live: 'polite',
+    },
+  },
+  attemptId: 'att-991',
+  title: 'Đề Luyện Tập Toàn Diện HSK 1 - Mã số 01',
+  durationSeconds: 1540,
+  counts: {
+    correct: 32,
+    incorrect: 5,
+    unanswered: 3,
+    ungraded: 0,
+  },
+  accuracyPercent: 80,
+  gradedCount: 40,
+  accuracyLabel: 'Độ chính xác tính trên tổng số 40 câu khách quan (gồm 3 câu chưa làm)',
+  scoreAuthority: 'platformPractice',
+  officialReadiness: {
+    score: null,
+    reason: 'Kết quả làm bài nội bộ trên nền tảng chỉ có giá trị tham khảo rèn luyện, không đủ để suy ra khả năng đỗ kỳ thi HSK quốc tế chính thức.',
+  },
+  sections: [
+    {
+      skill: 'listening',
+      correct: 17,
+      incorrect: 2,
+      unanswered: 1,
+      ungraded: 0,
+      gradedCount: 20,
+      accuracyPercent: 85,
+    },
+    {
+      skill: 'reading',
+      correct: 15,
+      incorrect: 3,
+      unanswered: 2,
+      ungraded: 0,
+      gradedCount: 20,
+      accuracyPercent: 75,
+    },
+  ],
+  items: [
+    {
+      questionId: 'q-res-1',
+      number: 1,
+      skill: 'listening',
+      status: 'correct',
+      seconds: 14,
+      feedback: {
+        status: 'correct',
+        explanation: 'Âm thanh đọc "看书" (kànshū - đọc sách), hình ảnh hiển thị cô gái đang đọc sách, đáp án khớp hoàn toàn.',
+        solutionText: '✓ Đúng',
+        relatedWordIds: ['hsk1-w-001'],
+        relatedGrammarIds: [],
+        rubric: [],
+      },
+    },
+    {
+      questionId: 'q-res-2',
+      number: 2,
+      skill: 'reading',
+      status: 'incorrect',
+      seconds: 28,
+      feedback: {
+        status: 'incorrect',
+        explanation: 'Câu văn hỏi về địa điểm ("你在哪儿？"), câu trả lời cần chỉ nơi chốn ("我在学校"). Bạn đã chọn đáp án chỉ thời gian.',
+        solutionText: 'B. 我在学校 (Wǒ zài xuéxiào)',
+        relatedWordIds: ['hsk1-w-003'],
+        relatedGrammarIds: ['hsk1-g-001'],
+        rubric: [],
+      },
+    },
+    {
+      questionId: 'q-res-3',
+      number: 3,
+      skill: 'reading',
+      status: 'unanswered',
+      seconds: null,
+      feedback: {
+        status: 'unanswered',
+        explanation: 'Câu này bị bỏ trống. Cần chú ý phân bổ thời gian hợp lý hơn trong lần làm bài sau.',
+        solutionText: 'C. 苹果 (píngguǒ)',
+        relatedWordIds: [],
+        relatedGrammarIds: [],
+        rubric: [],
+      },
+    },
+  ],
+  actions: [
+    {
+      id: 'act-rev-mistakes',
+      label: 'Luyện tập lại 5 câu làm sai',
+      availability: { available: true, reason: null, count: 5 },
+      command: { kind: 'practice', level: '1', skill: 'all' },
+    },
+  ],
+};

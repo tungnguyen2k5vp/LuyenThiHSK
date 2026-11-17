@@ -1,0 +1,6 @@
+{
+  "at": "2026-10-19T09:50:13.204Z",
+  "status": "PASS",
+  "assertions": 22,
+  "scope": "Pure import plan using existing planImportRows + validateRecord; synthetic license fixture only; no DB writes, no real-source rights clearance"
+}

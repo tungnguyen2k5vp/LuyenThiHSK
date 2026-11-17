@@ -1,0 +1,10 @@
+/**
+ * HSK UI V14 - BUNDLED DESIGN SYSTEM STYLES
+ * Scoped strictly under .hsk-ui-v14
+ */
+
+@import './tokens.css';
+@import './base.css';
+@import './components.css';
+@import './exam-catalog.css';
+@import './exam-room.css';

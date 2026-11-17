@@ -1,0 +1,8 @@
+{
+  "allowed": true,
+  "text": "",
+  "status": 404,
+  "url": "https://api.github.com/robots.txt",
+  "sha256": "edbd0367cec893df36f67acb56c3aa23810be28850977c35e0fedaf64aad286b",
+  "effectiveMinIntervalMs": 2000
+}

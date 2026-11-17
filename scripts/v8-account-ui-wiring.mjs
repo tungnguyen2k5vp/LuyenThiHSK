@@ -1,0 +1,2 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const p='src/components/preparation/AccountSettings.tsx';let s=await readFile(p,'utf8');s=s.replace('acceptCloudConflict}', 'acceptCloudConflict,pendingCaptureCount}').replace('<p>{queue.filter', '<p>{pendingCaptureCount()} bản ghi đang đợi khóa an toàn · {queue.filter').replace("onClick={()=>{acceptCloudConflict(q.opId);", "onClick={()=>run(async()=>{await acceptCloudConflict(q.opId);").replace("Tải lại trang để cập nhật màn học.');}}>","Tải lại trang để cập nhật màn học.');})}>");await writeFile(p,s);

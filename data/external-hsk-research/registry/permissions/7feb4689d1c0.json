@@ -1,0 +1,8 @@
+{
+  "allowed": true,
+  "text": "User-agent: *\nAllow: /\n\n# Bản đồ nội dung dành cho trợ lý AI (ChatGPT, Claude, Perplexity…), theo đề xuất\n# llmstxt.org. Thêm 09/09/2026: analytics 30 ngày cho thấy chatgpt.com là nguồn giới\n# thiệu lớn thứ ba (97 lượt, hơn cả google.com) — nên nói rõ web có gì, cái gì miễn\n# phí, thay vì để AI tự đoán qua HTML rồi giới thiệu sai.\n# Không phải chỉ thị chuẩn của robots.txt, chỉ là chỉ đường cho ai đọc file này.\n# llms.txt: https://hskqkt.com/llms.txt\n\nSitemap: https://hskqkt.com/sitemap.xml\n",
+  "status": 200,
+  "url": "https://hskqkt.com/robots.txt",
+  "sha256": "f155db2c72b4e115900607b8f38588a1f9c7a5a22b4ba8f7f1183b3adf0503b7",
+  "effectiveMinIntervalMs": 2000
+}

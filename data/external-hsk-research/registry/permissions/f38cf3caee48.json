@@ -1,0 +1,8 @@
+{
+  "allowed": true,
+  "text": "User-agent: *",
+  "status": 200,
+  "url": "https://docs.github.com/robots.txt",
+  "sha256": "d9066d29c1dfed62e1bbde2c102079a5ccc0c1e9f669644fd89fd652cdc156bb",
+  "effectiveMinIntervalMs": 2000
+}

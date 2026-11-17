@@ -1,0 +1,44 @@
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import {spawnSync} from 'node:child_process';
+import {createHash} from 'node:crypto';
+import assert from 'node:assert/strict';
+import {validatePreviewRelease} from '../shared/preview-content.mjs';
+const read=async p=>JSON.parse(await readFile(p,'utf8'));
+const tsv=async name=>(await readFile('data/editorial/v4/'+name+'.tsv','utf8')).split(/\r?\n/).filter(l=>l.trim()&&!l.startsWith('#')).map(l=>l.split('|'));
+const originalWords=await read('public/data/hsk3-2025-1-words.json');
+const taxonomy=await read('public/data/hsk3-2025-1-grammar.json');
+const v=await tsv('vocabulary'),g=await tsv('grammar'),c=await tsv('contexts');
+assert.equal(v.length,300);assert.equal(g.length,68);assert.equal(c.length,60);
+const texts=[...v.map(r=>r[2]),...g.flatMap(r=>[r[4],r[6]]),...c.map(r=>r[2])];
+const py=spawnSync('python',['scripts/v4-pinyin.py'],{input:JSON.stringify(texts),encoding:'utf8',env:{...process.env,PYTHONIOENCODING:'utf-8'},windowsHide:true,maxBuffer:4*1024*1024});
+if(py.status!==0)throw Error(py.stderr||'Pinyin helper failed. Install pypinyin in .runtime/tts/python.');
+const pinyin=JSON.parse(py.stdout);
+const at='2026-10-15T00:00:00.000Z';
+const base={syllabusVersion:'hsk3-2025',level:'1',source:'Original HSK 1 instructional draft V4, AI assisted',sourceName:'LuyenThiHSK editorial V4',sourceType:'AI_GENERATED',sourceUrl:'local:editorial/v4',license:'Original AI-assisted draft; pending rights and expert review',licenseStatus:'UNVERIFIED',licenseEvidenceUrl:'local:editorial/v4',reviewStatus:'NEEDS_REVIEW',revision:1,importedAt:at,verifiedAt:null,humanReview:{status:'BLOCKED_FOR_HUMAN_REVIEW',reviewerId:null,reviewerName:null,reviewedAt:null},internalReview:{status:'AI_SELF_CHECKED',method:'Author self-check of original sentences, answer logic and Vietnamese explanation; not expert review',checkedAt:at},contentEnvironment:'PREVIEW'};
+const provenance={source_url:'local:editorial/v4',source_name:base.source,source_version:'v4-hsk1-draft',retrieved_at:at.slice(0,10),license:base.license,rights_status:'original',is_original:true,attribution:'LuyenThiHSK original AI-assisted drafts; no CTI test questions reproduced'};
+const wordIds=text=>originalWords.filter(w=>text.includes(w.simplified)).map(w=>w.id);
+const gid=n=>'HSK30-2025-GRA-HSK1-'+n;
+const words=v.map(([n,meaning,zh,vi])=>{const w=originalWords.find(w=>w.id==='cti25-v-'+n);assert.ok(w);assert.ok(zh.includes(w.simplified),'Example lacks '+w.simplified);return{...w,...base,id:w.id,meaningVi:meaning,primaryMeaningVi:meaning,secondaryMeaningsVi:[],notes:['Nghĩa ngắn và ví dụ AI chờ duyệt; nghĩa từ điển cộng đồng giữ trong trường dictionaryReference.'],dictionaryReference:{meaningVi:w.meaningVi,source:w.source,license:w.license,sourceUrl:'https://github.com/ph0ngp/CVDICT'},translationStatus:'community_machine',lexicalQuality:{status:'DRAFT_CLEAN',flags:[],score:0,linguisticReview:'unreviewed'},examples:[{zh,pinyin:pinyin[zh],vi,sourceType:'AI_GENERATED',reviewStatus:'NEEDS_REVIEW'}],syllabusMapping:{sourceType:'OFFICIAL',sourceUrl:w.sourceUrl,sourcePage:w.sourcePage,word:w.simplified,pinyin:w.pinyin,level:w.level},pinyinValidation:{method:'CTI stored word facts; pypinyin 0.55.0 sentence draft',humanReviewed:false}};});
+const lessons=g.map(([n,title,pattern,explanationVi,zh1,vi1,zh2,vi2,mistake])=>{const point=taxonomy.find(p=>p.id===gid(n));assert.ok(point,'Missing taxonomy '+n);return{...base,id:'v4-lesson-'+n,grammarPointId:point.id,title,shortMeaningVi:title,pattern,formula:pattern,category:point.category,detail:point.detail,taxonomyPattern:point.pattern,taxonomySourceUrl:point.sourceUrl,sourcePage:point.sourcePage,usage:'Đọc mẫu, đối chiếu hai ví dụ, chú ý lỗi thường gặp rồi làm câu luyện có lời giải.',explanationVi,examples:[{zh:zh1,pinyin:pinyin[zh1],vi:vi1},{zh:zh2,pinyin:pinyin[zh2],vi:vi2}].map(e=>({...e,sourceType:'AI_GENERATED',reviewStatus:'NEEDS_REVIEW'})),commonMistakes:[mistake],comparisons:[explanationVi.split('. ').slice(-1)[0]],prerequisites:[],relatedGrammarIds:[],relatedQuestionIds:['v4-gq-'+n],vocabularyIds:wordIds(zh1+zh2)};});
+const options=(answer,others,index)=>{const values=[answer,...others];const shift=index%values.length;const ordered=[...values.slice(shift),...values.slice(0,shift)];return{options:ordered.map((text,i)=>({id:'ABCD'[i],text})),correctOptionId:'ABCD'[ordered.indexOf(answer)]};};
+let questions=g.map(([n,title,,explanationVi,,,,,mistake,gap,answer,...others],i)=>{const choice=options(answer,others,i);return{...base,id:'v4-gq-'+n,number:i+1,skill:'reading',section:'grammar',part:1,type:'fill-blank',questionType:'fill-blank',difficulty:i%3?'easy':'medium',topicIds:['v4-topic-grammar'],grammarIds:[gid(n)],vocabularyIds:wordIds(gap+answer),hanziIds:[],estimatedTimeSeconds:45,promptZh:gap,candidatePromptZh:gap,instruction:'Chọn phần điền vào chỗ trống theo gợi ý.',...choice,correctAnswer:choice.correctOptionId,answerVerified:false,answerValidation:'AI_SELF_CHECKED_NOT_HUMAN',scoring:'choice',explanation:answer+' phù hợp mẫu '+title+'. '+explanationVi+' Lưu ý: '+mistake,provenance};});
+const audio=[];
+for(const [i,[skill,type,zh,vi,prompt,answer,a,b,d,explanation,grammar,topic]]of c.entries()){
+ const choice=options(answer,type==='true-false'?[answer==='Đúng'?'Sai':'Đúng']:[a,b,d],i);
+ const id='v4-cq-'+String(i+1).padStart(3,'0');const audioId=skill==='listening'?'v4-audio-'+String(i+1).padStart(3,'0'):null;
+ if(audioId)audio.push({...base,id:audioId,sourceType:'SYNTHETIC',provider:'Piper local 2023.11.14-2',voice:'zh_CN-huayan-medium',transcript:zh,durationMs:null,license:'Voice training dataset license Unknown in upstream MODEL_CARD; private research preview only',licenseStatus:'UNVERIFIED',licenseEvidenceUrl:'https://huggingface.co/rhasspy/piper-voices/blob/main/zh/zh_CN/huayan/medium/MODEL_CARD',modelCardSha256:createHash('sha256').update(await readFile('.runtime/tts/MODEL_CARD')).digest('hex'),transcriptSourceType:'AI_GENERATED',storageUrl:null,assetStatus:'PENDING_SYNTHESIS',humanReview:{...base.humanReview},questionIds:[id]});
+ questions.push({...base,id,number:questions.length+1,skill,section:skill,part:type==='true-false'?2:1,type,questionType:type,difficulty:i%3?'easy':'medium',topicIds:['v4-topic-'+topic],grammarIds:[gid(grammar)],vocabularyIds:wordIds(zh+prompt),hanziIds:[],estimatedTimeSeconds:skill==='listening'?50:60,promptZh:zh,promptPinyin:pinyin[zh],promptVi:vi,candidatePromptZh:skill==='listening'?prompt:zh+'\n'+prompt,instruction:skill==='listening'?'Nghe giọng tổng hợp rồi trả lời. Transcript chỉ mở sau khi kiểm tra.':'Đọc đoạn ngắn rồi chọn câu trả lời.',...choice,correctAnswer:choice.correctOptionId,answerVerified:false,answerValidation:'AI_SELF_CHECKED_NOT_HUMAN',scoring:'choice',explanation,passageId:skill==='reading'?'v4-passage-'+(i+1):null,audioAssetId:audioId,...(audioId?{audio:{kind:'tts'},audioTitle:'Synthetic / TTS · chưa duyệt phát âm'}:{}),provenance});
+}
+for(const q of questions.filter(q=>q.id.startsWith('v4-cq-')&&q.skill==='reading'))q.promptZh=q.candidatePromptZh;
+// Exact duplicated draft stems are rewritten here and remain traceable to their lesson.
+questions.find(q=>q.id==='v4-gq-00068').promptZh='他是___三个学生。';questions.find(q=>q.id==='v4-gq-00068').candidatePromptZh='他是___三个学生。';
+questions.find(q=>q.id==='v4-gq-00036').promptZh='她今年十___。';questions.find(q=>q.id==='v4-gq-00036').candidatePromptZh='她今年十___。';
+const topics=[...new Set(questions.flatMap(q=>q.topicIds))].map(id=>({id,sourceType:'ORIGINAL',title:id.replace('v4-topic-',''),note:'Internal teaching topic, not claimed as CTI taxonomy'}));
+const template={...base,id:'v4-template-hsk1-platform',title:'PLATFORM PRACTICE MOCK / BETA · HSK 1',mockType:'full',formatAuthority:'PLATFORM_PRACTICE',officialStructureVerified:false,formatNote:'40 câu nội bộ: 20 nghe + 20 đọc. 35 phút tự chọn theo platform; chưa xác minh cấu trúc đề HSK syllabus 2025. Không quy đổi điểm HSK.',timing:'section',sections:[{skill:'listening',label:'Nghe tổng hợp',count:20,durationMinutes:15},{skill:'reading',label:'Đọc hiểu',count:20,durationMinutes:20}],audioRules:{kind:'file',delivery:'question',maxPlays:2,allowSeek:false,allowRateChange:false,rate:1},navigation:{previousSections:false,futureSections:false,withinSection:true}};
+const bundle={version:'v4-hsk1-draft-r1',builtAt:at,sourcePdfSha256:(await read('public/data/manifest.json')).sourcePdfSha256,words,lessons,questions,audio,topics,templates:[template]};
+await mkdir('data/staging/v4',{recursive:true});await mkdir('data/reports',{recursive:true});
+await writeFile('data/staging/v4/hsk1-release.json',JSON.stringify(bundle,null,2));
+const report=validatePreviewRelease(bundle);
+await writeFile('data/reports/v4-content-validation.json',JSON.stringify(report,null,2));
+console.log(JSON.stringify(report.summary));
+if(report.errors.length)throw Error(report.errors.join('\n'));

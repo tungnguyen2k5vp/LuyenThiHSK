@@ -1,0 +1,2 @@
+// Opt-in isolated QA store. Never opened against the editorial/learner database.
+export function sqliteGradingStore(db){db.exec('CREATE TABLE IF NOT EXISTS qa_secure_attempts(id TEXT PRIMARY KEY,payload TEXT NOT NULL)');return{get(id){const row=db.prepare('SELECT payload FROM qa_secure_attempts WHERE id=?').get(id);return row?JSON.parse(row.payload):undefined;},set(id,value){db.prepare('INSERT INTO qa_secure_attempts VALUES(?,?) ON CONFLICT(id) DO UPDATE SET payload=excluded.payload').run(id,JSON.stringify(value));}};}

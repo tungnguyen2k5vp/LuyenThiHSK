@@ -1,0 +1,14 @@
+[
+  {
+    "file": "data/review-packages/v8/HSK1_CONTENT_REVIEW_V8.zip",
+    "bytes": 658955,
+    "entries": 14,
+    "status": "PASS_CRC_AND_PATHS"
+  },
+  {
+    "file": "data/reports/v8/V8_SCREENSHOTS_BEFORE_AFTER.zip",
+    "bytes": 19210762,
+    "entries": 405,
+    "status": "PASS_CRC_AND_PATHS"
+  }
+]

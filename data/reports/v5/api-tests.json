@@ -1,0 +1,24 @@
+{
+  "at": "2026-10-19T06:10:43.987Z",
+  "status": "PASS",
+  "bundle": "v5-hsk1-batch-2",
+  "areas": [
+    "private-auth",
+    "host-origin",
+    "rate-limit",
+    "production-fail-closed",
+    "idempotent-stage",
+    "v4-no-downgrade",
+    "revision-conflict",
+    "beta-invalidation",
+    "human-gate-vocabulary",
+    "issue-idempotency",
+    "assignment-not-approval",
+    "audio40-auth",
+    "seeded-no-overlap",
+    "speech-fake-http-only",
+    "guest-merge-conflicts-idempotency"
+  ],
+  "published": 0,
+  "humanReviewed": 0
+}

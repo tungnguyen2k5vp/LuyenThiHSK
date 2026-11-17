@@ -1,0 +1,31 @@
+// Per-question authored proposals; CTI task names are reference facts, links need academic review.
+// No answer, media binding, group, part or timing is changed.
+export const METADATA=[
+['L1-001','问答出行情况','Chủ thể mẹ đi tàu hỏa thăm bạn. Đối chiếu phương tiện trong hình, không chọn chỉ vì có người.','坐火车 chỉ đi tàu hỏa; 去看朋友 là mục đích.','Đừng chọn máy bay hoặc xe ô tô chỉ vì đều là phương tiện.'],
+['L1-002','介绍家庭日常生活','Đứa trẻ đã ngủ nên cần nói nhỏ. Hình đúng phải phù hợp trạng thái ngủ.','已经……了 diễn đạt sự việc đã xảy ra.','Không chọn hình nói điện thoại khi transcript nói đứa trẻ ngủ.'],
+['L1-003','介绍天气基本情况','Ngoài trời mưa; người nói nhắc đừng quên mang ô.','别 + động từ là lời ngăn/nhắc đừng làm.','Không suy thành trời nắng chỉ vì hình có người ra ngoài.'],
+['L2-004','问答日常饮食','Hành động là làm bữa tối ở nhà mỗi ngày. Đối chiếu hình nấu ăn.','每天 nêu tần suất, 做晚饭 là hành động.','Phân biệt nấu ăn với đang ăn, không chỉ nhìn bát cơm.'],
+['L2-005','日常言语交往','Cô ấy gọi điện cho bạn; 给朋友 xác định đối tượng cuộc gọi.','给 + người đứng trước 打电话.','Phân biệt cầm điện thoại gọi với viết chữ hoặc uống nước.'],
+['L2-006','介绍家庭日常生活','Anh ấy ăn xong rồi đi học. Cần bám chuỗi hành động trong câu.','吃完 nêu hoàn tất; 就 nối việc tiếp sau.','Không đọc 就 thành lý do, cũng không bỏ hành động ăn xong.'],
+['L3-007','问答日常饮食','Người nam đã uống sữa và bây giờ muốn uống nước. Câu hỏi hỏi nhu cầu hiện tại.','已经喝了一杯 là quá khứ gần; 现在想喝水 là thông tin cần chọn.','Không chọn sữa chỉ vì xuất hiện đầu hội thoại.'],
+['L3-008','交流休闲活动','Người nữ hôm nay đi làm và chỉ có thể mua sách ngày mai.','明天 đối chiếu với 今天; 可以 chỉ khả năng/điều kiện được làm.','Không chọn sáng hoặc tối hôm nay, vì cả ngày được nói là đi làm.'],
+['L3-009','问答商品情况','Người nam thích áo màu xanh hơn áo trắng. Chọn màu của áo được ưa thích.','比……好看 so sánh vẻ đẹp; không nói áo trắng không đẹp.','Không đảo hai vế so sánh hoặc coi câu là chọn màu đỏ.'],
+['R1-010','交流休闲活动','Sau bữa ăn người nói đọc sách một lúc. Hình cần mô tả đọc sách.','吃完饭以后 nêu mốc trước hoạt động 看书.','Phân biệt thời điểm sau ăn với hành động chính đang đọc.'],
+['R1-011','介绍家庭日常生活','Anh ấy đã ngủ; phòng yên tĩnh. Hình phù hợp phải là người đang ngủ.','已经 + động từ + 了 nêu trạng thái đã hình thành.','Không chọn đọc sách chỉ vì hoạt động đó cũng có thể yên lặng.'],
+['R1-012','介绍学习情况、学习经历','Em gái dùng bút viết tên của mình. Hình mô tả viết, không phải đọc.','自己的 chỉ chính em gái theo chủ ngữ câu.','Không hiểu 自己 là tên của người nói thay vì em gái.'],
+['R2-013','问答物品情况','自己 nhấn mạnh người nói tự mua, đối chiếu với không phải mẹ cho.','我自己买的 là cách nhấn người thực hiện.','已经 chỉ thời điểm hoàn thành, không nêu đối lập ai là người mua.'],
+['R2-014','介绍家庭日常生活','已经 phù hợp vì em trai đã ngủ nên không nên nói to.','已经睡了 diễn đạt đã đi vào trạng thái ngủ.','可能 chỉ phỏng đoán, không phù hợp ý khẳng định hiện trạng của lời nhắc.'],
+['R2-015','日常言语交往','为什么 hỏi lý do hôm nay không đến lớp.','为什么 đặt trước phần 今天没来上课 cần hỏi nguyên nhân.','Không dùng 自己 hay 一起 để thay từ hỏi nguyên nhân.'],
+['R3-016','问答出行情况','Vì trường gần nên đi bộ là câu trả lời đúng nguyên nhân.','为什么 hỏi lý do; 因为 mở lời giải thích.','Câu trả lời vị trí 在桌子上 không trả lời vì sao đi bộ.'],
+['R3-017','交流休闲活动','Lời rủ đi xem phim cần được đáp bằng đồng ý và giờ gặp.','一起 cho biết cùng tham gia hoạt động.','Không chọn câu nói người sở hữu hay so chiều cao.'],
+['R3-018','问答物品情况','谁的 hỏi người sở hữu sách, nên lời đáp 是我的 phù hợp.','我的 lược danh từ 书 đã biết.','Không trả lời bằng vị trí sách khi câu hỏi hỏi của ai.'],
+['R4-019','问答商品情况','Tiểu Lâm mua hai cuốn sách; quần áo do bạn mua, còn trái cây không mua.','Chủ thể 小林 khác 朋友; 没有买 phủ định mua trái cây.','Không gộp đồ hai người mua thành đồ Tiểu Lâm.'],
+['R4-020','交流学校情况、课后活动','Hôm nay em trai dậy lúc sáu giờ để đi thi, khác lịch thường ngày bảy giờ.','今天限定时间; 因为解释变化原因.','Không dùng lịch thường lệ 七点 để trả lời câu hỏi hôm nay.'],
+['R4-021','问答商品情况','Cô ấy chỉ có mười hai tệ; cốc xanh giá mười lăm nên quá đắt so với tiền hiện có.','只有限制数量; 所以 nối kết quả mua cốc đỏ.','Không suy cô ấy ghét màu xanh: bài chỉ nêu giới hạn tiền.'],
+['W1-022',null,'请 gồm bộ 讠 và phần 青. Bài này kiểm tra nhận biết cấu tạo chữ, không kiểm ngữ pháp.','请 dùng trong lời yêu cầu; metadata từ chỉ hỗ trợ học chữ.','Không coi ghép đúng bộ chữ là đã nắm cụm 的.'],
+['W1-023',null,'跑 có bộ 足 dạng đứng bên trái và 包 ở bên phải.','跑 nghĩa chạy; đây là cấu tạo chữ.','Không suy thành bằng chứng nắm ngữ pháp động từ ly hợp.'],
+['W1-024',null,'问 có 门 bao quanh 口. Dấu cộng biểu thị thành phần, không nhất thiết bố trí trái/phải.','问 nghĩa hỏi; chữ khác 门 đứng riêng.','Không tính câu ghép chữ này thành bằng chứng nắm 为什么.'],
+['W2-025',null,'Chữ gợi ý 喝 (hē) là uống, phù hợp tân ngữ nước. Câu trả lời lưu để tự đối chiếu và người chấm xem.','我想喝水: muốn uống nước.','Không tự chấm Writing chính thức bằng một chuỗi đúng duy nhất.'],
+['W2-026',null,'Pinyin sān gợi chữ 三 trong 星期三. Nội dung được lưu dưới dạng bài viết chưa chấm.','星期三 là thứ Tư.','Không xóa pinyin: đây là dữ kiện đề, không phải gợi ý được bật thêm.'],
+['W2-027',null,'Pinyin běn gợi 本, lượng từ cho sách. Lưu câu trả lời để người học tự đối chiếu.','两本书 là hai cuốn sách.','Không gọi câu điền chữ này là đánh giá chính thức mọi kỹ năng Writing.']
+];

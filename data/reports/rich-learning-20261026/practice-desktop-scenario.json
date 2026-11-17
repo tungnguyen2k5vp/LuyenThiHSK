@@ -1,0 +1,94 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "timezone": "Asia/Bangkok",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "reduced_motion": "no-preference"
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=practice&level=HSK%201"
+  },
+  "storage": {
+    "local_storage": []
+  },
+  "actions": [
+    {
+      "step_id": "scenes_loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".journey-training-card >> nth=4"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "waveform",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".scene-headphones"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "sentence_tokens",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".scene-path"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "listening_available",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".journey-training-card >> nth=0 >> button:not(:disabled)"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "focus_listening",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".journey-training-card >> nth=0 >> button"
+      },
+      "key": "ArrowRight",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "scenes_settled",
+      "action": "wait_for_timeout",
+      "duration_ms": 800
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility",
+      "storage"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "storage",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

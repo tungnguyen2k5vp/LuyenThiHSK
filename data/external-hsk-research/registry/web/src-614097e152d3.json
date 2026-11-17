@@ -1,0 +1,35 @@
+{
+  "source": {
+    "sourceId": "src-614097e152d3",
+    "name": "AllSet grammar",
+    "baseUrl": "https://resources.allsetlearning.com/chinese/grammar/Main_Page",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T04:51:37.956Z",
+    "termsUrl": null,
+    "robotsUrl": "https://resources.allsetlearning.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "METADATA_ONLY",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-614097e152d3-public-page.json"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "at": "2026-10-17T06:13:42.849Z",
+  "total": 986,
+  "workflow": {
+    "draft": 5,
+    "needs": 981,
+    "valid": 986,
+    "human": 0,
+    "published": 0
+  },
+  "hsk1Questions": 435,
+  "hsk2Questions": 54,
+  "hsk2Playable": 36,
+  "grammarAtLeast5": 68,
+  "qualityFlags": 199,
+  "humanResolved": 0,
+  "production": "BLOCKED",
+  "documents": 18
+}

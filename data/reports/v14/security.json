@@ -1,0 +1,23 @@
+{
+  "at": "2026-10-19T11:27:58.290Z",
+  "status": "PASS",
+  "checks": [
+    "Unauthenticated private catalog denied",
+    "Unauthenticated private intro denied",
+    "No public preview catalog route",
+    "Read-only metadata rejects POST",
+    "Unknown private endpoint fails closed",
+    "Foreign origin denied before processing",
+    "Foreign Host denied",
+    "Metadata has no raw questions or answer/transcript fields",
+    "No secure-exam claim",
+    "No public release claim",
+    "No backend persistence/transport dependency in contract",
+    "QA helper uses independent runtime",
+    "Vite dev blocks private file /data/reports/v14/practice-snapshot.json",
+    "Vite dev blocks private file /.runtime/admin-access.txt"
+  ],
+  "scope": "Static contract/fixture boundaries and isolated local HTTP; not a production penetration test or Auth/RLS verification",
+  "cloud": "NOT_DEPLOYED",
+  "secureExam": "NOT_IMPLEMENTED_SERVER_AUTHORITATIVE"
+}

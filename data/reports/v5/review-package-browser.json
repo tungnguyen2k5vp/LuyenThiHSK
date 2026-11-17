@@ -1,0 +1,31 @@
+{
+  "at": "2026-10-16T03:23:35.296Z",
+  "status": "PASS",
+  "results": [
+    {
+      "kind": "vocabulary",
+      "rendered": true,
+      "commentPersisted": true,
+      "csvExported": true
+    },
+    {
+      "kind": "grammar",
+      "rendered": true,
+      "commentPersisted": true,
+      "csvExported": true
+    },
+    {
+      "kind": "questions",
+      "rendered": true,
+      "commentPersisted": true,
+      "csvExported": true
+    },
+    {
+      "kind": "audio",
+      "rendered": true,
+      "commentPersisted": true,
+      "csvExported": true
+    }
+  ],
+  "note": "Temporary QA browser profile; no approval or real reviewer created"
+}

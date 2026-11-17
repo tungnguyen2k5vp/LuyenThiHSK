@@ -1,0 +1,17 @@
+{
+  "url": "https://raw.githubusercontent.com/ivankra/hsk30/4ff9e3915ce87baaecd7ebe263085573a4ea3192/LICENSE",
+  "status": 200,
+  "at": "2026-10-25T04:50:49.297Z",
+  "sha256": "9cd70c000ea23c899e71b2cbe7c28e18c60937f6e74d1b344d2923f6bddae44a",
+  "bytes": 1129,
+  "title": null,
+  "licenseExcerpts": [
+    "MIT License",
+    "Copyright (c) 2023 Ivan Krasilnikov",
+    "Copyright (c) 2021 Shawky",
+    "Copyright (c) 2021 Pleco Inc.",
+    "distribute, sublicense, and/or sell copies of the Software, and to",
+    "The above copyright notice and this permission notice shall be",
+    "NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE"
+  ]
+}

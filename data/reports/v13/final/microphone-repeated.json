@@ -1,0 +1,70 @@
+{
+  "at": "2026-10-19T06:20:24.932Z",
+  "status": "PASS",
+  "results": [
+    {
+      "name": "v12-edge-1",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 31907
+    },
+    {
+      "name": "v12-edge-2",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 30775
+    },
+    {
+      "name": "v12-edge-3",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 30610
+    },
+    {
+      "name": "v12-edge-4",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 30465
+    },
+    {
+      "name": "v12-edge-5",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 31278
+    },
+    {
+      "name": "v12-edge-6",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 31022
+    },
+    {
+      "name": "v12-edge-7",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 30607
+    },
+    {
+      "name": "v12-edge-8",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 30327
+    },
+    {
+      "name": "v12-edge-9",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 30349
+    },
+    {
+      "name": "v12-edge-10",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 31394
+    }
+  ],
+  "logs": "data/reports/v13/final/microphone-repeated-1792390516192",
+  "retries": 0,
+  "scope": "10 consecutive Edge v12 fixture runs; native playback assertions retained",
+  "ci": "NOT_RUN"
+}

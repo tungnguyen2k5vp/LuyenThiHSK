@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-18T03:48:49.136Z",
+  "items": 1175,
+  "batches": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20,
+    "HSK2-A": 38,
+    "HSK2-B": 31,
+    "GRAMMAR": 48,
+    "VOCABULARY": 20,
+    "V11-GRAMMAR": 28,
+    "V11-VOCABULARY": 24
+  },
+  "flags": 211,
+  "audioJobs": 40,
+  "workNotesPreserved": true,
+  "embeddedMedia": false,
+  "humanApproval": false
+}

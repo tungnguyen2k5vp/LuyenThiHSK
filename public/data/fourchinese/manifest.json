@@ -1,0 +1,21 @@
+{
+  "version": "4chinese-web-1",
+  "sourceAppVersion": "0.1.57",
+  "sourceSha256": "d12e9f23c4c50af154c2a56c5d63de230c1e69e44ac0fd1c4e644c05e2622d11",
+  "totalWords": 11870,
+  "withAudioExamples": 4471,
+  "withVietnameseExamples": 68,
+  "syllabus": "HSK3.0_2025-11",
+  "syllabusMatched": 9438,
+  "syllabusNeedsReview": 1562,
+  "levels": {
+    "1": 266,
+    "2": 165,
+    "3": 452,
+    "4": 894,
+    "5": 1464,
+    "6": 1576,
+    "7-9": 4621
+  },
+  "attribution": "/data/fourchinese/ATTRIBUTION.md"
+}

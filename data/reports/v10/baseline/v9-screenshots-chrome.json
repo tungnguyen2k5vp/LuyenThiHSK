@@ -1,0 +1,236 @@
+[
+  {
+    "filename": "v9-hsk1-today.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:03.423Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk1-grammar-independent-five.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:03.664Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk1-full-mock-preflight.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:03.981Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-landing.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:04.060Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-listening-blocked.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:04.127Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-reading-resumed.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview&previewSession=preview-session-6f367a29-22dd-468d-a9ab-3abf065125f6",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:04.474Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-reading-result.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:04.573Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-mistake-book.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:04.660Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-reading-new-passage.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview&previewSession=preview-session-53203e7c-4283-400a-924b-7d81b7fb0569",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:06.267Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-writing-components-new.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview&previewSession=preview-session-a772b3e7-1db2-411f-99be-ea5b13903277",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:06.526Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-writing-editor.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview&previewSession=preview-session-d4779d6a-4460-4139-a74e-15dc7440ab9d",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:11.637Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-writing-restored.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview&previewSession=preview-session-d4779d6a-4460-4139-a74e-15dc7440ab9d",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:12.088Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-writing-ungraded-result.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:12.206Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-study-plan.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:12.392Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-hsk2-history.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:12.513Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-mobile-practice.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:12.612Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-mobile-writing.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=preview&previewSession=preview-session-f608b7f6-b829-49d9-8c6e-7ddcdb8d5311",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:12.747Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  },
+  {
+    "filename": "v9-review-queue.png",
+    "browser": "Chrome",
+    "build": "V9 filesystem",
+    "route": "/?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-17T06:08:14.450Z",
+    "source": "Real private editorial data; isolated learner progress",
+    "realMobile": "NOT_VERIFIED"
+  }
+]

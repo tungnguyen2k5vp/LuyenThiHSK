@@ -1,0 +1,18 @@
+{
+  "at": "2026-10-18T02:03:02.422Z",
+  "results": [
+    {
+      "name": "regression",
+      "exitCode": 0,
+      "status": "PASS",
+      "durationMs": 141798
+    },
+    {
+      "name": "browser-matrix",
+      "exitCode": 1,
+      "status": "FAIL",
+      "durationMs": 156503
+    }
+  ],
+  "retries": 0
+}

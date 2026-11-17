@@ -1,0 +1,169 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "timezone": "Asia/Bangkok",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "reduced_motion": "no-preference"
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=vocab&level=HSK%201"
+  },
+  "storage": {
+    "local_storage": []
+  },
+  "actions": [
+    {
+      "step_id": "words_loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "start_cards",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-study-banner button:has-text(\"Học bằng thẻ\")"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "card_front",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=false]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "flip",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "back",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "accessible_meaning",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[aria-label*=\"yêu\"]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "grade",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"4\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "next_card",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".review-progress:has-text(\"đã lưu 1 từ\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "reload",
+      "action": "goto",
+      "destination": {
+        "url": "http://127.0.0.1:4173/?view=vocab&level=HSK%201"
+      },
+      "wait_until": "load",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "persisted_learned",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-study-banner:has-text(\"1/300 từ đã học\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "study_again",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-study-banner button:has-text(\"Học bằng thẻ\")"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "flip_again",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "revealed_again",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "mobile_settled",
+      "action": "wait_for_timeout",
+      "duration_ms": 800
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility",
+      "storage"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "storage",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-16T05:10:29.632Z",
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "counts": {
+      "vocabulary": {
+        "total": 300,
+        "draft": 0,
+        "needsReview": 300,
+        "internallyValidated": 300,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "grammar": {
+        "total": 68,
+        "draft": 0,
+        "needsReview": 68,
+        "internallyValidated": 68,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "questions": {
+        "total": 396,
+        "draft": 0,
+        "needsReview": 396,
+        "internallyValidated": 396,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "audio": {
+        "total": 80,
+        "draft": 0,
+        "needsReview": 80,
+        "internallyValidated": 80,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "templates": {
+        "total": 1,
+        "draft": 0,
+        "needsReview": 1,
+        "internallyValidated": 1,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "images": {
+        "total": 30,
+        "draft": 0,
+        "needsReview": 30,
+        "internallyValidated": 30,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "optionBanks": {
+        "total": 8,
+        "draft": 0,
+        "needsReview": 8,
+        "internallyValidated": 8,
+        "humanReviewed": 0,
+        "published": 0
+      }
+    },
+    "total": 883,
+    "errors": 0,
+    "warnings": 0,
+    "renderedAudio": 80,
+    "productionPublished": 0,
+    "humanReviewed": 0
+  },
+  "note": "Technical checks do not verify language, pronunciation or licensing. AI self-check is not human review."
+}

@@ -1,0 +1,54 @@
+{
+  "at": "2026-10-16T16:17:01.534Z",
+  "phase": "baseline",
+  "results": [
+    {
+      "name": "v8-edge",
+      "args": [
+        "--v8"
+      ],
+      "browser": "Edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 86368
+    },
+    {
+      "name": "v5-chrome",
+      "args": [
+        "--v5"
+      ],
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 26996
+    },
+    {
+      "name": "v4-chrome",
+      "args": [
+        "--v4"
+      ],
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 18474
+    },
+    {
+      "name": "v1-v3-chrome",
+      "args": [],
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 43628
+    },
+    {
+      "name": "v6-stress-chrome",
+      "args": [
+        "--v6-stress"
+      ],
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 3512
+    }
+  ]
+}

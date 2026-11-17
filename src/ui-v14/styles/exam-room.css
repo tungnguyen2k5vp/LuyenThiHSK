@@ -1,0 +1,540 @@
+/**
+ * HSK UI V14 - 3-COLUMN EXAM ROOM & SPECIALIZED QUESTION STYLES
+ * Scoped strictly under .hsk-ui-v14
+ */
+
+/* ==========================================================================
+   3-COLUMN EXAM ROOM LAYOUT
+   ========================================================================== */
+.hsk-ui-v14 .v14-exam-room-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #f8fafc;
+}
+
+.hsk-ui-v14 .v14-exam-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--v14-space-3) var(--v14-space-6);
+  background-color: var(--v14-color-surface);
+  border-bottom: 1px solid var(--v14-color-border);
+  position: sticky;
+  top: 0;
+  z-index: var(--v14-z-sticky);
+}
+
+.hsk-ui-v14 .v14-exam-main-grid {
+  display: grid;
+  grid-template-columns: 250px 1fr 270px;
+  gap: var(--v14-space-5);
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: var(--v14-space-5) var(--v14-space-4) var(--v14-space-12);
+  width: 100%;
+}
+
+@media (max-width: 1024px) {
+  .hsk-ui-v14 .v14-exam-main-grid {
+    grid-template-columns: 1fr;
+    padding: var(--v14-space-4) var(--v14-space-3) var(--v14-space-16);
+  }
+}
+
+/* ==========================================================================
+   COLUMN 1: EXAM NAVIGATOR (Left)
+   ========================================================================== */
+.hsk-ui-v14 .v14-navigator-panel {
+  display: flex;
+  flex-direction: column;
+  gap: var(--v14-space-4);
+  background-color: var(--v14-color-surface);
+  border-radius: var(--v14-radius-xl);
+  border: 1px solid var(--v14-color-border);
+  padding: var(--v14-space-4);
+  box-shadow: var(--v14-shadow-xs);
+  height: fit-content;
+  position: sticky;
+  top: 70px;
+}
+
+@media (max-width: 1024px) {
+  .hsk-ui-v14 .v14-navigator-panel {
+    display: none; /* replaced by mobile drawer */
+  }
+}
+
+.hsk-ui-v14 .v14-nav-skill-tabs {
+  display: flex;
+  border-bottom: 1.5px solid var(--v14-color-border);
+}
+
+.hsk-ui-v14 .v14-nav-skill-tab {
+  flex: 1;
+  padding: var(--v14-space-2) 0;
+  background: transparent;
+  border: none;
+  font-size: var(--v14-text-sm);
+  font-weight: 600;
+  color: var(--v14-color-text-secondary);
+  cursor: pointer;
+  text-align: center;
+  position: relative;
+  transition: color var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-nav-skill-tab.is-active {
+  color: var(--v14-color-primary);
+}
+
+.hsk-ui-v14 .v14-nav-skill-tab.is-active::after {
+  content: '';
+  position: absolute;
+  bottom: -1.5px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: var(--v14-color-primary);
+}
+
+.hsk-ui-v14 .v14-nav-part-section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--v14-space-2);
+}
+
+.hsk-ui-v14 .v14-nav-part-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--v14-text-xs);
+  font-weight: 700;
+  color: var(--v14-color-text-main);
+}
+
+.hsk-ui-v14 .v14-nav-part-count {
+  font-size: 0.75rem;
+  color: var(--v14-color-text-muted);
+  font-weight: 500;
+}
+
+/* Question bubbles row */
+.hsk-ui-v14 .v14-nav-bubbles-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.hsk-ui-v14 .v14-nav-bubble {
+  width: 32px;
+  height: 32px;
+  border-radius: var(--v14-radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 600;
+  background-color: #f1f5f9;
+  color: var(--v14-color-text-body);
+  border: 1px solid var(--v14-color-border);
+  cursor: pointer;
+  transition: all var(--v14-transition-fast);
+  padding: 0;
+}
+
+.hsk-ui-v14 .v14-nav-bubble:hover {
+  background-color: var(--v14-color-surface-hover);
+}
+
+.hsk-ui-v14 .v14-nav-bubble.is-current {
+  background-color: var(--v14-color-primary);
+  color: #ffffff;
+  border-color: var(--v14-color-primary);
+  border-radius: var(--v14-radius-md);
+  box-shadow: 0 2px 6px rgba(13, 148, 136, 0.35);
+}
+
+.hsk-ui-v14 .v14-nav-bubble.is-answered:not(.is-current) {
+  background-color: var(--v14-color-primary-light);
+  color: var(--v14-color-primary-active);
+  border-color: var(--v14-color-primary-border);
+}
+
+.hsk-ui-v14 .v14-nav-bubble.is-correct {
+  background-color: var(--v14-color-success);
+  color: #ffffff;
+  border-color: var(--v14-color-success);
+}
+
+.hsk-ui-v14 .v14-nav-bubble.is-incorrect {
+  background-color: var(--v14-color-error);
+  color: #ffffff;
+  border-color: var(--v14-color-error);
+}
+
+/* ==========================================================================
+   COLUMN 2: MAIN QUESTION AREA (Center)
+   ========================================================================== */
+.hsk-ui-v14 .v14-question-center {
+  display: flex;
+  flex-direction: column;
+  gap: var(--v14-space-4);
+  background-color: var(--v14-color-surface);
+  border-radius: var(--v14-radius-2xl);
+  border: 1px solid var(--v14-color-border);
+  padding: var(--v14-space-6);
+  box-shadow: var(--v14-shadow-xs);
+}
+
+@media (max-width: 640px) {
+  .hsk-ui-v14 .v14-question-center {
+    padding: var(--v14-space-4);
+    border-radius: var(--v14-radius-xl);
+  }
+}
+
+.hsk-ui-v14 .v14-q-header-part {
+  font-size: var(--v14-text-base);
+  font-weight: 700;
+  color: var(--v14-color-text-main);
+}
+
+.hsk-ui-v14 .v14-q-header-sub {
+  font-size: var(--v14-text-sm);
+  color: var(--v14-color-text-secondary);
+}
+
+/* Question Photo Centered */
+.hsk-ui-v14 .v14-q-photo-box {
+  width: 100%;
+  max-width: 520px;
+  height: 240px;
+  margin: 0 auto;
+  border-radius: var(--v14-radius-xl);
+  overflow: hidden;
+  background-color: #f1f5f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--v14-color-border);
+}
+
+.hsk-ui-v14 .v14-q-photo-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* True / False Options (Migii Style side-by-side cards) */
+.hsk-ui-v14 .v14-tf-options-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--v14-space-4);
+  width: 100%;
+  max-width: 620px;
+  margin: var(--v14-space-3) auto 0;
+}
+
+.hsk-ui-v14 .v14-tf-card {
+  display: flex;
+  align-items: center;
+  gap: var(--v14-space-3);
+  padding: var(--v14-space-4) var(--v14-space-5);
+  border-radius: var(--v14-radius-xl);
+  border: 1.5px solid var(--v14-color-border);
+  background-color: var(--v14-color-surface);
+  font-size: var(--v14-text-base);
+  font-weight: 600;
+  color: var(--v14-color-text-main);
+  cursor: pointer;
+  transition: all var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-tf-card:hover {
+  border-color: var(--v14-color-primary-border);
+  background-color: var(--v14-color-surface-soft);
+}
+
+.hsk-ui-v14 .v14-tf-card.is-selected {
+  border-color: var(--v14-color-primary);
+  background-color: var(--v14-color-primary-light);
+  box-shadow: 0 0 0 1px var(--v14-color-primary);
+}
+
+.hsk-ui-v14 .v14-tf-check-icon {
+  width: 22px;
+  height: 22px;
+  border-radius: var(--v14-radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  background-color: #f1f5f9;
+  color: var(--v14-color-text-secondary);
+  border: 1px solid var(--v14-color-border);
+}
+
+.hsk-ui-v14 .v14-tf-card.is-selected .v14-tf-check-icon {
+  background-color: var(--v14-color-primary);
+  color: #ffffff;
+  border-color: var(--v14-color-primary);
+}
+
+/* Image Choice Question (3 balanced photos side-by-side) */
+.hsk-ui-v14 .v14-img-choice-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--v14-space-4);
+  width: 100%;
+  margin: var(--v14-space-2) auto 0;
+}
+
+@media (max-width: 640px) {
+  .hsk-ui-v14 .v14-img-choice-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.hsk-ui-v14 .v14-img-choice-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: var(--v14-radius-xl);
+  overflow: hidden;
+  border: 2px solid var(--v14-color-border);
+  background-color: #f8fafc;
+  cursor: pointer;
+  transition: all var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-img-choice-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--v14-color-primary-border);
+}
+
+.hsk-ui-v14 .v14-img-choice-card.is-selected {
+  border-color: var(--v14-color-primary);
+  box-shadow: 0 0 0 2px var(--v14-color-primary-border);
+}
+
+.hsk-ui-v14 .v14-img-choice-photo {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+/* Matching UI (Ghép ảnh với Audio) */
+.hsk-ui-v14 .v14-matching-shared-images-row {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: var(--v14-space-3);
+  margin-bottom: var(--v14-space-4);
+}
+
+@media (max-width: 768px) {
+  .hsk-ui-v14 .v14-matching-shared-images-row {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.hsk-ui-v14 .v14-matching-image-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.hsk-ui-v14 .v14-matching-thumb {
+  width: 100%;
+  height: 110px;
+  object-fit: cover;
+  border-radius: var(--v14-radius-lg);
+  border: 1px solid var(--v14-color-border);
+}
+
+.hsk-ui-v14 .v14-matching-sub-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--v14-space-3) var(--v14-space-4);
+  background-color: var(--v14-color-surface-soft);
+  border-radius: var(--v14-radius-xl);
+  border: 1px solid var(--v14-color-border);
+  gap: var(--v14-space-3);
+  flex-wrap: wrap;
+}
+
+.hsk-ui-v14 .v14-matching-options-group {
+  display: flex;
+  gap: 6px;
+}
+
+.hsk-ui-v14 .v14-matching-option-btn {
+  width: 34px;
+  height: 34px;
+  border-radius: var(--v14-radius-md);
+  background-color: #ffffff;
+  border: 1px solid var(--v14-color-border);
+  font-weight: 700;
+  font-size: var(--v14-text-sm);
+  color: var(--v14-color-text-main);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-matching-option-btn.is-selected {
+  background-color: var(--v14-color-primary);
+  color: #ffffff;
+  border-color: var(--v14-color-primary);
+}
+
+.hsk-ui-v14 .v14-matching-option-btn.is-correct {
+  background-color: var(--v14-color-success);
+  color: #ffffff;
+  border-color: var(--v14-color-success);
+}
+
+.hsk-ui-v14 .v14-matching-option-btn.is-incorrect {
+  background-color: var(--v14-color-error);
+  color: #ffffff;
+  border-color: var(--v14-color-error);
+}
+
+/* Dialogue Question (Hội thoại ngắn: Pinyin + Hanzi options) */
+.hsk-ui-v14 .v14-dialogue-options-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--v14-space-3);
+  width: 100%;
+}
+
+.hsk-ui-v14 .v14-dialogue-option-card {
+  display: flex;
+  align-items: center;
+  gap: var(--v14-space-4);
+  padding: var(--v14-space-3) var(--v14-space-4);
+  border-radius: var(--v14-radius-xl);
+  border: 1.5px solid var(--v14-color-border);
+  background-color: var(--v14-color-surface);
+  cursor: pointer;
+  transition: all var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-dialogue-option-card:hover {
+  border-color: var(--v14-color-primary-border);
+  background-color: var(--v14-color-surface-soft);
+}
+
+.hsk-ui-v14 .v14-dialogue-option-card.is-selected {
+  border-color: var(--v14-color-primary);
+  background-color: var(--v14-color-primary-light);
+}
+
+.hsk-ui-v14 .v14-dialogue-letter-badge {
+  font-weight: 700;
+  font-size: var(--v14-text-sm);
+  color: var(--v14-color-text-secondary);
+  width: 28px;
+}
+
+.hsk-ui-v14 .v14-dialogue-option-card.is-selected .v14-dialogue-letter-badge {
+  color: var(--v14-color-primary);
+}
+
+/* Explanation Accordion (4 Tabs) */
+.hsk-ui-v14 .v14-explanation-accordion {
+  border-radius: var(--v14-radius-xl);
+  background-color: #f8fafc;
+  border: 1px solid var(--v14-color-border);
+  overflow: hidden;
+  margin-top: var(--v14-space-4);
+}
+
+.hsk-ui-v14 .v14-explanation-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--v14-space-3) var(--v14-space-4);
+  cursor: pointer;
+  font-size: var(--v14-text-sm);
+  font-weight: 600;
+  color: var(--v14-color-primary-active);
+  background-color: var(--v14-color-primary-light);
+}
+
+.hsk-ui-v14 .v14-explanation-tabs-bar {
+  display: flex;
+  border-bottom: 1px solid var(--v14-color-border);
+  background-color: #ffffff;
+}
+
+.hsk-ui-v14 .v14-exp-tab-btn {
+  padding: var(--v14-space-2) var(--v14-space-4);
+  background: transparent;
+  border: none;
+  font-size: var(--v14-text-xs);
+  font-weight: 600;
+  color: var(--v14-color-text-secondary);
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: all var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-exp-tab-btn.is-active {
+  background-color: var(--v14-color-primary);
+  color: #ffffff;
+  border-bottom-color: var(--v14-color-primary);
+}
+
+.hsk-ui-v14 .v14-exp-tab-content {
+  padding: var(--v14-space-4);
+  background-color: #ffffff;
+  font-size: var(--v14-text-sm);
+  line-height: 1.7;
+}
+
+/* ==========================================================================
+   COLUMN 3: TIMER & SUBMIT (Right)
+   ========================================================================== */
+.hsk-ui-v14 .v14-timer-submit-panel {
+  display: flex;
+  flex-direction: column;
+  gap: var(--v14-space-4);
+  height: fit-content;
+  position: sticky;
+  top: 70px;
+}
+
+@media (max-width: 1024px) {
+  .hsk-ui-v14 .v14-timer-submit-panel {
+    display: none; /* header handles timer on mobile */
+  }
+}
+
+.hsk-ui-v14 .v14-timer-card {
+  padding: var(--v14-space-5);
+  background-color: var(--v14-color-surface);
+  border-radius: var(--v14-radius-xl);
+  border: 1px solid var(--v14-color-border);
+  box-shadow: var(--v14-shadow-xs);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--v14-space-3);
+  text-align: center;
+}
+
+/* Navigation Footer (Bottom Right: Câu trước / Câu tiếp theo) */
+.hsk-ui-v14 .v14-exam-nav-footer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--v14-space-3);
+  margin-top: var(--v14-space-4);
+  padding-top: var(--v14-space-3);
+  border-top: 1px solid var(--v14-color-border);
+}

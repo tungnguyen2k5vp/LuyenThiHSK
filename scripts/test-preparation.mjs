@@ -1,0 +1,32 @@
+import assert from 'node:assert/strict';
+import { readFile } from 'node:fs/promises';
+import { createServer } from 'vite';
+const server=await createServer({server:{middlewareMode:true,hmr:false},appType:'custom'});
+try{
+  const storage=await server.ssrLoadModule('/src/services/preparationStorage.ts');
+  const {buildStudyPlan,taskProgress}=await server.ssrLoadModule('/src/services/studyPlan.ts');
+  const {calculateReadiness}=await server.ssrLoadModule('/src/services/readiness.ts');
+  const {wordMatches}=await server.ssrLoadModule('/src/services/curriculum.ts');
+  const {createVocabularyQuiz}=await server.ssrLoadModule('/src/services/vocabularyQuiz.ts');
+  const {analyzeWeaknesses}=await server.ssrLoadModule('/src/services/weaknessEngine.ts');
+  const {nextDiagnosticLevel,estimateDiagnosticLevel}=await server.ssrLoadModule('/src/services/diagnosticSelection.ts');
+  const {parseAdminRows}=await server.ssrLoadModule('/src/services/adminImport.ts');
+  const {validateContent}=await server.ssrLoadModule('/src/data/contentValidation.ts');
+  const {rememberExam,findQuestion}=await server.ssrLoadModule('/src/data/examCatalog.ts');
+  const words=JSON.parse(await readFile('public/data/hsk3-2025-1-words.json'));
+  assert.equal(words.length,300);assert.ok(words.some(w=>w.simplified==='学习'&&wordMatches(w,'xuexi')));
+  const quiz=createVocabularyQuiz(words,'1',10);assert.equal(quiz.questions.length,10);assert.deepEqual(validateContent([quiz],[]),[]);assert.ok(quiz.questions.every(q=>new Set(q.options.map(o=>o.text)).size===4));rememberExam(quiz);assert.ok(findQuestion(quiz.questions[0].id));
+  const data=storage.emptyPreparation();data.profile.onboarding='done';data.profile.targetLevel='4';
+  const plan=buildStudyPlan(data,{words:100,grammar:10,listening:3,reading:4,mistakes:5},new Date('2026-10-15T08:00:00Z'));assert.ok(plan.tasks.reduce((n,t)=>n+t.minutes,0)<=30);assert.ok(plan.tasks.find(t=>t.id==='practice').count<=3);
+  const learn=plan.tasks.find(t=>t.id==='learn');data.events.push({id:'e',kind:'word-learn',entityId:'w',count:learn.count,minutes:2,at:'2026-10-15T09:00:00Z'});assert.equal(taskProgress(plan,learn,data),learn.count);
+  data.profile.examDate='2026-10-20';const near=buildStudyPlan(data,{words:100,grammar:10,listening:3,reading:4,mistakes:3},new Date('2026-10-15'));assert.ok(!near.tasks.some(t=>t.kind==='word-learn'));
+  assert.equal(calculateReadiness({approvedFullMocks:0,objectiveAnswers:100,mocks:null,skills:80,coverage:40,mistakes:30,time:null,consistency:20}).score,null);
+  assert.equal(calculateReadiness({approvedFullMocks:2,objectiveAnswers:30,mocks:100,skills:100,coverage:100,mistakes:100,time:100,consistency:100}).score,100);
+  assert.deepEqual(nextDiagnosticLevel(2,1,true),{level:3,streak:0});assert.equal(nextDiagnosticLevel(1,0,false).level,1);assert.equal(estimateDiagnosticLevel([{level:6,correct:true}]),1);
+  const attempt=(id,answer,finishedAt)=>({id,examId:quiz.id,examSnapshot:{...quiz,questions:[quiz.questions[0]]},mode:'practice',answers:{0:answer},selfRatings:{},flaggedQuestionIds:[],startedAt:'2026-10-15T00:00:00Z',finishedAt,durationSeconds:1});
+  const q=quiz.questions[0];const wrong=q.options.find(o=>o.id!==q.correctOptionId).id;const weaknesses=analyzeWeaknesses([attempt('1',wrong,'2026-10-15T01:00:00Z'),attempt('2',wrong,'2026-10-15T02:00:00Z'),attempt('3',q.correctOptionId,'2026-10-15T03:00:00Z'),attempt('4',q.correctOptionId,'2026-10-15T04:00:00Z')]);assert.equal(weaknesses[0].wrongCount,2);assert.equal(weaknesses[0].mastery,100);
+  const rows=parseAdminRows('id,hanzi,pin,vi,lvl\nx1,猫,māo,"mèo, con mèo",1','vocabulary',{syllabusVersion:'hsk3-2025'},{id:'id',simplified:'hanzi',pinyin:'pin',meaningVi:'vi',level:'lvl'});assert.equal(rows[0].meaningVi,'mèo, con mèo');assert.throws(()=>parseAdminRows('a\n"unclosed','vocabulary',{},{}));
+  const manifest=JSON.parse(await readFile('public/data/manifest.json'));assert.equal(manifest.editions[0].levels.reduce((n,l)=>n+l.vocabulary,0),11000);assert.equal(manifest.quality.conflicts,0);
+  const store=new Map([['hsk-study-data-v1','preserve']]);globalThis.localStorage={getItem:k=>store.get(k)??null,setItem:(k,v)=>store.set(k,v)};storage.writePreparation(data);assert.equal(storage.readPreparation().profile.targetLevel,'4');assert.equal(store.get('hsk-study-data-v1'),'preserve');store.set(storage.PREPARATION_KEY,'bad json');assert.equal(storage.readPreparation().schemaVersion,1);assert.ok([...store.keys()].some(k=>k.includes('corrupt-backup')));delete globalThis.localStorage;
+  console.log('PASS V2: source counts, tone-free search, deterministic quiz/unique distractors, old-engine validation, historical question registry, daily plan budget/near-exam/progress, readiness evidence gate, adaptive selection, recurring mistakes/mastery, mapped quoted CSV, isolated storage/corruption backup.');
+}finally{await server.close();}

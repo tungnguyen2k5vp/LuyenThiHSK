@@ -1,0 +1,57 @@
+{
+  "name": "HearMandarin HSK 3.0 Word List Dataset",
+  "version": "2026-09-09",
+  "generated": "2026-09-28",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "HearMandarin (https://hearmandarin.com)",
+  "homepage": "https://hearmandarin.com/datasets/",
+  "source": "Official 2025 HSK 3.0 exam syllabus word list and the 2015 HSK 2.0 word list. See https://hearmandarin.com/data-sources/ for exact file names and dates.",
+  "fields": [
+    {
+      "name": "id",
+      "description": "Stable word id used across the site (e.g. w00001)."
+    },
+    {
+      "name": "simplified",
+      "description": "Simplified Chinese form."
+    },
+    {
+      "name": "traditional",
+      "description": "Traditional Chinese form."
+    },
+    {
+      "name": "pinyin",
+      "description": "Pinyin with tone marks."
+    },
+    {
+      "name": "pinyin_num",
+      "description": "Pinyin with tone numbers (e.g. ai4)."
+    },
+    {
+      "name": "hsk3_band",
+      "description": "HSK 3.0 band, 1 to 7 (7 means bands 7 to 9, which the syllabus does not split). Empty for words that are only in HSK 2.0."
+    },
+    {
+      "name": "hsk3_seq",
+      "description": "Sequence number inside its HSK 3.0 band, per the official syllabus order. Empty for words that are only in HSK 2.0."
+    },
+    {
+      "name": "hsk2_level",
+      "description": "HSK 2.0 level, 1 to 6. Empty for words that are not in the 2.0 list."
+    },
+    {
+      "name": "pos_zh",
+      "description": "Part of speech as given by the official list, in Chinese. A word can carry more than one, separated by 、."
+    },
+    {
+      "name": "pos_en",
+      "description": "Part of speech in English, mapped from pos_zh. Multiple values are joined with \"; \"."
+    },
+    {
+      "name": "gloss_en",
+      "description": "Short teaching gloss in English, written or reviewed in-house. Not the CC-CEDICT dictionary text."
+    }
+  ],
+  "count": 11147
+}

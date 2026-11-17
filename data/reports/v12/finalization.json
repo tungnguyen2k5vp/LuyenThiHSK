@@ -1,0 +1,26 @@
+{
+  "at": "2026-10-19T00:58:46.583Z",
+  "status": "LOCAL_HANDOFF_VALIDATED_READINESS_GATES_PENDING",
+  "documents": 20,
+  "editorial": 1339,
+  "screenshots": 46,
+  "handoff": "TAI_LIEU_TONG_HOP_HSK/V12_BAN_GIAO",
+  "workflow": {
+    "draft": 5,
+    "needsReview": 1334,
+    "internallyValidated": 1339,
+    "humanReviewed": 0,
+    "published": 0
+  },
+  "performanceBudgetStatus": "ATTENTION",
+  "performanceAttention": [
+    "domInteractiveMs",
+    "loadEventEndMs",
+    "examStartRenderMs",
+    "audioDownloadMs",
+    "imageDownloadMs",
+    "reviewFilterResponseMs"
+  ],
+  "checkedAt": "2026-10-19T00:58:48.077Z",
+  "handoffChecks": 3517
+}

@@ -1,0 +1,6 @@
+import {mkdir,copyFile,readFile,writeFile} from 'node:fs/promises';
+import {DatabaseSync} from 'node:sqlite';
+import {randomUUID,createHash} from 'node:crypto';
+import path from 'node:path';
+import assert from 'node:assert/strict';
+const source='.runtime/backups/before-v6-2026-10-16/hsk-content.sqlite',directory=path.resolve('.tmp/v6-restore-'+randomUUID());assert.ok(directory.startsWith(path.resolve('.tmp')+path.sep));await mkdir(directory,{recursive:true});const target=path.join(directory,'restored.sqlite');await copyFile(source,target);const hash=async p=>createHash('sha256').update(await readFile(p)).digest('hex');assert.equal(await hash(source),await hash(target));const db=new DatabaseSync(target,{readOnly:true});assert.equal(Object.values(db.prepare('PRAGMA integrity_check').get())[0],'ok');const rows=db.prepare('SELECT kind,status,COUNT(*) count FROM content GROUP BY kind,status').all();db.close();await writeFile('data/reports/v6/restore-check.json',JSON.stringify({at:new Date().toISOString(),status:'PASS',source,target,sha256:await hash(target),rows,method:'Restore consistent VACUUM backup to separate temporary database; compare SHA256, integrity and query content',liveDatabaseReset:false,cloudRestore:'NOT_TESTED_NOT_DEPLOYED'},null,2));console.log('PASS isolated SQLite restore; live data preserved.');

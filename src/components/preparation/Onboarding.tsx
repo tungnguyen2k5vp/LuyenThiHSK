@@ -1,0 +1,13 @@
+import { useState } from 'react';
+import type { LearnerProfile } from '../../services/preparationStorage';
+import { LEVELS } from '../../services/preparationStorage';
+export function Onboarding({profile,onSave,levels=LEVELS}:{profile:LearnerProfile;onSave:(profile:LearnerProfile)=>void;levels?:string[]}){
+  const [step,setStep]=useState(0);const [draft,setDraft]=useState(profile);
+  const titles=['Bạn đang chuẩn bị HSK cấp nào?','Trình độ hiện tại của bạn?','Bạn dự kiến thi khi nào?','Mỗi ngày bạn muốn học bao lâu?'];
+  return <section className="card onboarding" aria-labelledby="onboarding-title"><div className="onboarding-top"><span>THIẾT LẬP KẾ HOẠCH · {step+1}/4</span><button className="btn btn-ghost" onClick={()=>onSave({...draft,onboarding:'skipped'})}>Bỏ qua</button></div><h2 id="onboarding-title">{titles[step]}</h2><p>Chọn mục tiêu để nhận việc học vừa sức mỗi ngày. Bạn có thể đổi lại trong Hồ sơ.</p><form onSubmit={e=>{e.preventDefault();if(step<3)setStep(step+1);else onSave({...draft,onboarding:'done'});}}>
+    {step===0&&<div className="onboarding-levels">{levels.map(level=><button type="button" className={'btn '+(draft.targetLevel===level?'btn-primary':'btn-secondary')} key={level} aria-pressed={draft.targetLevel===level} onClick={()=>setDraft({...draft,targetLevel:level})}>HSK {level}</button>)}</div>}
+    {step===1&&<label>Trình độ tự đánh giá<select value={draft.currentLevel} onChange={e=>setDraft({...draft,currentLevel:e.target.value})}><option value="unknown">Chưa biết</option>{LEVELS.map(l=><option value={l} key={l}>HSK {l}</option>)}</select>{draft.currentLevel==='unknown'&&<small>Bạn có thể làm bài khởi động từ vựng sau khi tạo kế hoạch.</small>}</label>}
+    {step===2&&<label>Ngày thi dự kiến<input type="date" min={new Date().toISOString().slice(0,10)} value={draft.examDate} onChange={e=>setDraft({...draft,examDate:e.target.value})}/><small>Để trống nếu bạn chưa có lịch thi.</small></label>}
+    {step===3&&<><div className="dialog-actions">{[15,30,45,60].map(minutes=><button type="button" key={minutes} className={'btn '+(draft.minutesPerDay===minutes?'btn-primary':'btn-secondary')} onClick={()=>setDraft({...draft,minutesPerDay:minutes})}>{minutes} phút</button>)}</div><label>Hoặc số phút riêng<input type="number" min={5} max={240} required value={draft.minutesPerDay} onChange={e=>setDraft({...draft,minutesPerDay:Number(e.target.value)})}/></label></>}
+    <div className="onboarding-controls">{step>0&&<button className="btn btn-secondary" type="button" onClick={()=>setStep(step-1)}>Quay lại</button>}<button className="btn btn-primary" type="submit">{step<3?'Tiếp tục':'Tạo kế hoạch của tôi'}</button></div></form></section>;
+}

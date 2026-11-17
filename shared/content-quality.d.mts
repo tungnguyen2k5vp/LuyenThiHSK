@@ -1,0 +1,1 @@
+export const fullTemplateReferences:Record<string,{sourceUrl:string;checkedAt:string;administrationMinutes:number;sections:{skill:string;count:number;durationMinutes:number;parts:{part:number;type:string;count:number}[]}[]}>;

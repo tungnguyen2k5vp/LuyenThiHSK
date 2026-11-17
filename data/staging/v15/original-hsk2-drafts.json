@@ -1,0 +1,598 @@
+{
+  "lessons": [
+    {
+      "id": "v15-hsk2-lesson-cause",
+      "level": "2",
+      "grammarPointId": "HSK30-2025-GRA-HSK2-00027",
+      "title": "因为: nêu nguyên nhân",
+      "pattern": "因为 + nguyên nhân，(所以 + kết quả)",
+      "explanationVi": "因为 đứng trước nguyên nhân. 所以 có thể đứng trước kết quả. Bài tập này tập trung vào quan hệ nguyên nhân, không dùng 因为 như động từ.",
+      "examples": [
+        {
+          "zh": "因为今天下雨，所以我们在家吃饭。",
+          "pinyin": "Yīnwèi jīntiān xià yǔ, suǒyǐ wǒmen zài jiā chī fàn.",
+          "vi": "Vì hôm nay trời mưa nên chúng tôi ăn cơm ở nhà."
+        }
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "syllabusMapping": "REFERENCE_MEMBERSHIP_PENDING_EXPERT_REVIEW",
+      "licenseStatus": "ORIGINAL_DRAFT_PENDING_REVIEW"
+    },
+    {
+      "id": "v15-hsk2-lesson-choice",
+      "level": "2",
+      "grammarPointId": "HSK30-2025-GRA-HSK2-00056",
+      "title": "还是: câu hỏi lựa chọn",
+      "pattern": "Lựa chọn A + 还是 + lựa chọn B？",
+      "explanationVi": "Trong câu hỏi lựa chọn, 还是 nối các khả năng để người nghe chọn. Thường trả lời bằng khả năng được chọn. Không thêm 吗 vào cuối mẫu câu hỏi lựa chọn này.",
+      "examples": [
+        {
+          "zh": "你想喝茶还是喝水？",
+          "pinyin": "Nǐ xiǎng hē chá háishi hē shuǐ?",
+          "vi": "Bạn muốn uống trà hay uống nước?"
+        }
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "syllabusMapping": "REFERENCE_MEMBERSHIP_PENDING_EXPERT_REVIEW",
+      "licenseStatus": "ORIGINAL_DRAFT_PENDING_REVIEW"
+    }
+  ],
+  "questions": [
+    {
+      "id": "v15-hsk2-cause-1",
+      "revision": 1,
+      "number": 1,
+      "level": "2",
+      "hskLevel": "2",
+      "skill": "reading",
+      "type": "fill-blank",
+      "questionType": "fill-blank",
+      "difficulty": "easy",
+      "instruction": "Chọn đáp án phù hợp với cấu trúc đang học.",
+      "promptZh": "____今天下雨，所以我们不去公园。",
+      "options": [
+        {
+          "id": "A",
+          "text": "因为"
+        },
+        {
+          "id": "B",
+          "text": "比"
+        },
+        {
+          "id": "C",
+          "text": "从"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "因为 mở đầu nguyên nhân “hôm nay trời mưa”; 所以 mở đầu kết quả.",
+      "vocabularyIds": [
+        "cti25-v-86",
+        "cti25-v-94",
+        "cti25-v-227",
+        "cti25-v-271",
+        "cti25-v-476"
+      ],
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00027"
+      ],
+      "topicIds": [
+        "daily-life"
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "source": "LuyenThiHSK original V15 supplementary draft",
+      "sourceUrl": "local:editorial/v15/original",
+      "license": "Original AI-assisted draft; language and level review pending",
+      "syllabusVersion": "hsk3-2025",
+      "contentEnvironment": "PREVIEW",
+      "assessmentSuitability": "SUPPLEMENTARY_PRACTICE",
+      "scoring": "objective"
+    },
+    {
+      "id": "v15-hsk2-cause-2",
+      "revision": 1,
+      "number": 2,
+      "level": "2",
+      "hskLevel": "2",
+      "skill": "reading",
+      "type": "fill-blank",
+      "questionType": "fill-blank",
+      "difficulty": "easy",
+      "instruction": "Chọn đáp án phù hợp với cấu trúc đang học.",
+      "promptZh": "因为他今天很忙，____不能来。",
+      "options": [
+        {
+          "id": "A",
+          "text": "还是"
+        },
+        {
+          "id": "B",
+          "text": "所以"
+        },
+        {
+          "id": "C",
+          "text": "比"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "所以 dẫn kết quả “không thể đến” của nguyên nhân “hôm nay rất bận”.",
+      "vocabularyIds": [
+        "cti25-v-86",
+        "cti25-v-94",
+        "cti25-v-227",
+        "cti25-v-271",
+        "cti25-v-476"
+      ],
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00027"
+      ],
+      "topicIds": [
+        "daily-life"
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "source": "LuyenThiHSK original V15 supplementary draft",
+      "sourceUrl": "local:editorial/v15/original",
+      "license": "Original AI-assisted draft; language and level review pending",
+      "syllabusVersion": "hsk3-2025",
+      "contentEnvironment": "PREVIEW",
+      "assessmentSuitability": "SUPPLEMENTARY_PRACTICE",
+      "scoring": "objective"
+    },
+    {
+      "id": "v15-hsk2-cause-3",
+      "revision": 1,
+      "number": 3,
+      "level": "2",
+      "hskLevel": "2",
+      "skill": "reading",
+      "type": "fill-blank",
+      "questionType": "fill-blank",
+      "difficulty": "easy",
+      "instruction": "Chọn đáp án phù hợp với cấu trúc đang học.",
+      "promptZh": "____我喜欢汉语，所以每天都学习。",
+      "options": [
+        {
+          "id": "A",
+          "text": "跟"
+        },
+        {
+          "id": "B",
+          "text": "从"
+        },
+        {
+          "id": "C",
+          "text": "因为"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "因为 dẫn nguyên nhân “tôi thích tiếng Trung”.",
+      "vocabularyIds": [
+        "cti25-v-86",
+        "cti25-v-94",
+        "cti25-v-227",
+        "cti25-v-271",
+        "cti25-v-476"
+      ],
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00027"
+      ],
+      "topicIds": [
+        "daily-life"
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "source": "LuyenThiHSK original V15 supplementary draft",
+      "sourceUrl": "local:editorial/v15/original",
+      "license": "Original AI-assisted draft; language and level review pending",
+      "syllabusVersion": "hsk3-2025",
+      "contentEnvironment": "PREVIEW",
+      "assessmentSuitability": "SUPPLEMENTARY_PRACTICE",
+      "scoring": "objective"
+    },
+    {
+      "id": "v15-hsk2-cause-4",
+      "revision": 1,
+      "number": 4,
+      "level": "2",
+      "hskLevel": "2",
+      "skill": "reading",
+      "type": "fill-blank",
+      "questionType": "fill-blank",
+      "difficulty": "easy",
+      "instruction": "Chọn đáp án phù hợp với cấu trúc đang học.",
+      "promptZh": "因为明天有考试，所以我今晚____。",
+      "options": [
+        {
+          "id": "A",
+          "text": "要学习"
+        },
+        {
+          "id": "B",
+          "text": "比昨天"
+        },
+        {
+          "id": "C",
+          "text": "从学校"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kết quả phù hợp là “tối nay cần học”. Hai lựa chọn còn lại không tạo được vị ngữ hoàn chỉnh trong câu này.",
+      "vocabularyIds": [
+        "cti25-v-86",
+        "cti25-v-94",
+        "cti25-v-227",
+        "cti25-v-271",
+        "cti25-v-476"
+      ],
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00027"
+      ],
+      "topicIds": [
+        "daily-life"
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "source": "LuyenThiHSK original V15 supplementary draft",
+      "sourceUrl": "local:editorial/v15/original",
+      "license": "Original AI-assisted draft; language and level review pending",
+      "syllabusVersion": "hsk3-2025",
+      "contentEnvironment": "PREVIEW",
+      "assessmentSuitability": "SUPPLEMENTARY_PRACTICE",
+      "scoring": "objective"
+    },
+    {
+      "id": "v15-hsk2-cause-5",
+      "revision": 1,
+      "number": 5,
+      "level": "2",
+      "hskLevel": "2",
+      "skill": "reading",
+      "type": "fill-blank",
+      "questionType": "fill-blank",
+      "difficulty": "easy",
+      "instruction": "Chọn đáp án phù hợp với cấu trúc đang học.",
+      "promptZh": "因为今天很冷，所以我____。",
+      "options": [
+        {
+          "id": "A",
+          "text": "还是昨天"
+        },
+        {
+          "id": "B",
+          "text": "穿了很多衣服"
+        },
+        {
+          "id": "C",
+          "text": "比学校"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "“Mặc nhiều quần áo” là kết quả phù hợp với thời tiết lạnh; các cụm còn lại không hoàn thành câu.",
+      "vocabularyIds": [
+        "cti25-v-86",
+        "cti25-v-94",
+        "cti25-v-227",
+        "cti25-v-271",
+        "cti25-v-476"
+      ],
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00027"
+      ],
+      "topicIds": [
+        "daily-life"
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "source": "LuyenThiHSK original V15 supplementary draft",
+      "sourceUrl": "local:editorial/v15/original",
+      "license": "Original AI-assisted draft; language and level review pending",
+      "syllabusVersion": "hsk3-2025",
+      "contentEnvironment": "PREVIEW",
+      "assessmentSuitability": "SUPPLEMENTARY_PRACTICE",
+      "scoring": "objective"
+    },
+    {
+      "id": "v15-hsk2-choice-1",
+      "revision": 1,
+      "number": 1,
+      "level": "2",
+      "hskLevel": "2",
+      "skill": "reading",
+      "type": "fill-blank",
+      "questionType": "fill-blank",
+      "difficulty": "easy",
+      "instruction": "Chọn đáp án phù hợp với cấu trúc đang học.",
+      "promptZh": "你想喝茶____喝水？",
+      "options": [
+        {
+          "id": "A",
+          "text": "还是"
+        },
+        {
+          "id": "B",
+          "text": "所以"
+        },
+        {
+          "id": "C",
+          "text": "因为"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "还是 nối hai lựa chọn “uống trà” và “uống nước” trong câu hỏi.",
+      "vocabularyIds": [
+        "cti25-v-17",
+        "cti25-v-77",
+        "cti25-v-94",
+        "cti25-v-129",
+        "cti25-v-192",
+        "cti25-v-352"
+      ],
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00056"
+      ],
+      "topicIds": [
+        "daily-life"
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "source": "LuyenThiHSK original V15 supplementary draft",
+      "sourceUrl": "local:editorial/v15/original",
+      "license": "Original AI-assisted draft; language and level review pending",
+      "syllabusVersion": "hsk3-2025",
+      "contentEnvironment": "PREVIEW",
+      "assessmentSuitability": "SUPPLEMENTARY_PRACTICE",
+      "scoring": "objective"
+    },
+    {
+      "id": "v15-hsk2-choice-2",
+      "revision": 1,
+      "number": 2,
+      "level": "2",
+      "hskLevel": "2",
+      "skill": "reading",
+      "type": "fill-blank",
+      "questionType": "fill-blank",
+      "difficulty": "easy",
+      "instruction": "Chọn đáp án phù hợp với cấu trúc đang học.",
+      "promptZh": "你今天去____明天去？",
+      "options": [
+        {
+          "id": "A",
+          "text": "比"
+        },
+        {
+          "id": "B",
+          "text": "还是"
+        },
+        {
+          "id": "C",
+          "text": "从"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "还是 nối hai thời điểm để người nghe chọn.",
+      "vocabularyIds": [
+        "cti25-v-17",
+        "cti25-v-77",
+        "cti25-v-94",
+        "cti25-v-129",
+        "cti25-v-192",
+        "cti25-v-352"
+      ],
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00056"
+      ],
+      "topicIds": [
+        "daily-life"
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "source": "LuyenThiHSK original V15 supplementary draft",
+      "sourceUrl": "local:editorial/v15/original",
+      "license": "Original AI-assisted draft; language and level review pending",
+      "syllabusVersion": "hsk3-2025",
+      "contentEnvironment": "PREVIEW",
+      "assessmentSuitability": "SUPPLEMENTARY_PRACTICE",
+      "scoring": "objective"
+    },
+    {
+      "id": "v15-hsk2-choice-3",
+      "revision": 1,
+      "number": 3,
+      "level": "2",
+      "hskLevel": "2",
+      "skill": "reading",
+      "type": "fill-blank",
+      "questionType": "fill-blank",
+      "difficulty": "easy",
+      "instruction": "Chọn đáp án phù hợp với cấu trúc đang học.",
+      "promptZh": "你喜欢苹果____香蕉？",
+      "options": [
+        {
+          "id": "A",
+          "text": "所以"
+        },
+        {
+          "id": "B",
+          "text": "因为"
+        },
+        {
+          "id": "C",
+          "text": "还是"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "还是 nối hai loại quả trong câu hỏi lựa chọn.",
+      "vocabularyIds": [
+        "cti25-v-17",
+        "cti25-v-77",
+        "cti25-v-94",
+        "cti25-v-129",
+        "cti25-v-192",
+        "cti25-v-352"
+      ],
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00056"
+      ],
+      "topicIds": [
+        "daily-life"
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "source": "LuyenThiHSK original V15 supplementary draft",
+      "sourceUrl": "local:editorial/v15/original",
+      "license": "Original AI-assisted draft; language and level review pending",
+      "syllabusVersion": "hsk3-2025",
+      "contentEnvironment": "PREVIEW",
+      "assessmentSuitability": "SUPPLEMENTARY_PRACTICE",
+      "scoring": "objective"
+    },
+    {
+      "id": "v15-hsk2-choice-4",
+      "revision": 1,
+      "number": 4,
+      "level": "2",
+      "hskLevel": "2",
+      "skill": "reading",
+      "type": "fill-blank",
+      "questionType": "fill-blank",
+      "difficulty": "easy",
+      "instruction": "Chọn đáp án phù hợp với cấu trúc đang học.",
+      "promptZh": "“你想吃米饭还是面条？”最直接的回答是：",
+      "options": [
+        {
+          "id": "A",
+          "text": "我想吃面条。"
+        },
+        {
+          "id": "B",
+          "text": "是的，还是。"
+        },
+        {
+          "id": "C",
+          "text": "因为米饭。"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trả lời trực tiếp bằng món được chọn: “Tôi muốn ăn mì”.",
+      "vocabularyIds": [
+        "cti25-v-17",
+        "cti25-v-77",
+        "cti25-v-94",
+        "cti25-v-129",
+        "cti25-v-192",
+        "cti25-v-352"
+      ],
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00056"
+      ],
+      "topicIds": [
+        "daily-life"
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "source": "LuyenThiHSK original V15 supplementary draft",
+      "sourceUrl": "local:editorial/v15/original",
+      "license": "Original AI-assisted draft; language and level review pending",
+      "syllabusVersion": "hsk3-2025",
+      "contentEnvironment": "PREVIEW",
+      "assessmentSuitability": "SUPPLEMENTARY_PRACTICE",
+      "scoring": "objective"
+    },
+    {
+      "id": "v15-hsk2-choice-5",
+      "revision": 1,
+      "number": 5,
+      "level": "2",
+      "hskLevel": "2",
+      "skill": "reading",
+      "type": "fill-blank",
+      "questionType": "fill-blank",
+      "difficulty": "easy",
+      "instruction": "Chọn đáp án phù hợp với cấu trúc đang học.",
+      "promptZh": "请选择一个不需要再加“吗”的问句。",
+      "options": [
+        {
+          "id": "A",
+          "text": "你喜欢汉语"
+        },
+        {
+          "id": "B",
+          "text": "你想喝茶还是喝水"
+        },
+        {
+          "id": "C",
+          "text": "你今天很忙"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "“你想喝茶还是喝水？” đã là câu hỏi lựa chọn; không cần thêm 吗.",
+      "vocabularyIds": [
+        "cti25-v-17",
+        "cti25-v-77",
+        "cti25-v-94",
+        "cti25-v-129",
+        "cti25-v-192",
+        "cti25-v-352"
+      ],
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00056"
+      ],
+      "topicIds": [
+        "daily-life"
+      ],
+      "sourceType": "AI_GENERATED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW"
+      },
+      "source": "LuyenThiHSK original V15 supplementary draft",
+      "sourceUrl": "local:editorial/v15/original",
+      "license": "Original AI-assisted draft; language and level review pending",
+      "syllabusVersion": "hsk3-2025",
+      "contentEnvironment": "PREVIEW",
+      "assessmentSuitability": "SUPPLEMENTARY_PRACTICE",
+      "scoring": "objective"
+    }
+  ],
+  "publicationAllowed": false,
+  "stagedOnly": true,
+  "notes": "No database import, expert approval, official question reproduction or audio rights grant."
+}

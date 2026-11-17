@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "name": "Home desktop",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-homepage.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 2,
+    "name": "Home mobile",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-mobile-homepage.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 3,
+    "name": "HSK catalog",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-main-catalog.png",
+    "fixture": "Isolated learner profile; real private editorial content",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 4,
+    "name": "HSK1 practice list",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-practice.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 5,
+    "name": "HSK1 part selection",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-practice.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 6,
+    "name": "HSK1 timed session",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-full-mock.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 7,
+    "name": "Listening",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-listening.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 8,
+    "name": "Matching",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-multi-matching.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 9,
+    "name": "Image question",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-picture-question.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 10,
+    "name": "Answer selected",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-practice-feedback.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 11,
+    "name": "Navigator",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-question-navigator-keyboard-focus.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 12,
+    "name": "Submit confirmation",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-keyboard-submit-dialog.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 13,
+    "name": "Exam result",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-results.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 14,
+    "name": "Part breakdown",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-part-results.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 15,
+    "name": "Answer review",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-practice-feedback.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 16,
+    "name": "Weakness",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-weakness.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 17,
+    "name": "HSK2 landing",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-hsk2-landing-reading-list.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 18,
+    "name": "HSK2 pilot list",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-hsk2-landing-reading-list.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 19,
+    "name": "HSK2 reading",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-hsk2-reading-feedback.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 20,
+    "name": "HSK2 writing",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-hsk2-writing-hanzi-input.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 21,
+    "name": "HSK2 unavailable media",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-hsk2-listening-media-unavailable.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 22,
+    "name": "HSK2 limitations",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-hsk2-limitations.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 23,
+    "name": "Grammar lesson",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-grammar.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 24,
+    "name": "Grammar independent practice",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-grammar-practice.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 25,
+    "name": "Review dashboard",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-review-dashboard-ready.png",
+    "fixture": "Isolated learner profile; real private editorial content",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 26,
+    "name": "High risk batch",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-review-batch-a.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 27,
+    "name": "Question detail",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-review-question-split-preview.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 28,
+    "name": "Review checklist",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-review-checklist.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 29,
+    "name": "Edit draft",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-edit-draft-fixture.png",
+    "fixture": "QA content fixture newly created; not part of learner release",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 30,
+    "name": "Revision diff",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-draft-revision-before-after.png",
+    "fixture": "QA fixture revision1 preserved and revision2 diff shown",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 31,
+    "name": "Audio review",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-audio-review-focused.png",
+    "fixture": "Isolated learner profile; real private editorial content",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 32,
+    "name": "Image review",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-image-review-focused.png",
+    "fixture": "Isolated learner profile; real private editorial content",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 33,
+    "name": "Save and Next",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-save-and-next.png",
+    "fixture": "QA content fixture; revision created and next item opened",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 34,
+    "name": "Stale revision",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-stale-revision-conflict.png",
+    "fixture": "QA concurrent editor fixture; server rejected stale write",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 35,
+    "name": "Import validation",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-import-validation-conflict.png",
+    "fixture": "QA stale import file; dry run changed zero records",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 36,
+    "name": "Publication blocked",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-publication-human-blocked.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 37,
+    "name": "Audio failure",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-audio-retry-ten-cycles.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 38,
+    "name": "Image failure",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-image-failure-timer-paused.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 39,
+    "name": "Recovery",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-image-recovered.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 40,
+    "name": "Mobile320",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-hsk2-width-320.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 41,
+    "name": "Mobile390",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v8-hsk2-width-390.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 42,
+    "name": "Keyboard focus",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-question-navigator-keyboard-focus.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 43,
+    "name": "Text scale200",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-text-scale-200.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 44,
+    "name": "Guest account",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-account-guest.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 45,
+    "name": "Cloud unavailable",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/after-chrome/v7-desktop-account-guest.png",
+    "fixture": "Isolated learner attempts; media faults explicitly named",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 46,
+    "name": "Sync conflict",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-sync-conflict-fixture.png",
+    "fixture": "ACCOUNT TRANSPORT/UI FIXTURE; live cloud remains NOT_CONFIGURED",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 47,
+    "name": "Empty HSK2",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-empty-hsk2-fixture.png",
+    "fixture": "NETWORK EMPTY CONTENT FIXTURE; production pilot actually has27 drafts",
+    "note": "Actual browser app screen; fixture limitations retained"
+  },
+  {
+    "id": 48,
+    "name": "Historical result",
+    "status": "PASS_CAPTURED",
+    "path": "docs/screenshots/v8/extra-chrome/v8-historical-result.png",
+    "fixture": "Isolated learner profile; real private editorial content",
+    "note": "Actual browser app screen; fixture limitations retained"
+  }
+]

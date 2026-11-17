@@ -1,0 +1,20 @@
+﻿import {readFile,writeFile,mkdir,cp,readdir} from 'node:fs/promises';
+import {DatabaseSync} from 'node:sqlite';
+import {createHash} from 'node:crypto';
+import path from 'node:path';
+import {spawnSync} from 'node:child_process';
+const at=new Date().toISOString(),dir='.runtime/backups/before-v8-'+at.replace(/[:.]/g,'-');
+await mkdir(dir,{recursive:true});await mkdir('data/reports/v8',{recursive:true});await mkdir('docs/v8',{recursive:true});
+const db=new DatabaseSync('.runtime/hsk-content.sqlite',{readOnly:true});
+const integrity=db.prepare('PRAGMA integrity_check').get();if(Object.values(integrity)[0]!=='ok')throw Error('Database integrity failed');
+const rows=db.prepare('SELECT id,revision,kind,status,payload FROM content ORDER BY id,revision').all();
+const hash=v=>createHash('sha256').update(JSON.stringify(v)).digest('hex');
+const schema=db.prepare("SELECT name,sql FROM sqlite_master WHERE type='table' ORDER BY name").all();
+db.prepare('VACUUM INTO ?').run(path.resolve(dir,'hsk-content.sqlite'));db.close();
+for(const p of ['src','shared','server','scripts','schemas','public','data/staging','data/editorial','docs/v7','package.json','package-lock.json','vite.config.ts','tsconfig.json'])await cp(p,path.join(dir,p),{recursive:true,errorOnExist:true});
+const restored='.tmp/v8-restore-'+Date.now()+'.sqlite';await cp(path.join(dir,'hsk-content.sqlite'),restored);const temp=new DatabaseSync(restored,{readOnly:true});const restoredIntegrity=temp.prepare('PRAGMA integrity_check').get();const restoredRows=temp.prepare('SELECT id,revision,kind,status,payload FROM content ORDER BY id,revision').all();temp.close();if(hash(restoredRows)!==hash(rows))throw Error('Restore mismatch');
+const documents={};for(const name of await readdir('docs/v7'))if(name.endsWith('.md'))documents[name]=hash(await readFile('docs/v7/'+name,'utf8'));
+const git=spawnSync('git',['status','--short'],{encoding:'utf8',windowsHide:true});
+const report={at,backup:dir,git:{available:git.status===0,output:git.stdout||git.stderr},integrity,schema,allRevisions:rows.length,fingerprint:hash(rows),records:rows.map(({payload,...r})=>({...r,payloadHash:hash(payload)})),restore:{path:restored,integrity:restoredIntegrity,fingerprint:hash(restoredRows),status:'PASS'},v7DocumentsRead:documents,archive6:'NOT_FOUND_IN_WORKSPACE',storageKeys:'UNCHANGED: QA uses isolated profiles; actual learner localStorage is not read or modified'};
+await writeFile('data/reports/v8/baseline.json',JSON.stringify(report,null,2));await writeFile('docs/v8/V7_BASELINE.md','# V7 baseline\n\n'+at+'\n\nSource: V6 filesystem snapshot (no Git repository). Backup: `'+dir+'`. SQLite integrity and restore to separate temporary database PASS; '+rows.length+' historical revisions, SHA256 '+report.fingerprint+'. No live restore/reset. Existing storage keys retained.\n\nRead all '+Object.keys(documents).length+' V6 Markdown reports; hashes in data/reports/v8/baseline.json. Referenced archive TAI_LIEU_TONG_HOP_HSK(6).rar was not found; actual source and current V6 documentation are used.\n');console.log(JSON.stringify({backup:dir,rows:rows.length,integrity,restore:'PASS'}));
+

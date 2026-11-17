@@ -1,0 +1,28 @@
+{
+  "at": "2026-10-19T01:43:39.813Z",
+  "buildRoot": "D:\\ReactJS\\LuyenThiHSK\\.tmp\\v13-baseline-source-1792374216452",
+  "snapshot": "D:\\ReactJS\\LuyenThiHSK\\.runtime\\backups\\before-v13-2026-10-19T01-31-46-014Z",
+  "supplement": [
+    {
+      "path": "docs/DATA_SOURCES.md",
+      "sha256": "e9b634721421f5f925fefd65515d15b9a578ef2fd89c46759899e96dd883864d",
+      "provenance": "Captured after baseline: omitted raw-import documentation dependency, not frozen V12 source"
+    },
+    {
+      "path": "docs/REFERENCE_REPOSITORIES.md",
+      "sha256": "0bd80e2523013ccb9027f608a5c1f636451815c261e5ec3b11b8ed64d2bd65a8",
+      "provenance": "Captured after baseline: omitted raw-import documentation dependency, not frozen V12 source"
+    },
+    {
+      "path": "docs/CONTENT_LICENSES.md",
+      "sha256": "af13a216e07d73dfd35520b99f31deb4beca908ac7094b065bc727972ed106e4",
+      "provenance": "Captured after baseline: omitted raw-import documentation dependency, not frozen V12 source"
+    },
+    {
+      "path": "docs/CONTENT_POLICY.md",
+      "sha256": "23abeea044fb352568eb542dd8cf681e5f00f28989b6b3966a66ee55ddd1bf27",
+      "provenance": "Captured after baseline: omitted raw-import documentation dependency, not frozen V12 source"
+    }
+  ],
+  "originalBackupModified": false
+}

@@ -1,0 +1,20 @@
+{
+  "at": "2026-10-16T05:57:03.785Z",
+  "status": "PASS",
+  "browser": "Chrome",
+  "widths": [
+    320,
+    375,
+    390,
+    430,
+    768,
+    1280
+  ],
+  "matchingRows": 8,
+  "longOptions": 8,
+  "nativeArrowKeyboard": true,
+  "refreshRecovery": true,
+  "correctScoring": true,
+  "fixtureOnly": true,
+  "liveContentAdded": 0
+}

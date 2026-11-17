@@ -1,0 +1,188 @@
+{
+  "status": "PASS",
+  "method": "Pillow decode and >32 unique RGB colors. Detects flat captures; not visual/human accessibility approval.",
+  "images": [
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-hsk2-hub.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2579,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-audio-workbench.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2286,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-listening-blocked.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2589,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-reading-result.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2368,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-mixed-mini.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2143,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-writing-restored.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2142,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-mobile-writing.png",
+      "width": 390,
+      "height": 900,
+      "uniqueColors": 2530,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-writing-ungraded.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2359,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-grammar-lesson.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 4017,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-vocabulary-detail.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 3422,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-study-plan.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2543,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-mobile-hub.png",
+      "width": 390,
+      "height": 900,
+      "uniqueColors": 1933,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-chrome/v10-offline-review-package.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 1463,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-hsk2-hub.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2577,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-audio-workbench.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2284,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-listening-blocked.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2587,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-reading-result.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2366,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-mixed-mini.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2141,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-writing-restored.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2140,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-mobile-writing.png",
+      "width": 390,
+      "height": 900,
+      "uniqueColors": 2530,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-writing-ungraded.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2357,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-grammar-lesson.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 4009,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-vocabulary-detail.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 3420,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-study-plan.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2541,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-mobile-hub.png",
+      "width": 390,
+      "height": 900,
+      "uniqueColors": 1933,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v10/after-edge/v10-offline-review-package.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 1461,
+      "status": "PASS"
+    }
+  ]
+}

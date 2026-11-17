@@ -1,0 +1,386 @@
+[
+  {
+    "partId": "L1",
+    "sectionId": "listening",
+    "order": 1,
+    "questionCount": 5,
+    "questionType": "picture-choice",
+    "instructions": "Nghe và chọn hình phù hợp",
+    "mediaPolicy": {
+      "kind": "pictures",
+      "audio": true,
+      "playbackAuthority": "PLATFORM_POLICY",
+      "transcript": "AFTER_CHECK_OR_SUBMIT_ONLY"
+    },
+    "answerPolicy": {
+      "kind": "SINGLE_CHOICE",
+      "options": 3,
+      "bankSize": 1
+    },
+    "timePolicy": {
+      "kind": "SECTION_BUDGET",
+      "seconds": null,
+      "authority": "PLATFORM_POLICY"
+    },
+    "sourceEvidence": {
+      "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+      "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+      "evidenceDescription": "Sample printed pages1–2: three picture options per item",
+      "verifiedAt": "2026-10-16",
+      "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+    },
+    "verificationStatus": "VERIFIED_PAPER_SAMPLE_TYPE_AND_COUNT",
+    "available": 10,
+    "completeGroups": null,
+    "independentVariants": 2,
+    "blockers": [],
+    "questionIds": [
+      "v6-L1-1",
+      "v6-L1-2",
+      "v6-L1-3",
+      "v6-L1-4",
+      "v6-L1-5",
+      "v6-L1-6",
+      "v6-L1-7",
+      "v6-L1-8",
+      "v6-L1-9",
+      "v6-L1-10"
+    ]
+  },
+  {
+    "partId": "L2",
+    "sectionId": "listening",
+    "order": 2,
+    "questionCount": 5,
+    "questionType": "dialogue",
+    "instructions": "Nghe câu hỏi và chọn lời đáp",
+    "mediaPolicy": {
+      "kind": "text",
+      "audio": true,
+      "playbackAuthority": "PLATFORM_POLICY",
+      "transcript": "AFTER_CHECK_OR_SUBMIT_ONLY"
+    },
+    "answerPolicy": {
+      "kind": "SINGLE_CHOICE",
+      "options": 3,
+      "bankSize": 1
+    },
+    "timePolicy": {
+      "kind": "SECTION_BUDGET",
+      "seconds": null,
+      "authority": "PLATFORM_POLICY"
+    },
+    "sourceEvidence": {
+      "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+      "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+      "evidenceDescription": "Sample printed page3: three textual responses per item",
+      "verifiedAt": "2026-10-16",
+      "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+    },
+    "verificationStatus": "VERIFIED_PAPER_SAMPLE_TYPE_AND_COUNT",
+    "available": 10,
+    "completeGroups": null,
+    "independentVariants": 2,
+    "blockers": [],
+    "questionIds": [
+      "v6-L2-1",
+      "v6-L2-2",
+      "v6-L2-3",
+      "v6-L2-4",
+      "v6-L2-5",
+      "v6-L2-6",
+      "v6-L2-7",
+      "v6-L2-8",
+      "v6-L2-9",
+      "v6-L2-10"
+    ]
+  },
+  {
+    "partId": "L3",
+    "sectionId": "listening",
+    "order": 3,
+    "questionCount": 5,
+    "questionType": "matching",
+    "instructions": "Nghe hội thoại và ghép hình",
+    "mediaPolicy": {
+      "kind": "pictures",
+      "audio": true,
+      "playbackAuthority": "PLATFORM_POLICY",
+      "transcript": "AFTER_CHECK_OR_SUBMIT_ONLY"
+    },
+    "answerPolicy": {
+      "kind": "SHARED_SINGLE_MATCH",
+      "options": 6,
+      "bankSize": 5
+    },
+    "timePolicy": {
+      "kind": "SECTION_BUDGET",
+      "seconds": null,
+      "authority": "PLATFORM_POLICY"
+    },
+    "sourceEvidence": {
+      "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+      "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+      "evidenceDescription": "Sample printed page4: five dialogues linked to a shared six-picture bank",
+      "verifiedAt": "2026-10-16",
+      "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+    },
+    "verificationStatus": "VERIFIED_PAPER_SAMPLE_TYPE_AND_COUNT",
+    "available": 10,
+    "completeGroups": 2,
+    "independentVariants": 2,
+    "blockers": [],
+    "questionIds": [
+      "v6-L3-1",
+      "v6-L3-2",
+      "v6-L3-3",
+      "v6-L3-4",
+      "v6-L3-5",
+      "v6-L3-6",
+      "v6-L3-7",
+      "v6-L3-8",
+      "v6-L3-9",
+      "v6-L3-10"
+    ]
+  },
+  {
+    "partId": "L4",
+    "sectionId": "listening",
+    "order": 4,
+    "questionCount": 5,
+    "questionType": "short-passage",
+    "instructions": "Nghe thông tin ngắn và chọn đáp án",
+    "mediaPolicy": {
+      "kind": "text",
+      "audio": true,
+      "playbackAuthority": "PLATFORM_POLICY",
+      "transcript": "AFTER_CHECK_OR_SUBMIT_ONLY"
+    },
+    "answerPolicy": {
+      "kind": "SINGLE_CHOICE",
+      "options": 3,
+      "bankSize": 1
+    },
+    "timePolicy": {
+      "kind": "SECTION_BUDGET",
+      "seconds": null,
+      "authority": "PLATFORM_POLICY"
+    },
+    "sourceEvidence": {
+      "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+      "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+      "evidenceDescription": "Sample printed page5: short passage and question with three options",
+      "verifiedAt": "2026-10-16",
+      "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+    },
+    "verificationStatus": "VERIFIED_PAPER_SAMPLE_TYPE_AND_COUNT",
+    "available": 10,
+    "completeGroups": null,
+    "independentVariants": 2,
+    "blockers": [],
+    "questionIds": [
+      "v6-L4-1",
+      "v6-L4-2",
+      "v6-L4-3",
+      "v6-L4-4",
+      "v6-L4-5",
+      "v6-L4-6",
+      "v6-L4-7",
+      "v6-L4-8",
+      "v6-L4-9",
+      "v6-L4-10"
+    ]
+  },
+  {
+    "partId": "R1",
+    "sectionId": "reading",
+    "order": 5,
+    "questionCount": 5,
+    "questionType": "matching",
+    "instructions": "Đọc câu và ghép hình",
+    "mediaPolicy": {
+      "kind": "pictures",
+      "audio": false,
+      "playbackAuthority": "PLATFORM_POLICY",
+      "transcript": "AFTER_CHECK_OR_SUBMIT_ONLY"
+    },
+    "answerPolicy": {
+      "kind": "SHARED_SINGLE_MATCH",
+      "options": 6,
+      "bankSize": 5
+    },
+    "timePolicy": {
+      "kind": "SECTION_BUDGET",
+      "seconds": null,
+      "authority": "PLATFORM_POLICY"
+    },
+    "sourceEvidence": {
+      "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+      "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+      "evidenceDescription": "Sample printed page6: five sentences and shared six-picture bank",
+      "verifiedAt": "2026-10-16",
+      "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+    },
+    "verificationStatus": "VERIFIED_PAPER_SAMPLE_TYPE_AND_COUNT",
+    "available": 10,
+    "completeGroups": 2,
+    "independentVariants": 2,
+    "blockers": [],
+    "questionIds": [
+      "v6-R1-1",
+      "v6-R1-2",
+      "v6-R1-3",
+      "v6-R1-4",
+      "v6-R1-5",
+      "v6-R1-6",
+      "v6-R1-7",
+      "v6-R1-8",
+      "v6-R1-9",
+      "v6-R1-10"
+    ]
+  },
+  {
+    "partId": "R2",
+    "sectionId": "reading",
+    "order": 6,
+    "questionCount": 5,
+    "questionType": "shared-options",
+    "instructions": "Ghép câu với lời đáp phù hợp",
+    "mediaPolicy": {
+      "kind": "text",
+      "audio": false,
+      "playbackAuthority": "PLATFORM_POLICY",
+      "transcript": "AFTER_CHECK_OR_SUBMIT_ONLY"
+    },
+    "answerPolicy": {
+      "kind": "SHARED_SINGLE_MATCH",
+      "options": 6,
+      "bankSize": 5
+    },
+    "timePolicy": {
+      "kind": "SECTION_BUDGET",
+      "seconds": null,
+      "authority": "PLATFORM_POLICY"
+    },
+    "sourceEvidence": {
+      "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+      "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+      "evidenceDescription": "Sample printed page7: five prompts linked to six shared responses",
+      "verifiedAt": "2026-10-16",
+      "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+    },
+    "verificationStatus": "VERIFIED_PAPER_SAMPLE_TYPE_AND_COUNT",
+    "available": 10,
+    "completeGroups": 2,
+    "independentVariants": 2,
+    "blockers": [],
+    "questionIds": [
+      "v6-R2-1",
+      "v6-R2-2",
+      "v6-R2-3",
+      "v6-R2-4",
+      "v6-R2-5",
+      "v6-R2-6",
+      "v6-R2-7",
+      "v6-R2-8",
+      "v6-R2-9",
+      "v6-R2-10"
+    ]
+  },
+  {
+    "partId": "R3",
+    "sectionId": "reading",
+    "order": 7,
+    "questionCount": 5,
+    "questionType": "shared-options",
+    "instructions": "Chọn từ trong nhóm để hoàn thành câu",
+    "mediaPolicy": {
+      "kind": "text",
+      "audio": false,
+      "playbackAuthority": "PLATFORM_POLICY",
+      "transcript": "AFTER_CHECK_OR_SUBMIT_ONLY"
+    },
+    "answerPolicy": {
+      "kind": "SHARED_SINGLE_MATCH",
+      "options": 6,
+      "bankSize": 5
+    },
+    "timePolicy": {
+      "kind": "SECTION_BUDGET",
+      "seconds": null,
+      "authority": "PLATFORM_POLICY"
+    },
+    "sourceEvidence": {
+      "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+      "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+      "evidenceDescription": "Sample printed page8: five gaps and six shared words",
+      "verifiedAt": "2026-10-16",
+      "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+    },
+    "verificationStatus": "VERIFIED_PAPER_SAMPLE_TYPE_AND_COUNT",
+    "available": 10,
+    "completeGroups": 2,
+    "independentVariants": 2,
+    "blockers": [],
+    "questionIds": [
+      "v6-R3-1",
+      "v6-R3-2",
+      "v6-R3-3",
+      "v6-R3-4",
+      "v6-R3-5",
+      "v6-R3-6",
+      "v6-R3-7",
+      "v6-R3-8",
+      "v6-R3-9",
+      "v6-R3-10"
+    ]
+  },
+  {
+    "partId": "R4",
+    "sectionId": "reading",
+    "order": 8,
+    "questionCount": 5,
+    "questionType": "short-passage",
+    "instructions": "Đọc thông tin ngắn và chọn đáp án",
+    "mediaPolicy": {
+      "kind": "text",
+      "audio": false,
+      "playbackAuthority": "PLATFORM_POLICY",
+      "transcript": "AFTER_CHECK_OR_SUBMIT_ONLY"
+    },
+    "answerPolicy": {
+      "kind": "SINGLE_CHOICE",
+      "options": 3,
+      "bankSize": 1
+    },
+    "timePolicy": {
+      "kind": "SECTION_BUDGET",
+      "seconds": null,
+      "authority": "PLATFORM_POLICY"
+    },
+    "sourceEvidence": {
+      "sourceUrl": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip",
+      "sourceVersion": "HSK3.0.zip / HSK1 sample H124169Z",
+      "evidenceDescription": "Sample printed page9: short reading and three options",
+      "verifiedAt": "2026-10-16",
+      "sampleSha256": "690eb60e10610788fa32066c9fd5627f0896a7229ed0c62c825d2ec5f63c805f"
+    },
+    "verificationStatus": "VERIFIED_PAPER_SAMPLE_TYPE_AND_COUNT",
+    "available": 10,
+    "completeGroups": null,
+    "independentVariants": 2,
+    "blockers": [],
+    "questionIds": [
+      "v6-R4-1",
+      "v6-R4-2",
+      "v6-R4-3",
+      "v6-R4-4",
+      "v6-R4-5",
+      "v6-R4-6",
+      "v6-R4-7",
+      "v6-R4-8",
+      "v6-R4-9",
+      "v6-R4-10"
+    ]
+  }
+]

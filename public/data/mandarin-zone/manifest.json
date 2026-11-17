@@ -1,0 +1,1484 @@
+{
+  "version": 1,
+  "source": {
+    "source_name": "Mandarin Zone",
+    "source_url": "https://github.com/Make-dream-clear/hsk4-mock-exam",
+    "source_version": "44a0832adc327500b4cc1d6f2dfc6ee90bbe4e92",
+    "retrieved_at": "2026-10-22",
+    "license": "CC BY-NC-SA 4.0",
+    "rights_status": "open_license_verified",
+    "is_original": false,
+    "attribution": "Mandarin Zone (https://mandarinzone.com). Adapted to LuyenThiHSK question format. Non-commercial use; adaptations CC BY-NC-SA 4.0. Answer keys are from the source."
+  },
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "sets": [
+    {
+      "id": "mz-hsk4-01",
+      "title": "HSK 4 · Mandarin Zone · Bộ 01",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 86,
+      "totalQuestions": 71,
+      "skills": {
+        "listening": 31,
+        "reading": 40
+      },
+      "types": {
+        "true-false": 1,
+        "multiple-choice": 50,
+        "fill-blank": 10,
+        "sentence-order": 10
+      },
+      "url": "/data/mandarin-zone/test-01.json",
+      "sha256": "50b3a13d6d84391c89d49fda97411bcef03f8a0d064c160f481191b6be096f7c"
+    },
+    {
+      "id": "mz-hsk4-02",
+      "title": "HSK 4 · Mandarin Zone · Bộ 02",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 99,
+      "totalQuestions": 82,
+      "skills": {
+        "listening": 29,
+        "reading": 40,
+        "writing": 13
+      },
+      "types": {
+        "multiple-choice": 62,
+        "fill-blank": 10,
+        "sentence-order": 10
+      },
+      "url": "/data/mandarin-zone/test-02.json",
+      "sha256": "0d45e7d8ae8f35cfa9f080e2f167bb735b1834025776a88ded71b2d71e261bfc"
+    },
+    {
+      "id": "mz-hsk4-03",
+      "title": "HSK 4 · Mandarin Zone · Bộ 03",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 99,
+      "totalQuestions": 82,
+      "skills": {
+        "listening": 41,
+        "reading": 40,
+        "writing": 1
+      },
+      "types": {
+        "true-false": 10,
+        "multiple-choice": 52,
+        "fill-blank": 10,
+        "sentence-order": 10
+      },
+      "url": "/data/mandarin-zone/test-03.json",
+      "sha256": "9e4ca6423374880c6ef4067e2b85d6f165fc56563946cb043af2a52aab2cf014"
+    },
+    {
+      "id": "mz-hsk4-04",
+      "title": "HSK 4 · Mandarin Zone · Bộ 04",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 106,
+      "totalQuestions": 88,
+      "skills": {
+        "listening": 44,
+        "reading": 40,
+        "writing": 4
+      },
+      "types": {
+        "true-false": 10,
+        "multiple-choice": 58,
+        "fill-blank": 10,
+        "sentence-order": 10
+      },
+      "url": "/data/mandarin-zone/test-04.json",
+      "sha256": "7eb4938d5763b4b6cd72671c1bc82d1bea99b32245fb281fd65d35ffb27f34bd"
+    },
+    {
+      "id": "mz-hsk4-05",
+      "title": "HSK 4 · Mandarin Zone · Bộ 05",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 104,
+      "totalQuestions": 86,
+      "skills": {
+        "listening": 45,
+        "reading": 40,
+        "writing": 1
+      },
+      "types": {
+        "true-false": 10,
+        "multiple-choice": 56,
+        "fill-blank": 10,
+        "sentence-order": 10
+      },
+      "url": "/data/mandarin-zone/test-05.json",
+      "sha256": "b844ab59689b1cfe4ee04eb55e31f4a6878b0cbf211ad74950d5eb35ab0239b7"
+    },
+    {
+      "id": "mz-hsk4-06",
+      "title": "HSK 4 · Mandarin Zone · Bộ 06",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 108,
+      "totalQuestions": 90,
+      "skills": {
+        "listening": 45,
+        "reading": 40,
+        "writing": 5
+      },
+      "types": {
+        "true-false": 10,
+        "multiple-choice": 60,
+        "fill-blank": 10,
+        "sentence-order": 10
+      },
+      "url": "/data/mandarin-zone/test-06.json",
+      "sha256": "a068ef8901b8490daaad06032e8439dbb3dab5f50e2b6374241eb6cb3ba8be20"
+    },
+    {
+      "id": "mz-hsk4-07",
+      "title": "HSK 4 · Mandarin Zone · Bộ 07",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 69,
+      "totalQuestions": 57,
+      "skills": {
+        "listening": 21,
+        "reading": 36
+      },
+      "types": {
+        "multiple-choice": 21,
+        "fill-blank": 20,
+        "sentence-order": 16
+      },
+      "url": "/data/mandarin-zone/test-07.json",
+      "sha256": "234cf292944c84f7483db18acea15a89c2bc1a6d38b9acca7fcbf571b2ced4b3"
+    },
+    {
+      "id": "mz-hsk4-08",
+      "title": "HSK 4 · Mandarin Zone · Bộ 08",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 114,
+      "totalQuestions": 95,
+      "skills": {
+        "listening": 45,
+        "reading": 40,
+        "writing": 10
+      },
+      "types": {
+        "true-false": 10,
+        "multiple-choice": 65,
+        "fill-blank": 10,
+        "sentence-order": 10
+      },
+      "url": "/data/mandarin-zone/test-08.json",
+      "sha256": "609649b3df22da12dbb26928c0923abcf477eec5392253df51a88484b8175076"
+    },
+    {
+      "id": "mz-hsk4-09",
+      "title": "HSK 4 · Mandarin Zone · Bộ 09",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 114,
+      "totalQuestions": 95,
+      "skills": {
+        "listening": 45,
+        "reading": 40,
+        "writing": 10
+      },
+      "types": {
+        "true-false": 10,
+        "multiple-choice": 65,
+        "fill-blank": 10,
+        "sentence-order": 10
+      },
+      "url": "/data/mandarin-zone/test-09.json",
+      "sha256": "59ffaa37d9b5d80eceb7a052a252eab44f3d32a427474e8ea81d200111bdb02e"
+    },
+    {
+      "id": "mz-hsk4-10",
+      "title": "HSK 4 · Mandarin Zone · Bộ 10",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 114,
+      "totalQuestions": 95,
+      "skills": {
+        "listening": 45,
+        "reading": 40,
+        "writing": 10
+      },
+      "types": {
+        "true-false": 10,
+        "multiple-choice": 65,
+        "fill-blank": 10,
+        "sentence-order": 10
+      },
+      "url": "/data/mandarin-zone/test-10.json",
+      "sha256": "f8678509865c3ca6703d9b6af0f25ea4225aba8be448ba3d338050014e34e1ca"
+    },
+    {
+      "id": "mz-hsk4-11",
+      "title": "HSK 4 · Mandarin Zone · Bộ 11",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 114,
+      "totalQuestions": 95,
+      "skills": {
+        "listening": 45,
+        "reading": 40,
+        "writing": 10
+      },
+      "types": {
+        "true-false": 10,
+        "multiple-choice": 65,
+        "fill-blank": 10,
+        "sentence-order": 10
+      },
+      "url": "/data/mandarin-zone/test-11.json",
+      "sha256": "8260b39191bc46d8397c951e988aa1a831789bb1608b32e9566c9e5692329868"
+    },
+    {
+      "id": "mz-hsk4-12",
+      "title": "HSK 4 · Mandarin Zone · Bộ 12",
+      "version": "hsk2",
+      "levelCode": "HSK 4",
+      "contentLabel": "Mandarin Zone · CC BY-NC-SA 4.0 · đáp án từ nguồn; lời giải có thể bằng tiếng Anh",
+      "durationMinutes": 117,
+      "totalQuestions": 97,
+      "skills": {
+        "listening": 45,
+        "reading": 40,
+        "writing": 12
+      },
+      "types": {
+        "true-false": 10,
+        "multiple-choice": 67,
+        "fill-blank": 10,
+        "sentence-order": 10
+      },
+      "url": "/data/mandarin-zone/test-12.json",
+      "sha256": "8d5c0fe787912380d61c4330f4248da1f5ec2f84c9523b9ceab0295b7f124f4f"
+    }
+  ],
+  "omitted": [
+    {
+      "file": "test-01.json",
+      "number": 1,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-01.json",
+      "number": 2,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-01.json",
+      "number": 3,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-01.json",
+      "number": 5,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-01.json",
+      "number": 6,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-01.json",
+      "number": 7,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-01.json",
+      "number": 8,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-01.json",
+      "number": 9,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-01.json",
+      "number": 10,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-01.json",
+      "number": 37,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-01.json",
+      "number": 39,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-01.json",
+      "number": 41,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-01.json",
+      "number": 43,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-01.json",
+      "number": 45,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-01.json",
+      "number": 86,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 87,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 88,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 89,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 90,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 91,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 92,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 93,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 94,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 95,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 96,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 97,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 98,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 99,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-01.json",
+      "number": 100,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-02.json",
+      "number": 1,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-02.json",
+      "number": 2,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-02.json",
+      "number": 3,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-02.json",
+      "number": 4,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-02.json",
+      "number": 5,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-02.json",
+      "number": 6,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-02.json",
+      "number": 7,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-02.json",
+      "number": 8,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-02.json",
+      "number": 9,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-02.json",
+      "number": 10,
+      "reason": "MISSING_REQUIRED_PROMPT"
+    },
+    {
+      "file": "test-02.json",
+      "number": 39,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-02.json",
+      "number": 40,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-02.json",
+      "number": 41,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-02.json",
+      "number": 42,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-02.json",
+      "number": 43,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-02.json",
+      "number": 44,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-02.json",
+      "number": 99,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-02.json",
+      "number": 100,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-03.json",
+      "number": 38,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-03.json",
+      "number": 39,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-03.json",
+      "number": 40,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-03.json",
+      "number": 41,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-03.json",
+      "number": 86,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-03.json",
+      "number": 87,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-03.json",
+      "number": 88,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-03.json",
+      "number": 89,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-03.json",
+      "number": 90,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-03.json",
+      "number": 92,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-03.json",
+      "number": 93,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-03.json",
+      "number": 94,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-03.json",
+      "number": 95,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-03.json",
+      "number": 96,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-03.json",
+      "number": 97,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-03.json",
+      "number": 98,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-03.json",
+      "number": 99,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-03.json",
+      "number": 100,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-04.json",
+      "number": 85,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-04.json",
+      "number": 86,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-04.json",
+      "number": 87,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-04.json",
+      "number": 88,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-04.json",
+      "number": 89,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-04.json",
+      "number": 91,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-04.json",
+      "number": 95,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-04.json",
+      "number": 96,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-04.json",
+      "number": 97,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-04.json",
+      "number": 98,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-04.json",
+      "number": 99,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-05.json",
+      "number": 86,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-05.json",
+      "number": 87,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-05.json",
+      "number": 88,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-05.json",
+      "number": 89,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-05.json",
+      "number": 90,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-05.json",
+      "number": 91,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-05.json",
+      "number": 92,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-05.json",
+      "number": 93,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-05.json",
+      "number": 95,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-05.json",
+      "number": 96,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-05.json",
+      "number": 97,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-05.json",
+      "number": 98,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-05.json",
+      "number": 99,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-05.json",
+      "number": 100,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-06.json",
+      "number": 86,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-06.json",
+      "number": 87,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-06.json",
+      "number": 88,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-06.json",
+      "number": 89,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-06.json",
+      "number": 90,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-06.json",
+      "number": 91,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-06.json",
+      "number": 92,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-06.json",
+      "number": 93,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-06.json",
+      "number": 94,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-06.json",
+      "number": 95,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-07.json",
+      "number": 42,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-07.json",
+      "number": 43,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-07.json",
+      "number": 44,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-07.json",
+      "number": 45,
+      "reason": "MISSING_INDIVIDUAL_AUDIO"
+    },
+    {
+      "file": "test-07.json",
+      "number": 62,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-07.json",
+      "number": 63,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-07.json",
+      "number": 64,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-07.json",
+      "number": 65,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-07.json",
+      "number": 66,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-07.json",
+      "number": 67,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-07.json",
+      "number": 68,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-07.json",
+      "number": 69,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-07.json",
+      "number": 70,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-07.json",
+      "number": 71,
+      "reason": "INVALID_OPTIONS_OR_KEY"
+    },
+    {
+      "file": "test-07.json",
+      "number": 72,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-07.json",
+      "number": 73,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-07.json",
+      "number": 74,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-07.json",
+      "number": 75,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-07.json",
+      "number": 76,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-08.json",
+      "number": 96,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-08.json",
+      "number": 97,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-08.json",
+      "number": 98,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-08.json",
+      "number": 99,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-08.json",
+      "number": 100,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-09.json",
+      "number": 96,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-09.json",
+      "number": 97,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-09.json",
+      "number": 98,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-09.json",
+      "number": 99,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-09.json",
+      "number": 100,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-10.json",
+      "number": 96,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-10.json",
+      "number": 97,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-10.json",
+      "number": 98,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-10.json",
+      "number": 99,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-10.json",
+      "number": 100,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-11.json",
+      "number": 96,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-11.json",
+      "number": 97,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-11.json",
+      "number": 98,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-11.json",
+      "number": 99,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-11.json",
+      "number": 100,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-12.json",
+      "number": 96,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-12.json",
+      "number": 98,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    },
+    {
+      "file": "test-12.json",
+      "number": 100,
+      "reason": "IMAGE_OR_HTML_REQUIRES_SEPARATE_ADAPTER"
+    }
+  ],
+  "inputHashes": {
+    "test-01.json": "c51fc0ed84b5fe23793d30de322754d7f015f9184fed66c181592dfe0e80cfff",
+    "test-02.json": "5ccd833f31d6da308b7d8f19c8f9f0e1024565ee8a13cf2a956af4b4ea1d6314",
+    "test-03.json": "e6e5fd3d90d0394db70defd61a5a337b498d511ab1dd82e97272aa7d3aa00bc9",
+    "test-04.json": "8933bc931f748656b93b87632b008a5fbf19b53533bf60e00ae4c22f6340804a",
+    "test-05.json": "c549261d0b985e47597a87390221b7b05f33384504a0f33d38cc9dddd2ce771d",
+    "test-06.json": "3a5f0bbd9e57ea5bfe6bd362ede6331961a0b573e455184f0f5b6d4aa48b5806",
+    "test-07.json": "e669d856fcc4136f11c0d5bb0f9f3f527188b82cc44d577cedc9113478123cc4",
+    "test-08.json": "9dd1939ff6af92b1dfd42a8a30f09916e0a7639b487e108913d4ce3977fbe19a",
+    "test-09.json": "397426190df72c2be0a90bbbb5d281c0f0be1bee58e815a0a0a71663e5de54ab",
+    "test-10.json": "b84ddcf2f53cfa9a5485c41495df3a941b58e632443f1e4fbf8dd46efa7ad787",
+    "test-11.json": "8e1a82449c566d5c932dd7fb0f5b2b16a517b8e6f8e8b1af6230e04634feda06",
+    "test-12.json": "c2c3ce3e732980bcc335d6e1dca40e0ba27ec7414876280316160e9756f5ee54"
+  },
+  "audioSources": {
+    "c4cd99b14b0d7afc727335d7ae5b94c163eda279a0027c65b00185dab6a4b9cb": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-05.wav",
+    "29785c34351944dbd81798cb7e1237242f847c4285482603fa644ab1e5131c9b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-13.wav",
+    "5b1310cb225c682fb7d794bce07cf73d229d1b885acd6c2537595dc9c29fea68": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-14.wav",
+    "474e48502ace9f79f6e6b05524a023e6b6b10cabf2983409c44d4605520e6ced": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-15.wav",
+    "44976490a9b8ff625781628b05bbafb37b70d4601fc7b2325ffb360ba046a9c1": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-16.wav",
+    "046f6a47b4fcfc559bac7778df23a84601fbdae21f2f925585c608eb2ffda5ae": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-17.wav",
+    "57dff22858e9bc436138fd844fbc64dda31c2da4922233a8ac85318c9498d4f3": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-18.wav",
+    "d85db9a4fa233f24b84c0a4e8bd6fa8c0db8cb12b002f497042d4ab5d4400a28": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-19.wav",
+    "e6194ce233c1c511676a83e0d9e2c2139a4e3ccf38834af0e5ad813cd63530da": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-20.wav",
+    "ce5b23336beea93acd77e45e3e22790e42c29813ad6f3a1a2bec13394d9e3941": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-21.wav",
+    "706966d069ca0146c385612ee3e4107b5c44d872b988cef0222ca2e0809886e0": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-22.wav",
+    "434c382b2a48fd9bbf6bdb50d0c8e1e6461e4a03b302b12fb13e3aa0823ece8a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-23.wav",
+    "5a2a11d6f8d58b6479dab928f44224dd2854aa82222c088d7e3c7911c627a40d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-24.wav",
+    "b52aa8dd893c09439e5047b47dde35a2aeb78ee6834d5a8c020670dea78527c4": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-25.wav",
+    "006d293ec129c644537291ede0f4cb7ce3ecba29f2c1654ef4f5913576221991": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-26.wav",
+    "b4a8212204fbf4d0d9d4878254022605395db3e6916133ff9cf29be822e6be5e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-27.wav",
+    "df8a4063cc41c4e2a075a741af2ba99fbe3d355b2030fd31b976f6053958c7ce": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-29.wav",
+    "988a9dd79ad14a641c03cae2bb35f5f3dbff50a1f36ad92328a2ad78d7f2dd6e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-30.wav",
+    "81372a8e9a3b0d8741ddce1244bd2e20af50180df1d2c31543af13064e75a66f": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-31.wav",
+    "b6b548cbbfd6c02bd15f54440e02d2ff34f292be29fad748b059e5120105b60f": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-32.wav",
+    "d810ab91f9763b4b27edc007183497e0e49f808da88d7378092aa24562cced3e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-33.wav",
+    "950d557037ed19903320e41427a4c027af425d9a30d1455add44623422f6830b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-34.wav",
+    "8ad0403360840fd47b9386174504ba72a819e55d46400d00cef6c1b87b8e7eb1": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-35.wav",
+    "c13dc7fa95b87abea0e3276b9a7a252937fc3946c1654650b855dffec50a300c": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-36.wav",
+    "55a6acb5927ebb8deb131570abb7b4aa65d0b1223d3ad5077593488d26542335": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-37.wav",
+    "3e67cb3e7ca92eee153d020a1b316e2dede7e64de51b83a30c41d1e1bc3649e6": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-38.wav",
+    "34d90cd108789933c31e6931c2ee7122da6f7460b026512aad5e2accffeaca10": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-39.wav",
+    "5104661f4b144a082d874ff2a3992c72e3b3d7e449a21eb75f303e08f0617bbb": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-40.wav",
+    "246e61a1f87b9715c31384559db6739c411cb6ba6270eba945d624febf776f8c": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-41.wav",
+    "b74cb43ac1a0a7c63849e450b1a46811efc75876699d89ce91684959f6d1499d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-42.wav",
+    "dbf5a05df8c14bcc18eb79e987580b2622833813fff8c8e971a9d91faab9d387": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk4-1-43.wav",
+    "3931d59999a89fe8897e19deb6b9eadaa1f8e9d6f3903e568a436f71218c803e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-13.wav",
+    "e750973ecaa4764fcb3aaf957ce5438115082864f7390d6ce352d21f7f8651b8": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-14.wav",
+    "bc8d908602e3cf877cf10c42eaf6707aa83081729891cd84b0e6394a5cdda7d2": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-15.wav",
+    "b8becc47d891e7d09871a854b412521b58f1bf8d41e7b8d71990ca8411ddcc95": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-16.wav",
+    "048507276c06861c52670a1f35ce8d1f722c5b22307075ca8572164e63224e7b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-17.wav",
+    "0682c1e1c785f385917ef90320de4416e2a6e2a6c31eb6c545f601e81daefe88": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-18.wav",
+    "933b8f4ad2464d64e2a65b9057c414d073fc63d4650ab2e003ada74fbeb305cb": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-19.wav",
+    "32ca59c6737d4fb2a348e596d8d246a51ed5c2718a9ec2e2f666792515dea5f1": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-20.wav",
+    "1a86ae27066ba696054d413ccb0ef5dc0627df026ac7f813be3f9fc7a0af14bb": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-21.wav",
+    "19481293d211430fedb56a4d4cd8a3a3dc15779b66423e5acf91385eb72832bf": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-22.wav",
+    "4e7ed410c9e99879655ab95dd4991502026321aa3b554b97f887f5f0a1aba737": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-23.wav",
+    "6825de9dcb16cd4ff210ea6302531107974a530f0fd4c23103d40efb01e00cbe": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-24.wav",
+    "f1c71400878c7346342e50eb4cad68722052e19713f32f2075e6c425ea9356d8": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-25.wav",
+    "d8e3899abe497583a3f8b8e17e734b2c37273b5e45fa69c003106dda02b4e3fd": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-26.wav",
+    "5e5d4c55513f8f8e638feb4e2cb7e8ca1c697941c2b17b0da74ec9c9ab560ea4": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-27.wav",
+    "e1e011689e5414bd0e076f8c8f733e56d99bad82877d3330441f6008d166d2ef": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-29.wav",
+    "9ac0193df712f1a00e011488d34ed2a3188df590d14c4b6d2f0e6a603a9d3e69": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-30.wav",
+    "b4e6699ab27fc7e1cc0b7bbb8a1c12b7cb054a103de272f8250138d42832cd91": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-31.wav",
+    "4b1b890c8ced7f1635005a5dbb68f2b317cdb3a800f824f1ae593f5ec92e5bea": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-32.wav",
+    "93a3ac88ba6a189f6d960c436bc227eda9a3f1dd8b7d034cc5110874a16ad01e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-33.wav",
+    "8ba06ccfe489c3c3b152d53c5540af8253cb281a5b54580b8f9c2e2387826a3a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-34.wav",
+    "e444a17b27ffc7e5bb4fab90f72bb05b653a696d670e4d78c11f89c1d487ca0a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-35.wav",
+    "a55d54bbb9de37d58b4634bb10eaa64dcb6b98c72f801fce630a3075d09ac763": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-36.wav",
+    "0672c3a5099ec19a31e59183a57557d5ecf4935896a66d8154cea8a47f2e7688": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-37.wav",
+    "124646c6ebb7f881c0a93a4aea3b5c9682722a12a873316dd78cc1f8100a3dff": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-38.wav",
+    "533b5c308e3a9a239e31cafae75cae022ac56d4c0361bfd8b2a43c47498ddc2e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-39.wav",
+    "2059d7c4494d8e79be35d493a2f94afdafffcf04d932138d3c54fb19d0504c57": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-40.wav",
+    "d0c46b1f1567e6314b958fe91159b196cc52123ce63a4ac47786b5b54ed93290": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-38-39.mp3",
+    "1420659476e9a8cbc01493aa380138273335ebe143b2e7ee55b9a81e52301609": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41000-44.wav",
+    "48d60b1da8cd5a947031ac6d63f1b06d472ee29e2189f5cd8a77abf0f8075ec0": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-02.wav",
+    "41d19cf75276533e66452efaa4970638d2f5eb41ca9bbea138e4bf9e0b21c89b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-03.wav",
+    "e45dbeee350968ae21a8d6a0ccb6a3f25544833d09418cd2d650e34dbeaf67a1": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-04.wav",
+    "1dd853111fb2a41552fbba92e7f80754af2db03ecfff5528c96c5a6a06c41099": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-05.wav",
+    "9812741e3ee21f9b72c93a8841b5ca0023fb5787cd11d300755d7bb7575ebe13": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-06.wav",
+    "180bd72fe3706c9b8918b67621a30ef1b4be5ef8b17ee25081fef216cc99e26a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-07.wav",
+    "1e2ccbea4176bb70d0edc6563ef2b3de15139553fa4fc7fa62d7ea90f7c5fcfd": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-08.wav",
+    "7a3892fa3672757aa7e72a393a3a67b572e0afd79f8188c595a097aff82ce27d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-09.wav",
+    "5ef41168affd14d3f31838e288489bd5c15daf4cb551c9128706859305427128": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-10.wav",
+    "77824f5cde083bdeb380b63a5673afcf937b1df2ac8268cbbc6282d38d76be72": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-11.wav",
+    "e372a24ca48ba8a56e72ca5c7da888343a6cd04ed3e9ef914ccf9c4fbb568c1d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-13.wav",
+    "389b90002e49fbbca57243a65b6ec5bddaeb6ff3d4246505d775776ba64095fa": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-14.wav",
+    "778209a717bd7787e59972ce42ff987827a75f09562a4b1c1d6f18b0af24b673": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-15.wav",
+    "5ffd32ee3b3d6a665d32c0be602e5642e03aac476d68d806e9121787c8056d0f": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-16.wav",
+    "8163b2c5ac08634a67e6492211b9a6b77e97847087918b1920a809b9b8f54b03": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-17.wav",
+    "421b55931bcd2065dee7e8b6d63f2482e720277db2e48f6cf5fe680929fd93f4": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-18.wav",
+    "99a1235656be80ceeff36391b226b3fe441effa1b7d9950d123ea511b1a63101": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-19.wav",
+    "7b24836038a51775e7882129cf5b168231082066b7c3abfeb8e4c246102a05c5": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-20.wav",
+    "e6341dbf75e45a704a22f682f0a10fc9a55bbad0f049ca5b05a9673e499dddff": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-21.wav",
+    "e0ff34cbfc198361a81bc3cc110c75fe551d39b02ca59e29fed35bb8cbe000ec": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-22.wav",
+    "f811fc7c1ff36cea7ef238aef40b6b54e978206accd576c7ce0f8492a6b0272b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-23.wav",
+    "584e5db3801f853635a81ccc8c78997c25f8af942918688250fa991330f73563": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-24.wav",
+    "a8be4e6b7fc36ae10aed559c3b70a34268a948da4c03af304d155d2d91191fe2": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-25.wav",
+    "70b895b2eb1d16b86bfce2cf52c0b2308a707eabff1f1e9765434fe78f4d893a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-26.wav",
+    "92d4bfa0ac44236c0f7f07997296757abfa4a2a484a7cd608356c157f5e90f34": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-27.wav",
+    "03c1149f8409e90829cb6cbfcf2f4aa8a6269d9041a5cef7a8698710e201d536": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-29.wav",
+    "4d1df31c8674106b88611f2f91ea060309320588ef62568242ac46b052f643ab": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-30.wav",
+    "b2c57f291ddae5e9605fc79fc1b9430945daf7d009332f7fa3b95707df09166b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-31.wav",
+    "16f7077128240c00f5b262558a2e4eb94d8f17a66bbd7a45487d7571282cd8fa": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-32.wav",
+    "ab13fca9370adfc11535a00fd2d8cc2643c0fd48150cdba510342770d134b9cd": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-33.wav",
+    "ce2107c7df052f539f565af0886a04b4d992e89344bbfbd834a8a43a72cf0a46": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-34.wav",
+    "aaaff75475d5d3ac42c9bf5b2a28f35aec7d43e09d1270254a91bc7ee520fab4": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-35.wav",
+    "a9fcd908d8b080467a3d82f8359c6d658f6861cbfda10e52376cbac15446d115": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-36.wav",
+    "a28d5cf383c50cc8ae5424ecd766d30434f52d009aeac24ce8c07972c4b4a6b0": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-37.wav",
+    "4e3ad009004bae3236fc7983445c84cb7b3481a8373d313d8659ef80e1f923f7": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-38.wav",
+    "ed24a84e0234ccf75e0f97a4222acd28fb1f3ebfc4e2880153babfdb5059d7fe": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-39.wav",
+    "581d80193c4ea5b438d4c3065c8999bbdfc018bd12218669753764b554569d27": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-40.wav",
+    "cb37fbe252bf02db55f0d739df99cc754ae4e80c1f1fce319bd544019e223c4b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/h4100-42.mp3",
+    "1135751bc687d7324fd8e9be4f00a3cac4955fcf8d4d89b18a5b76afe57edee5": "https://media.mandarinzone.com/wp-content/uploads/2025/07/41002-43.mp3",
+    "28f5c49eefee5428269f18217816f5c3b2fcdf714ff76f023b4507bfb70b9653": "https://media.mandarinzone.com/wp-content/uploads/2025/07/41002-44.mp3",
+    "9fccd7b9faf13d00a8b851a631319d4bd7b269a334b47076d5c25b59c1cc3e02": "https://media.mandarinzone.com/wp-content/uploads/2025/07/41002-45.mp3",
+    "0c5f1bb2e1f150e2a6f3a37e16252341295d8062bdbd8ed3428d4657384dfc6a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-01-1.wav",
+    "07c88369d826ab851496c4631c1efcbf6bb24be05ea82cc670e0b79463559c56": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-02-1.wav",
+    "ba20fa11b89609643a76c860a9090ee16b92f1f3c80d078348ca9f4f8eae0a7e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-03-1.wav",
+    "ba5a29804f926db435fb6a04b0b3d91b9ac1547597ed20fabc590773a95a68f9": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-04-1.wav",
+    "8d42040c8d4d68035340a5ac8d21c68d37599386c884c51481e2d4e99a14e58b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-05-1.wav",
+    "e57ad643ee0c350295691d936e200c5c3de61ccc040dc21bc1d6d0817dde860a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-06-1.wav",
+    "3681b50a74da1139b726177fac68f5f9c6417acf8c68bad741fb5ec8b858f6ee": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-07-1.wav",
+    "b2548be1fdec1f510566304331e2ebff963c1505cbcd3d805140df4e1b57dc78": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-08-1.wav",
+    "2dd07b31932238cfcf0aed41ca3be1f73cb553994a8da1ca1041799ee91f8a00": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-09-1.wav",
+    "0e959302d77dc4b478cff41050fc46f61da4860280f21c107e0e570c2f900e40": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-10-1.wav",
+    "00d4270d0ce7e7c90066191eaaf99949f935095d09381964738792362d22b869": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-12-1.wav",
+    "bdc44b1e79f1285dfd3e10c1796c4515e9c76790608a24a1a7b2b98127655834": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-13-1.wav",
+    "494a8e19fb81e44d93d99619ea642e1d7b4062ba5364fb53b9a6ff728f593bba": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-14-1.wav",
+    "74096505f198c9df082157ee0aa744c7f29c82a3785f3c51975af0ca5cbe8aa7": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-15-1.wav",
+    "8db35f40ff0e0f2f1c34f6ec5147605e6159ff1a29c9625dbbdeade32ab6964b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-16-1.wav",
+    "538ec20ff7806f5fffb6ed6034e1f79a51f369b55f0fdcf350e2c625cb60b303": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-17-1.wav",
+    "8f7b18e0062f730822e77fc4781afe2e9f98c2d37c97a5021fc89c5e796f7ae1": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-18-1.wav",
+    "f6d43317ef0a3ae5f2573ea754932acd87af16f314e444d726cc229a688b1d25": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-19-1.wav",
+    "0b0093c4377728620bd24aadc2fdc4ec093fe7828cd32b4fb46a37c47ebd74ec": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-20-1.wav",
+    "d6439ed5ce7935f2ddc0c295d1a42cea8c11ea0a9267c7a2266c96dbe72b3ae9": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-21-1.wav",
+    "204d983c807eecb8a6ba416a0d82515028cd17321ac87dbb3980525077ee62fd": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-22-1.wav",
+    "31dda63cb75c5d2cd8e81210f3ea89c9f8f601fab197d770a8d6598bf3a18d67": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-23-1.wav",
+    "0839c25753ee1a9451e421f1c6c3b064e9d854545112957aaf41874bbc61f62d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-24-1.wav",
+    "2b58790cd0ba693ad842aa7209e624d99a9f2d9ebdcfbe022328be2992958f3e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-25-1.wav",
+    "ad597927016f7d604bd41a0635803c5b2a6786e8bb8f12b93f40635429f28bf9": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-26-1.wav",
+    "e22e4f182e716ee26af6456815617ceecdcc68275eb4da99397b2d5deba0caab": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-28-1.wav",
+    "5adfe22c3b35e8612fbf38fcabecb541b1f455ecd1fb70cd4977c5c27d8e15fa": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-29-1.wav",
+    "10276265d5ca3a502721837546709cc3994eccb0b8315d5a215f97dc19e59e25": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-30-1.wav",
+    "1855244f4bb446757887c80460d96b965f2c59ab29b0a1f9af1591a03b970e3f": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-31-1.wav",
+    "f9ad50199bef0d283331354a9017d16dea32d40af07f4f7c743a05d0f98dd8b1": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-32-1.wav",
+    "88a43554ee6e7cfd0797545d880b09bbfee99f4055d733de35498115252dd16c": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-33-1.wav",
+    "da6153cb591b6eef657044525b8ade39b33ceb3c47ba7e109d3395895f304f3a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-34-1.wav",
+    "2a8de837a778242373d3007a3d83b67f2c68012c8d096951b50e4e1cef5130e3": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-35-1.wav",
+    "1a23d0c844b5ba6114a5e5aa242b73403c9f06491ab48f2f17219a09f9dced4b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-36-1.wav",
+    "9533ae8ae9e49624dde8b7ab0f40c5d1a145cd17dde2a8b613d154179f5c7b42": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-38-1.wav",
+    "c3484274240e482a7eed500feb44ce4a8131cc647a338c70b34d968feed37d49": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-39-1.wav",
+    "e9618c1d24f6f138e3b7f25ed13b403dc270d0f55ce9bc80183c3d0360b07286": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-40-1.wav",
+    "7945ef6275b296a4fc09efe398ac64055734a8b94807f6a2be4532e4d393ab41": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-41-1.wav",
+    "a67691bc7aadcf5a57a0cb7112a6b427b461ed728e80c7c5c05e504adc4fe66d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-42-1.wav",
+    "52bea861551d553224ce5fed891de0639150f784a06dfdf71a21e25d28d4a461": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-43-1.wav",
+    "298fc11a18a4ad4d7d3e32e97e48f384393588f5e2ec6f1700313418284b9ee6": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-44-1.wav",
+    "2ee7d922dcd3e2e17ad2841f02567a66efc03802483afc75e25de9b182350ffe": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-45.wav",
+    "f9d89e8ef602525f131806f307d3dc24add1d9ead193c6260c6f487c8a12fe8e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-46.wav",
+    "a48587f75494d2b1d245ffda6e2fd0666fed13b72022931f19a9a61909367238": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41002-47.wav",
+    "0f3e1cd72b8632b473d3d1e9973bc95d6cc69802844ac5315536d230929a4b98": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-02.wav",
+    "a7e77992c51dae0cc0b2a3264a5e2d80dff4ff71891718a4f9d743d4ac5b0b93": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-03.wav",
+    "a7c8ea28903da69fbff3c5c37008e3230080ec12d60f2a9153d75d6f8c40c825": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-04.wav",
+    "10c59dcc276528163bd54e7950af8bbf831472ccdb6f43949a8bf29514f6d51e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-05.wav",
+    "50c7086d5c19a43c20f133ba6eca244b9117beec04b8a816f237e68edea2764b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-06.wav",
+    "cb799c9ee81e505ccbeff576e31b26d88da8e9cd504687301a28adc06d7c6954": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-07.wav",
+    "4965a39d7e0bf09b670c6a5d6ce79d963b2ebcaf537d0907e996410c015c052b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-08.wav",
+    "59796fdf0c3551f1a0b12a1e2c8f7375ea32478178580c8da5085ac00698353f": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-09.wav",
+    "e302190c1f66f0f11ceb6255d0bce1b1795aad51aac8afcad0988d3c8d6461f8": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-10.wav",
+    "06e39e426d2637a0f6fa06145220d770345b99271becf5fbb1bcd00f79c1ce76": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-11.wav",
+    "433e69d6ac0c224b90e992606d63d86b97208d0dfe33fc2f68a39f427f39daad": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-13.wav",
+    "c3d2630a94dceacf7587015779f69774b285fa2f4f6c5615ac1d8c952804569b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-14.wav",
+    "5291d8f3074f3545bd313f1bff5e40fadba18e931b81ccd67c8b9c5117303b7d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-15.wav",
+    "14fb80f54fe1c89f95f40585cf1fe345f32c6f5728ef86b6e09a6f19787bbb3d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-16.wav",
+    "5a20e046bb476744967374c04e389c6a5efa748181b04e7fbf7c0ded52475204": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-17.wav",
+    "bc2a765386e6e2b56ac832e008ac3bd09980272b598be9ee48199a56a27bd4b3": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-18.wav",
+    "1583aed1370c4c0123ae1949b4fe9d0f1ee9711c3f6cb1d0e5ca7f0f89448b26": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-19.wav",
+    "cf860be44664bb7336de3b91dee6dcabd1e9b02e83e539468fa86b96e152ae80": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-20.wav",
+    "c47269026d18b88d9279a9a859ba01827105f04eb9402a082a2c0f62bf79aa8f": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-21.wav",
+    "aa5692958592a5899005a75b08d0f07e63877dc5be25a67b7289b84f965ca33b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-22.wav",
+    "effabd6ad6d4552404768f91b7f903784b37f619289bd8a616d957e87f165f7c": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-23.wav",
+    "755d826259a7dab50603beb9d5a5642859676e202002445af2337f58f0cb36b9": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-24.wav",
+    "1a8301ba9ff0090878b02b4001890d4983f929e44d3bb586c69ab6fe0edf67d9": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-25.wav",
+    "fe6f2a61744870e9da133b99d72edf5ec45708747e112982f212ff949bfdda0f": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-26.wav",
+    "05ea773df0b33e1163671c027c607bf1043533066b770ab4d0e6fdfffc08b518": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-27.wav",
+    "79925afa736e1d53fe1b61fd8b016bc4460d17eace05c949bfc20bcd65d9beb2": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-29.wav",
+    "7da28b515fcaee8e4a3879ee2d8639533b728e5647663f15f4759e41e42a7568": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-30.wav",
+    "96dd81daed1fb8c50c4cc635e1ffcdcea12af5d1f242fd617869b4368a88eafb": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-31.wav",
+    "b0f997035f36ec1860c8cd22e95cd8628df4f70a1974e52bba2055b01f348074": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-32.wav",
+    "2dd5551b7a0c2d35379cb57e02e26e51b802820bcba44db31dd3204987067693": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-33.wav",
+    "478d45a05822e677f58d0eb75e0bd21cacc8010a6071721cc853d895d2b67db7": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-34.wav",
+    "50f92de050ad1e04cdf2523e89cad2a51e86496098f1be074199dfbc96342d3e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-35.wav",
+    "3218013b4bf247d1698398f2e59731e4d414e7b2daecef150fef328d1fa6b46e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-36.wav",
+    "c461d7f1505ea09a3b3e2364a193512531e8a45eadbfe3f696d715861e1351b0": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-37.wav",
+    "c5b60dd80c02afd6647e3c6cfd28d838dcdd5519b87e1e11954b6cf5dc9262c5": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-38.wav",
+    "3e545e07ccdb6483fc362446321ae0089b54c8a9f10f0d50a67cd77f30995c4a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-39.wav",
+    "dd5dbb1e448b42032197c05b8e520bde0dc71924c2634c896e6d4d2def8ac8a6": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-40.wav",
+    "be22d96748afac74c9d47102fdc28610bf259084c3cbb5d873fb1781c2d71c97": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-41.wav",
+    "11f0d8830fba7e96ea3db93726f1b0a14a2c11de1daf9ecc4a83d87d42e606f3": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-42.wav",
+    "7b1192b1a9f9018481295cfc4b63dfead5763e6a2aa360114d38bba4924e24f7": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-43.wav",
+    "e438f580a60fcecd30dddac4339b9994f262ddb3499c1bdd62abd1d29a3e4ff7": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-44.wav",
+    "6bf205aadf41ad7861efe3bca11393ea92c2fbf619c5e808da96f0b3e7f5273e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-45.wav",
+    "fe9453dcc10f9d02a967aea5b62f78ab5973abb3c556227c6b623891490f906f": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-46.wav",
+    "5ae5bdfa13ead2aa1a4862fd8ae5e045640e3808376e5f45eb5734d9cc97ba48": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-47.wav",
+    "fd8cd1ca2ffe5731ece1a2356c7b85069017dd2ef614a10869eebe112acdb3b5": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41005-48.wav",
+    "569a7f6842fcb10664b703a7d444646ac2fa8456a3ce789a1bbdeb50cfaca418": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-1.mp3",
+    "fa0c4008be1aaf28a77ffee789f93a70caead33f5ab3b4b04e298be52f56e2b2": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-02.wav",
+    "04e52b72939e86e1a2f8a69402665a3d98f22684a3a20d68a0a1ad2fd14a8790": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-03.wav",
+    "f893e4b9ddb70bea70a79875ec84e2cd29bb63d202270861483b166c2f5b728a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-04.wav",
+    "c65cd61539dafaad4113f60f08718bc7a9971d19a910cac84343b3ec51b72458": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-05.wav",
+    "2bdc73d5211912d988cca573c706c75a2790c8933e9352ae6e6c0a106475c01f": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-06.wav",
+    "237dc670bd37fa78309f846501e60dc5d97e83214ba900dc34458a52580249df": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-07.wav",
+    "ea3dad35358768f275c54eb6e28a621301b0f4ba1399d0ff2a8a94c0f5ae4376": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-08.wav",
+    "64cd5000c60b09854fbf08a2d82916df3dd575bf3e3a17bc91c918bbe2a3100d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-09.wav",
+    "7bccfad2650732bf13e32cb5787ed97cfb976b9496c4a5af5401826f58568353": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-10.wav",
+    "0282a36db707931bfc75fb246bbaa4fdcb152d4e44d79f32c6998648ac315656": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-12.wav",
+    "509a09de5b4ec6a7c0ad5687f3a2f4b829eed1afc18b6fae381b96aaa3181dea": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-13.wav",
+    "d77106d8c70aeb642a865bfa4b554961449881453ed1572ce96ef8f43752b3ba": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-14.wav",
+    "e95517f8d0fd1afcbff04c321f0ba82f16bd7cd5bde2b4aa64f2f465f5b91c91": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-15.wav",
+    "79eb5465cbe1973957a1ee5510f4644f00f1e4159de27b90cbdc564f57411c9c": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-16.wav",
+    "f23ec2c26920e43523be6a3359522d4ecc250ebe10134cb2ce6e011b3d5eb126": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-17.wav",
+    "1ee5bbfa47ae54d02115f7044a2edeba48ff81a6358a97bb2d446f67cd30c5e0": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-18.wav",
+    "1ed6bfd8472995b0209e9f27dc2662d9317504d6c1989c12ee29945a166f55b5": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-19.wav",
+    "2ff63b3ade1b10cfc9cec330247296417a3765573c0537cd76bb28e882ac1414": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-20.wav",
+    "1a169b6304a4f9e25782607715ecd0bc8ed4490d387b263567ea874e109abfb4": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-21.wav",
+    "3831b216dc19b81ddd696388e05b2acd2d6dcda40759c11126552d9956ff6b7b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-22.wav",
+    "86695b6e39a9c2cdaa6afb755bc9d902afacae8f3cd7d8c7bd909fd6ff9eeb8d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-23.wav",
+    "dfe9351e63fbf0862ce13da24099ae70433d4a1cc6cddb06c9efbab629d28d3d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-24.wav",
+    "541063b7ff6e6cf7a3082b09794decbe384edb12a21f63b6e80460c9b0c6e3ed": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-25.wav",
+    "2dc5a4e8458dac7e2384256de6d0fddb2ed30b7da7267d65ac8abb9391c41c3e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-26.wav",
+    "3ab2d4c29ee9af8a0f5222a0df3dff83c73bbf9fb4de1255741b1ad77a88785a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-28.wav",
+    "02a97c4a2e25b95328b20b68a2108b411d09c62d9d077dd2f4c98e36a01cb566": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-29.wav",
+    "18d26dd2abaf719a100a5e72b70a76689a01c0cda856342d2688ae770b8d62b3": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-30.wav",
+    "89479beb4fe316b443ff3272e102c59427ca8d2673672b2f59bf6bacbeae228b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-31.wav",
+    "81dadd870b06e67453320d371750ff1812b8f22a86a0be994fce22e1e37f1663": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-32.wav",
+    "da0c9c2bf5589228c06942bfe7d2f605b2599cd0ef2dbe588609898ef1262be9": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-33.wav",
+    "fba9347fb43a12d99ff1b81f0475d0b1680c5e65a25fb0f6a0d4c3c9a4bec0ef": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-34.wav",
+    "9defca324a887b8cbe2f51df379657e65dad26ec018158302ac22aa9cf12ec6d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-35.wav",
+    "5bee92530a9aeee004229629642ebe630734433eadcb76182fe10785f5642f62": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-36.wav",
+    "fe3bc177d1784e51f1f7568dcaa2ed9635a5e1493d47f71390a6979adf7ac114": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-37.wav",
+    "b6f5694e70b5433c6b7dc94b6f41976695e26ebc9bf9ac8e3e14973ed2edc2d5": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-38.wav",
+    "b74a666b538b086efedec721c6061a66e1b51ae71d0962b039c753ae4cae4bba": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-39.wav",
+    "7d737ce402097c4eb857d7f49b8132ef3b54b8fae0e02eeee79aca3767821f4e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-40.wav",
+    "3d0f5fc0c06699b9a2ea7170ef79c75b89676fb556dea46169559c14c250eb5c": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-41.wav",
+    "e66cbb3d477b83428c395255370101a21c5e5ed884aa2c4ac4bc288426454df7": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-42.wav",
+    "b976be2e24d90dbf8b4f5c26c6d739fc80fcd4ab7805f75c7a8a86e4ad4c4caa": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-43.wav",
+    "10fc0dc68e85b26f8e81fe98aa8f6f07b3e7a456402b5d2de85534a9fc172757": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-44.wav",
+    "c3bf8c7387cdccc5b1d6afa43489e01c8521260bfca4f7525ec13e88801e51b8": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-45.wav",
+    "dcc8770a36bae02317ab44b6c94eba3dfcec586159101e8c7a55ca3b2f2b79a3": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-46.wav",
+    "0fa506ef6f0c4719a9d7e964d99371eddad1ef833ac05e5c0916a5166893b7ef": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41006-47.wav",
+    "bc5ceb164a7a2d6ba6198896537022a5ed9e42f9f0dd6e1b17c5c3528e44965b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-26.wav",
+    "60b5e6f1c6d9800e480cdcfc6378726280dc91fe65d3b9f5fca7cbf31aabd605": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-28.wav",
+    "151eea406d39671f284b38b57de9de2e32520b95354714c9b35ce7a0c7f1044d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-29.wav",
+    "90b0fbfabf583d7b17d3dcf0087a6f926b40c90fb35839efc436683d62ffd7ea": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-30.wav",
+    "8a1b2b2d7d267994412f652fbefc21cb1aa11c5f9b3c44e8ce62c218623de4d7": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-31.wav",
+    "31bf5bfc1fd878eea74b9429d6ef16efb92934836fb7da0eee4015b69ccfd45d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-32.wav",
+    "0f62710de0e7e99c65a19f4b1ff2def46ae0657e9d6dd741cd0add36a3569fb2": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-33.wav",
+    "7a178af0e2ee8bae6f7b4205f4ebc77d222ce5b8836847c65435a477adf6c213": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-34.wav",
+    "2dee7e90e75544ff3b2c3881dd30a768a3252b4fd0397a5c118d46582b2456ae": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-35.wav",
+    "d977784ac52e462df8c2c5332cecff10ff3d514f035e892460a6850e9ac0ae19": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-36.wav",
+    "5103426cd295cc16bb93f6792d463b30354305c9f46f79010bbb434775e0efe3": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-37.wav",
+    "b8235933f37fea96e3bd348a3b6fff124d07a43cc7be3d4df19cdcda7d4fcb5d": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-38.wav",
+    "447b16209f69d40acd8de6fbaa62700d52eb349356c95e90e56867ac5c807655": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-39.wav",
+    "0985e069b505ca72c37ecc164b38a78a4acc3fd740a615ff4ea3858b5577a36b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-40.wav",
+    "c797f5a9325116ebf4d02ef32eab8298e533dc2ff88b04962004b1d3fc9d2dfe": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-41.wav",
+    "8cc5a9aa57c3988ecccac5863dd5b3447cfe15e39fcf8fdce98ea2f85c705961": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-42.wav",
+    "3c83f2b43cf2adc5b34ec6c84c93d94ad45ad06a8a0731d0302d675a2ef68bc7": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-43.wav",
+    "9b2730e1a8294e174579128c0296bf3eb9e68ebdca426e5ad04f430e7c92a519": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-44.wav",
+    "281eb2320d5665a94fca9310e499b18a3061f1f11732b68927aff0231fa6486e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-45.wav",
+    "3db52699d216ef7168281ad31f1917d60bb96fbbeafedd955ca0cceae66a2bd5": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-46.wav",
+    "572dcd0396f0bfb730bf6bd1af16b377d9da5794c653905dce3bb7eb5d0db4ee": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41007-47.wav",
+    "15548ef0e151c186d82f9585084645aa715431fd752c42ac730cec27cfabffb1": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-01.wav",
+    "3530695af24bc615fabc095525bc79c370a3bae0535014b398d8f8ac01ae8cd2": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-02.wav",
+    "9f1704cdd6b6e0cba10d5fa7f68d5538f668faf2fd1e1b2d433e4633b83eacfd": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-03.wav",
+    "21db58d5b5d714305061ecd1a1c3d4b61a7ecf085ab374574f13058c2eee10a3": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-04.wav",
+    "373650e9ea5a2f42bb5c045e1eb65601722658aa143f0cb00bfa98a392faccdc": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-05.wav",
+    "6e3a88dc18dbbb777035804b0832513d05126702016b09b39d71ba105af83ba1": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-06.wav",
+    "f25b95cf42a18c5f49a1d91ea5db4dae8e242a1d52d5322aae636d7ae988e65a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-07.wav",
+    "d951ffc7c0e472ed7b6d8d7e20929d2ae171903639612ab311317aab9cab1826": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-08.wav",
+    "47636f76a8caf2b62e65e1e1701856f51dc701d164c0905ccb9d709d313c821c": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-09.wav",
+    "61138a2071aa31b478f9edb7813e5a5b49fdc921ac1dd660b5560a794994cc36": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-10.wav",
+    "64d85c1a552905d3d9fb97e1e7fa7c43cd496ad6fb90bf3590bbaa44d2ef0118": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-12.wav",
+    "0f9bbbab221c4f7b9ca6ad258fa62d40b782147e1096b9c503c5b9afddc003b2": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-13.wav",
+    "6dc2960c70c0db14b3ae6f8a11e1b07e52a8403992b68af0b609aefcf29750a4": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-14.wav",
+    "927697f1109fba1c80d9670249eafe72539fd5483772cda56e5310b7e6d439c3": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-15.wav",
+    "9878de172eecd77c0ba3bbf2104042e6428bc19c6b2f094f959430c6381e6c87": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-16.wav",
+    "a7cef0030527fdeed961cce732698be766af5cdb268314a6bc3252b09e09e30e": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-17.wav",
+    "669394c08cc7d7f7c28064612e6bf0504b402db1c22bd4ac268c0a12555b2639": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-18.wav",
+    "d321fe1dc2b9948791b7ef465c891fb29f2a4b3ec2e1ea059d126569d9c7958c": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-19.wav",
+    "f8f969ac3d8b148e4ceb353ae29393d5fa5fd63ebbc6f8c39d806a430b741593": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-20.wav",
+    "eea9b1fcf9159876b254ac56e6add3f861d718429fd7a4753ec7cf8eeee7c1b1": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-21.wav",
+    "dd9226287b7bb25ee062568fc1ab4b1f0256fb58b75cb93392c9c055bedde9b1": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-22.wav",
+    "5eb4540c4d9cc1553bd63f43525c00d26b28c1088479463048374fb6acb0f1b7": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-23.wav",
+    "b01b50d823185940d3c3a11b57780e154286453f0157ef355ced2ad3829d826b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-24.wav",
+    "8d1f8c4c7a278133e2f8b6747d5b98b1d10937315a762b8a7b7f3c2d0d831054": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-25.wav",
+    "9b1fbb609b619966c834d7d6a4754f5bb50ad5bf94d9aa33ae37e60bb565d219": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-26.wav",
+    "e3b8f3e276906dae0bd45cac852d580b4337260152c2283caa5a6c92dbb8326a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-28.wav",
+    "ffaa8bb3c9fee8c3e341e0f8c5f141db2531f2274aaa20cc7a89ea047eec8bc7": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-29.wav",
+    "2d53c8605b85ce42c3a4918d1b1f866399a0e9693d8ff4894a844f9dca8c08da": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-30.wav",
+    "6ddbc45cb34df108a361ecd846a4b18ac81b336ebd6853af77bfc67b2183e971": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-31.wav",
+    "9d3dbe2ae42048840b636b579a62fb273f7b9c0db6e8bce9d97cab07a92836fc": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-32.wav",
+    "8b79ca51e6b072052e9fa8037b5bdf583a61d4098833d52e76e239f2e5072689": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-33.wav",
+    "7c7502853fb5b45dc12aff4f7136c524f693477a3fcd1e8a64fc285c96345059": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-34.wav",
+    "14240c99b2e47689fb9deee49a16d7e3103935bd0654464b5f7b8c94dd52066a": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-35.wav",
+    "d4bfa44a670a14e79dd7dff9dfbd955dadea57c0ccab063c3f56483241723ce4": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-36.wav",
+    "94df22741cd0982cb3e3ad8bbd5ac006eccb810d99e653252a687791a5d534b5": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-37.wav",
+    "c88b345c24df49fad036204e1b20e2a266b1e53f6c942218c892be19b560b358": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-38.wav",
+    "4fae1f63a3fcb680054835dcbfd2c8721a967538bdb839e68d25f6688a1653ba": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-39.wav",
+    "28be8bb79cb1556ad335fb167210ea03e519c8269b7f69942ad158f917483e52": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-40.wav",
+    "c4e36156c5c3e9b8829e0ca8158dafc88caa7736b8995b1071b1d1cd578714b4": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-41.wav",
+    "e4e8e2792c03ec6a9e52ef637dcc60f960fa2f89b592783a6eae7a65c4bed8c2": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-42.wav",
+    "88f512678044af25654f4eff80e10373ccb7b3a4d021320fada0f7e619d7409c": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-43.wav",
+    "066f03f6c33b891a3220624c1646be45e056f248bc76f0f40a74a2ea1267a5e2": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-44.wav",
+    "f5c019fc1e694c02dee928ad7c870699a5e6ffd0c740e8fd0a74befd1ebefaa4": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-45.wav",
+    "cb2964312b1562a9c8bbfae587c8cb23876594d818942671e3f00442ecbefd79": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-46.wav",
+    "d6c1a5dc1a131b31c84adb60acdd4b3ed946ad7e3787bf82c2524d9b7e4d011b": "https://media.mandarinzone.com/wp-content/uploads/2025/07/hsk41008-47.wav",
+    "f20f2fe7a93a019cdbab7a765bc4978af93eb2397168bd896207e177a62cf2e8": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-01.wav",
+    "55dec6a343a06055162054d52e43a7c6286408e85d93362a6f1abf38c442f88d": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-03.wav",
+    "6b3cf284f648322a156ad78fe52e9a25825e077dc9ecb812cee2ec3902ca468e": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-04.wav",
+    "3ea852de81dea36d8a5891ca9f95d37a2f51692873ec9ffa8bfdc7950e821f14": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-05.wav",
+    "b2888f4674ac24c59b11b750669028ef82e64353ec8b75f0c681773d968e1bca": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-06.wav",
+    "39c070e345fddcd9a2150b2abf1f8ea5e6ceca6fa73780bb5eaf3296484924d8": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-07.wav",
+    "9dfd33a3c052a04d69c37660b14490d31e9727c3b106faaed6337b2cb0343ed5": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-08.wav",
+    "46e453b2de6e3c1c93b8a70987dc817da1e3d7f133ad714827e44843e9f55ba6": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-09.wav",
+    "25bc0e72ceba67b96003b69e51d7117bcf662f8caa46c02f4d8a340150b2c5c9": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-10.wav",
+    "d262207846458baf78cbe9b46f4ed0aa0a396f659060be1e700c4bbc49f1e890": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-12.wav",
+    "4c7461cffc5678f372bc5f2307afa2afef3fbf6aeef82108b6cf094313253ff3": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-13.wav",
+    "41081a378b4ffa4b123ed02f35ba311a19f1a7a2848949c81631d3a656ef0e66": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-14.wav",
+    "e5188ccaf1fe861833256ba779421289a4bfc726b1357a40bd42965c033be680": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-15.wav",
+    "313e202e221285993d006297be748d647671d64edd745fec3dfb99269cbeb123": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-16.wav",
+    "55fea6af419738daf594928d017e80200141770d858129dd51f2f9f2ce0f3fb5": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-17.wav",
+    "f4a1648d8fd7c43dec439bc52d873feb15700904d0ee236afccac6f46057a39c": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-18.wav",
+    "eedd8d9dfe00cd8a0e96e37916c15c6eba94b76266f30b5e3f7ee16e7e238cb5": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-19.wav",
+    "d8a472ba97b5526a378294ed741ccdcaabed42ddffaad332253e6e29c6d152d7": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-20.wav",
+    "10b7bcc93b80526e24879dbb326869c98bd091297c3b1a79588a1ed735c43187": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-21.wav",
+    "fe17f3093a8dff73a327bf8ff5cf53e0fbfd9f8a94776169dc411f848e09c76b": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-22.wav",
+    "865d6baba4ab384aa79542aed1b419bbee5bd6380514909da1eb1a67b5d0ecde": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-23.wav",
+    "269b2f7f3045de99842c2df999fab48ca1ef33b5b57aaa5977efc09070ef791a": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-24.wav",
+    "b1eb9ef498219c614d80ba4b76e23de959c445bed066171e269e656db9ee460e": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-25.wav",
+    "a575822a776dc0d463b908881a456e060d4d3cc54c1ca2109e1ffad1fb6faa13": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-26.wav",
+    "3912223bc7faceeb8c5a16c1b69d2bfb291666f9958d177a6c184c1e63a14380": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-28.wav",
+    "61ab3dc0315fc1c403a2d35d5f187d88cefc746f88a25c4c9b7547746a00f91c": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-29.wav",
+    "7aa58581fb158c81f8746b5fbbec695c25f60f830904d47aeb498efeb51e2753": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-30.wav",
+    "6ed9beca732406899cf7b862b377ade805828672aeba4055d000569530d7dbe1": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-31.wav",
+    "0bb7dc3c268f9275c90fc05bf8064d33c8aa79acd1a4c911f27e4d517a7aba5f": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-32.wav",
+    "8f7866f7f2175d5bafcc20f1ee0305aaf61f341156f419c487ca4d5457e92a0e": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-33.wav",
+    "9175a21a732ab616c087839993f8eeeca3f7f15b23566b1d483d78f9561a616f": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-34.wav",
+    "e4246f4f356c5f0e2bf49b55618bb3e86fc616f9005fe6437c29d66ceea8dd99": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-35.wav",
+    "08266efd4d1fb98ed96b5a908511b46ab47baef9846b2c357117cb76ef79afce": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-36.wav",
+    "281167b72d72d37aa039afad725dfe253c18675310bca402ad82fbe7cc74f794": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-37.wav",
+    "fa5eb6696c5fbdb955a8ffd0c33533d9fa84aeb97307a7e1e6715adb59552f28": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-38.wav",
+    "a97b7f0f3bf88bba0c24859df6b0d0ed0cd388d37196f2175da6ef195a4f6f1b": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-39.wav",
+    "81643e14fe3ea90d69572baeb3953179cff0011c17517aaa76978d2ab07421e4": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-40.wav",
+    "8fc3e97bfa0a8740b72f921e72d2ced2e7eeaf203a5c8e7b0589d5dadf3cf08c": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-41.wav",
+    "5d119ea074865fc618a26aa2414186d2a60b6a2441b5cd13bfd363d386e6dc9d": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-42.wav",
+    "87641137f90e78ef472485386ea634be3668310873b2d96ce65972e2387a2391": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-43.wav",
+    "8fe2e68ca07ed7ad51ffdccf6e7ae60ad5c39d60ef024d5b898f225ccfc7d601": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-44.wav",
+    "6bc49ee3c012d24f32f6674e4147ad015f85b5c31e2c105a13eb464fa4052e76": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-45.wav",
+    "7c0d7a24d06db526521e5f9c3fe0a71651ea2dfdbdeba6cba84f7b4c90240202": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-46.wav",
+    "521f10f1ba1c379cdb115c2e5b7335631c2a7a3d7270ccaa0e424cf3d3bd246c": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41009-47.wav",
+    "f74755645dfca8f641024775cba02a4a0659373ee3a8f987c365ac2ce8f89692": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-01.wav",
+    "af4298a8483ff344861473414068d70e9df51867cee4949d639e78ac4e2b570b": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-02.wav",
+    "0c920e6d1548e2c7190edff306a62bd1ebfc372b04c39df616cc12d3f17b09ce": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-03.wav",
+    "717c3801b3614ad4a1768ac74af45d2369c31214511f5fa4ef0840903acb9e67": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-04.wav",
+    "611e5433fb5276042c40b5c782a52072f995378bf44dbdea89e25a4788fd3f7f": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-05.wav",
+    "d592092161af407b40138456748ff4dff27c8d22bf251270efd6b8c7d94a9d5a": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-06.wav",
+    "604fcd3e2192872418f8d1da4792deafab6a7f41625c2290d653cfbd68b0cd80": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-07.wav",
+    "562c335e47fd97e4b01b1d358c309f4ccb1025b5d32d4e5225fbb3b8ba35ed24": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-08.wav",
+    "08fb6a3db6ddda3a36e54ff484cfc30be5d4a1368509609e781562986acb3233": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-09.wav",
+    "e51ea095c8db804106e7ecd7311ad4e5a6a73c3cd4f86ef64f90e3d28c4bcc51": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-10.wav",
+    "4e0afe14f36f22b10cadefbca0fb5b4bc0d41b972377234cd4dc84c3b94f2942": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-12.wav",
+    "1f8595a5f9ed7cfe3b2ce15f1b9ff6d7858bdf38a8d02dac00e9c03bd100980f": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-13.wav",
+    "964113f94901c2d8accfb37d437ebb2e6fc79673812964b616392175d53499e3": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-14.wav",
+    "197af94ba3918e3fc3263f7d317b3b6c9e8107261ca0765ddbdb8a68feb44bfa": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-15.wav",
+    "51088ebdee7cafb5602fb344e7cb7ac60451aef2f365295c9b5464ac719a33f4": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-16.wav",
+    "b466d3717f75e24966ddcc6233b9e78744305b91e1cf9567515d69b54ad32863": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-17.wav",
+    "8e8b5bd360be38dc933fe48e6ae352522131878e88f10ca64edd71c127cb4dc2": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-18.wav",
+    "657ecf6413db61d6630d75db63648f8367cd27c73bd2530731f745cb3c869609": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-19.wav",
+    "cb142c111839650009d8d1aafb2d03e59cf6943ff71e7ac73fb451ce0e4da640": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-20.wav",
+    "a8d5c810b4995382c4c393f3bd91d14c05dcd6af90877868be7922a6b3d6adb5": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-21.wav",
+    "6bc4d6f93df350b1d6166b8a87c0c81adc399f6ff48f73a0fd3df3ee53cce61b": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-22.wav",
+    "2b93c81a156d138e31436ecf6835551c8799c72d64f44b7d6f7267351b3dcc87": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-23.wav",
+    "71b0af4c16bb3bb5b88bed43f706b12ab8b038a471cc520c6c5fc2034112adb5": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-24.wav",
+    "acd58562315e1b3214b95f6cab98b982456173065dea4e6622ee54681df9b5cc": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-25.wav",
+    "d44754aad68190553028b4d68ad7df4cdce2fd086fdd24ffd6f3821b744ffc74": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-26.wav",
+    "4a5dca92997b129786ece58294522269b679a54dd1912ee9d98b891be3059eca": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-28.wav",
+    "1bbf4dea97c8d1f73af01bc6eef03293afd748ff0a6ef9580f62fad6b771cc91": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-29.wav",
+    "3c8e3f0e5547bf6a44b4bea00b298a969e6b707b9cccf87c62331ca322ff740e": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-30.wav",
+    "ab7accdf464c576b7fb9174791821c15e5515f13f4d67b36ed22cc596d89df15": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-31.wav",
+    "54f02fe9deef7c09585a55c23e8f913e73ee13bf29dc1fe0f03fa3aeea65eb9f": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-32.wav",
+    "fa7f11fbdb2c4bde4944e6801381069fb862043b6b4ca1108cc98f0766b3437a": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-33.wav",
+    "32a8dda5337437adb007539863ec65fd4d63beb339160b96525beb2643285d44": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-34.wav",
+    "6f8f077462edfc6d2919e2ff92024b77720df47a01bbd3c2eac7860ea0e05e0f": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-35.wav",
+    "930a3e5584134ff085bb377ec7dc11cca9f1dcbc319bd396fdb15973e6589d57": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-36.wav",
+    "ebdb1a05976c1c9c82e63ff710dcbbef392a7720cf7a0c0b9c47c6e9dd7e9971": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-37.wav",
+    "e599fbd70bf9466e8b9235453d827041480fefcdae6193a057f508f13ee5934b": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-38.wav",
+    "837ffb47cf039dd4b583ca6fe171352ca2325cd8dd81de3b14a4cb23339b56a0": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-39.wav",
+    "f7f819b99a3bb2507497aa34ff1e85eff94754af782457b3b8876c82078924a5": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-41.wav",
+    "88f987e17fe46edb58f249e0769a993c7707bb50a06d361648b8a60d779a6b71": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-42.wav",
+    "bc6fe51d9c6dc73fae3fbf86808ad6c124aba054ac21468b5594f276e441de79": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-43.wav",
+    "6d7bd6cc6420c8e3b6069a5f6928ed825356831997a3f92e3a8191634cb92dc6": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-44.wav",
+    "2ef4ba41718160e756ce263fd9b942460fca8ec33b170c62009faa9e35b19e1a": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-45.wav",
+    "543f162747e05074bf551966f680fb395d7079dac0efbe02079eb8a4328c12f5": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-46.wav",
+    "505ae4280af855fee56e1315254245e9c803a47a2be24614137b16e55173a7ff": "https://media.mandarinzone.com/wp-content/uploads/2025/08/hsk41010-47.wav",
+    "4f09624902c4292bf3792ad4c6789c0202354108a5d0bce518f7ec1cca9a8225": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-01.wav",
+    "6a5315c70b2fe8bc4b24af3ef50abe6b65cb43d8e2a35cb5100942c07cada41d": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-02.wav",
+    "2ee6b1b69846fb08d8daf0be56b9a1d993881b56ffef17787aa20ee61866b740": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-03.wav",
+    "def57f13d1963c75743535adec5bd572a5fc5a4903ac8719a4f24ed0839b18a6": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-04.wav",
+    "70dcc6f1fd5785d69a04bcee791869c2903af999f57a21a50e6206c0d1bece84": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-05.wav",
+    "8d81f94c812478d43e5d20159883ef7d5e5d4958280f538cad96d590b65cc2f0": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-06.wav",
+    "453a01f07d72fc395ab425fa920ea7ae2330240c9d09b0cb52ab45e6d2ecc829": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-07.wav",
+    "ad674226fe9c277f3ccac4d996b946ca4754e1299212e3eb403fac7b0677b744": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-08.wav",
+    "1020f2ded6566e5eb78cfd9d78615b1de6f194161ce48fb2d887b7cc2fc6b08b": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-09.wav",
+    "dc4582908cade8234781a916fdfd5368ecb0055ddb1bb5a509be7a763afa17c1": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-10.wav",
+    "5f9ce47274e9ded9aa496e5659ba671c836e40f4a2737470e8d156618a23b614": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-12.wav",
+    "76bcd3738db104165bae9930e5016e4d9f84cf6c73af973a89c5b15b52cc6b32": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-13.wav",
+    "2995ca1b56955e9c3ae0718731049561bd2038fd5c48ae2240c9af763fb37022": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-14.wav",
+    "0cb004ad1c86f262a0c1b56c39d28ca5b69c868af6e51fbdf187bdc2abcb4be0": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-15.wav",
+    "151925e456a3ca0cce5a903fb307adcf042d0b2bb5a351f3d1bb083e1dbd6de0": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-16.wav",
+    "b6df72627d7d8da433c6f1bf37ea33a4d375642d9f52fa38379c8ce3266c6ea2": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-17.wav",
+    "00b9d734cd0229bb03244d7d9d5c768acbdbe196b1270b32c8c8d3ed3c209af4": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-18.wav",
+    "9053326823e5c02b08a34b0f6f0edba29f936ba8312cdd189baa469eb5ecf7f3": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-19.wav",
+    "43e895ccb16f69fcd50f599c9c83b1b92690c7afb35edb7cd407cc999dd20cd9": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-20.wav",
+    "41a2d5cf2f02c78b9a5f89411591a9af2c873a4748e5a2718c3a361bda32ff26": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-21.wav",
+    "efbfe4738ab11c852c356037abff1cc93dccd2ee1b34dacff07e8460f4f91f34": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-22.wav",
+    "465454e68e31edd623aa03c91f89c29aa75fd53d21d763cdbb0e088ab31c82a7": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-23.wav",
+    "a19d77bd15aa25ff10e123e61a63fe8bc77fb84ca7fa96175885f790d57e5eb5": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-24.wav",
+    "1e645c56d81ec875343b66786b53e92147dadb370b21f3a44df240d7f31cf69d": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-25.wav",
+    "9cf4304b691bcc39279346e4d6a27b85ac620c7768cbd050562c9f8c4f0298f8": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-26.wav",
+    "33981efbe27afce9783285aeb90200ccf889b62d5fbd4d2d93fc1c3747ab6e3d": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-28.wav",
+    "92178f33d57410334b4bdd68d917145033466c04d4139cb9d57ebf712ce79340": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-29.wav",
+    "9e0d04cc90a245aed90c1ae846107304758d7ef5f66ae5496507277648172f13": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-30.wav",
+    "528f92544d806b1f7418739d032b5dadb89b5a4ff7aa5e7252150fcbeba1ebdc": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-31.wav",
+    "ef1628485b57954cc03dbb063ba18d30e922d937c0b91a353808d6d696f169ae": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-32.wav",
+    "4338f9b530fa01371ade16bbe15cbe753653fa39fe120ee3c59de13207119ef2": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-33.wav",
+    "99f784d50120a4bfe56271f987a1769d552bc8815b4cad1f653560491fe12df2": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-34.wav",
+    "696a46733817f6d08cfa88bd1a5dc257d798af64baaca5e6bb8c7bcd8158c93b": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-35.wav",
+    "fbe27a3aca8d5a94368a0dbb5276b4327059d09d1172efa7195139277b5782f9": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-36.wav",
+    "961b1f3fceb3165b16273aa9d0cafb8134b5b519fc3eb4cd5ba7accc44de8a6d": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-37.wav",
+    "a8191301c8ec411f3862fb1a77710ba5f1900bef45732b33c2d4ca356d3bf37e": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-38.wav",
+    "60edbd6fccb9d41242c7c2860c5f7997812713be561d9401bcf71cfd667b653d": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-39.wav",
+    "b8a74b3de5e50289f6acf22b91fc6073a998810616491f8ba1eea6cf3c38ffb0": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-40.wav",
+    "61a48176bb09e70e73c6e5f95cb99ecf44c06a507a02ace60c87407dd07c42dd": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-41.wav",
+    "5d51f7778f27b6ef4144c513a53700c3e2d188ec2ac61a82589623fc9535d26d": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-42.wav",
+    "a2aee7a05d2e857f2facfb64eea2db3cc3bc8a233f4f501678362dab9824cc7e": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-43.wav",
+    "7900cd1704b14dd179cce2c8d6f318bf87f630be837c3c4877eded832b4f0935": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-44.wav",
+    "fed334686951f2c20416d8719a178b0eef24cbe6722a28791b112f48180bf537": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-45.wav",
+    "044b4e9179217959dc7dbc755f7a8bf242c8c5463023e4766fafacecda4606c3": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-46.wav",
+    "ae227d4a13f4d629e02ac4f2d390534167e4f469d4796367e2c1211187f67099": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41111-47.wav",
+    "7e45f26be32db53b061238a45adfc8f81ba026324545cd00f58af6fc10a0e921": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-01.mp3",
+    "84eb0412f227366d133ec9f09fde3d127fee8bd8bdaa120c06fe6bce42bf973c": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-02.mp3",
+    "7f3b872baa5ad59c0051ed8ef465a86b474c89c2bec0e4e17fe7222f5977eec4": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-03.mp3",
+    "6e3f22befee0b71f36ebd631eaa66b586f9cfe9f40202a231a607c3033a977c2": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-04.mp3",
+    "b65fd6f09c241a05a74b7ba74863cae00ba6a1d9daaf427f895a84e3e955f9b1": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-05.mp3",
+    "700e186447c4b5b00ae92b40ad81ed01abe6b3fcef9ccc386e41572c4ad28367": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-06.mp3",
+    "aab12be733bc33b9de24866cd9a912b72926205a6b3257fc895ce3501303ce23": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-07.mp3",
+    "6c96fe8e642b2c42110a676c86a2afdaf4cb19f5d6a1fd2b9de3187541029dbe": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-08.mp3",
+    "75189f794c3489b790cff60cb20ed7b53dd0e754f5f369a16cf5718bc80442ee": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-09.mp3",
+    "950d9e1293a9ae7e20fcb876b0ddca985fd9b6379684c3e2bbec894409e39645": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-10.mp3",
+    "c7e7fd8db9be5a15ba4648e824a07a4f196bffde2811c784b73c28c9bf58379b": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-12.mp3",
+    "6df8585acafed9f63033d5581a6e93826f7c254f2d37eac06bb28e5de36f7685": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-13.mp3",
+    "38ede7c33392be555be938d123cb75d02ad4e3a90e244f299c94738a3ead4444": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-14.mp3",
+    "bf9425e484957e0bb3cedcda7937bbcbdaa5d08f7d25941d39f33b23b33db84c": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-15.mp3",
+    "b9fae70647aca91f9632198ee52aad682fca55075703ce46d4c4f997fb8d25c9": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-16.mp3",
+    "7e20a0d2d4da74b08fc45bff3481e4e320b64fdaac5b8a3ab8c408c65ca9b749": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-17.mp3",
+    "585b4aaba40c56f13b09ab50752ae26a10de791da0e85c7f85cc053b5a3b2aa7": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-18.mp3",
+    "9b80efe6877b392c9654df937d1fad073fb81e265f4e6b2a601deaf8d7338aa3": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-19.mp3",
+    "e5bba541c1f85512e51554d230bc99a181d55698132761c7131214ec685aefe0": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-20.mp3",
+    "866f5e6850746befa4db5553b7665c48d9f8f20b402917a3b88f22eb5ff8f284": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-21.mp3",
+    "18ac0b571b4061573070ffe812f110b19a8988e8d4276c07f69ece8a9e145a21": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-22.mp3",
+    "9bba22a908c0d8e9175966f81e35e15eb76762547633df07bcae9c2344195067": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-23.mp3",
+    "a62cd796941275d7d42f84a07c3e0a942a07803c39e664c7d13ea8a8a8c83f16": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-24.mp3",
+    "e0c8be292636409d141b47635b5d7abed8720d53159f55f4a35d53eb49ecfc78": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-25.mp3",
+    "0cc9f021569a0a918100efa9961f1b9b90d92d1ace4be8fab8f5fb14734872b3": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-26.mp3",
+    "4c81004c5e2e860a7391ecf995fa0b9d2569a94d0e5d5908f90fb35bd37e971f": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-30.mp3",
+    "3c8a8a42bc51f12939c8ee2ef5e5961cba7b8103355b2257957364074ef3ebe4": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-31.mp3",
+    "ff1c9a2c0080f6729be4ab7ba29157abf2009129a9148eb2f93c4e5c8fe2a3c3": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-32.mp3",
+    "77d2cb822f2befd798423aa67a299fbd2ef4c500eed10e931f209ec3ec8bdc44": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-33.mp3",
+    "fc52c28fcc194bb270f1f0e744f121318db443461954c0f636fd58d11e2ca60f": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-34.mp3",
+    "0c2a055a8b00331882f1e3bb783edd383dc6934422d01eb76e08be22bc63aa4b": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-35.mp3",
+    "02060b94a9b5e3a4321b5fe802c5df5371e965ed4ea7a5f1dd61ea3975225753": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-36.mp3",
+    "2c21afb4511502b1b1ad4c62460fcb1fb9ef83e9ab8d0ca2d26a3e583ddc06e2": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-38.mp3",
+    "36ccd140d00af040238bdad9eba440259c87451805a24b10302ae0854a774175": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-39.mp3",
+    "9dae67526627ae5f4e70a14abb1d7d746e0f7f0e1f78605f8820d6bd1c000ee8": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-40.mp3",
+    "3e5b7858aba47f732804a9329e71bcf7a869e96e6bb599809d42a2c4af877afd": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-41.mp3",
+    "dc9d6a1bf9045afc241ee9eb4c339df852acc09296c5d462b2442d43e692d2e9": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-42.mp3",
+    "ef525aeed1483d10d4fb7bbdd49f40880ad0d590763aa4b9580b6e48006a23fa": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-43.mp3",
+    "3e3122c1cbc376fd4a5267f0a5b58cde0625465a9a5b4b302dd09a990e121e60": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-44.mp3",
+    "74c53b32d9e4048aa7431be3f2aa71d0dca1996e95872d4a8a05e12be5bad714": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-45.mp3",
+    "7400cd4cc0caf36fa78277f836d0dd0afbb0f2cb753afb60a83b0b7c49bc5044": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-46.mp3",
+    "2691b051b1197a74a191339d15c8976bd42ac1847dc6751ba74b894200df3743": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-47.mp3",
+    "dcbef50712978037cdb3097063af22c3aca113919b286f9d193162d819f8c37b": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-48.mp3",
+    "56ad59501d96015b2cdc33b24963fec05bd532313c261eae2ae7c3c4fc0c5438": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-49.mp3",
+    "4d5693363fc088b31b42977d3dec8d213ae5c12e8c9e17dba3ec6c04690847aa": "https://media.mandarinzone.com/wp-content/uploads/2025/08/h41112-50.mp3"
+  },
+  "totalQuestions": 1033
+}

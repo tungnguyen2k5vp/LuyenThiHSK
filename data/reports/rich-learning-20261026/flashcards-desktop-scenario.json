@@ -1,0 +1,373 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "timezone": "Asia/Bangkok",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "reduced_motion": "no-preference"
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=vocab&level=HSK%201"
+  },
+  "storage": {
+    "local_storage": []
+  },
+  "actions": [
+    {
+      "step_id": "words_loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "start_cards",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-study-banner button:has-text(\"Học bằng thẻ\")"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "card_front",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=false]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "flip_0",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "back_0",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "grade_0",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"1\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "flip_1",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "back_1",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "grade_1",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"3\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "flip_2",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "back_2",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "grade_2",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"4\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "flip_3",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "back_3",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "grade_3",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"5\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "flip_4",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "back_4",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "grade_4",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"1\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "flip_5",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "back_5",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "grade_5",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"3\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "flip_6",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "back_6",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "grade_6",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"4\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "flip_7",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "back_7",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "grade_7",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"5\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "flip_8",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "back_8",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "grade_8",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"1\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "flip_9",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "back_9",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".learning-flashcard[data-revealed=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "grade_9",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".flashcard-grades button[data-grade=\"3\"]"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "review_complete",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".review-completion"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "review_settled",
+      "action": "wait_for_timeout",
+      "duration_ms": 800
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility",
+      "storage"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "storage",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

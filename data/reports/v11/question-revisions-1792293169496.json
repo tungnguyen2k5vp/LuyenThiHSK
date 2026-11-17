@@ -1,0 +1,150 @@
+{
+  "at": "2026-10-18T03:12:49.496Z",
+  "changes": [
+    {
+      "id": "v11-hsk2-grammar-00006-1",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00006-2",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00006-3",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00006-4",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00006-5",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00007-1",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00007-2",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00007-3",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00007-4",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00007-5",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00035-1",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00035-2",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00035-3",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00035-4",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00035-5",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00036-1",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00036-2",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00036-3",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00036-4",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00036-5",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00018-1",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00018-2",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00048-1",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    },
+    {
+      "id": "v11-hsk2-grammar-00048-2",
+      "from": 1,
+      "to": 2,
+      "reason": "Canonical internal_question_id equals new question ID, not inherited authoring template ID"
+    }
+  ],
+  "humanApproved": false
+}

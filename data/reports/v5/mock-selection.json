@@ -1,0 +1,735 @@
+{
+  "at": "2026-10-16T03:39:30.155Z",
+  "first": {
+    "policy": "v5-avoid-recent-diverse-balanced-r2",
+    "warnings": [],
+    "repeatedIds": [],
+    "recentQuestionIds": [],
+    "recentPassageIds": [],
+    "questionRevisions": [
+      [
+        "v4-cq-030",
+        3
+      ],
+      [
+        "v4-cq-004",
+        2
+      ],
+      [
+        "v4-cq-020",
+        2
+      ],
+      [
+        "v4-cq-010",
+        2
+      ],
+      [
+        "v4-cq-024",
+        2
+      ],
+      [
+        "v4-cq-025",
+        2
+      ],
+      [
+        "v4-cq-005",
+        2
+      ],
+      [
+        "v4-cq-013",
+        2
+      ],
+      [
+        "v4-cq-035",
+        2
+      ],
+      [
+        "v4-cq-034",
+        2
+      ],
+      [
+        "v4-cq-012",
+        2
+      ],
+      [
+        "v4-cq-016",
+        2
+      ],
+      [
+        "v4-cq-021",
+        2
+      ],
+      [
+        "v4-cq-028",
+        2
+      ],
+      [
+        "v4-cq-026",
+        2
+      ],
+      [
+        "v4-cq-001",
+        2
+      ],
+      [
+        "v4-cq-011",
+        2
+      ],
+      [
+        "v4-cq-019",
+        2
+      ],
+      [
+        "v4-cq-027",
+        2
+      ],
+      [
+        "v4-cq-007",
+        2
+      ],
+      [
+        "v5-rq-010",
+        2
+      ],
+      [
+        "v4-cq-047",
+        2
+      ],
+      [
+        "v4-cq-059",
+        2
+      ],
+      [
+        "v4-cq-049",
+        2
+      ],
+      [
+        "v5-rq-005",
+        2
+      ],
+      [
+        "v4-cq-056",
+        2
+      ],
+      [
+        "v4-cq-044",
+        2
+      ],
+      [
+        "v4-cq-054",
+        2
+      ],
+      [
+        "v5-rq-025",
+        1
+      ],
+      [
+        "v4-cq-052",
+        2
+      ],
+      [
+        "v4-cq-058",
+        2
+      ],
+      [
+        "v4-cq-046",
+        2
+      ],
+      [
+        "v4-cq-051",
+        2
+      ],
+      [
+        "v4-cq-043",
+        2
+      ],
+      [
+        "v4-cq-045",
+        2
+      ],
+      [
+        "v4-cq-050",
+        2
+      ],
+      [
+        "v4-cq-041",
+        2
+      ],
+      [
+        "v4-cq-057",
+        2
+      ],
+      [
+        "v5-rq-002",
+        1
+      ],
+      [
+        "v5-rq-016",
+        1
+      ]
+    ]
+  },
+  "second": {
+    "policy": "v5-avoid-recent-diverse-balanced-r2",
+    "warnings": [],
+    "repeatedIds": [],
+    "recentQuestionIds": [
+      "v4-cq-001",
+      "v4-cq-004",
+      "v4-cq-005",
+      "v4-cq-007",
+      "v4-cq-010",
+      "v4-cq-011",
+      "v4-cq-012",
+      "v4-cq-013",
+      "v4-cq-016",
+      "v4-cq-019",
+      "v4-cq-020",
+      "v4-cq-021",
+      "v4-cq-024",
+      "v4-cq-025",
+      "v4-cq-026",
+      "v4-cq-027",
+      "v4-cq-028",
+      "v4-cq-030",
+      "v4-cq-034",
+      "v4-cq-035",
+      "v4-cq-041",
+      "v4-cq-043",
+      "v4-cq-044",
+      "v4-cq-045",
+      "v4-cq-046",
+      "v4-cq-047",
+      "v4-cq-049",
+      "v4-cq-050",
+      "v4-cq-051",
+      "v4-cq-052",
+      "v4-cq-054",
+      "v4-cq-056",
+      "v4-cq-057",
+      "v4-cq-058",
+      "v4-cq-059",
+      "v5-rq-002",
+      "v5-rq-005",
+      "v5-rq-010",
+      "v5-rq-016",
+      "v5-rq-025"
+    ],
+    "recentPassageIds": [
+      "v4-passage-41",
+      "v4-passage-43",
+      "v4-passage-44",
+      "v4-passage-45",
+      "v4-passage-46",
+      "v4-passage-47",
+      "v4-passage-49",
+      "v4-passage-50",
+      "v4-passage-51",
+      "v4-passage-52",
+      "v4-passage-54",
+      "v4-passage-56",
+      "v4-passage-57",
+      "v4-passage-58",
+      "v4-passage-59",
+      "v5-passage-10",
+      "v5-passage-16",
+      "v5-passage-2",
+      "v5-passage-25",
+      "v5-passage-5"
+    ],
+    "questionRevisions": [
+      [
+        "v4-cq-033",
+        2
+      ],
+      [
+        "v4-cq-031",
+        2
+      ],
+      [
+        "v4-cq-008",
+        2
+      ],
+      [
+        "v4-cq-040",
+        2
+      ],
+      [
+        "v4-cq-023",
+        2
+      ],
+      [
+        "v4-cq-037",
+        2
+      ],
+      [
+        "v4-cq-029",
+        2
+      ],
+      [
+        "v4-cq-022",
+        3
+      ],
+      [
+        "v4-cq-018",
+        3
+      ],
+      [
+        "v4-cq-017",
+        2
+      ],
+      [
+        "v4-cq-009",
+        2
+      ],
+      [
+        "v4-cq-003",
+        2
+      ],
+      [
+        "v4-cq-038",
+        2
+      ],
+      [
+        "v4-cq-015",
+        2
+      ],
+      [
+        "v4-cq-014",
+        2
+      ],
+      [
+        "v4-cq-039",
+        2
+      ],
+      [
+        "v4-cq-002",
+        2
+      ],
+      [
+        "v4-cq-032",
+        2
+      ],
+      [
+        "v4-cq-036",
+        2
+      ],
+      [
+        "v4-cq-006",
+        2
+      ],
+      [
+        "v5-rq-004",
+        1
+      ],
+      [
+        "v5-rq-006",
+        1
+      ],
+      [
+        "v4-cq-055",
+        2
+      ],
+      [
+        "v5-rq-011",
+        1
+      ],
+      [
+        "v4-cq-053",
+        2
+      ],
+      [
+        "v5-rq-019",
+        1
+      ],
+      [
+        "v4-cq-060",
+        2
+      ],
+      [
+        "v5-rq-007",
+        1
+      ],
+      [
+        "v5-rq-020",
+        1
+      ],
+      [
+        "v5-rq-017",
+        1
+      ],
+      [
+        "v4-cq-042",
+        2
+      ],
+      [
+        "v5-rq-024",
+        1
+      ],
+      [
+        "v5-rq-003",
+        1
+      ],
+      [
+        "v5-rq-015",
+        1
+      ],
+      [
+        "v5-rq-001",
+        2
+      ],
+      [
+        "v5-rq-013",
+        1
+      ],
+      [
+        "v5-rq-023",
+        1
+      ],
+      [
+        "v5-rq-008",
+        1
+      ],
+      [
+        "v5-rq-014",
+        1
+      ],
+      [
+        "v4-cq-048",
+        2
+      ]
+    ]
+  },
+  "overlap": 0,
+  "firstQuestions": [
+    {
+      "id": "v4-cq-030",
+      "revision": 3
+    },
+    {
+      "id": "v4-cq-004",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-020",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-010",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-024",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-025",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-005",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-013",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-035",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-034",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-012",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-016",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-021",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-028",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-026",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-001",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-011",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-019",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-027",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-007",
+      "revision": 2
+    },
+    {
+      "id": "v5-rq-010",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-047",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-059",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-049",
+      "revision": 2
+    },
+    {
+      "id": "v5-rq-005",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-056",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-044",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-054",
+      "revision": 2
+    },
+    {
+      "id": "v5-rq-025",
+      "revision": 1
+    },
+    {
+      "id": "v4-cq-052",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-058",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-046",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-051",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-043",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-045",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-050",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-041",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-057",
+      "revision": 2
+    },
+    {
+      "id": "v5-rq-002",
+      "revision": 1
+    },
+    {
+      "id": "v5-rq-016",
+      "revision": 1
+    }
+  ],
+  "secondQuestions": [
+    {
+      "id": "v4-cq-033",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-031",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-008",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-040",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-023",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-037",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-029",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-022",
+      "revision": 3
+    },
+    {
+      "id": "v4-cq-018",
+      "revision": 3
+    },
+    {
+      "id": "v4-cq-017",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-009",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-003",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-038",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-015",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-014",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-039",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-002",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-032",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-036",
+      "revision": 2
+    },
+    {
+      "id": "v4-cq-006",
+      "revision": 2
+    },
+    {
+      "id": "v5-rq-004",
+      "revision": 1
+    },
+    {
+      "id": "v5-rq-006",
+      "revision": 1
+    },
+    {
+      "id": "v4-cq-055",
+      "revision": 2
+    },
+    {
+      "id": "v5-rq-011",
+      "revision": 1
+    },
+    {
+      "id": "v4-cq-053",
+      "revision": 2
+    },
+    {
+      "id": "v5-rq-019",
+      "revision": 1
+    },
+    {
+      "id": "v4-cq-060",
+      "revision": 2
+    },
+    {
+      "id": "v5-rq-007",
+      "revision": 1
+    },
+    {
+      "id": "v5-rq-020",
+      "revision": 1
+    },
+    {
+      "id": "v5-rq-017",
+      "revision": 1
+    },
+    {
+      "id": "v4-cq-042",
+      "revision": 2
+    },
+    {
+      "id": "v5-rq-024",
+      "revision": 1
+    },
+    {
+      "id": "v5-rq-003",
+      "revision": 1
+    },
+    {
+      "id": "v5-rq-015",
+      "revision": 1
+    },
+    {
+      "id": "v5-rq-001",
+      "revision": 2
+    },
+    {
+      "id": "v5-rq-013",
+      "revision": 1
+    },
+    {
+      "id": "v5-rq-023",
+      "revision": 1
+    },
+    {
+      "id": "v5-rq-008",
+      "revision": 1
+    },
+    {
+      "id": "v5-rq-014",
+      "revision": 1
+    },
+    {
+      "id": "v4-cq-048",
+      "revision": 2
+    }
+  ],
+  "answerPositions": {
+    "A": 11,
+    "B": 11,
+    "C": 9,
+    "D": 9
+  },
+  "note": "Option positions balanced within each option-count group; difficulty/grammar diversity heuristic is not psychometric calibration"
+}

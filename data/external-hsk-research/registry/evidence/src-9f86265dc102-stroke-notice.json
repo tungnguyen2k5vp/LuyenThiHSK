@@ -1,0 +1,6 @@
+{
+  "file": "HocTiengTrungApp/src/data/HANZI_STROKE_DATA_LICENSE.md",
+  "sha256": "e4545eb58eeb083b5a8cdf04f8a4c1d4f1b70e69a581f690cb75c7f3c85963de",
+  "evidenceKind": "EXISTING_LOCAL_LICENSE",
+  "text": "# Hanzi stroke data attribution\n\nThe bundled HSK 1–9 and supplemental stroke paths in `hsk12-strokes.json` and\nthe eight lazy runtime files `stroke-shard-0.json` through `stroke-shard-7.json` are generated from\n`hanzi-writer-data` 2.0.1, derived from the Make Me A Hanzi project.\n\nThe data is distributed under the Arphic Public License. The complete license\nis stored beside this file in `ARPHICPL.TXT`.\n\nSource: https://github.com/chanind/hanzi-writer-data\n\n`stroke-coverage.json` records unsupported characters. The generator never\nsubstitutes simplified paths for a different traditional character.\n"
+}

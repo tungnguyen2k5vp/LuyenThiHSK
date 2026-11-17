@@ -1,0 +1,42 @@
+{
+  "at": "2026-10-18T13:12:59.932Z",
+  "phase": "final",
+  "results": [
+    {
+      "name": "v8-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 56640
+    },
+    {
+      "name": "v8-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 58736
+    },
+    {
+      "name": "v11-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 17193
+    },
+    {
+      "name": "v11-edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 19076
+    },
+    {
+      "name": "v12-chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 21276
+    },
+    {
+      "name": "v12-edge",
+      "status": "FAIL",
+      "exitCode": 1,
+      "durationMs": 26764
+    }
+  ]
+}

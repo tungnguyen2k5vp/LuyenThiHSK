@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-17T15:46:13.881Z",
+  "batch": "HSK2-A",
+  "dryRun": false,
+  "backup": "D:\\ReactJS\\LuyenThiHSK\\.runtime\\backups\\v10-HSK2-A-2026-10-17T15-46-13-304Z\\hsk-content.sqlite",
+  "plan": {
+    "planned": 38,
+    "planHash": "21c098d568778f9b96fa6b411457edd33bf0631f0233d82345d2e424ab4dcfb1",
+    "changed": 0
+  },
+  "result": {
+    "added": 38,
+    "humanReviewed": 0,
+    "published": 0
+  }
+}

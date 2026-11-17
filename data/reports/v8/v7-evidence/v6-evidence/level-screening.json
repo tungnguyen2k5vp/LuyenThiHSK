@@ -1,0 +1,2956 @@
+{
+  "method": "CTI-aligned minimum-cost headword segmentation. Flags are editorial candidates, not automatic language errors.",
+  "items": [
+    {
+      "id": "v4-gq-00001",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00002",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00003",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00004",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00005",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00006",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00007",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00008",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00009",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00010",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00011",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00012",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00013",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00014",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00015",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00016",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00017",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00018",
+      "flags": [
+        {
+          "word": "次",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00019",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00020",
+      "flags": [
+        {
+          "word": "没",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00021",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00022",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00023",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00024",
+      "flags": [
+        {
+          "word": "得",
+          "level": "2"
+        },
+        {
+          "word": "地",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00025",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00026",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00027",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00028",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00029",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00030",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00031",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00032",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00033",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00034",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00035",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00036",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00037",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00038",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00039",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00041",
+      "flags": [
+        {
+          "word": "次",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00042",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00043",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00044",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00045",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00046",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00047",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00048",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00049",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00050",
+      "flags": [
+        {
+          "word": "没",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00051",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00052",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00053",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00054",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00055",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00056",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00057",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00058",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-gq-00059",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00060",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00061",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00062",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00064",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00065",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00066",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00067",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00068",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00069",
+      "flags": []
+    },
+    {
+      "id": "v4-gq-00070",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-001",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-002",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-003",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-004",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-005",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-006",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-007",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-008",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-009",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-010",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-011",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-012",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-013",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-014",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-015",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-016",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-017",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-cq-018",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-019",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-020",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-021",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-022",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v4-cq-023",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-024",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-025",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-026",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-027",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-028",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-029",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-030",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-031",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-032",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-033",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-034",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-035",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-036",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-037",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-038",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-039",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-040",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-041",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-042",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-043",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-044",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-045",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-046",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-047",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-048",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-049",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-050",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-051",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-052",
+      "flags": [
+        {
+          "word": "咖啡",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v4-cq-053",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-054",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-055",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-056",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-057",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-058",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-059",
+      "flags": []
+    },
+    {
+      "id": "v4-cq-060",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-001",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-002",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-003",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-004",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-005",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-006",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-007",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-008",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-009",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-010",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-011",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-012",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-013",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-014",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-015",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-016",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-017",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-018",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-019",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-020",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-021",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v5-rq-022",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-023",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-024",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-025",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-026",
+      "flags": [
+        {
+          "word": "没",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v5-rq-027",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-028",
+      "flags": []
+    },
+    {
+      "id": "v5-rq-029",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v5-rq-030",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-001",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-002",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-003",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-004",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-005",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-006",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-007",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-008",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-009",
+      "flags": [
+        {
+          "word": "没",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v5-gq-010",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-011",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-012",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-013",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-014",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-015",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-016",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-017",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-018",
+      "flags": []
+    },
+    {
+      "id": "v5-gq-019",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v5-gq-020",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-L1-1",
+      "flags": []
+    },
+    {
+      "id": "v6-L1-2",
+      "flags": []
+    },
+    {
+      "id": "v6-L1-3",
+      "flags": []
+    },
+    {
+      "id": "v6-L1-4",
+      "flags": []
+    },
+    {
+      "id": "v6-L1-5",
+      "flags": []
+    },
+    {
+      "id": "v6-L1-6",
+      "flags": []
+    },
+    {
+      "id": "v6-L1-7",
+      "flags": []
+    },
+    {
+      "id": "v6-L1-8",
+      "flags": []
+    },
+    {
+      "id": "v6-L1-9",
+      "flags": []
+    },
+    {
+      "id": "v6-L1-10",
+      "flags": []
+    },
+    {
+      "id": "v6-L2-1",
+      "flags": []
+    },
+    {
+      "id": "v6-L2-2",
+      "flags": []
+    },
+    {
+      "id": "v6-L2-3",
+      "flags": []
+    },
+    {
+      "id": "v6-L2-4",
+      "flags": []
+    },
+    {
+      "id": "v6-L2-5",
+      "flags": []
+    },
+    {
+      "id": "v6-L2-6",
+      "flags": []
+    },
+    {
+      "id": "v6-L2-7",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-L2-8",
+      "flags": []
+    },
+    {
+      "id": "v6-L2-9",
+      "flags": []
+    },
+    {
+      "id": "v6-L2-10",
+      "flags": []
+    },
+    {
+      "id": "v6-L3-1",
+      "flags": []
+    },
+    {
+      "id": "v6-L3-2",
+      "flags": []
+    },
+    {
+      "id": "v6-L3-3",
+      "flags": []
+    },
+    {
+      "id": "v6-L3-4",
+      "flags": []
+    },
+    {
+      "id": "v6-L3-5",
+      "flags": []
+    },
+    {
+      "id": "v6-L3-6",
+      "flags": []
+    },
+    {
+      "id": "v6-L3-7",
+      "flags": []
+    },
+    {
+      "id": "v6-L3-8",
+      "flags": []
+    },
+    {
+      "id": "v6-L3-9",
+      "flags": []
+    },
+    {
+      "id": "v6-L3-10",
+      "flags": []
+    },
+    {
+      "id": "v6-L4-1",
+      "flags": []
+    },
+    {
+      "id": "v6-L4-2",
+      "flags": []
+    },
+    {
+      "id": "v6-L4-3",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-L4-4",
+      "flags": []
+    },
+    {
+      "id": "v6-L4-5",
+      "flags": []
+    },
+    {
+      "id": "v6-L4-6",
+      "flags": []
+    },
+    {
+      "id": "v6-L4-7",
+      "flags": []
+    },
+    {
+      "id": "v6-L4-8",
+      "flags": []
+    },
+    {
+      "id": "v6-L4-9",
+      "flags": []
+    },
+    {
+      "id": "v6-L4-10",
+      "flags": []
+    },
+    {
+      "id": "v6-R1-1",
+      "flags": []
+    },
+    {
+      "id": "v6-R1-2",
+      "flags": []
+    },
+    {
+      "id": "v6-R1-3",
+      "flags": []
+    },
+    {
+      "id": "v6-R1-4",
+      "flags": []
+    },
+    {
+      "id": "v6-R1-5",
+      "flags": []
+    },
+    {
+      "id": "v6-R1-6",
+      "flags": []
+    },
+    {
+      "id": "v6-R1-7",
+      "flags": []
+    },
+    {
+      "id": "v6-R1-8",
+      "flags": []
+    },
+    {
+      "id": "v6-R1-9",
+      "flags": []
+    },
+    {
+      "id": "v6-R1-10",
+      "flags": []
+    },
+    {
+      "id": "v6-R2-1",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-R2-2",
+      "flags": []
+    },
+    {
+      "id": "v6-R2-3",
+      "flags": []
+    },
+    {
+      "id": "v6-R2-4",
+      "flags": []
+    },
+    {
+      "id": "v6-R2-5",
+      "flags": []
+    },
+    {
+      "id": "v6-R2-6",
+      "flags": []
+    },
+    {
+      "id": "v6-R2-7",
+      "flags": []
+    },
+    {
+      "id": "v6-R2-8",
+      "flags": []
+    },
+    {
+      "id": "v6-R2-9",
+      "flags": []
+    },
+    {
+      "id": "v6-R2-10",
+      "flags": []
+    },
+    {
+      "id": "v6-R3-1",
+      "flags": []
+    },
+    {
+      "id": "v6-R3-2",
+      "flags": []
+    },
+    {
+      "id": "v6-R3-3",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-R3-4",
+      "flags": []
+    },
+    {
+      "id": "v6-R3-5",
+      "flags": []
+    },
+    {
+      "id": "v6-R3-6",
+      "flags": []
+    },
+    {
+      "id": "v6-R3-7",
+      "flags": []
+    },
+    {
+      "id": "v6-R3-8",
+      "flags": []
+    },
+    {
+      "id": "v6-R3-9",
+      "flags": []
+    },
+    {
+      "id": "v6-R3-10",
+      "flags": []
+    },
+    {
+      "id": "v6-R4-1",
+      "flags": []
+    },
+    {
+      "id": "v6-R4-2",
+      "flags": []
+    },
+    {
+      "id": "v6-R4-3",
+      "flags": []
+    },
+    {
+      "id": "v6-R4-4",
+      "flags": []
+    },
+    {
+      "id": "v6-R4-5",
+      "flags": []
+    },
+    {
+      "id": "v6-R4-6",
+      "flags": []
+    },
+    {
+      "id": "v6-R4-7",
+      "flags": []
+    },
+    {
+      "id": "v6-R4-8",
+      "flags": []
+    },
+    {
+      "id": "v6-R4-9",
+      "flags": []
+    },
+    {
+      "id": "v6-R4-10",
+      "flags": []
+    },
+    {
+      "id": "v6-picture-tf-1",
+      "flags": []
+    },
+    {
+      "id": "v6-picture-tf-2",
+      "flags": [
+        {
+          "word": "台",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-multi-match-1",
+      "flags": [
+        {
+          "word": "把",
+          "level": "3"
+        },
+        {
+          "word": "饮料",
+          "level": "3"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        },
+        {
+          "word": "连接",
+          "level": "5"
+        },
+        {
+          "word": "起来",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-multi-match-2",
+      "flags": [
+        {
+          "word": "把",
+          "level": "3"
+        },
+        {
+          "word": "回答",
+          "level": "3"
+        },
+        {
+          "word": "连接",
+          "level": "5"
+        },
+        {
+          "word": "起来",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-001",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-002",
+      "flags": [
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "称呼",
+          "level": "6"
+        },
+        {
+          "word": "王",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-003",
+      "flags": [
+        {
+          "word": "李",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "张",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-004",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-005",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-006",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "等",
+          "level": "2"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-007",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-008",
+      "flags": [
+        {
+          "word": "过",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-009",
+      "flags": [
+        {
+          "word": "但",
+          "level": "2"
+        },
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "能力",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-010",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-011",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-012",
+      "flags": [
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "话",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "表示",
+          "level": "4"
+        },
+        {
+          "word": "同意",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-013",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "用",
+          "level": "3"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-014",
+      "flags": [
+        {
+          "word": "打",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-015",
+      "flags": [
+        {
+          "word": "中",
+          "level": "3"
+        },
+        {
+          "word": "表示",
+          "level": "4"
+        },
+        {
+          "word": "动作",
+          "level": "4"
+        },
+        {
+          "word": "地方",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-016",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "面",
+          "level": "2"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-017",
+      "flags": [
+        {
+          "word": "林",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-018",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-019",
+      "flags": [
+        {
+          "word": "应该",
+          "level": "3"
+        },
+        {
+          "word": "回答",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-020",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-021",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-022",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-023",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-024",
+      "flags": [
+        {
+          "word": "自己",
+          "level": "2"
+        },
+        {
+          "word": "较",
+          "level": "5"
+        },
+        {
+          "word": "远",
+          "level": "2"
+        },
+        {
+          "word": "所有",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-025",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-026",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-027",
+      "flags": [
+        {
+          "word": "号码",
+          "level": "3"
+        },
+        {
+          "word": "数字",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-028",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-029",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-030",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "一共",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-031",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-032",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-033",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-034",
+      "flags": [
+        {
+          "word": "种",
+          "level": "3"
+        },
+        {
+          "word": "表达",
+          "level": "5"
+        },
+        {
+          "word": "心情",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-035",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "啊",
+          "level": "2"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-036",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-037",
+      "flags": [
+        {
+          "word": "别",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-038",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-039",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-040",
+      "flags": [
+        {
+          "word": "次",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-041",
+      "flags": [
+        {
+          "word": "已经",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-042",
+      "flags": [
+        {
+          "word": "次",
+          "level": "2"
+        },
+        {
+          "word": "应该",
+          "level": "3"
+        },
+        {
+          "word": "不用",
+          "level": "3"
+        },
+        {
+          "word": "把",
+          "level": "3"
+        },
+        {
+          "word": "刚才",
+          "level": "3"
+        },
+        {
+          "word": "内容",
+          "level": "4"
+        },
+        {
+          "word": "遍",
+          "level": "3"
+        },
+        {
+          "word": "马上",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-043",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-044",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-045",
+      "flags": [
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "相同",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-046",
+      "flags": [
+        {
+          "word": "没",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-047",
+      "flags": [
+        {
+          "word": "没",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-048",
+      "flags": [
+        {
+          "word": "教",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-049",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-050",
+      "flags": [
+        {
+          "word": "从",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-051",
+      "flags": [
+        {
+          "word": "一起",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-052",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-053",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-054",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-055",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-056",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-057",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-058",
+      "flags": [
+        {
+          "word": "已经",
+          "level": "2"
+        },
+        {
+          "word": "发生",
+          "level": "3"
+        },
+        {
+          "word": "允许",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-059",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-060",
+      "flags": [
+        {
+          "word": "公园",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-061",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-062",
+      "flags": [
+        {
+          "word": "李",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-063",
+      "flags": [
+        {
+          "word": "通",
+          "level": "4"
+        },
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "话",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "适合",
+          "level": "4"
+        },
+        {
+          "word": "开始",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-064",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "自然",
+          "level": "4"
+        },
+        {
+          "word": "头",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-065",
+      "flags": [
+        {
+          "word": "红色",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-066",
+      "flags": [
+        {
+          "word": "教",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-067",
+      "flags": [
+        {
+          "word": "每",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-068",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-069",
+      "flags": [
+        {
+          "word": "对象",
+          "level": "5"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-070",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-071",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-072",
+      "flags": [
+        {
+          "word": "主",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "语",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-073",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-074",
+      "flags": [
+        {
+          "word": "中",
+          "level": "3"
+        },
+        {
+          "word": "地方",
+          "level": "3"
+        },
+        {
+          "word": "数量",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-075",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "把",
+          "level": "3"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-076",
+      "flags": [
+        {
+          "word": "后面",
+          "level": "2"
+        },
+        {
+          "word": "地方",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-077",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-078",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-079",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-080",
+      "flags": [
+        {
+          "word": "打",
+          "level": "2"
+        },
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "次",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-081",
+      "flags": [
+        {
+          "word": "次",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-082",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "次",
+          "level": "2"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-083",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-084",
+      "flags": [
+        {
+          "word": "下面",
+          "level": "2"
+        },
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "年龄",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-085",
+      "flags": [
+        {
+          "word": "适合",
+          "level": "4"
+        },
+        {
+          "word": "种",
+          "level": "3"
+        },
+        {
+          "word": "情况",
+          "level": "4"
+        },
+        {
+          "word": "别",
+          "level": "2"
+        },
+        {
+          "word": "帮助",
+          "level": "3"
+        },
+        {
+          "word": "告诉",
+          "level": "2"
+        },
+        {
+          "word": "年龄",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-086",
+      "flags": [
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "话",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "陈述",
+          "level": "7-9"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-087",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "把",
+          "level": "3"
+        },
+        {
+          "word": "陈述",
+          "level": "7-9"
+        },
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-088",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-089",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-090",
+      "flags": [
+        {
+          "word": "没",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-091",
+      "flags": [
+        {
+          "word": "没",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-092",
+      "flags": [
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "自然",
+          "level": "4"
+        },
+        {
+          "word": "正",
+          "level": "2"
+        },
+        {
+          "word": "反",
+          "level": "5"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-093",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-094",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-095",
+      "flags": [
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "表达",
+          "level": "5"
+        },
+        {
+          "word": "赞叹",
+          "level": "7-9"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-096",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-097",
+      "flags": [
+        {
+          "word": "但",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-098",
+      "flags": [
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "话",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "唯一",
+          "level": "5"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-099",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-100",
+      "flags": [
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "相同",
+          "level": "4"
+        },
+        {
+          "word": "桌",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-101",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-102",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-103",
+      "flags": [
+        {
+          "word": "表达",
+          "level": "5"
+        },
+        {
+          "word": "里面",
+          "level": "2"
+        },
+        {
+          "word": "就",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-104",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-105",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-106",
+      "flags": [
+        {
+          "word": "离",
+          "level": "2"
+        },
+        {
+          "word": "远",
+          "level": "2"
+        },
+        {
+          "word": "公共",
+          "level": "4"
+        },
+        {
+          "word": "汽车",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-107",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "北",
+          "level": "3"
+        },
+        {
+          "word": "京",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-108",
+      "flags": [
+        {
+          "word": "走路",
+          "level": "2"
+        },
+        {
+          "word": "回答",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-109",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-110",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-111",
+      "flags": [
+        {
+          "word": "收到",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-112",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-113",
+      "flags": [
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "饮料",
+          "level": "3"
+        },
+        {
+          "word": "不同",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-114",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-115",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-116",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-117",
+      "flags": [
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "种",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-118",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-119",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-120",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-121",
+      "flags": [
+        {
+          "word": "句",
+          "level": "3"
+        },
+        {
+          "word": "最",
+          "level": "2"
+        },
+        {
+          "word": "符合",
+          "level": "4"
+        },
+        {
+          "word": "才",
+          "level": "3"
+        },
+        {
+          "word": "从",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-122",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-123",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-124",
+      "flags": [
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-125",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-126",
+      "flags": [
+        {
+          "word": "表示",
+          "level": "4"
+        },
+        {
+          "word": "一共",
+          "level": "3"
+        },
+        {
+          "word": "顺序",
+          "level": "4"
+        },
+        {
+          "word": "最",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-127",
+      "flags": [
+        {
+          "word": "词语",
+          "level": "4"
+        },
+        {
+          "word": "选择",
+          "level": "3"
+        },
+        {
+          "word": "正确",
+          "level": "4"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-128",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-129",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-130",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-131",
+      "flags": []
+    },
+    {
+      "id": "v6-gq-132",
+      "flags": [
+        {
+          "word": "中",
+          "level": "3"
+        },
+        {
+          "word": "别",
+          "level": "2"
+        },
+        {
+          "word": "表示",
+          "level": "4"
+        },
+        {
+          "word": "年龄",
+          "level": "4"
+        },
+        {
+          "word": "复",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "数",
+          "level": "4"
+        },
+        {
+          "word": "方位",
+          "level": "6"
+        },
+        {
+          "word": "价格",
+          "level": "4"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-133",
+      "flags": [
+        {
+          "word": "与",
+          "level": "4"
+        },
+        {
+          "word": "中",
+          "level": "3"
+        },
+        {
+          "word": "直接",
+          "level": "4"
+        },
+        {
+          "word": "交换",
+          "level": "5"
+        },
+        {
+          "word": "词",
+          "level": "2"
+        },
+        {
+          "word": "作用",
+          "level": "4"
+        },
+        {
+          "word": "不同",
+          "level": "3"
+        },
+        {
+          "word": "意思",
+          "level": "2"
+        },
+        {
+          "word": "完全",
+          "level": "4"
+        },
+        {
+          "word": "一样",
+          "level": "3"
+        },
+        {
+          "word": "句子",
+          "level": "3"
+        },
+        {
+          "word": "对象",
+          "level": "5"
+        }
+      ]
+    },
+    {
+      "id": "v6-gq-134",
+      "flags": [
+        {
+          "word": "李",
+          "level": "UNKNOWN"
+        },
+        {
+          "word": "杯",
+          "level": "UNKNOWN"
+        }
+      ]
+    }
+  ]
+}

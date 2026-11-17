@@ -1,0 +1,1 @@
+import {readFile,writeFile} from 'node:fs/promises';const f='src/components/admin/ReviewV7Tools.tsx';let s=await readFile(f,'utf8');s=s.replace(".replaceAll('\"','\"\"')",".replace(/\"/g,'\"\"')");await writeFile(f,s);

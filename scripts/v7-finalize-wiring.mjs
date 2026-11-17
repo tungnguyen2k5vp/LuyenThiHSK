@@ -1,0 +1,2 @@
+import {readFile,writeFile} from 'node:fs/promises';const p=JSON.parse(await readFile('package.json','utf8'));p.scripts['report:v7']='node scripts/v7-finalize.mjs';await writeFile('package.json',JSON.stringify(p,null,2)+'\n');
+let s=await readFile('scripts/check-v7-handoff.mjs','utf8');s=s.replace("])check(()=>assert.ok(doc));", "]){const fileStat=await stat('docs/v7/'+doc+'.md');check(()=>assert.ok(fileStat.size>100));}");await writeFile('scripts/check-v7-handoff.mjs',s);

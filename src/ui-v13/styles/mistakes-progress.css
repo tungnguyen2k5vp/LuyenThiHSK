@@ -1,0 +1,95 @@
+/**
+ * HSK UI V13 - MISTAKES REVIEW & PROGRESS WORKSPACE STYLES
+ * Scoped strictly to .hsk-ui-v13
+ */
+
+.hsk-ui-v13 .hsk-mistakes-workspace,
+.hsk-ui-v13 .hsk-progress-workspace {
+  display: flex;
+  flex-direction: column;
+  gap: var(--hsk-space-6);
+  width: 100%;
+}
+
+.hsk-ui-v13 .hsk-mistake-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--hsk-space-3);
+  padding: var(--hsk-space-4);
+  background-color: var(--hsk-color-surface);
+  border-radius: var(--hsk-radius-xl);
+  border: 1px solid var(--hsk-color-border-subtle);
+  box-shadow: var(--hsk-shadow-xs);
+  transition: all var(--hsk-transition-fast);
+}
+
+.hsk-ui-v13 .hsk-mistake-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--hsk-shadow-md);
+  border-color: var(--hsk-color-primary-light);
+}
+
+.hsk-ui-v13 .hsk-mistake-reason-pill {
+  font-size: var(--hsk-font-size-xs);
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: var(--hsk-radius-full);
+}
+
+.hsk-ui-v13 .hsk-mistake-reason-pill.reason-incorrect {
+  background-color: #fef2f2;
+  color: #ef4444;
+}
+
+.hsk-ui-v13 .hsk-mistake-reason-pill.reason-flagged {
+  background-color: var(--hsk-color-amber-light);
+  color: var(--hsk-color-amber-dark);
+}
+
+.hsk-ui-v13 .hsk-mistake-reason-pill.reason-unanswered {
+  background-color: var(--hsk-color-surface-soft);
+  color: var(--hsk-color-text-secondary);
+}
+
+.hsk-ui-v13 .hsk-mistake-reason-pill.reason-self-review {
+  background-color: var(--hsk-color-primary-light);
+  color: var(--hsk-color-primary-dark);
+}
+
+/* Weekly Streak Heatmap */
+.hsk-ui-v13 .hsk-streak-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--hsk-space-5);
+  background: linear-gradient(135deg, #fffbeb 0%, #ffffff 100%);
+  border-radius: var(--hsk-radius-2xl);
+  border: 1px solid var(--hsk-color-border-subtle);
+  box-shadow: var(--hsk-shadow-xs);
+}
+
+.hsk-ui-v13 .hsk-streak-days-row {
+  display: flex;
+  gap: var(--hsk-space-2);
+}
+
+.hsk-ui-v13 .hsk-streak-day-dot {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--hsk-radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--hsk-font-size-xs);
+  font-weight: 700;
+  border: 1px solid var(--hsk-color-border-subtle);
+  background-color: var(--hsk-color-surface);
+  color: var(--hsk-color-text-muted);
+}
+
+.hsk-ui-v13 .hsk-streak-day-dot.is-active {
+  background-color: var(--hsk-color-amber);
+  color: #ffffff;
+  border-color: var(--hsk-color-amber);
+  box-shadow: 0 0 0 2px var(--hsk-color-amber-light);
+}

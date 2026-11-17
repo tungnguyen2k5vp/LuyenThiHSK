@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Home",
+    "before": "docs/screenshots/v8/before-v7/v7-desktop-homepage.png",
+    "after": "docs/screenshots/v8/after-chrome/v7-desktop-homepage.png"
+  },
+  {
+    "name": "Exam center",
+    "before": "docs/screenshots/v8/before-v7/v7-desktop-practice.png",
+    "after": "docs/screenshots/v8/after-chrome/v7-desktop-practice.png"
+  },
+  {
+    "name": "Exam room",
+    "before": "docs/screenshots/v8/before-v7/v7-desktop-picture-question.png",
+    "after": "docs/screenshots/v8/after-chrome/v7-desktop-picture-question.png"
+  },
+  {
+    "name": "Results",
+    "before": "docs/screenshots/v8/before-v7/v7-desktop-results.png",
+    "after": "docs/screenshots/v8/after-chrome/v7-desktop-results.png"
+  },
+  {
+    "name": "Reviewer",
+    "before": "docs/screenshots/v8/before-v7/v7-review-dashboard.png",
+    "after": "docs/screenshots/v8/extra-chrome/v8-review-dashboard-ready.png"
+  },
+  {
+    "name": "Grammar",
+    "before": "docs/screenshots/v8/before-v7/v7-desktop-grammar.png",
+    "after": "docs/screenshots/v8/after-chrome/v7-desktop-grammar.png"
+  },
+  {
+    "name": "Independent grammar practice",
+    "before": "docs/screenshots/v8/before-v7/v7-desktop-grammar-practice.png",
+    "after": "docs/screenshots/v8/after-chrome/v7-desktop-grammar-practice.png"
+  },
+  {
+    "name": "Media recovery",
+    "before": null,
+    "after": "docs/screenshots/v8/after-chrome/v7-image-failure-timer-paused.png"
+  },
+  {
+    "name": "Practice / HSK2 pilot (different scroll)",
+    "before": "docs/screenshots/v8/before-v7/v7-hsk2-foundation.png",
+    "after": "docs/screenshots/v8/after-chrome/v8-hsk2-landing-reading-list.png"
+  }
+]

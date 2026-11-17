@@ -1,0 +1,6 @@
+{
+  "at": "2026-10-16T10:30:34.796Z",
+  "status": "PASS",
+  "cases": 12,
+  "policy": "Persisted cumulative 300s automatic compensation. Beyond budget: suspend, preserve answers, exit or switch to untimed practice; never silently consume time."
+}

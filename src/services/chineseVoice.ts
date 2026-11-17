@@ -1,0 +1,1 @@
+export function chineseVoice<T extends {lang:string;name:string}>(voices:T[]):T|undefined{return voices.find(v=>/^zh-CN(?:-|$)/i.test(v.lang))??voices.find(v=>/^zh(?:$|-(?:SG|TW|Hans|Hant)(?:-|$))/i.test(v.lang));}

@@ -1,0 +1,2190 @@
+{
+  "total": 64,
+  "items": [
+    {
+      "id": "cti25-v-17",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我想喝一杯茶。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我想喝一杯茶。",
+          "pinyin": "wǒ xiǎng hē yī bēi chá。",
+          "vi": "Tôi muốn uống một cốc trà.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-36",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "用",
+          "reportedLevel": "3",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我用电脑学习。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "这是我的电脑。",
+          "vi": "Đây là máy tính của tôi.",
+          "pinyin": "zhè shì wǒ de diàn nǎo。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-44",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "得",
+          "reportedLevel": "2",
+          "category": "HARDER_GRAMMAR_STRUCTURE",
+          "action": "SIMPLIFY_EXAMPLE",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "你说得对。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "对，这是我的书。",
+          "vi": "Đúng, đây là sách của tôi.",
+          "pinyin": "duì， zhè shì wǒ de shū。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-55",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "十分",
+          "reportedLevel": "4",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "现在是八点十分。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "现在是八点十分。",
+          "pinyin": "xiàn zài shì bā diǎn shí fēn。",
+          "vi": "Bây giờ là tám giờ mười phút.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-56",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "等",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "请等五分钟。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我们有十分钟。",
+          "vi": "Chúng ta có mười phút.",
+          "pinyin": "wǒ men yǒu shí fēn zhōng。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-58",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "首",
+          "reportedLevel": "4",
+          "category": "CLASSIFIER_OUT_OF_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "这首歌很好听。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我喜欢听歌。",
+          "vi": "Tôi thích nghe nhạc.",
+          "pinyin": "wǒ xǐ huān tīng gē。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-61",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "请给我一杯水。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "请给我一杯水。",
+          "pinyin": "qǐng gěi wǒ yī bēi shuǐ。",
+          "vi": "Xin cho tôi một cốc nước.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-77",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "还是",
+          "reportedLevel": "2",
+          "category": "HARDER_GRAMMAR_STRUCTURE",
+          "action": "SIMPLIFY_EXAMPLE",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "你喝茶还是喝水？"
+        }
+      ],
+      "after": [
+        {
+          "zh": "你想喝什么？我想喝水。",
+          "vi": "Bạn muốn uống gì? Tôi muốn uống nước.",
+          "pinyin": "nǐ xiǎng hē shén me？ wǒ xiǎng hē shuǐ。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-80",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "后面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "学校后面有一家书店。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "学校后边有一家书店。",
+          "vi": "Phía sau trường có một nhà sách.",
+          "pinyin": "xué xiào hòu biān yǒu yī jiā shū diàn。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-86",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "前面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我家在学校前面。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我家在这里。",
+          "vi": "Nhà tôi ở đây.",
+          "pinyin": "wǒ jiā zài zhè lǐ。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-97",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "门",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "请开门。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "爸爸开车去公司。",
+          "vi": "Bố lái xe đến công ty.",
+          "pinyin": "bà bà kāi chē qù gōng sī。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-107",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "姓",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "examples.0",
+          "word": "王",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我们的老师姓王。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "这是我们的老师。",
+          "vi": "Đây là giáo viên của chúng tôi.",
+          "pinyin": "zhè shì wǒ men de lǎo shī。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-110",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "包",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "书在包里。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "书在房间里。",
+          "vi": "Sách ở trong phòng.",
+          "pinyin": "shū zài fáng jiān lǐ。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-127",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "碗",
+          "reportedLevel": "3",
+          "category": "CLASSIFIER_OUT_OF_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我想吃一碗面条儿。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我喜欢吃面条儿。",
+          "vi": "Tôi thích ăn mì.",
+          "pinyin": "wǒ xǐ huān chī miàn tiáo ér。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-129",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "有时",
+          "reportedLevel": "2",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        },
+        {
+          "field": "examples.0",
+          "word": "间",
+          "reportedLevel": "2",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "明天你有时间吗？"
+        }
+      ],
+      "after": [
+        {
+          "zh": "明天你有时间吗？",
+          "pinyin": "míng tiān nǐ yǒu shí jiān ma？",
+          "vi": "Ngày mai bạn có thời gian không?",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-147",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "王",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "你好，我叫小王。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "你好，我叫小王。",
+          "pinyin": "nǐ hǎo， wǒ jiào xiǎo wáng。",
+          "vi": "Xin chào, tôi tên là Tiểu Vương.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-151",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "每",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我每天喝牛奶。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我早上喝牛奶。",
+          "vi": "Buổi sáng tôi uống sữa.",
+          "pinyin": "wǒ zǎo shàng hē niú nǎi。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-155",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "王",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "王女士，您好！"
+        }
+      ],
+      "after": [
+        {
+          "zh": "王女士，您好！",
+          "pinyin": "wáng nǚ shì， nín hǎo！",
+          "vi": "Chào bà Vương!",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-161",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "每",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "你每天几点起床？"
+        }
+      ],
+      "after": [
+        {
+          "zh": "你今天几点起床？",
+          "vi": "Hôm nay bạn thức dậy lúc mấy giờ?",
+          "pinyin": "nǐ jīn tiān jǐ diǎn qǐ chuáng？",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-163",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "前面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我在学校前面。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "学校前边是商店。",
+          "vi": "Phía trước trường là cửa hàng.",
+          "pinyin": "xué xiào qián biān shì shāng diàn。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-164",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "新手",
+          "reportedLevel": "7-9",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        },
+        {
+          "field": "examples.0",
+          "word": "机",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我没有钱买新手机。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我没有钱买新手机。",
+          "pinyin": "wǒ méi yǒu qián mǎi xīn shǒu jī。",
+          "vi": "Tôi không có tiền mua điện thoại mới.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-194",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "已经",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "孩子已经睡了。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "孩子睡了。",
+          "vi": "Đứa trẻ ngủ rồi.",
+          "pinyin": "hái zi shuì le。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-220",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "难",
+          "reportedLevel": "3",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "这个问题很难。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "你有什么问题？",
+          "vi": "Bạn có câu hỏi gì?",
+          "pinyin": "nǐ yǒu shén me wèn tí？",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-222",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "一起",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我们一起去吧。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我们去学校吧。",
+          "vi": "Chúng ta đến trường nhé.",
+          "pinyin": "wǒ men qù xué xiào ba。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-231",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "王",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "王先生在公司吗？"
+        }
+      ],
+      "after": [
+        {
+          "zh": "王先生在公司吗？",
+          "pinyin": "wáng xiān shēng zài gōng sī ma？",
+          "vi": "Ông Vương có ở công ty không?",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-237",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "所",
+          "reportedLevel": "5",
+          "category": "CLASSIFIER_OUT_OF_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "这是一所小学。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "这是我的小学。",
+          "vi": "Đây là trường tiểu học của tôi.",
+          "pinyin": "zhè shì wǒ de xiǎo xué。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-249",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "每",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我们每天学习汉语。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我们在学校学习汉语。",
+          "vi": "Chúng tôi học tiếng Trung ở trường.",
+          "pinyin": "wǒ men zài xué xiào xué xí hàn yǔ。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-250",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "前面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "学校在我家前面。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "学校在这里。",
+          "vi": "Trường học ở đây.",
+          "pinyin": "xué xiào zài zhè lǐ。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-257",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "后面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "医院在商店后面。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "医院在那边。",
+          "vi": "Bệnh viện ở phía kia.",
+          "pinyin": "yī yuàn zài nà biān。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-260",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "把",
+          "reportedLevel": "3",
+          "category": "CLASSIFIER_OUT_OF_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "这把椅子是新的。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "这是我的椅子。",
+          "vi": "Đây là ghế của tôi.",
+          "pinyin": "zhè shì wǒ de yǐ zi。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-270",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "再说",
+          "reportedLevel": "4",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        },
+        {
+          "field": "examples.0",
+          "word": "次",
+          "reportedLevel": "2",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "请再说一次。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "请再读这本书。",
+          "vi": "Xin đọc lại quyển sách này.",
+          "pinyin": "qǐng zài dú zhè běn shū。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-273",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "得",
+          "reportedLevel": "2",
+          "category": "HARDER_GRAMMAR_STRUCTURE",
+          "action": "SIMPLIFY_EXAMPLE",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "你今天来得很早。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "现在还早。",
+          "vi": "Bây giờ vẫn còn sớm.",
+          "pinyin": "xiàn zài hái zǎo。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-291",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "一起",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "中午我们一起吃饭。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "中午我们在学校吃饭。",
+          "vi": "Buổi trưa chúng tôi ăn cơm ở trường.",
+          "pinyin": "zhōng wǔ wǒ men zài xué xiào chī fàn。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-292",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "所",
+          "reportedLevel": "5",
+          "category": "CLASSIFIER_OUT_OF_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我在这所中学上学。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我在中学上学。",
+          "vi": "Tôi học ở trường trung học.",
+          "pinyin": "wǒ zài zhōng xué shàng xué。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "cti25-v-298",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "把",
+          "reportedLevel": "3",
+          "category": "CLASSIFIER_OUT_OF_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "请坐这把椅子。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "请坐在这里。",
+          "vi": "Xin mời ngồi ở đây.",
+          "pinyin": "qǐng zuò zài zhè lǐ。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00001",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "王",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "小王是我的朋友。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "小王是我的朋友。",
+          "pinyin": "xiǎo wáng shì wǒ de péng yǒu。",
+          "vi": "Tiểu Vương là bạn tôi.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        },
+        {
+          "zh": "这是第一课。",
+          "pinyin": "zhè shì dì yī kè。",
+          "vi": "Đây là bài thứ nhất.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00013",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        },
+        {
+          "field": "examples.1",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "请给我一杯水。"
+        },
+        {
+          "field": "examples.1",
+          "text": "我想喝两杯茶。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "请给我一杯水。",
+          "pinyin": "qǐng gěi wǒ yī bēi shuǐ。",
+          "vi": "Xin cho tôi một cốc nước.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        },
+        {
+          "zh": "我想喝两杯茶。",
+          "pinyin": "wǒ xiǎng hē liǎng bēi chá。",
+          "vi": "Tôi muốn uống hai cốc trà.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00018",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "再说",
+          "reportedLevel": "4",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        },
+        {
+          "field": "examples.0",
+          "word": "次",
+          "reportedLevel": "2",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "请再说一次。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "请再说一次。",
+          "pinyin": "qǐng zài shuō yī cì。",
+          "vi": "Xin nói lại một lần.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        },
+        {
+          "zh": "我想再买一本书。",
+          "pinyin": "wǒ xiǎng zài mǎi yī běn shū。",
+          "vi": "Tôi muốn mua thêm một quyển sách.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00025",
+      "findings": [
+        {
+          "field": "examples.1",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.1",
+          "text": "他喝了一杯水。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我买了三本书。",
+          "pinyin": "wǒ mǎi le sān běn shū。",
+          "vi": "Tôi đã mua ba quyển sách.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        },
+        {
+          "zh": "他喝了一杯水。",
+          "pinyin": "tā hē le yī bēi shuǐ。",
+          "vi": "Anh ấy đã uống một cốc nước.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00027",
+      "findings": [
+        {
+          "field": "examples.1",
+          "word": "王",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.1",
+          "text": "喂，你是小王吗？"
+        }
+      ],
+      "after": [
+        {
+          "zh": "喂，您好！",
+          "pinyin": "wèi， nín hǎo！",
+          "vi": "A lô, xin chào!",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        },
+        {
+          "zh": "喂，你是小王吗？",
+          "pinyin": "wèi， nǐ shì xiǎo wáng ma？",
+          "vi": "A lô, bạn có phải Tiểu Vương không?",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00032",
+      "findings": [
+        {
+          "field": "examples.1",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.1",
+          "text": "请给我一杯水。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我买了两本书。",
+          "pinyin": "wǒ mǎi le liǎng běn shū。",
+          "vi": "Tôi đã mua hai quyển sách.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        },
+        {
+          "zh": "请给我一杯水。",
+          "pinyin": "qǐng gěi wǒ yī bēi shuǐ。",
+          "vi": "Xin cho tôi một cốc nước.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00041",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "再说",
+          "reportedLevel": "4",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        },
+        {
+          "field": "examples.0",
+          "word": "次",
+          "reportedLevel": "2",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        },
+        {
+          "field": "examples.1",
+          "word": "次",
+          "reportedLevel": "2",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "请再说一次。"
+        },
+        {
+          "field": "examples.1",
+          "text": "我看了两次。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "请再说一次。",
+          "pinyin": "qǐng zài shuō yī cì。",
+          "vi": "Xin nói lại một lần.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        },
+        {
+          "zh": "我看了两次。",
+          "pinyin": "wǒ kàn le liǎng cì。",
+          "vi": "Tôi đã xem hai lần.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00054",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "前面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "examples.1",
+          "word": "后面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我前面是老师。"
+        },
+        {
+          "field": "examples.1",
+          "text": "学校后面是医院。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "学校前边是商店。",
+          "vi": "Phía trước trường là cửa hàng.",
+          "pinyin": "xué xiào qián biān shì shāng diàn。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        },
+        {
+          "zh": "学校后边是医院。",
+          "vi": "Phía sau trường là bệnh viện.",
+          "pinyin": "xué xiào hòu biān shì yī yuàn。",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00058",
+      "findings": [
+        {
+          "field": "examples.1",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.1",
+          "text": "妈妈给他一杯水。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "老师给我一本书。",
+          "pinyin": "lǎo shī gěi wǒ yī běn shū。",
+          "vi": "Giáo viên đưa tôi một quyển sách.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        },
+        {
+          "zh": "妈妈给他一杯水。",
+          "pinyin": "mā mā gěi tā yī bēi shuǐ。",
+          "vi": "Mẹ đưa anh ấy một cốc nước.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00062",
+      "findings": [
+        {
+          "field": "examples.0",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.0",
+          "text": "我喝了一杯水。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "我喝了一杯水。",
+          "pinyin": "wǒ hē le yī bēi shuǐ。",
+          "vi": "Tôi đã uống một cốc nước.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        },
+        {
+          "zh": "他买了两本书。",
+          "pinyin": "tā mǎi le liǎng běn shū。",
+          "vi": "Anh ấy đã mua hai quyển sách.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00070",
+      "findings": [
+        {
+          "field": "examples.1",
+          "word": "十分",
+          "reportedLevel": "4",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "examples.1",
+          "text": "我八点十分上课。"
+        }
+      ],
+      "after": [
+        {
+          "zh": "现在是三点半。",
+          "pinyin": "xiàn zài shì sān diǎn bàn。",
+          "vi": "Bây giờ là ba giờ rưỡi.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        },
+        {
+          "zh": "我八点十分上课。",
+          "pinyin": "wǒ bā diǎn shí fēn shàng kè。",
+          "vi": "Tôi vào học lúc tám giờ mười phút.",
+          "sourceType": "AI_GENERATED",
+          "reviewStatus": "NEEDS_REVIEW"
+        }
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00005",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "我___喝一杯茶。"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "我___喝一杯茶。"
+        }
+      ],
+      "after": "我___喝一杯茶。",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00018",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "次",
+          "reportedLevel": "2",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "次",
+          "reportedLevel": "2",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "请___说一次。"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "请___说一次。"
+        }
+      ],
+      "after": "请___说一次。",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00041",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "再说",
+          "reportedLevel": "4",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "再说",
+          "reportedLevel": "4",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "请再说一___。"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "请再说一___。"
+        }
+      ],
+      "after": "请再说一___。",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-gq-00054",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "后面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "后面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "学校后面___医院。（xác định địa điểm phía sau）"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "学校后面___医院。（xác định địa điểm phía sau）"
+        }
+      ],
+      "after": "学校后边___医院。（xác định địa điểm phía sau）",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-001",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "王",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "我叫小王，我是学生。"
+        }
+      ],
+      "after": "我叫小王，我是学生。",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-017",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "我买了两杯茶和一杯牛奶。"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "他买了几杯茶？"
+        }
+      ],
+      "after": "我买了两杯茶和一杯牛奶。",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-018",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "但是",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "这件衣服很好看，但是太贵了，我不买了。"
+        }
+      ],
+      "after": "这件衣服很好看，也很贵。我不买了。",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-019",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "李",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "李",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "我认识小李，他是我的大学同学。"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "小李是他的什么人？"
+        }
+      ],
+      "after": "我认识小李，他是我的大学同学。",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-020",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "有时",
+          "reportedLevel": "2",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        },
+        {
+          "field": "promptZh",
+          "word": "间",
+          "reportedLevel": "2",
+          "category": "SEGMENTATION_FALSE_POSITIVE",
+          "action": "USE_MINIMUM_COST_LEVEL_AWARE_SEGMENTATION",
+          "evidence": "Context must segment 有+时间 / 新+手机 / 十+分 / 再+说; not a dictionary longest-match proof"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "我现在有时间，可以和你去超市。"
+        }
+      ],
+      "after": "我现在有时间，可以和你去超市。",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-022",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "先",
+          "reportedLevel": "3",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "promptZh",
+          "word": "拿",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "promptZh",
+          "word": "杯",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "CLASSIFIER_GRAMMAR_SUPPORT",
+          "action": "RETAIN_WITH_GRAMMAR_00013_OR_00041_REFERENCE",
+          "evidence": "Stored CTI grammar taxonomy for classifiers/frequency"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "对方",
+          "reportedLevel": "4",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "你先坐一下，我去给你拿一杯水。"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "他要给对方什么？"
+        }
+      ],
+      "after": "请坐，我给你一杯水。",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-028",
+      "findings": [
+        {
+          "field": "candidatePromptZh",
+          "word": "种",
+          "reportedLevel": "3",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "candidatePromptZh",
+          "text": "他想买哪种水果？"
+        }
+      ],
+      "after": "这儿的水果很便宜，我想买一些苹果。",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-030",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "前面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "promptZh",
+          "word": "后面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "后面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "我们学校前面是商店，后面是医院。"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "学校后面是什么？"
+        }
+      ],
+      "after": "我们学校前边是商店，后边是医院。",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-041",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "王",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "王",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "小王是医生。他在医院工作。他妹妹是学生，在学校学习。\n小王在哪里工作？"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "小王是医生。他在医院工作。他妹妹是学生，在学校学习。\n小王在哪里工作？"
+        }
+      ],
+      "after": "小王是医生。他在医院工作。他妹妹是学生，在学校学习。\n小王在哪里工作？",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-046",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "李",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "promptZh",
+          "word": "每",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "李",
+          "reportedLevel": "UNMAPPED_CHARACTER_OR_NAME",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "每",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "小李每天六点起床，七点吃早饭，八点上班。\n小李几点吃早饭？"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "小李每天六点起床，七点吃早饭，八点上班。\n小李几点吃早饭？"
+        }
+      ],
+      "after": "小李今天六点起床，七点吃早饭，八点上班。\n小李几点吃早饭？",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-049",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "前面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "promptZh",
+          "word": "后面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "前面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "后面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "学校前面有一家商店，后面有一家医院。我家在学校里。\n学校前面有什么？"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "学校前面有一家商店，后面有一家医院。我家在学校里。\n学校前面有什么？"
+        }
+      ],
+      "after": "学校前边有一家商店，后边有一家医院。我家在学校里。\n学校前边有什么？",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-053",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "又",
+          "reportedLevel": "3",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "promptZh",
+          "word": "前面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "又",
+          "reportedLevel": "3",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "前面",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "他没有车，学校又不在家前面。他今天坐出租车上学。\n他今天怎么去学校？"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "他没有车，学校又不在家前面。他今天坐出租车上学。\n他今天怎么去学校？"
+        }
+      ],
+      "after": "他没有车，今天坐出租车去学校。\n他今天怎么去学校？",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-054",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "但是",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "但是",
+          "reportedLevel": "2",
+          "category": "BEYOND_LEVEL",
+          "action": "TARGETED_REPLACEMENT_OR_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": true,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "这件衣服很漂亮，但是太小了。那件大一点儿，我要买那件。\n他要买哪件衣服？"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "这件衣服很漂亮，但是太小了。那件大一点儿，我要买那件。\n他要买哪件衣服？"
+        }
+      ],
+      "after": "这件衣服很漂亮，也很小。那件大一点儿，我要买那件。\n他要买哪件衣服？",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v4-cq-055",
+      "findings": [
+        {
+          "field": "promptZh",
+          "word": "张",
+          "reportedLevel": "3",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        },
+        {
+          "field": "candidatePromptZh",
+          "word": "张",
+          "reportedLevel": "3",
+          "category": "PROPER_NAME",
+          "action": "RETAIN_NAME_REQUIRES_CONTEXT_REVIEW",
+          "evidence": "Stored CTI-aligned headword facts and sentence context; final expert decision pending"
+        }
+      ],
+      "revisionChanged": false,
+      "before": [
+        {
+          "field": "promptZh",
+          "text": "小张的女儿今年七岁，是小学生。他的儿子今年二十岁，是大学生。\n谁是小学生？"
+        },
+        {
+          "field": "candidatePromptZh",
+          "text": "小张的女儿今年七岁，是小学生。他的儿子今年二十岁，是大学生。\n谁是小学生？"
+        }
+      ],
+      "after": "小张的女儿今年七岁，是小学生。他的儿子今年二十岁，是大学生。\n谁是小学生？",
+      "status": "NEEDS_REVIEW"
+    }
+  ]
+}

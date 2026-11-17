@@ -1,0 +1,24 @@
+// One-time scoped integration; not a runtime migration.
+import {readFile,writeFile} from 'node:fs/promises';
+async function edit(file,pairs){let s=await readFile(file,'utf8');for(const[from,to]of pairs){if(!s.includes(from))throw Error('Expected audio integration missing '+file+': '+from.slice(0,40));s=s.replace(from,to);}await writeFile(file,s);}
+await edit('shared/v10-audio.mjs',[["export const audioReviewSignature=a=>digest([a.id,a.revision,a.contentHash,a.transcript,a.voice,a.provider,a.sourceType,a.mediaStorageUrl,a.licenseEvidenceUrl,a.license,a.durationMs]);","export const audioReviewSignature=a=>{const legacy=digest([a.id,a.revision,a.contentHash,a.transcript,a.voice,a.provider,a.sourceType,a.mediaStorageUrl,a.licenseEvidenceUrl,a.license,a.durationMs]);return a.audioMetadataVersion===1?digest([legacy,a.audioPurpose,a.questionId,a.questionRevision,a.transcriptRevision,a.generationParameters,a.publicationEligibility]):legacy;};"]]);
+await edit('server/v10-content-service.mjs',[
+ ["const {questionId,expectedRevision,sourceFingerprint,contentHash,transcript,sourceType,provider,voice,rightsStatement,licenseEvidenceUrl}=input;","const {questionId,expectedRevision,sourceFingerprint,contentHash,transcript,sourceType,provider,voice,rightsStatement,licenseEvidenceUrl}=input;\n  const audioPurpose=input.audioPurpose??'PRACTICE',generationParameters=input.generationParameters??{origin:'UPLOADED_FILE',format:'PCM16_WAV'};if(!['STUDY','PRACTICE','EXAM_SIMULATION'].includes(audioPurpose)||!generationParameters||typeof generationParameters!=='object'||Array.isArray(generationParameters)||JSON.stringify(generationParameters).length>4000||Object.keys(generationParameters).some(k=>!['origin','format','language','speaker','speed','sampleRate','instruction'].includes(k)))throw fail('INVALID_AUDIO_PURPOSE_OR_GENERATION_PARAMETERS');"],
+ ["digest([questionId,contentHash,provider,voice,rightsStatement,licenseEvidenceUrl])","digest([questionId,expectedRevision,contentHash,provider,voice,rightsStatement,licenseEvidenceUrl,audioPurpose,generationParameters])"],
+ ["source:'V10 private audio workbench',sourceType,","source:'Private audio workbench · V11 metadata',sourceType,audioMetadataVersion:1,audioPurpose,questionId,questionRevision:expectedRevision+1,sourceQuestionRevision:expectedRevision,transcriptRevision:{questionId,revision:expectedRevision,sha256:digest(transcript)},generationParameters,publicationEligibility:{eligible:false,status:'NEEDS_RIGHTS_PRONUNCIATION_LANGUAGE_REVIEW'},"],
+ ["if(a.transcript!==q.promptZh)errors.push('TRANSCRIPT_DECLARATION_MISMATCH');","if(a.audioPurpose==='STUDY')errors.push('STUDY_AUDIO_NOT_PRACTICE');if(a.transcript!==q.promptZh)errors.push('TRANSCRIPT_DECLARATION_MISMATCH');"],
+ ["voice:generated.metadata.voice,rightsStatement:","voice:generated.metadata.voice,generationParameters:generated.metadata.generationParameters,rightsStatement:"]
+]);
+await edit('server/v10-speech.mjs',[["metadata:{provider:'QWEN_LOCAL'","metadata:{generationParameters:{language:'Chinese',speaker:config.qwen.voice,format:'PCM16_WAV'},provider:'QWEN_LOCAL'"]]);
+await edit('server/speech-providers.mjs',[["metadata:{sourceType:'SYNTHETIC'","metadata:{generationParameters:{language:'zh-CN',speaker:config.voice,format:'riff-24khz-16bit-mono-pcm'},sourceType:'SYNTHETIC'"]]);
+await edit('src/components/admin/AudioWorkbenchV10.tsx',[
+ ["[sourceType,setSourceType]=useState('SYNTHETIC')","[purpose,setPurpose]=useState('PRACTICE'),[sourceType,setSourceType]=useState('SYNTHETIC')"],
+ ["transcript:job.transcript,sourceType,provider","transcript:job.transcript,audioPurpose:purpose,sourceType,provider"],
+ ["V10 · AUDIO PRODUCTION WORKBENCH","V11 · AUDIO PRODUCTION WORKBENCH"],
+ ["<label>Loại nguồn<select","<label>Mục đích audio<select value={purpose} onChange={e=>setPurpose(e.target.value)}><option value=\"STUDY\">Study · phát âm từ/ví dụ</option><option value=\"PRACTICE\">Practice · câu nghe tự biên soạn</option><option value=\"EXAM_SIMULATION\">Exam Simulation · cần đủ gate đề</option></select></label><label>Loại nguồn<select"],
+ ["<p>SHA256:","<p>Mục đích: {asset.audioPurpose??'LEGACY_NOT_CLASSIFIED'} · Transcript revision: {asset.transcriptRevision?.revision??'Chưa khai báo ở legacy asset'} · Publication: {asset.publicationEligibility?.status??'PENDING'}</p><p>SHA256:"],
+ ["provider:'QWEN_LOCAL'}","provider:'QWEN_LOCAL',audioPurpose:purpose}"]
+]);
+// Eliminate a redundant alternation from the scoped release allowlist update.
+for(const f of ['server/admin-server.mjs','server/v3-content-service.mjs','server/v5-content-service.mjs','server/v7-review-service.mjs']){const s=await readFile(f,'utf8');await writeFile(f,s.replaceAll('10|11|11','10|11'));}
+console.log('Versioned audio purpose/transcript/generation metadata bound to reviewer signature; legacy signatures preserved');

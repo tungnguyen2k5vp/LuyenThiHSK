@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-17T15:48:58.622Z",
+  "batch": "VOCABULARY",
+  "dryRun": false,
+  "backup": "D:\\ReactJS\\LuyenThiHSK\\.runtime\\backups\\v10-VOCABULARY-2026-10-17T15-48-58-457Z\\hsk-content.sqlite",
+  "plan": {
+    "planned": 20,
+    "planHash": "f204a3a4f2b076521b5eed477385cd43f40f35124b90687eecd93ca49748db3d",
+    "changed": 0
+  },
+  "result": {
+    "added": 20,
+    "humanReviewed": 0,
+    "published": 0
+  }
+}

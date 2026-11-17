@@ -1,0 +1,87 @@
+{
+  "assets": [
+    {
+      "file": "AdminContentForm-uz612e5q.js",
+      "bytes": 15078,
+      "gzip": 5501
+    },
+    {
+      "file": "AdminWorkspaceV3-CWcdi1Un.js",
+      "bytes": 21864,
+      "gzip": 7385
+    },
+    {
+      "file": "CourseWorkspace-C-OKAsq4.js",
+      "bytes": 17932,
+      "gzip": 6227
+    },
+    {
+      "file": "Diagnostic-o2StOZSn.js",
+      "bytes": 3364,
+      "gzip": 1594
+    },
+    {
+      "file": "examCatalog-EN-xgkI0.js",
+      "bytes": 42884,
+      "gzip": 14180
+    },
+    {
+      "file": "index-BlK3CsyS.js",
+      "bytes": 360711,
+      "gzip": 108683
+    },
+    {
+      "file": "index-Dv8WHWWd.css",
+      "bytes": 64386,
+      "gzip": 13229
+    },
+    {
+      "file": "jsx-runtime-Dk72oS4N.js",
+      "bytes": 8774,
+      "gzip": 3327
+    },
+    {
+      "file": "PreviewWorkspace-CBq9XlQY.css",
+      "bytes": 1853,
+      "gzip": 656
+    },
+    {
+      "file": "PreviewWorkspace-wRYjtQiw.js",
+      "bytes": 20421,
+      "gzip": 7162
+    },
+    {
+      "file": "ResponseCenter-DrePH0hE.js",
+      "bytes": 5687,
+      "gzip": 2573
+    },
+    {
+      "file": "vocabularyQuiz-fZCf0jaV.js",
+      "bytes": 2202,
+      "gzip": 1293
+    }
+  ],
+  "browser": {
+    "chrome": {
+      "browser": "Chrome",
+      "at": "2026-10-15T17:07:02.366Z",
+      "releaseLoadMs": 115,
+      "searchMs": 8,
+      "practiceStartMs": 108,
+      "decodedAudio": 40,
+      "journey": "PASS"
+    },
+    "edge": {
+      "browser": "Edge",
+      "at": "2026-10-15T17:07:01.679Z",
+      "releaseLoadMs": 232,
+      "searchMs": 7,
+      "practiceStartMs": 112,
+      "decodedAudio": 40,
+      "journey": "PASS"
+    }
+  },
+  "audioBytes": 5043456,
+  "audioMs": 114324,
+  "batches": 20
+}

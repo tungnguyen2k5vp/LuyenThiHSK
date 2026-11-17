@@ -1,0 +1,179 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    }
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=parts&version=hsk3&level=HSK%201&section=reading&type=short-passage"
+  },
+  "actions": [
+    {
+      "step_id": "bank",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "[data-bank-id=journey-reading-1]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "start",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": "[data-bank-id=journey-reading-1] .catalog-skill-actions button"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "intro",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "[data-exam-intro]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "begin",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Bắt đầu luyện"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "choices",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".exam-choice >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "answer",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".exam-choice >> nth=0"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "check",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Kiểm tra câu"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "feedback",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".answer-feedback"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "exit",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Thoát"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "reload",
+      "action": "goto",
+      "destination": {
+        "url": "http://127.0.0.1:4173/?view=parts&version=hsk3&level=HSK%201&section=reading&type=short-passage"
+      },
+      "wait_until": "load",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "resume",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Tiếp tục câu 1"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "answer_restored",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".exam-choice[aria-checked=true]"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "submit",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Nộp bài"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "confirm",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Nộp bài và xem kết quả"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "result",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".attempt-result"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+  "status": 200,
+  "at": "2026-10-25T04:50:29.934Z",
+  "sha256": "d17999eb0c30594ead3f5b7bd5aff157b94566d4694a19febfefa335ca2b3147",
+  "bytes": 366845,
+  "title": "GitHub Terms of Service - GitHub Docs",
+  "licenseExcerpts": [
+    "h.setAttribute('data-color-mode',mode);",
+    "h.setAttribute('data-'+mode+'-theme',theme);",
+    "h.setAttribute('data-color-mode-preference',css.colorMode);",
+    "h.setAttribute('data-light-theme',css.lightTheme);",
+    "h.setAttribute('data-dark-theme',css.darkTheme);",
+    "})();                                              Skip to main content           Skip to content                         GitHub   Docs               Search or ask Copilot   /               Menu                         Collapse sidebar          Expand sidebar              Home    Site policy    GitHub Terms    GitHub Terms of Service                    Site policy                               GitHub Terms          GitHub Terms of Service          GitHub Corporate Terms of Service          GitHub Terms for Additional Products and Features          GitHub Community Guidelines          GitHub Community Code of Conduct          GitHub Pre-release License Terms          GitHub DPA-Covered Previe",
+    "Section  What can you find there?       A. Definitions   Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification.     B. Account Terms   These are the basic requirements of having an Account on GitHub.     C. Acceptable Use   These are the basic rules you must follow when using your GitHub Account.     D. User-Generated Content   You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you.     E. Private Repositories   This section talks about how GitHub will treat content you post in private repositories.     F. C",
+    "In some situations, third parties&#x27; terms may apply to your use of GitHub. For example, you may be a member of an organization on GitHub with its own terms or license agreements; you may download an application that integrates with GitHub; or you may use GitHub to authenticate to another service. Please be aware that while these Terms are our full agreement with you, other parties&#x27; terms govern their relationships with you.",
+    "Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.",
+    "3. Ownership and License Grants",
+    "You own Your Content. If you post Content you did not create, you are responsible for ensuring you have the right to post it and for complying with any applicable licenses.",
+    "You grant us and other Users the licenses in Sections D.4–D.8. These licenses apply to Your Content. If Your Content already includes a license granting us the permissions we need, no additional license is required. You will not receive payment for these rights. These licenses end when you remove Your Content, unless other Users have forked it.",
+    "4. License Grant to Us",
+    "You grant GitHub and our Affiliates the right to store, host, archive, parse, display, and make copies of Your Content as necessary to provide, develop, and improve the Service, including by training AI Features, and for the purpose of training, developing, and improving artificial intelligence and machine learning models and technologies of our Affiliates. This license includes the right to do things like copy it to our database and make backups; show it to you and other Users; parse it into a search index or otherwise analyze it on our servers; share it with other Users; and perform it, in case Your Content is something like music or video. For the avoidance of doubt, use of Your Content t",
+    "5. License Grant to Other Users",
+    "By making a repository public, you grant other Users a nonexclusive, worldwide license to use, display, perform and reproduce (by forking) Your Content through the Service as permitted by GitHub&#x27;s functionality. You may grant additional rights by  adopting a license . If you post Content you did not create or own, you are responsible for ensuring it is licensed under terms that permit these uses."
+  ]
+}

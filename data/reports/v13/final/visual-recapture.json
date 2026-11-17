@@ -1,0 +1,23 @@
+{
+  "at": "2026-10-19T07:29:21.779860+00:00",
+  "status": "PASS",
+  "results": [
+    {
+      "browser": "chrome",
+      "status": "PASS",
+      "checks": 30,
+      "screenshots": 19
+    },
+    {
+      "browser": "edge",
+      "status": "PASS",
+      "checks": 30,
+      "screenshots": 19
+    }
+  ],
+  "helpers": {
+    ".tmp\\v13-visual\\v13-browser-flows.mjs": "13e0c019429659018a2f6e2f67dee2eab3eb351bdd4fc76a3a72f5ccc15674c4",
+    ".tmp\\v13-visual\\exam-browser-check.mjs": "f81d05c701fae19d1dc871a5f94a73b93de5783d3a832fee3f8cbc73658ada38"
+  },
+  "scope": "Same 30 assertions with instant scrolling to show the correct screenshot target. Product and source scripts unchanged; no timeout or media assertion relaxed."
+}

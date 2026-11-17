@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-17T15:48:58.298Z",
+  "batch": "GRAMMAR",
+  "dryRun": false,
+  "backup": "D:\\ReactJS\\LuyenThiHSK\\.runtime\\backups\\v10-GRAMMAR-2026-10-17T15-48-58-128Z\\hsk-content.sqlite",
+  "plan": {
+    "planned": 48,
+    "planHash": "9e1f9f82fc2d9a89fd4112b92231035179e32b4ac1190f68785732312c5329c7",
+    "changed": 0
+  },
+  "result": {
+    "added": 48,
+    "humanReviewed": 0,
+    "published": 0
+  }
+}

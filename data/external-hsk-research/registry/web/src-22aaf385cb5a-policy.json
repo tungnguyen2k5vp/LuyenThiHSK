@@ -1,0 +1,47 @@
+{
+  "source": {
+    "sourceId": "src-22aaf385cb5a",
+    "name": "HearMandarin words",
+    "baseUrl": "https://hearmandarin.com/datasets/",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T05:09:36.791Z",
+    "termsUrl": "https://hearmandarin.com/terms/",
+    "robotsUrl": "https://hearmandarin.com/robots.txt",
+    "licenseName": "CC BY 4.0 (word dataset only)",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "VOCABULARY"
+    ],
+    "rightsStatus": "REUSE_WITH_ATTRIBUTION",
+    "attribution": "HearMandarin (https://hearmandarin.com)",
+    "shareAlikeRequired": false,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-22aaf385cb5a-public-page.json",
+    "licenseEvidence": [
+      "registry/evidence/src-b5e384c536d0-dataset-license.json",
+      "registry/evidence/src-22aaf385cb5a-public-page.json"
+    ],
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "publicDatasetLinks": [
+      "https://hearmandarin.com/datasets/hsk-3-0-words.csv",
+      "https://hearmandarin.com/datasets/hsk-3-0-words.json"
+    ],
+    "policyEvidence": [
+      "registry/evidence/src-22aaf385cb5a-policy-c0fe8242.json"
+    ]
+  }
+}

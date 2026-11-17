@@ -1,0 +1,232 @@
+{
+  "at": "2026-10-16T03:31:25.378Z",
+  "screens": 14,
+  "pairs": 28,
+  "images": 56,
+  "pairsDetail": [
+    {
+      "id": "home",
+      "label": "Hôm nay",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-home.png",
+      "after": "after/v5-desktop-home.png"
+    },
+    {
+      "id": "home",
+      "label": "Hôm nay",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-home.png",
+      "after": "after/v5-mobile-home.png"
+    },
+    {
+      "id": "vocabulary",
+      "label": "Danh sách từ",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-vocabulary.png",
+      "after": "after/v5-desktop-vocabulary.png"
+    },
+    {
+      "id": "vocabulary",
+      "label": "Danh sách từ",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-vocabulary.png",
+      "after": "after/v5-mobile-vocabulary.png"
+    },
+    {
+      "id": "vocabulary-detail",
+      "label": "Chi tiết từ",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-vocabulary-detail.png",
+      "after": "after/v5-desktop-vocabulary-detail.png"
+    },
+    {
+      "id": "vocabulary-detail",
+      "label": "Chi tiết từ",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-vocabulary-detail.png",
+      "after": "after/v5-mobile-vocabulary-detail.png"
+    },
+    {
+      "id": "grammar",
+      "label": "Bài ngữ pháp",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-grammar.png",
+      "after": "after/v5-desktop-grammar.png"
+    },
+    {
+      "id": "grammar",
+      "label": "Bài ngữ pháp",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-grammar.png",
+      "after": "after/v5-mobile-grammar-detail.png"
+    },
+    {
+      "id": "practice",
+      "label": "Luyện tập",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-practice.png",
+      "after": "after/v5-desktop-practice.png"
+    },
+    {
+      "id": "practice",
+      "label": "Luyện tập",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-practice.png",
+      "after": "after/v5-mobile-practice.png"
+    },
+    {
+      "id": "mini-test",
+      "label": "Mini Test",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-mini-test.png",
+      "after": "after/v5-desktop-mini-test.png"
+    },
+    {
+      "id": "mini-test",
+      "label": "Mini Test",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-mini-test.png",
+      "after": "after/v5-mobile-mini-test.png"
+    },
+    {
+      "id": "full-mock",
+      "label": "Full Mock",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-full-mock.png",
+      "after": "after/v5-desktop-full-mock.png"
+    },
+    {
+      "id": "full-mock",
+      "label": "Full Mock",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-full-mock.png",
+      "after": "after/v5-mobile-full-mock.png"
+    },
+    {
+      "id": "result",
+      "label": "Kết quả",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-result.png",
+      "after": "after/v5-desktop-result.png"
+    },
+    {
+      "id": "result",
+      "label": "Kết quả",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-result.png",
+      "after": "after/v5-mobile-result.png"
+    },
+    {
+      "id": "mistakes",
+      "label": "Ôn sai",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-mistakes.png",
+      "after": "after/v5-desktop-mistakes.png"
+    },
+    {
+      "id": "mistakes",
+      "label": "Ôn sai",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-mistakes.png",
+      "after": "after/v5-mobile-mistakes.png"
+    },
+    {
+      "id": "weakness",
+      "label": "Điểm yếu",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-weakness.png",
+      "after": "after/v5-desktop-weakness.png"
+    },
+    {
+      "id": "weakness",
+      "label": "Điểm yếu",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-weakness.png",
+      "after": "after/v5-mobile-weakness.png"
+    },
+    {
+      "id": "history",
+      "label": "Lịch sử",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-history.png",
+      "after": "after/v5-desktop-history.png"
+    },
+    {
+      "id": "history",
+      "label": "Lịch sử",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-history.png",
+      "after": "after/v5-mobile-history.png"
+    },
+    {
+      "id": "review-queue",
+      "label": "Review Queue",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-review-queue.png",
+      "after": "after/v5-desktop-review-queue.png"
+    },
+    {
+      "id": "review-queue",
+      "label": "Review Queue",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-review-queue.png",
+      "after": "after/v5-mobile-review-queue.png"
+    },
+    {
+      "id": "audio-review",
+      "label": "Audio Review",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-audio-review.png",
+      "after": "after/v5-desktop-audio-review.png"
+    },
+    {
+      "id": "audio-review",
+      "label": "Audio Review",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-audio-review.png",
+      "after": "after/v5-mobile-audio-review.png"
+    },
+    {
+      "id": "readiness",
+      "label": "Readiness",
+      "size": "desktop",
+      "width": 1280,
+      "before": "before/v4-baseline-desktop-readiness.png",
+      "after": "after/v5-desktop-readiness.png"
+    },
+    {
+      "id": "readiness",
+      "label": "Readiness",
+      "size": "mobile",
+      "width": 375,
+      "before": "before/v4-baseline-mobile-readiness.png",
+      "after": "after/v5-mobile-readiness.png"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "at": "2026-10-20T02:22:06.401Z",
+  "status": "PASS",
+  "checks": [
+    "Grouped latest query returns one current revision per ID",
+    "Publication projection preserves older Published / latest Archived semantics",
+    "Real snapshot latest rows exactly equivalent",
+    "Real snapshot public rows exactly equivalent",
+    "Private Preview defaults to V15 and preserves explicit V14 fallback",
+    "V14 explicit fallback retains its API URL",
+    "Original HSK2 staged drafts keep real grammar/word references and strict review gates",
+    "Review gap calculation is revision aware and never grants approval",
+    "HTTP auth failure is surfaced without retrying a write",
+    "Hung request aborts with a recoverable timeout message",
+    "Repeated immutable image uses bounded private memory cache",
+    "Credential scope change cannot reuse previous private cache",
+    "Explicit retry bypasses image cache",
+    "Corrupted bytes rejected before cache or display",
+    "Anonymous admin/v15/catalog denied",
+    "Anonymous admin/v15/intro?id=v15-hsk1-mini-mixed denied",
+    "V15 catalog is read only",
+    "Existing full candidates plus actual skill/mini candidates",
+    "v14-hsk1-platform-1 metadata matches real immutable builder",
+    "v14-hsk1-platform-2 metadata matches real immutable builder",
+    "v15-hsk1-drill-listening metadata matches real immutable builder",
+    "v15-hsk1-drill-reading metadata matches real immutable builder",
+    "v15-hsk1-mini-mixed metadata matches real immutable builder",
+    "Catalog metadata excludes private answer keys",
+    "Invalid level filter rejected"
+  ],
+  "timings": {
+    "latest": {
+      "beforeMs": 48.11280000000001,
+      "afterMs": 19.908600000000007,
+      "rows": 1585,
+      "scope": "Read-only identical snapshot, single query measurement; not browser cold-load"
+    },
+    "public": {
+      "beforeMs": 1.4814000000000078,
+      "afterMs": 0.06870000000000687,
+      "rows": 0,
+      "scope": "Read-only identical snapshot, single query measurement; not browser cold-load"
+    }
+  },
+  "scope": "Disposable API/database; no main learner records modified"
+}

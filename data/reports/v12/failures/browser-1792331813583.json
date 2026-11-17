@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-18T13:56:53.583Z",
+  "error": "Error: CDP timeout Runtime.evaluate\n    at Timeout._onTimeout (file:///D:/ReactJS/LuyenThiHSK/scripts/exam-browser-check.mjs:47:320)\n    at listOnTimeout (node:internal/timers:605:17)\n    at process.processTimers (node:internal/timers:541:7)",
+  "lastAction": {
+    "method": "Runtime.evaluate",
+    "url": null,
+    "expression": "(async()=>{const a=document.querySelector(\".microphone-recorder audio\");a.load();try{await a.play();",
+    "at": "2026-10-18T13:56:38.572Z"
+  },
+  "exceptions": [],
+  "consoleErrors": []
+}

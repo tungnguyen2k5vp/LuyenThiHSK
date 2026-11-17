@@ -1,0 +1,277 @@
+{
+  "at": "2026-10-16T10:38:15.278Z",
+  "browser": "Chrome",
+  "widths": [
+    320,
+    375,
+    390,
+    430,
+    768,
+    1280
+  ],
+  "samples": {
+    "transitionMs": [
+      108,
+      107,
+      107,
+      107,
+      107,
+      104,
+      108,
+      109,
+      107,
+      107,
+      106,
+      107,
+      108,
+      106,
+      106,
+      107,
+      108,
+      106,
+      106,
+      106
+    ],
+    "searchMs": [
+      2,
+      4,
+      2,
+      4,
+      6,
+      2,
+      2,
+      3,
+      2,
+      4,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      5,
+      2,
+      2,
+      3
+    ],
+    "examStartMs": [
+      212,
+      811
+    ],
+    "audioDownloadMs": []
+  },
+  "records": 883,
+  "previewLoadMs": 220,
+  "initialAudioState": {
+    "state": "ready",
+    "readyState": 4,
+    "networkState": 1
+  },
+  "practiceAudioRetry": true,
+  "slowMediaAudioTimeout": false,
+  "decodedAudio": 80,
+  "lastNavigation": {
+    "name": "http://127.0.0.1:4173/?view=content-review",
+    "entryType": "navigation",
+    "startTime": 0,
+    "duration": 31.599999994039536,
+    "navigationId": 7909,
+    "initiatorType": "navigation",
+    "deliveryType": "",
+    "nextHopProtocol": "",
+    "renderBlockingStatus": "non-blocking",
+    "contentType": "text/html",
+    "contentEncoding": "gzip",
+    "workerStart": 1.300000011920929,
+    "workerRouterEvaluationStart": 0,
+    "workerCacheLookupStart": 0,
+    "workerMatchedSourceType": "",
+    "workerFinalSourceType": "",
+    "redirectStart": 0,
+    "redirectEnd": 0,
+    "fetchStart": 1.5999999940395355,
+    "domainLookupStart": 1.5999999940395355,
+    "domainLookupEnd": 1.5999999940395355,
+    "connectStart": 1.5999999940395355,
+    "secureConnectionStart": 0,
+    "connectEnd": 1.5999999940395355,
+    "requestStart": 1.5999999940395355,
+    "responseStart": 10.900000005960464,
+    "firstInterimResponseStart": 10.900000005960464,
+    "finalResponseHeadersStart": 0,
+    "responseEnd": 13.200000017881393,
+    "transferSize": 2248,
+    "encodedBodySize": 1948,
+    "decodedBodySize": 1948,
+    "responseStatus": 200,
+    "serverTiming": [],
+    "unloadEventStart": 0,
+    "unloadEventEnd": 0,
+    "domInteractive": 18.200000017881393,
+    "domContentLoadedEventStart": 31.30000001192093,
+    "domContentLoadedEventEnd": 31.30000001192093,
+    "domComplete": 31.5,
+    "loadEventStart": 31.5,
+    "loadEventEnd": 31.599999994039536,
+    "type": "navigate",
+    "redirectCount": 0,
+    "activationStart": 0,
+    "criticalCHRestart": 0,
+    "notRestoredReasons": null,
+    "confidence": {}
+  },
+  "browserHeap": {
+    "usedJSHeapSize": 13435618,
+    "totalJSHeapSize": 21794398
+  },
+  "metrics": {
+    "metrics": [
+      {
+        "name": "Timestamp",
+        "value": 180494.877136
+      },
+      {
+        "name": "AudioHandlers",
+        "value": 0
+      },
+      {
+        "name": "AudioWorkletProcessors",
+        "value": 0
+      },
+      {
+        "name": "Documents",
+        "value": 73
+      },
+      {
+        "name": "Frames",
+        "value": 40
+      },
+      {
+        "name": "JSEventListeners",
+        "value": 980
+      },
+      {
+        "name": "LayoutObjects",
+        "value": 1929
+      },
+      {
+        "name": "MediaKeySessions",
+        "value": 0
+      },
+      {
+        "name": "MediaKeys",
+        "value": 0
+      },
+      {
+        "name": "Nodes",
+        "value": 10145
+      },
+      {
+        "name": "Resources",
+        "value": 209
+      },
+      {
+        "name": "ContextLifecycleStateObservers",
+        "value": 108
+      },
+      {
+        "name": "V8PerContextDatas",
+        "value": 2
+      },
+      {
+        "name": "WorkerGlobalScopes",
+        "value": 1
+      },
+      {
+        "name": "UACSSResources",
+        "value": 4
+      },
+      {
+        "name": "RTCPeerConnections",
+        "value": 0
+      },
+      {
+        "name": "ResourceFetchers",
+        "value": 75
+      },
+      {
+        "name": "AdSubframes",
+        "value": 0
+      },
+      {
+        "name": "DetachedScriptStates",
+        "value": 0
+      },
+      {
+        "name": "ArrayBufferContents",
+        "value": 4
+      },
+      {
+        "name": "LayoutCount",
+        "value": 99
+      },
+      {
+        "name": "RecalcStyleCount",
+        "value": 102
+      },
+      {
+        "name": "LayoutDuration",
+        "value": 0.150973
+      },
+      {
+        "name": "RecalcStyleDuration",
+        "value": 0.067647
+      },
+      {
+        "name": "DevToolsCommandDuration",
+        "value": 0.010044
+      },
+      {
+        "name": "ScriptDuration",
+        "value": 0.041726
+      },
+      {
+        "name": "V8CompileDuration",
+        "value": 0
+      },
+      {
+        "name": "TaskDuration",
+        "value": 0.577629
+      },
+      {
+        "name": "TaskOtherDuration",
+        "value": 0.307239
+      },
+      {
+        "name": "ThreadTime",
+        "value": 0.569693
+      },
+      {
+        "name": "ProcessTime",
+        "value": 8.930702
+      },
+      {
+        "name": "JSHeapUsedSize",
+        "value": 12876948
+      },
+      {
+        "name": "JSHeapTotalSize",
+        "value": 21233664
+      },
+      {
+        "name": "FirstMeaningfulPaint",
+        "value": 180489.486251
+      },
+      {
+        "name": "DomContentLoaded",
+        "value": 180489.464429
+      },
+      {
+        "name": "NavigationStart",
+        "value": 180489.433161
+      }
+    ]
+  },
+  "status": "PASS",
+  "note": "Lab browser timings include CDP/UI wait overhead. TTS device voice mocked; 80 file audios actually decoded. No human pronunciation review. Live cloud not configured."
+}

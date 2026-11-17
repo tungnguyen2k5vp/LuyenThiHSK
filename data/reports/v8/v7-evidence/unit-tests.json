@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-16T10:30:36.272Z",
+  "status": "PASS",
+  "assertions": 439,
+  "source": "live-release snapshot",
+  "serverGrading": "ISOLATED_ADAPTER_ONLY_NOT_DEPLOYED",
+  "mediaTests": 12
+}

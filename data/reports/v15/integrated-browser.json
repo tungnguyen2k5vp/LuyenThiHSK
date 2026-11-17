@@ -1,0 +1,573 @@
+{
+  "at": "2026-10-19T17:30:00.507Z",
+  "status": "PASS",
+  "scope": "V15 reusing V14 Catalog/Intro/Room with existing owners; isolated API/profile",
+  "workspace": "D:\\ReactJS\\LuyenThiHSK\\.tmp\\v15-browser-1792430905942",
+  "logs": "data/reports/v15/browser-1792430905942",
+  "transformations": [
+    {
+      "file": "scripts/build-v6-content.mjs",
+      "before": "cd2cf7f4a9fc602175ab8ce24db59cc5d5867a1d36df295e3ba4bcb4ba4215ad",
+      "after": "02076e4d68256e025467702ce12e65e07f8bb04c69c8e139d033068ed7b1155e",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v10-handoff.mjs",
+      "before": "281db52315ade9f8c33f6a90c24393e9853bda69c2c7fa44fb015896f535c9c5",
+      "after": "ef6b8e4d66120e0d8178e65f45c3287aa5a628eb892e846d9f523c0800efc41e",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v11-handoff.mjs",
+      "before": "371f0355d4e3af4bf2def2aee1715a93d46fb8d81e48fd8043f51eada8b46c7c",
+      "after": "3725bb69aa842016671c232f7251efe7384f3f270e2a74083132bc62c8021e3d",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v12-handoff.mjs",
+      "before": "fd27705d3f3f7a3ba32cfa671f5f201f7686079c39f79c192e4d2ecec75dc16f",
+      "after": "49d3ad499b06335268020b483da910d6b9ce4f0416d76880c88252a5a738aff5",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v6-handoff.mjs",
+      "before": "754ff69315666d8fbdd9222da7fdfdf3990e87e4c7a148ac7a5efc81791ce259",
+      "after": "8d46e5e5911ead38d5f119e16b5ca2ec225e674e0c1c5d12d29f36bf3d8af83c",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v7-handoff.mjs",
+      "before": "23785f6a2b79143146014f4c423bedd11700d4dc3c960e47004c02b4d18b4ae1",
+      "after": "240414d7220366c8c635596d0899e421b60d6826b69ddb24e8bb225ac346ac9d",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v8-handoff.mjs",
+      "before": "24db3bc7df3c454e9b91af480a9900839270dcb8ca8e8a09c1f54c5976d97672",
+      "after": "c0bdbc9dcbcd790374946ea6399787c72744f75351b4ff8bde5200c8db6e7bcd",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v9-handoff.mjs",
+      "before": "ae12e6b58f16827f34de576e69f2298a1ae982d463341398e92dcaa2fd748c07",
+      "after": "f13020229a2b14e39846b50732ab016571a47d899773248fb153155770b72bb3",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/exam-browser-check.mjs",
+      "before": "fa72977f0d2c322956de009e4ffaa6dbe067078755b856f2cc433e6c35aeddb0",
+      "after": "dfd3916e43dca018ec4d87f681f7e6a380f29c174ab71622069a32ea13a583ac",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/export-v5-review.mjs",
+      "before": "6ecdeacc3e85dca117fdf36b6ff0b46ece45c982dc339886ab96dc43b1ba477a",
+      "after": "9ba419cc65a6c1103570d2c489353e211d1d4267c63046a649c81808fcedc668",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/finalize-v5.mjs",
+      "before": "d342ea28055f8964113d00a409c118cbaa52741275ada6395d671979cab05c7d",
+      "after": "1b15e4095d6f98696b9d6e1823eaa7f6bd2181aca1005790de6c7fa7486ca563",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/preparation-browser-flows.mjs",
+      "before": "e5968e8a3f5d67d22d304cba16b4c28b3de747a31b8ac695a4785e4262c6858c",
+      "after": "888e0d19fe397b81391e6b43d48af258cd2533093a01e616980ac26b83b8fc9d",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/report-v4.mjs",
+      "before": "3ec6814594699d40446e8009613437623ff50dab4dc11c2a3b241d922835e3b4",
+      "after": "ec007955d1a8180a82eb5cc55ffcaec8e8b620cb91a337f62be4005ad22583ad",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/report-v5.mjs",
+      "before": "454e4419ad7b55785a29aec818bceb754fce2ecdc8fdde33ae4adb8c064a903f",
+      "after": "b60edafbd34fea67b4a23d676d27047857ff397eed306d599ad6f558d1440130",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/report-v6.mjs",
+      "before": "5e1965b8f8df0e70987cd813d5232a91484ada85efbfca33e346b85f9dcba304",
+      "after": "859887a9a9499f0ec9aa152a73d6d745fdd76b7331d0c58d73ecb4bbf204c044",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/report-v7.mjs",
+      "before": "acd88b448f6774e30f2b2fa0e9446ba7ea68fc118c481486e7f4796cdeaa8f71",
+      "after": "6e7d275371fc67de60f617b9d49cb1af78b5208b6fecd65b806015c2540d04bf",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/test-v15.mjs",
+      "before": "75a9201418dcc6eca10bd42fd09773ce628f028b2369f90cc085900dde89e28d",
+      "after": "91003fb161f95febb5c39d22cbf7701b7a27942d805382378db902ba43056606",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v10-audit.mjs",
+      "before": "aa8a74ae57e1193d7a551a421f9ece4bfe3b99d1fee6c239e2e6465df9268b2a",
+      "after": "02ebfaabd74d1892ef71dd1203054f95e08a2c75feb66eab09800b06279c08cb",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v10-browser-flows.mjs",
+      "before": "36f2ff7fd20f7011667a11501dc3f8226a8e2115e10360548e774aad4aed1dae",
+      "after": "d7935c5022f1907e9c97bde06bac5c9199518cf3bcc535e661b7f6cb6ff76a48",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v10-revise-authored.mjs",
+      "before": "99be30d6dd6e222187d72a054ef1cd410c0de10474445a8bce24a273118d4098",
+      "after": "09420af60ea168ddf166fb097f0606221385ac51eb33fff842eff628c2d60b59",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v10-stage.mjs",
+      "before": "9439a679703481a60285196449cf3473d38efa1a90b30300deea0f7ee33eff71",
+      "after": "e131c8dcf9df0e04e7cf69ff19a5f4c5469dd9fdd6b8a0cee5083c1c3feb1d89",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-audit.mjs",
+      "before": "54446618919e188552f834cfc8609a33208c39cb06cf8d6a5c18845e5329a684",
+      "after": "28e9e20101ca5dfb4be4a32dc9935fee22b971493fec6260030748237c15932e",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-browser-flows.mjs",
+      "before": "2d2be2a58a62a20160b67cbd7b42e9f5ceb762575414020e90cfcd3093942521",
+      "after": "9f49019ac317c482472d2d7c63120045c6fc8ac7917bbb6377ac139c8cb78036",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-live-smoke.mjs",
+      "before": "0fbd5d2c899660aa12d92eeaa55af30a8394758514894bc04cd15345deaf2187",
+      "after": "6d313447953530e71aa36b379d3149032ba446d1da48a0bb0853cf8e0ee7f6be",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-live-stage.mjs",
+      "before": "2204e50bc850be73f8548e631b352232750303ec47ec545ca32e4a7397437892",
+      "after": "e1f0eab51c1bb319a8d63ccbbd72e3fbfc206263e4ae0c86dc99257f12b6a8f9",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-mock-browser.mjs",
+      "before": "1c8ad27294a90647e8e561400a7f2226175d49ce9154a851032d54dbb6d237b9",
+      "after": "21fa6a14f04153c574c1564b7758321aa804c4c1a48221d321c125622b63f832",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-performance-flows.mjs",
+      "before": "d851a582277fd3f4a1eab101272547f9e0151895bac44404897cba8581c00e20",
+      "after": "55f006785bca5c0df6baca3675c255c0869b1b627a50c8fbb57df01ce0461b24",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-revise-question-ids.mjs",
+      "before": "20f144a7c60f253fa804b9f9da675597f0f9cfe92bb259113607f28db4e9fee8",
+      "after": "522030c2b7ca57e27fd9c82a125436e127da6298b3af6f6dc56781d27d125ab0",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-revise-words.mjs",
+      "before": "cbe4320362906197660f1ccf38bd2ac0f4a12b5b434f2409a44930ef1aeabf67",
+      "after": "97279b5882363a080e8d155fb85daa75539f7141739ed6244b635e051e855680",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-staging-audit.mjs",
+      "before": "332aa5dae93d0edb89a294428ce517b263ceae12dff1ed59b0b7d6f03164ab34",
+      "after": "f119577f7a44592276705957992bb3c7dc1ca2267435d8cf3c993d6ae026cf5b",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-audit.mjs",
+      "before": "d7c090b25df3e03f1503635fe28381699cfc88614f4f4362a71ed41bb1f0d2ad",
+      "after": "e269864777b2e65bf5080e65874e25a1425902018f9d63b463b0cc4c58d16e0c",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-browser-flows.mjs",
+      "before": "054f31eab1f3ffe29c8c5ee7f2d2a6eeb570a6dcf77820e5e4f15a97e3a8477e",
+      "after": "a87674b576b5d15ba6ddedbd21e8c1e165171541735d6de01ed3ccb4a41e563b",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-live-stage.mjs",
+      "before": "8d0da2b910ee1dbe5e711ecea408ef95d843d2f3f02156763f7b5314f85a61c0",
+      "after": "93cafb5a69c8cd5d4c2a6ef4f8cdcccd752bf1ec95b63a549972f099f5ae26a5",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-metadata.mjs",
+      "before": "db58638b39f2eb94cbd51b2d144f8333d5f6713bb55474f909431620a294d5a1",
+      "after": "c3e226d868312e73059c48796cf3586709c4d1e609fd3a8196ba698f16f5b72d",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-mock-browser.mjs",
+      "before": "cdd154d87e900e0bc174c046503ab7579a8d51790c31b3c6784fa8a2c5288640",
+      "after": "75f6dffa807685758f5fe696a80b944a8c7b3a0af71490beb96d2fb2997d5b72",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-performance-flows.mjs",
+      "before": "d8258f3fd97c535f4947cf1d39ce5c67bdc18bfbff9c0bafa29d62c14734753d",
+      "after": "1dbcba07f5fb4737331308116e1413c6ae48a372157ddb61429ac4b56ed3eb7e",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-reference-refinement.mjs",
+      "before": "3b38066b5bcbd1cb6ebe1d4ad483dcd477fcccaa7548605ae0ddd16afd661fbc",
+      "after": "11a7acf123cc60e6d346d61a20f80a6bd4e359e68a0da1ddde7dda22e07fad6b",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-revise-quality.mjs",
+      "before": "14a5f910dc3da2605707864bef615089500e0e74a986123ed889288978f8dfd9",
+      "after": "b3b2116d72f61d03690a6a68629ad73d41683f194e2a68b6312768a8d6d01371",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-staging-audit.mjs",
+      "before": "1d1efe744dfa8f3afa63422c58cccc2c3536a254bcb4e9b8986415d160f4dca4",
+      "after": "d01f2f220e6971d5cc9e4ac67ba1ba3b3f4aacadc8f97144ec52766a3bbd8bac",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v13-browser-flows.mjs",
+      "before": "7668cf8543547789770b3a73a91ebcded742c73b18988720d29513a73aee1684",
+      "after": "31173c8796034efd2c950f0bd6587c06908bb9473b43c863fe22b5cf963d7f14",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v13-live-stage.mjs",
+      "before": "b511fbbdf7289610138197f7bf3960abbb7b7806609aa24e0ce82401ab9c5297",
+      "after": "5d5805f5c327a5b2c034eab401c51964b2eaf88dab59b64dd721fb87b5bfc3d4",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v13-staging-audit.mjs",
+      "before": "6a19faaf5e47a668d1f47b909360fb9035396360792357046b14d0d5ac6040bf",
+      "after": "81c7b5439170073e244fa18dd60db7c0e9a6587d6f4fd3181295d89b570f94a2",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v14-browser-regression.mjs",
+      "before": "0fe50eb69e93f1846bd2e96108f01ad9eb50761b0258a674b3cdfce46dfddf48",
+      "after": "a50a98e1804fc810c19d647b51da33d71b864bc535d9c95cae511662d44ea748",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v14-start-local-api.mjs",
+      "before": "110fa463ca83040970e0d0c8c632d4defe48ddad036c15247bdc982f45115913",
+      "after": "10f439fe9db6830cde68c4754826b39ad1e5234659aeda862d69f6a5962732a1",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v15-browser-regression.mjs",
+      "before": "70466fd3bbd59a8f1c2a32f292b1fcbe1b0a7ee63f2996d6109d53de2f4ba7f4",
+      "after": "53113d31141f45811d5b9e07ad2399c9322e6d1e89a546f962b87450a22c7cc2",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v15-start-local-api.mjs",
+      "before": "b52563f7e18dbd5a3eec98f0ad6a042433401956a88f6527f3d070b34082c65d",
+      "after": "03471eed4fda5d98bc316d6f9e6d8414f14cf2a4e936f19a791a876c51a64e1f",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v3-browser-flows.mjs",
+      "before": "e476563014d95e812a2873acdd7d17dadfd1177ca127243418dcd0fef1776003",
+      "after": "696ebd50e6ee485adc862c0abff11a0236821a78cc1db9639571d903195c6510",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v4-browser-flows.mjs",
+      "before": "bf7787669fc7bd5b16f58b64fc07d882e6163c595b6261da208cbfb58cd172ef",
+      "after": "72ad3f77b5145a665b0fcf67e1d58241a53ad19f72502ad499205b2fb486c59e",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v5-baseline.mjs",
+      "before": "a63b705559beb5f4573a95c108bace941f6c2996d8f291d0c5a4379921f81cf0",
+      "after": "c707eae6a3e7e210464727eae52b4c37ad4fd354ea8199317c9503af415d3eb7",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v5-browser-flows.mjs",
+      "before": "e0ff22db8fb90174bc8a4e9a1b5fe7a53828d6b280a5ef5e1371a962a36025d8",
+      "after": "d9d6bfdf2296d7950b0d02ee5fed16f7d2ad11eb96b9f6fb442b340e67c9e03f",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v5-live-stage.mjs",
+      "before": "2890bc0f4d0b8ba402d8f3d2c389ba331ad3dd04515aa2c4a06338d3bd33f92f",
+      "after": "2a4a9d84f50313eac4f0ff2eb7025e99ac63f0eb8b2cbce8e3252ea2a7991d86",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-baseline.mjs",
+      "before": "12cec17d38dabfd25bc4ac24f0fccafa324a2298b1ce277098ebd9179008a365",
+      "after": "2671f9d70a43db066c9cf94526bb10e2524321818cc4b1e7250b6f1302f419d3",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-browser-flows.mjs",
+      "before": "1c82ae1b44e232f84320b746dde3320733518e3622c780b99f9b68e7d8a8b67d",
+      "after": "e28e740475e5c8e7c0d7ef856a148f7af2f674ea3097790ae45be5a31b9c99da",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-finish-wiring.mjs",
+      "before": "a738a5d00883a8e47fec3c08a88c50854bb615d980552f5bcfd8b1e86569c1a5",
+      "after": "cb2d84058010ad0e539e46abfeeb777b8958d506e2f91d6105f691497cffabac",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-live-stage.mjs",
+      "before": "11fd7e3ab401fc582cd34effaf60dbeb93b679b99c1f89310f7aac2aee4c3a60",
+      "after": "97960ad51e5a65d7da15f8ff18ca9e028dc2854d63e039242a1365b5e37b8181",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-performance-flows.mjs",
+      "before": "3291ae102d877432a270cabc2b2c82f460a89a2d15a5adae052893d7579ac13a",
+      "after": "cb43180a688dedc36a81475fcb7e1e7ae35992eab46ebd64e28fb871e4fe7e33",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-renderer-stress.mjs",
+      "before": "4063034048fc350135c9f9470dee5250b16a7afcadee8ad96766d35222a0f628",
+      "after": "e4e372825ab71f968a7288e27698d327b37976fc562f1de481c67afd190a7fea",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v7-content-audit.mjs",
+      "before": "2909efd57dd9fbeaf594f4f8e4deb4a55980fca2872728e0889531f83919725a",
+      "after": "804011bdd983eb082d254afd2e9d78384ebf46bb6b39ff912667d5cd2deb0e66",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v7-lesson-corrections.mjs",
+      "before": "c711214e2946d514c39f93b0e691dc63d1f6a4143753aadb2d58e7c394f36803",
+      "after": "f3a2f3a46170fceeee8737004e5aea124548b75bc0b95ffa5231bc395c9280e7",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-base-performance.mjs",
+      "before": "744992973f78c95d39025c9352944f6369466b4173e5d8c5f25bb0bba9f064ea",
+      "after": "8fba19ca8b780a1d6a5388c7a5efae93dba41c0b92988842e4832b9065742a08",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-content-review.mjs",
+      "before": "8078f001ec3e193ae046b00c5f3ebfbc293a129ca2718aeb2ddd7bab6e9ad36d",
+      "after": "861f82b962b1ad32291d1c2dd140b2f8bd5d7af325caf288b7c55308d0ff586c",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-extra-captures.mjs",
+      "before": "48803a6fe948af1f55b9ce0075e6b939970dc6efdfc5f7afddc7788c11496397",
+      "after": "4e6f3978e46452f85bd20589cd729ae9496191673c123eeea28e5483123c701d",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-manual-key-corrections.mjs",
+      "before": "cdf4bd1e02da097e4cdd4356e1ded8463bf533f07d47fe52c2212649b09c53e4",
+      "after": "34ef054b744f96b263fefcc25cd73d2b23e12b1cdf31f363798324f5ed9869e9",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-performance-flows.mjs",
+      "before": "912a4efe0da2adc227dfe4c35e6f90bdcd1be59ebd7c18732e947ae958502c03",
+      "after": "8d3efca3757e3627971ecdc1120f73fb6696b1b422bf5e90c8c8803ac2889262",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-stage.mjs",
+      "before": "b5f5c289fcb89b30894d64a957733c1725e931f32d4c9900cec557caf77b886b",
+      "after": "2d80c1c8b94cad9ada4189b8700e9c38a6df9d608465f207bc6df8c40ca109b8",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v9-stage.mjs",
+      "before": "0b60ef77b966676f174dee1552ed6be67a10d397333c9548c9ff30a7e182d9dc",
+      "after": "67a190c777663f306d4e67092e889a18b9c10a6bab7ed650188c104894f873dc",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "dist/assets/localApi-CNUHRlRU.js",
+      "before": "a2c017196f79f240a409e92fa07fb4e8aac023fdd00cc7e5fef6bb4be9cdae0d",
+      "after": "db01c816bd4ebbfe20c9f2cff28b13b89ef3ec563c472a5c79df26e6509993b1",
+      "reason": "QA-only API port isolation; product files unchanged"
+    }
+  ],
+  "results": [
+    {
+      "browser": "chrome",
+      "exitCode": 0,
+      "status": "PASS",
+      "details": {
+        "at": "2026-10-19T17:29:14.762Z",
+        "status": "PASS",
+        "checks": [
+          "Real HSK1 private catalog has two cards",
+          "Catalog mobile has no horizontal overflow",
+          "Start is disabled until explicit platform-rule acknowledgement",
+          "Instructions do not create an attempt before confirm",
+          "Practice starts through existing owner with immutable snapshot",
+          "Practice audio actually plays through the existing owner and records a play",
+          "New layout uses only the existing audio owner",
+          "Answer persists with current question index",
+          "Refresh resumes same session and raw answer",
+          "Practice feedback appears only after check",
+          "Mobile drawer Escape closes and restores focus to its toggle",
+          "Shared-bank answer and revision survive refresh",
+          "Practice submit creates one completed attempt and removes session",
+          "Result illustrations mount only after open and release their renderer on close",
+          "Timed mode is fixed and future section navigation denied",
+          "Timed refresh keeps session/section deadline without duplicate attempt",
+          "Next-section instructions leave active section and deadline unchanged before acknowledgement",
+          "Section starts once and persists acknowledgement",
+          "Section acknowledgement and deadline survive reload",
+          "Double submit remains idempotent",
+          "HSK2 mock remains locked with real readiness",
+          "Flag fallback retains same learner data",
+          "V14 writing preserves raw Unicode and composition in the same owner",
+          "Native writing Undo remains intact under V14 layout",
+          "Existing loaded writing session keeps its saved draft offline",
+          "Manual writing stays ungraded and is submitted once",
+          "Supplementary true/false maps the real stable option ID without changing full-mock format",
+          "V15 5 question catalog candidate launches/submits through existing owner",
+          "V15 10 question catalog candidate launches/submits through existing owner",
+          "Catalog hung request times out visibly and explicit retry recovers without losing attempts",
+          "Five real Catalog reloads preserve all six isolated attempts",
+          "Service worker cache contains no private API responses",
+          "Catalog fits 320/375/768/1024/1440 widths",
+          "Intro acknowledgement and mode controls fit 320px"
+        ],
+        "additional": {
+          "catalogReloadMs": [
+            1195,
+            1200,
+            1185,
+            1204,
+            1184
+          ],
+          "attemptCount": 6
+        },
+        "screenshots": [
+          "v15-catalog-desktop.png",
+          "v15-catalog-mobile.png",
+          "v15-intro.png",
+          "v15-instructions.png",
+          "v15-room-listening.png",
+          "v15-practice-feedback.png",
+          "v15-room-mobile-navigator.png",
+          "v15-shared-options.png",
+          "v15-result-existing-owner.png",
+          "v15-result-open-illustration.png",
+          "v15-timed-resume.png",
+          "v15-hsk2-blocked.png",
+          "v15-writing-raw-undo.png",
+          "v15-writing-result-ungraded.png",
+          "v15-true-false-ids.png",
+          "v15-skill-catalog.png",
+          "v15-mini-catalog.png",
+          "v15-catalog-timeout-recovery.png",
+          "v15-catalog-width-320.png",
+          "v15-catalog-width-768.png",
+          "v15-catalog-width-1440.png",
+          "v15-intro-width-320.png"
+        ],
+        "scope": "Integrated Catalog/Intro + Room/Navigator using same legacy media/question/scoring owners; actual browser audio, isolated API/profile; no claim of complete V14 renderer conversion"
+      }
+    },
+    {
+      "browser": "edge",
+      "exitCode": 0,
+      "status": "PASS",
+      "details": {
+        "at": "2026-10-19T17:30:00.294Z",
+        "status": "PASS",
+        "checks": [
+          "Real HSK1 private catalog has two cards",
+          "Catalog mobile has no horizontal overflow",
+          "Start is disabled until explicit platform-rule acknowledgement",
+          "Instructions do not create an attempt before confirm",
+          "Practice starts through existing owner with immutable snapshot",
+          "Practice audio actually plays through the existing owner and records a play",
+          "New layout uses only the existing audio owner",
+          "Answer persists with current question index",
+          "Refresh resumes same session and raw answer",
+          "Practice feedback appears only after check",
+          "Mobile drawer Escape closes and restores focus to its toggle",
+          "Shared-bank answer and revision survive refresh",
+          "Practice submit creates one completed attempt and removes session",
+          "Result illustrations mount only after open and release their renderer on close",
+          "Timed mode is fixed and future section navigation denied",
+          "Timed refresh keeps session/section deadline without duplicate attempt",
+          "Next-section instructions leave active section and deadline unchanged before acknowledgement",
+          "Section starts once and persists acknowledgement",
+          "Section acknowledgement and deadline survive reload",
+          "Double submit remains idempotent",
+          "HSK2 mock remains locked with real readiness",
+          "Flag fallback retains same learner data",
+          "V14 writing preserves raw Unicode and composition in the same owner",
+          "Native writing Undo remains intact under V14 layout",
+          "Existing loaded writing session keeps its saved draft offline",
+          "Manual writing stays ungraded and is submitted once",
+          "Supplementary true/false maps the real stable option ID without changing full-mock format",
+          "V15 5 question catalog candidate launches/submits through existing owner",
+          "V15 10 question catalog candidate launches/submits through existing owner",
+          "Catalog hung request times out visibly and explicit retry recovers without losing attempts",
+          "Five real Catalog reloads preserve all six isolated attempts",
+          "Service worker cache contains no private API responses",
+          "Catalog fits 320/375/768/1024/1440 widths",
+          "Intro acknowledgement and mode controls fit 320px"
+        ],
+        "additional": {
+          "catalogReloadMs": [
+            1209,
+            1214,
+            1214,
+            1211,
+            1199
+          ],
+          "attemptCount": 6
+        },
+        "screenshots": [
+          "v15-catalog-desktop.png",
+          "v15-catalog-mobile.png",
+          "v15-intro.png",
+          "v15-instructions.png",
+          "v15-room-listening.png",
+          "v15-practice-feedback.png",
+          "v15-room-mobile-navigator.png",
+          "v15-shared-options.png",
+          "v15-result-existing-owner.png",
+          "v15-result-open-illustration.png",
+          "v15-timed-resume.png",
+          "v15-hsk2-blocked.png",
+          "v15-writing-raw-undo.png",
+          "v15-writing-result-ungraded.png",
+          "v15-true-false-ids.png",
+          "v15-skill-catalog.png",
+          "v15-mini-catalog.png",
+          "v15-catalog-timeout-recovery.png",
+          "v15-catalog-width-320.png",
+          "v15-catalog-width-768.png",
+          "v15-catalog-width-1440.png",
+          "v15-intro-width-320.png"
+        ],
+        "scope": "Integrated Catalog/Intro + Room/Navigator using same legacy media/question/scoring owners; actual browser audio, isolated API/profile; no claim of complete V14 renderer conversion"
+      }
+    }
+  ]
+}

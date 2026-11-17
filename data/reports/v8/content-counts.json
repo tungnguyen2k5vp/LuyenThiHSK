@@ -1,0 +1,94 @@
+{
+  "at": "2026-10-16T15:45:32.179Z",
+  "scope": "Private editorial release, not existing public syllabus membership datasets",
+  "counts": {
+    "vocabulary": {
+      "total": 300,
+      "draft": 0,
+      "needsReview": 300,
+      "internallyValidated": 300,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "grammar": {
+      "total": 68,
+      "draft": 0,
+      "needsReview": 68,
+      "internallyValidated": 68,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "questions": {
+      "total": 429,
+      "draft": 0,
+      "needsReview": 429,
+      "internallyValidated": 429,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "audio": {
+      "total": 80,
+      "draft": 0,
+      "needsReview": 80,
+      "internallyValidated": 80,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "images": {
+      "total": 30,
+      "draft": 0,
+      "needsReview": 30,
+      "internallyValidated": 30,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "optionBanks": {
+      "total": 13,
+      "draft": 5,
+      "needsReview": 8,
+      "internallyValidated": 13,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "templates": {
+      "total": 1,
+      "draft": 0,
+      "needsReview": 1,
+      "internallyValidated": 1,
+      "humanReviewed": 0,
+      "published": 0
+    }
+  },
+  "total": 921,
+  "hsk1": {
+    "questions": 402,
+    "preservedBase": 396,
+    "additionalOriginal": 6,
+    "candidates": 80
+  },
+  "hsk2": {
+    "questions": 27,
+    "listening": 9,
+    "reading": 12,
+    "writing": 6,
+    "audioAvailable": 0,
+    "imagesUsed": [
+      "v6-image-train-c7243219bdaa",
+      "v6-image-plane-a2d8ccad1896",
+      "v6-image-driving-062a5bfabb12",
+      "v6-image-reading-2b4d2ae6b38c",
+      "v6-image-sleeping-8190c7c819f6",
+      "v6-image-cooking-ecdb34052249",
+      "v6-image-school-0305d17277c9",
+      "v6-image-company-df3e72ec20b8",
+      "v6-image-rain-dc8c0a4777b0",
+      "v6-image-eating-d7d30b81407d",
+      "v6-image-calling-a391e185d990",
+      "v6-image-drinking-f9fd9a88a84c",
+      "v6-image-writing-189d14996dc3"
+    ],
+    "officialMock": false,
+    "humanReviewed": 0,
+    "published": 0
+  }
+}

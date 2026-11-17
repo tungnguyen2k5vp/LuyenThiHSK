@@ -1,0 +1,47 @@
+{
+  "at": "2026-10-16T05:38:32.572Z",
+  "results": [
+    {
+      "suite": "v6",
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 38177
+    },
+    {
+      "suite": "v6",
+      "browser": "Edge",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 47737
+    },
+    {
+      "suite": "v5",
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 19755
+    },
+    {
+      "suite": "v4",
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 17686
+    },
+    {
+      "suite": "v1-v3",
+      "browser": "Chrome",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 42668
+    }
+  ],
+  "notTested": [
+    "Firefox: unavailable",
+    "WebKit/Safari: unavailable on Windows",
+    "Android Chrome: no real device",
+    "iOS Safari: no real device"
+  ],
+  "mobile": "Viewport emulation; not a real mobile-device test"
+}

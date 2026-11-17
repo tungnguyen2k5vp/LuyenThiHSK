@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Home desktop",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-homepage.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Home mobile",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-mobile-homepage.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "HSK catalog",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/extra/v7-main-hsk-catalog.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "HSK1 overview",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-today.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Mini practice",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/extra/v7-mini-practice.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Full Beta setup",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-full-mock-setup.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "L1",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-part-L1.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "L2",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-part-L2.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "L3",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-part-L3.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "L4",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-part-L4.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "R1",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-part-R1.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "R2",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-part-R2.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "R3",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-part-R3.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "R4",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-part-R4.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Picture choice",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-picture-question.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Matching selected",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-multi-matching.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Incomplete matching warning",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-matching-incomplete-warning.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Question navigator",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-question-navigator-keyboard-focus.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Submit confirmation",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-keyboard-submit-dialog.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Results",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-results.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Review wrong answers",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-mistakes.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Practice explanation",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-practice-feedback.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Weakness/Study plan",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-weakness.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Vocabulary",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-vocabulary.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Grammar",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-grammar.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Grammar practice",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-grammar-practice.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Review queue",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-review-dashboard.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Item detail",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/extra/v7-review-detail-focused.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Revision comparison",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/extra/v7-revision-comparison-focused.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Audio replacement UI",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/extra/v7-audio-replacement-focused.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Image preview",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/extra/v7-image-preview-focused.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Reviewer decision gate (locked)",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/extra/v7-reviewer-decision-locked-focused.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Account guest",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-desktop-account-guest.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Cloud disabled",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/extra/v7-account-cloud-unavailable.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "HSK2 foundation",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-hsk2-foundation.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Media recovery",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-image-failure-timer-paused.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Dark theme",
+    "status": "NOT AVAILABLE",
+    "path": null,
+    "note": "NOT AVAILABLE: light theme retained"
+  },
+  {
+    "name": "320px",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-review-width-320.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "390px",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-review-width-390.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  },
+  {
+    "name": "Keyboard focus",
+    "status": "PASS",
+    "path": "docs/screenshots/v7/after-chrome/v7-question-navigator-keyboard-focus.png",
+    "note": "Real browser viewport capture, not real-device evidence"
+  }
+]

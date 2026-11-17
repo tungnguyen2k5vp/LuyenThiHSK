@@ -1,0 +1,497 @@
+{
+  "at": "2026-10-18T13:07:32.635Z",
+  "receipts": [
+    {
+      "id": "v12-hsk2-grammar-00001-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00001-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00001-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00001-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00001-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00002-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00002-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00002-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00002-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00002-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00003-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00003-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00003-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00003-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00003-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00004-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00004-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00004-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00004-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00004-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00008-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00008-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00008-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00008-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00008-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00011-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00011-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00011-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00011-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00011-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00014-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00014-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00014-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00014-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00014-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00022-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00022-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00022-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00022-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00022-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00026-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00026-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00026-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00026-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00026-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00030-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00030-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00030-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00030-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00030-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00032-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00032-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00032-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00032-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00032-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00042-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00042-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00042-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00042-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00042-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00043-1",
+      "from": 2,
+      "to": 3,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00043-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00043-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00043-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00043-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00066-1",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00066-2",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00066-3",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00066-4",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    },
+    {
+      "id": "v12-hsk2-grammar-00066-5",
+      "from": 1,
+      "to": 2,
+      "status": "REVISED",
+      "academicDecision": "PENDING"
+    }
+  ],
+  "humanReviewed": 0,
+  "note": "Removed inherited generic CTI learning-task/topic claims on new structure drills; explicit platform references, pending academic review."
+}

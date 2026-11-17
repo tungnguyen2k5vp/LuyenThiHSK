@@ -1,0 +1,84 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    }
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=vocab&level=HSK%201"
+  },
+  "actions": [
+    {
+      "step_id": "loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "search",
+      "action": "fill",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-filters input[type=search]"
+      },
+      "value": {
+        "source": "literal",
+        "value": "好玩儿"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "open",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-item >> nth=0"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "examples",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".word-linked-examples audio >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "gloss",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".course-detail .lesson-meaning:has-text(\"thú vị\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

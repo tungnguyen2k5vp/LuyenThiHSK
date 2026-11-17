@@ -1,0 +1,74 @@
+{
+  "checkedAt": "2026-10-15T17:14:49.826Z",
+  "status": 200,
+  "summary": {
+    "counts": {
+      "vocabulary": {
+        "total": 300,
+        "draft": 0,
+        "needsReview": 300,
+        "internallyValidated": 300,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "grammar": {
+        "total": 68,
+        "draft": 0,
+        "needsReview": 68,
+        "internallyValidated": 68,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "questions": {
+        "total": 128,
+        "draft": 0,
+        "needsReview": 128,
+        "internallyValidated": 128,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "audio": {
+        "total": 40,
+        "draft": 0,
+        "needsReview": 40,
+        "internallyValidated": 40,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "templates": {
+        "total": 1,
+        "draft": 0,
+        "needsReview": 1,
+        "internallyValidated": 1,
+        "humanReviewed": 0,
+        "published": 0
+      }
+    },
+    "total": 537,
+    "errors": 0,
+    "warnings": 0,
+    "renderedAudio": 40,
+    "productionPublished": 0,
+    "humanReviewed": 0
+  },
+  "levels": [
+    {
+      "level": "1",
+      "technical": "PREVIEW_AVAILABLE",
+      "content": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "level": "2",
+      "technical": "DATA_ONLY",
+      "content": "NOT_IN_V4_WAVE_A"
+    },
+    {
+      "level": "3",
+      "technical": "DATA_ONLY",
+      "content": "NOT_IN_V4_WAVE_A"
+    }
+  ],
+  "browserDecodedAudio": 40,
+  "studyProgress": "Isolated browser E2E verified production keys unchanged",
+  "humanReview": "BLOCKED_FOR_HUMAN_REVIEW"
+}

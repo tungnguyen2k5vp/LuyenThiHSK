@@ -1,0 +1,20 @@
+{
+  "url": "https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/7ac65bf1a6387d35f1ade478906172a19311c7f9/README.md",
+  "status": 200,
+  "at": "2026-10-25T04:51:02.820Z",
+  "sha256": "54fae3f230116f2fe8fde3da24335d70b2d25c36486f9699a8c871326e96d014",
+  "bytes": 10634,
+  "title": null,
+  "licenseExcerpts": [
+    "",
+    "",
+    "* [License](#license)",
+    "- Dictionary definitions: https://www.mdbg.net/chinese/dictionary (CC-CEDICT)",
+    "### License",
+    "MIT License",
+    "Copyright (c) 2026 Yanis Zafirópulos (aka Dr.Kameleon)",
+    "to use, copy, modify, merge, publish, distribute, sublicense, and/or sell",
+    "The above copyright notice and this permission notice shall be included in all",
+    "AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+  ]
+}

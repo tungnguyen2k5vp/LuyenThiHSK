@@ -1,0 +1,19 @@
+{
+  "url": "https://raw.githubusercontent.com/krmanik/HSK-3.0/d30e97016a7f52af6437805170759031d93bbe6a/License.md",
+  "status": 200,
+  "at": "2026-10-25T04:50:37.869Z",
+  "sha256": "a9aaff6f99acc720857d6a74f099c03d7c264da3e9ca825f9ffa750a1fe9e118",
+  "bytes": 1073,
+  "title": null,
+  "licenseExcerpts": [
+    "# License",
+    "### CC-CEDICT",
+    "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)",
+    "### cedict-json",
+    "https://github.com/krmanik/cedict-json",
+    "MIT License",
+    "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)",
+    "MIT License",
+    "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+  ]
+}

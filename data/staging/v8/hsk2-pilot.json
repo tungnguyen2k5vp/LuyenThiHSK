@@ -1,0 +1,5072 @@
+{
+  "version": "v8-hsk2-pilot-r1",
+  "level": "2",
+  "status": "PRIVATE_DRAFT_PILOT",
+  "questions": [
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-L1-001",
+      "number": 1,
+      "part": 1,
+      "partId": "L1",
+      "type": "picture-choice",
+      "questionType": "picture-choice",
+      "skill": "listening",
+      "promptZh": "妈妈今天坐火车去看朋友。",
+      "candidatePromptZh": "Nghe audio rồi chọn đáp án.",
+      "instruction": "Nghe và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình A",
+          "image": {
+            "assetId": "v6-image-train-c7243219bdaa",
+            "src": "/api/admin/v6/image/v6-image-train-c7243219bdaa",
+            "altText": "Một đoàn tàu chạy trên đường ray.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "c7243219bdaa10c8b8f2512eb6548f47dda5e16286babfa5fa1478ba391c00f6"
+          }
+        },
+        {
+          "id": "B",
+          "text": "Hình B",
+          "image": {
+            "assetId": "v6-image-plane-a2d8ccad1896",
+            "src": "/api/admin/v6/image/v6-image-plane-a2d8ccad1896",
+            "altText": "Một chiếc máy bay có hai cánh.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "a2d8ccad18965b921980dafdb8e06ca485cd015da0005bcadbedded715f7a47b"
+          }
+        },
+        {
+          "id": "C",
+          "text": "Hình C",
+          "image": {
+            "assetId": "v6-image-driving-062a5bfabb12",
+            "src": "/api/admin/v6/image/v6-image-driving-062a5bfabb12",
+            "altText": "Một người ngồi sau vô lăng xe.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "062a5bfabb1224a529a46fdf9c17d43ee6c52cbf576e32674784ff06f811d473"
+          }
+        }
+      ],
+      "correctAnswer": "A",
+      "correctOptionId": "A",
+      "explanation": "Chọn hình phương tiện được nhắc đến: 火车 là tàu hỏa.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00015"
+      ],
+      "vocabularyIds": [
+        "cti25-v-20",
+        "cti25-v-83",
+        "cti25-v-94",
+        "cti25-v-99",
+        "cti25-v-114",
+        "cti25-v-156",
+        "cti25-v-167",
+        "cti25-v-207",
+        "cti25-v-298"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": true,
+        "status": "MISSING_LICENSED_AUDIO"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L1-001",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "25ad95735e9fa63865e6406ae9d111c48833d1608bb72167782dc35486c8ffb7",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-L1-002",
+      "number": 2,
+      "part": 1,
+      "partId": "L1",
+      "type": "picture-choice",
+      "questionType": "picture-choice",
+      "skill": "listening",
+      "promptZh": "孩子已经睡了，请小声说话。",
+      "candidatePromptZh": "Nghe audio rồi chọn đáp án.",
+      "instruction": "Nghe và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình A",
+          "image": {
+            "assetId": "v6-image-reading-2b4d2ae6b38c",
+            "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+            "altText": "Một người đang ngồi đọc sách.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "2b4d2ae6b38c8ea2a385c2f6c3e2589ec6d310f5dd8f4f3c6f02a6fb500fcf0c"
+          }
+        },
+        {
+          "id": "B",
+          "text": "Hình B",
+          "image": {
+            "assetId": "v6-image-sleeping-8190c7c819f6",
+            "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+            "altText": "Một người nằm ngủ trên giường.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "8190c7c819f69c22efc11b0a1daf970ffe75cf06ca129a5abddc6654e89f25c2"
+          }
+        },
+        {
+          "id": "C",
+          "text": "Hình C",
+          "image": {
+            "assetId": "v6-image-cooking-ecdb34052249",
+            "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+            "altText": "Một người đang nấu ăn bên bếp.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+          }
+        }
+      ],
+      "correctAnswer": "B",
+      "correctOptionId": "B",
+      "explanation": "睡了 diễn tả đã ngủ; hình người ngủ phù hợp.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00016"
+      ],
+      "vocabularyIds": [
+        "cti25-v-68",
+        "cti25-v-108",
+        "cti25-v-165",
+        "cti25-v-194",
+        "cti25-v-196",
+        "cti25-v-197",
+        "cti25-v-234",
+        "cti25-v-472"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": true,
+        "status": "MISSING_LICENSED_AUDIO"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L1-002",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "e6a23709d7adeffe0ad6f177899a8c73efd80cedd56a59b8d226f65351bb63fa",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-L1-003",
+      "number": 3,
+      "part": 1,
+      "partId": "L1",
+      "type": "picture-choice",
+      "questionType": "picture-choice",
+      "skill": "listening",
+      "promptZh": "外面下雨了，别忘了带伞。",
+      "candidatePromptZh": "Nghe audio rồi chọn đáp án.",
+      "instruction": "Nghe và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình A",
+          "image": {
+            "assetId": "v6-image-school-0305d17277c9",
+            "src": "/api/admin/v6/image/v6-image-school-0305d17277c9",
+            "altText": "Một tòa nhà có chuông, sách và hai học sinh.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "0305d17277c9ed85e2395aa992cd7fd6b2c874a4a06d7ffdabca51c38d1d004a"
+          }
+        },
+        {
+          "id": "B",
+          "text": "Hình B",
+          "image": {
+            "assetId": "v6-image-company-df3e72ec20b8",
+            "src": "/api/admin/v6/image/v6-image-company-df3e72ec20b8",
+            "altText": "Một tòa nhà văn phòng có nhiều cửa kính và cặp tài liệu.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "df3e72ec20b88b16b787f7947323c1c800b3541216980bd3d2199b1bf1160bd4"
+          }
+        },
+        {
+          "id": "C",
+          "text": "Hình C",
+          "image": {
+            "assetId": "v6-image-rain-dc8c0a4777b0",
+            "src": "/api/admin/v6/image/v6-image-rain-dc8c0a4777b0",
+            "altText": "Mây và nhiều hạt mưa phía trên một chiếc ô.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "dc8c0a4777b0f0fe934acf399b906518b0859720db64ca645006764996371d0d"
+          }
+        }
+      ],
+      "correctAnswer": "C",
+      "correctOptionId": "C",
+      "explanation": "下雨 và 伞 gợi cảnh mưa có ô.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00018"
+      ],
+      "vocabularyIds": [
+        "cti25-v-108",
+        "cti25-v-212",
+        "cti25-v-226",
+        "cti25-v-227",
+        "cti25-v-267",
+        "cti25-v-311",
+        "cti25-v-403",
+        "cti25-v-447",
+        "cti25-v-452"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": true,
+        "status": "MISSING_LICENSED_AUDIO"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L1-003",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "324f92bbbdef101e99d801eb4b38daeb56c5c843c6979e331223a3cd1f4cfccc",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-L2-004",
+      "number": 4,
+      "part": 2,
+      "partId": "L2",
+      "type": "matching",
+      "questionType": "matching",
+      "skill": "listening",
+      "promptZh": "他每天在家做晚饭。",
+      "candidatePromptZh": "Nghe audio rồi chọn đáp án.",
+      "instruction": "Nghe và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình A",
+          "image": {
+            "assetId": "v6-image-eating-d7d30b81407d",
+            "src": "/api/admin/v6/image/v6-image-eating-d7d30b81407d",
+            "altText": "Một người cầm đũa trước bát thức ăn.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "d7d30b81407d7a06ab2ad9c15495407086ce6537991ed976a17d020570fd6bf9"
+          }
+        },
+        {
+          "id": "B",
+          "text": "Hình B",
+          "image": {
+            "assetId": "v6-image-cooking-ecdb34052249",
+            "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+            "altText": "Một người đang nấu ăn bên bếp.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+          }
+        },
+        {
+          "id": "C",
+          "text": "Hình C",
+          "image": {
+            "assetId": "v6-image-calling-a391e185d990",
+            "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+            "altText": "Một người cầm điện thoại cạnh tai.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+          }
+        },
+        {
+          "id": "D",
+          "text": "Hình D",
+          "image": {
+            "assetId": "v6-image-driving-062a5bfabb12",
+            "src": "/api/admin/v6/image/v6-image-driving-062a5bfabb12",
+            "altText": "Một người ngồi sau vô lăng xe.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "062a5bfabb1224a529a46fdf9c17d43ee6c52cbf576e32674784ff06f811d473"
+          }
+        },
+        {
+          "id": "E",
+          "text": "Hình E",
+          "image": {
+            "assetId": "v6-image-drinking-f9fd9a88a84c",
+            "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+            "altText": "Một người đưa cốc lên miệng uống.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+          }
+        },
+        {
+          "id": "F",
+          "text": "Hình F",
+          "image": {
+            "assetId": "v6-image-writing-189d14996dc3",
+            "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+            "altText": "Một người dùng bút viết trên giấy.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+          }
+        }
+      ],
+      "correctAnswer": "B",
+      "correctOptionId": "B",
+      "explanation": "做晚饭 là nấu bữa tối; ghép hình nấu ăn.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00008"
+      ],
+      "vocabularyIds": [
+        "cti25-v-50",
+        "cti25-v-86",
+        "cti25-v-200",
+        "cti25-v-207",
+        "cti25-v-215",
+        "cti25-v-216",
+        "cti25-v-271",
+        "cti25-v-299",
+        "cti25-v-399"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-L2",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-L2",
+        "partId": "L2",
+        "options": [
+          {
+            "id": "A",
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-eating-d7d30b81407d",
+              "src": "/api/admin/v6/image/v6-image-eating-d7d30b81407d",
+              "altText": "Một người cầm đũa trước bát thức ăn.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "d7d30b81407d7a06ab2ad9c15495407086ce6537991ed976a17d020570fd6bf9"
+            }
+          },
+          {
+            "id": "B",
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-cooking-ecdb34052249",
+              "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+              "altText": "Một người đang nấu ăn bên bếp.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+            }
+          },
+          {
+            "id": "C",
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-calling-a391e185d990",
+              "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+              "altText": "Một người cầm điện thoại cạnh tai.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+            }
+          },
+          {
+            "id": "D",
+            "text": "Hình D",
+            "image": {
+              "assetId": "v6-image-driving-062a5bfabb12",
+              "src": "/api/admin/v6/image/v6-image-driving-062a5bfabb12",
+              "altText": "Một người ngồi sau vô lăng xe.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "062a5bfabb1224a529a46fdf9c17d43ee6c52cbf576e32674784ff06f811d473"
+            }
+          },
+          {
+            "id": "E",
+            "text": "Hình E",
+            "image": {
+              "assetId": "v6-image-drinking-f9fd9a88a84c",
+              "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+              "altText": "Một người đưa cốc lên miệng uống.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+            }
+          },
+          {
+            "id": "F",
+            "text": "Hình F",
+            "image": {
+              "assetId": "v6-image-writing-189d14996dc3",
+              "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+              "altText": "Một người dùng bút viết trên giấy.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+            }
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-L2",
+      "groupOrder": 0,
+      "mediaRequirement": {
+        "audio": true,
+        "status": "MISSING_LICENSED_AUDIO"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L2-004",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "954147cf30a41b357a3d0f4218920150b3c3ef07d4069dbfe0c887cec3543de9",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-L2-005",
+      "number": 5,
+      "part": 2,
+      "partId": "L2",
+      "type": "matching",
+      "questionType": "matching",
+      "skill": "listening",
+      "promptZh": "她给朋友打电话。",
+      "candidatePromptZh": "Nghe audio rồi chọn đáp án.",
+      "instruction": "Nghe và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình A",
+          "image": {
+            "assetId": "v6-image-eating-d7d30b81407d",
+            "src": "/api/admin/v6/image/v6-image-eating-d7d30b81407d",
+            "altText": "Một người cầm đũa trước bát thức ăn.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "d7d30b81407d7a06ab2ad9c15495407086ce6537991ed976a17d020570fd6bf9"
+          }
+        },
+        {
+          "id": "B",
+          "text": "Hình B",
+          "image": {
+            "assetId": "v6-image-cooking-ecdb34052249",
+            "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+            "altText": "Một người đang nấu ăn bên bếp.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+          }
+        },
+        {
+          "id": "C",
+          "text": "Hình C",
+          "image": {
+            "assetId": "v6-image-calling-a391e185d990",
+            "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+            "altText": "Một người cầm điện thoại cạnh tai.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+          }
+        },
+        {
+          "id": "D",
+          "text": "Hình D",
+          "image": {
+            "assetId": "v6-image-driving-062a5bfabb12",
+            "src": "/api/admin/v6/image/v6-image-driving-062a5bfabb12",
+            "altText": "Một người ngồi sau vô lăng xe.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "062a5bfabb1224a529a46fdf9c17d43ee6c52cbf576e32674784ff06f811d473"
+          }
+        },
+        {
+          "id": "E",
+          "text": "Hình E",
+          "image": {
+            "assetId": "v6-image-drinking-f9fd9a88a84c",
+            "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+            "altText": "Một người đưa cốc lên miệng uống.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+          }
+        },
+        {
+          "id": "F",
+          "text": "Hình F",
+          "image": {
+            "assetId": "v6-image-writing-189d14996dc3",
+            "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+            "altText": "Một người dùng bút viết trên giấy.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+          }
+        }
+      ],
+      "correctAnswer": "C",
+      "correctOptionId": "C",
+      "explanation": "打电话 là gọi điện; chọn người cầm điện thoại bên tai.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00024"
+      ],
+      "vocabularyIds": [
+        "cti25-v-24",
+        "cti25-v-35",
+        "cti25-v-61",
+        "cti25-v-156",
+        "cti25-v-202",
+        "cti25-v-327"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-L2",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-L2",
+        "partId": "L2",
+        "options": [
+          {
+            "id": "A",
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-eating-d7d30b81407d",
+              "src": "/api/admin/v6/image/v6-image-eating-d7d30b81407d",
+              "altText": "Một người cầm đũa trước bát thức ăn.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "d7d30b81407d7a06ab2ad9c15495407086ce6537991ed976a17d020570fd6bf9"
+            }
+          },
+          {
+            "id": "B",
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-cooking-ecdb34052249",
+              "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+              "altText": "Một người đang nấu ăn bên bếp.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+            }
+          },
+          {
+            "id": "C",
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-calling-a391e185d990",
+              "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+              "altText": "Một người cầm điện thoại cạnh tai.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+            }
+          },
+          {
+            "id": "D",
+            "text": "Hình D",
+            "image": {
+              "assetId": "v6-image-driving-062a5bfabb12",
+              "src": "/api/admin/v6/image/v6-image-driving-062a5bfabb12",
+              "altText": "Một người ngồi sau vô lăng xe.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "062a5bfabb1224a529a46fdf9c17d43ee6c52cbf576e32674784ff06f811d473"
+            }
+          },
+          {
+            "id": "E",
+            "text": "Hình E",
+            "image": {
+              "assetId": "v6-image-drinking-f9fd9a88a84c",
+              "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+              "altText": "Một người đưa cốc lên miệng uống.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+            }
+          },
+          {
+            "id": "F",
+            "text": "Hình F",
+            "image": {
+              "assetId": "v6-image-writing-189d14996dc3",
+              "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+              "altText": "Một người dùng bút viết trên giấy.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+            }
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-L2",
+      "groupOrder": 1,
+      "mediaRequirement": {
+        "audio": true,
+        "status": "MISSING_LICENSED_AUDIO"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L2-005",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "50dcb276299f9b5607386581e097f4bcc9f3b1fa87ac16cde519c0532bcb5120",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-L2-006",
+      "number": 6,
+      "part": 2,
+      "partId": "L2",
+      "type": "matching",
+      "questionType": "matching",
+      "skill": "listening",
+      "promptZh": "他吃完饭就去学校。",
+      "candidatePromptZh": "Nghe audio rồi chọn đáp án.",
+      "instruction": "Nghe và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình A",
+          "image": {
+            "assetId": "v6-image-eating-d7d30b81407d",
+            "src": "/api/admin/v6/image/v6-image-eating-d7d30b81407d",
+            "altText": "Một người cầm đũa trước bát thức ăn.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "d7d30b81407d7a06ab2ad9c15495407086ce6537991ed976a17d020570fd6bf9"
+          }
+        },
+        {
+          "id": "B",
+          "text": "Hình B",
+          "image": {
+            "assetId": "v6-image-cooking-ecdb34052249",
+            "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+            "altText": "Một người đang nấu ăn bên bếp.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+          }
+        },
+        {
+          "id": "C",
+          "text": "Hình C",
+          "image": {
+            "assetId": "v6-image-calling-a391e185d990",
+            "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+            "altText": "Một người cầm điện thoại cạnh tai.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+          }
+        },
+        {
+          "id": "D",
+          "text": "Hình D",
+          "image": {
+            "assetId": "v6-image-driving-062a5bfabb12",
+            "src": "/api/admin/v6/image/v6-image-driving-062a5bfabb12",
+            "altText": "Một người ngồi sau vô lăng xe.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "062a5bfabb1224a529a46fdf9c17d43ee6c52cbf576e32674784ff06f811d473"
+          }
+        },
+        {
+          "id": "E",
+          "text": "Hình E",
+          "image": {
+            "assetId": "v6-image-drinking-f9fd9a88a84c",
+            "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+            "altText": "Một người đưa cốc lên miệng uống.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+          }
+        },
+        {
+          "id": "F",
+          "text": "Hình F",
+          "image": {
+            "assetId": "v6-image-writing-189d14996dc3",
+            "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+            "altText": "Một người dùng bút viết trên giấy.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+          }
+        }
+      ],
+      "correctAnswer": "A",
+      "correctOptionId": "A",
+      "explanation": "吃完饭 diễn tả ăn xong; chọn hành động ăn.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00048"
+      ],
+      "vocabularyIds": [
+        "cti25-v-21",
+        "cti25-v-50",
+        "cti25-v-167",
+        "cti25-v-200",
+        "cti25-v-247",
+        "cti25-v-250",
+        "cti25-v-376",
+        "cti25-v-448"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-L2",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-L2",
+        "partId": "L2",
+        "options": [
+          {
+            "id": "A",
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-eating-d7d30b81407d",
+              "src": "/api/admin/v6/image/v6-image-eating-d7d30b81407d",
+              "altText": "Một người cầm đũa trước bát thức ăn.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "d7d30b81407d7a06ab2ad9c15495407086ce6537991ed976a17d020570fd6bf9"
+            }
+          },
+          {
+            "id": "B",
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-cooking-ecdb34052249",
+              "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+              "altText": "Một người đang nấu ăn bên bếp.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+            }
+          },
+          {
+            "id": "C",
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-calling-a391e185d990",
+              "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+              "altText": "Một người cầm điện thoại cạnh tai.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+            }
+          },
+          {
+            "id": "D",
+            "text": "Hình D",
+            "image": {
+              "assetId": "v6-image-driving-062a5bfabb12",
+              "src": "/api/admin/v6/image/v6-image-driving-062a5bfabb12",
+              "altText": "Một người ngồi sau vô lăng xe.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "062a5bfabb1224a529a46fdf9c17d43ee6c52cbf576e32674784ff06f811d473"
+            }
+          },
+          {
+            "id": "E",
+            "text": "Hình E",
+            "image": {
+              "assetId": "v6-image-drinking-f9fd9a88a84c",
+              "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+              "altText": "Một người đưa cốc lên miệng uống.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+            }
+          },
+          {
+            "id": "F",
+            "text": "Hình F",
+            "image": {
+              "assetId": "v6-image-writing-189d14996dc3",
+              "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+              "altText": "Một người dùng bút viết trên giấy.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+            }
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-L2",
+      "groupOrder": 2,
+      "mediaRequirement": {
+        "audio": true,
+        "status": "MISSING_LICENSED_AUDIO"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L2-006",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "17f1beb2f0215ad26ab528d1da97c5f96c74d8383e4dcad856b47bbef2b9f0b1",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-L3-007",
+      "number": 7,
+      "part": 3,
+      "partId": "L3",
+      "type": "dialogue",
+      "questionType": "dialogue",
+      "skill": "listening",
+      "promptZh": "女：你为什么不喝牛奶？男：我已经喝了一杯，现在想喝水。问：男的现在想喝什么？",
+      "candidatePromptZh": "Nghe audio rồi chọn đáp án.",
+      "instruction": "Nghe và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "牛奶"
+        },
+        {
+          "id": "B",
+          "text": "水"
+        },
+        {
+          "id": "C",
+          "text": "茶"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctOptionId": "B",
+      "explanation": "现在想喝水 cho biết người nam muốn uống nước lúc này.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00006"
+      ],
+      "vocabularyIds": [
+        "cti25-v-13",
+        "cti25-v-17",
+        "cti25-v-30",
+        "cti25-v-77",
+        "cti25-v-108",
+        "cti25-v-142",
+        "cti25-v-146",
+        "cti25-v-151",
+        "cti25-v-152",
+        "cti25-v-182",
+        "cti25-v-192",
+        "cti25-v-219",
+        "cti25-v-221",
+        "cti25-v-232",
+        "cti25-v-233",
+        "cti25-v-254",
+        "cti25-v-271",
+        "cti25-v-454",
+        "cti25-v-472"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": true,
+        "status": "MISSING_LICENSED_AUDIO"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L3-007",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "b63b1f31ecff86073de457934e1c4adc4780fd5b3e5256e2fffaa644e1611e41",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-L3-008",
+      "number": 8,
+      "part": 3,
+      "partId": "L3",
+      "type": "dialogue",
+      "questionType": "dialogue",
+      "skill": "listening",
+      "promptZh": "男：今天一起去买书，好吗？女：今天我要上班，明天可以。问：女的什么时候可以买书？",
+      "candidatePromptZh": "Nghe audio rồi chọn đáp án.",
+      "instruction": "Nghe và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "今天早上"
+        },
+        {
+          "id": "B",
+          "text": "今天晚上"
+        },
+        {
+          "id": "C",
+          "text": "明天"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctOptionId": "C",
+      "explanation": "Người nữ phải đi làm hôm nay, hẹn ngày mai.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00015"
+      ],
+      "vocabularyIds": [
+        "cti25-v-30",
+        "cti25-v-71",
+        "cti25-v-94",
+        "cti25-v-102",
+        "cti25-v-115",
+        "cti25-v-116",
+        "cti25-v-129",
+        "cti25-v-142",
+        "cti25-v-152",
+        "cti25-v-167",
+        "cti25-v-175",
+        "cti25-v-176",
+        "cti25-v-182",
+        "cti25-v-185",
+        "cti25-v-190",
+        "cti25-v-207",
+        "cti25-v-215",
+        "cti25-v-217",
+        "cti25-v-219",
+        "cti25-v-221",
+        "cti25-v-252",
+        "cti25-v-254",
+        "cti25-v-273",
+        "cti25-v-275",
+        "cti25-v-304",
+        "cti25-v-431",
+        "cti25-v-473"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": true,
+        "status": "MISSING_LICENSED_AUDIO"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L3-008",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "0d15b46671d7a05c63782d74c80457bbf3ab3667ebd8b0b9b7eb8f4275378db8",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-L3-009",
+      "number": 9,
+      "part": 3,
+      "partId": "L3",
+      "type": "dialogue",
+      "questionType": "dialogue",
+      "skill": "listening",
+      "promptZh": "女：这两件衣服，你喜欢哪件？男：蓝色的比白色的好看。问：男的更喜欢什么颜色？",
+      "candidatePromptZh": "Nghe audio rồi chọn đáp án.",
+      "instruction": "Nghe và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "蓝色"
+        },
+        {
+          "id": "B",
+          "text": "白色"
+        },
+        {
+          "id": "C",
+          "text": "红色"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctOptionId": "A",
+      "explanation": "So sánh 蓝色的比白色的好看 thể hiện thích màu xanh hơn.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00025"
+      ],
+      "vocabularyIds": [
+        "cti25-v-30",
+        "cti25-v-71",
+        "cti25-v-73",
+        "cti25-v-89",
+        "cti25-v-99",
+        "cti25-v-111",
+        "cti25-v-131",
+        "cti25-v-142",
+        "cti25-v-146",
+        "cti25-v-152",
+        "cti25-v-182",
+        "cti25-v-219",
+        "cti25-v-225",
+        "cti25-v-255",
+        "cti25-v-279",
+        "cti25-v-303",
+        "cti25-v-309",
+        "cti25-v-355",
+        "cti25-v-466"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": true,
+        "status": "MISSING_LICENSED_AUDIO"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L3-009",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "0d9e5258cac0014191493457911ab598da077713081a3e9b8c46735495fa5c5a",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R1-010",
+      "number": 10,
+      "part": 1,
+      "partId": "R1",
+      "type": "matching",
+      "questionType": "matching",
+      "skill": "reading",
+      "promptZh": "我每天吃完饭以后看一会儿书。",
+      "candidatePromptZh": "我每天吃完饭以后看一会儿书。",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình A",
+          "image": {
+            "assetId": "v6-image-reading-2b4d2ae6b38c",
+            "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+            "altText": "Một người đang ngồi đọc sách.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "2b4d2ae6b38c8ea2a385c2f6c3e2589ec6d310f5dd8f4f3c6f02a6fb500fcf0c"
+          }
+        },
+        {
+          "id": "B",
+          "text": "Hình B",
+          "image": {
+            "assetId": "v6-image-cooking-ecdb34052249",
+            "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+            "altText": "Một người đang nấu ăn bên bếp.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+          }
+        },
+        {
+          "id": "C",
+          "text": "Hình C",
+          "image": {
+            "assetId": "v6-image-calling-a391e185d990",
+            "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+            "altText": "Một người cầm điện thoại cạnh tai.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+          }
+        },
+        {
+          "id": "D",
+          "text": "Hình D",
+          "image": {
+            "assetId": "v6-image-sleeping-8190c7c819f6",
+            "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+            "altText": "Một người nằm ngủ trên giường.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "8190c7c819f69c22efc11b0a1daf970ffe75cf06ca129a5abddc6654e89f25c2"
+          }
+        },
+        {
+          "id": "E",
+          "text": "Hình E",
+          "image": {
+            "assetId": "v6-image-drinking-f9fd9a88a84c",
+            "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+            "altText": "Một người đưa cốc lên miệng uống.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+          }
+        },
+        {
+          "id": "F",
+          "text": "Hình F",
+          "image": {
+            "assetId": "v6-image-writing-189d14996dc3",
+            "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+            "altText": "Một người dùng bút viết trên giấy.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+          }
+        }
+      ],
+      "correctAnswer": "A",
+      "correctOptionId": "A",
+      "explanation": "看书 tương ứng hình người đọc sách.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00048"
+      ],
+      "vocabularyIds": [
+        "cti25-v-21",
+        "cti25-v-50",
+        "cti25-v-80",
+        "cti25-v-82",
+        "cti25-v-99",
+        "cti25-v-190",
+        "cti25-v-207",
+        "cti25-v-221",
+        "cti25-v-254",
+        "cti25-v-399",
+        "cti25-v-448",
+        "cti25-v-471"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-R1",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-R1",
+        "partId": "R1",
+        "options": [
+          {
+            "id": "A",
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-reading-2b4d2ae6b38c",
+              "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+              "altText": "Một người đang ngồi đọc sách.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "2b4d2ae6b38c8ea2a385c2f6c3e2589ec6d310f5dd8f4f3c6f02a6fb500fcf0c"
+            }
+          },
+          {
+            "id": "B",
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-cooking-ecdb34052249",
+              "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+              "altText": "Một người đang nấu ăn bên bếp.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+            }
+          },
+          {
+            "id": "C",
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-calling-a391e185d990",
+              "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+              "altText": "Một người cầm điện thoại cạnh tai.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+            }
+          },
+          {
+            "id": "D",
+            "text": "Hình D",
+            "image": {
+              "assetId": "v6-image-sleeping-8190c7c819f6",
+              "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+              "altText": "Một người nằm ngủ trên giường.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "8190c7c819f69c22efc11b0a1daf970ffe75cf06ca129a5abddc6654e89f25c2"
+            }
+          },
+          {
+            "id": "E",
+            "text": "Hình E",
+            "image": {
+              "assetId": "v6-image-drinking-f9fd9a88a84c",
+              "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+              "altText": "Một người đưa cốc lên miệng uống.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+            }
+          },
+          {
+            "id": "F",
+            "text": "Hình F",
+            "image": {
+              "assetId": "v6-image-writing-189d14996dc3",
+              "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+              "altText": "Một người dùng bút viết trên giấy.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+            }
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-R1",
+      "groupOrder": 0,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R1-010",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "5e55f3365261bf8200af3a2ddab89fb527da67035f2d22814e9ccb199dbef144",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R1-011",
+      "number": 11,
+      "part": 1,
+      "partId": "R1",
+      "type": "matching",
+      "questionType": "matching",
+      "skill": "reading",
+      "promptZh": "他已经睡了，房间里很安静。",
+      "candidatePromptZh": "他已经睡了，房间里很安静。",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình A",
+          "image": {
+            "assetId": "v6-image-reading-2b4d2ae6b38c",
+            "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+            "altText": "Một người đang ngồi đọc sách.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "2b4d2ae6b38c8ea2a385c2f6c3e2589ec6d310f5dd8f4f3c6f02a6fb500fcf0c"
+          }
+        },
+        {
+          "id": "B",
+          "text": "Hình B",
+          "image": {
+            "assetId": "v6-image-cooking-ecdb34052249",
+            "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+            "altText": "Một người đang nấu ăn bên bếp.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+          }
+        },
+        {
+          "id": "C",
+          "text": "Hình C",
+          "image": {
+            "assetId": "v6-image-calling-a391e185d990",
+            "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+            "altText": "Một người cầm điện thoại cạnh tai.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+          }
+        },
+        {
+          "id": "D",
+          "text": "Hình D",
+          "image": {
+            "assetId": "v6-image-sleeping-8190c7c819f6",
+            "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+            "altText": "Một người nằm ngủ trên giường.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "8190c7c819f69c22efc11b0a1daf970ffe75cf06ca129a5abddc6654e89f25c2"
+          }
+        },
+        {
+          "id": "E",
+          "text": "Hình E",
+          "image": {
+            "assetId": "v6-image-drinking-f9fd9a88a84c",
+            "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+            "altText": "Một người đưa cốc lên miệng uống.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+          }
+        },
+        {
+          "id": "F",
+          "text": "Hình F",
+          "image": {
+            "assetId": "v6-image-writing-189d14996dc3",
+            "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+            "altText": "Một người dùng bút viết trên giấy.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+          }
+        }
+      ],
+      "correctAnswer": "D",
+      "correctOptionId": "D",
+      "explanation": "已经睡了 tương ứng người đang ngủ.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00016"
+      ],
+      "vocabularyIds": [
+        "cti25-v-52",
+        "cti25-v-79",
+        "cti25-v-108",
+        "cti25-v-110",
+        "cti25-v-194",
+        "cti25-v-200",
+        "cti25-v-366",
+        "cti25-v-472"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-R1",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-R1",
+        "partId": "R1",
+        "options": [
+          {
+            "id": "A",
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-reading-2b4d2ae6b38c",
+              "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+              "altText": "Một người đang ngồi đọc sách.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "2b4d2ae6b38c8ea2a385c2f6c3e2589ec6d310f5dd8f4f3c6f02a6fb500fcf0c"
+            }
+          },
+          {
+            "id": "B",
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-cooking-ecdb34052249",
+              "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+              "altText": "Một người đang nấu ăn bên bếp.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+            }
+          },
+          {
+            "id": "C",
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-calling-a391e185d990",
+              "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+              "altText": "Một người cầm điện thoại cạnh tai.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+            }
+          },
+          {
+            "id": "D",
+            "text": "Hình D",
+            "image": {
+              "assetId": "v6-image-sleeping-8190c7c819f6",
+              "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+              "altText": "Một người nằm ngủ trên giường.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "8190c7c819f69c22efc11b0a1daf970ffe75cf06ca129a5abddc6654e89f25c2"
+            }
+          },
+          {
+            "id": "E",
+            "text": "Hình E",
+            "image": {
+              "assetId": "v6-image-drinking-f9fd9a88a84c",
+              "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+              "altText": "Một người đưa cốc lên miệng uống.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+            }
+          },
+          {
+            "id": "F",
+            "text": "Hình F",
+            "image": {
+              "assetId": "v6-image-writing-189d14996dc3",
+              "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+              "altText": "Một người dùng bút viết trên giấy.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+            }
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-R1",
+      "groupOrder": 1,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R1-011",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "6fb36eb9ec48855d84e9a0a74f2d46d6d41a12826739e0f027002574e282314c",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R1-012",
+      "number": 12,
+      "part": 1,
+      "partId": "R1",
+      "type": "matching",
+      "questionType": "matching",
+      "skill": "reading",
+      "promptZh": "妹妹用笔写自己的名字。",
+      "candidatePromptZh": "妹妹用笔写自己的名字。",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình A",
+          "image": {
+            "assetId": "v6-image-reading-2b4d2ae6b38c",
+            "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+            "altText": "Một người đang ngồi đọc sách.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "2b4d2ae6b38c8ea2a385c2f6c3e2589ec6d310f5dd8f4f3c6f02a6fb500fcf0c"
+          }
+        },
+        {
+          "id": "B",
+          "text": "Hình B",
+          "image": {
+            "assetId": "v6-image-cooking-ecdb34052249",
+            "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+            "altText": "Một người đang nấu ăn bên bếp.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+          }
+        },
+        {
+          "id": "C",
+          "text": "Hình C",
+          "image": {
+            "assetId": "v6-image-calling-a391e185d990",
+            "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+            "altText": "Một người cầm điện thoại cạnh tai.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+          }
+        },
+        {
+          "id": "D",
+          "text": "Hình D",
+          "image": {
+            "assetId": "v6-image-sleeping-8190c7c819f6",
+            "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+            "altText": "Một người nằm ngủ trên giường.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "8190c7c819f69c22efc11b0a1daf970ffe75cf06ca129a5abddc6654e89f25c2"
+          }
+        },
+        {
+          "id": "E",
+          "text": "Hình E",
+          "image": {
+            "assetId": "v6-image-drinking-f9fd9a88a84c",
+            "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+            "altText": "Một người đưa cốc lên miệng uống.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+          }
+        },
+        {
+          "id": "F",
+          "text": "Hình F",
+          "image": {
+            "assetId": "v6-image-writing-189d14996dc3",
+            "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+            "altText": "Một người dùng bút viết trên giấy.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+          }
+        }
+      ],
+      "correctAnswer": "F",
+      "correctOptionId": "F",
+      "explanation": "用笔写名字 tương ứng hình người viết.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00007"
+      ],
+      "vocabularyIds": [
+        "cti25-v-30",
+        "cti25-v-123",
+        "cti25-v-130",
+        "cti25-v-240",
+        "cti25-v-296",
+        "cti25-v-310",
+        "cti25-v-404",
+        "cti25-v-494"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-R1",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-R1",
+        "partId": "R1",
+        "options": [
+          {
+            "id": "A",
+            "text": "Hình A",
+            "image": {
+              "assetId": "v6-image-reading-2b4d2ae6b38c",
+              "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+              "altText": "Một người đang ngồi đọc sách.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "2b4d2ae6b38c8ea2a385c2f6c3e2589ec6d310f5dd8f4f3c6f02a6fb500fcf0c"
+            }
+          },
+          {
+            "id": "B",
+            "text": "Hình B",
+            "image": {
+              "assetId": "v6-image-cooking-ecdb34052249",
+              "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+              "altText": "Một người đang nấu ăn bên bếp.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+            }
+          },
+          {
+            "id": "C",
+            "text": "Hình C",
+            "image": {
+              "assetId": "v6-image-calling-a391e185d990",
+              "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+              "altText": "Một người cầm điện thoại cạnh tai.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+            }
+          },
+          {
+            "id": "D",
+            "text": "Hình D",
+            "image": {
+              "assetId": "v6-image-sleeping-8190c7c819f6",
+              "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+              "altText": "Một người nằm ngủ trên giường.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "8190c7c819f69c22efc11b0a1daf970ffe75cf06ca129a5abddc6654e89f25c2"
+            }
+          },
+          {
+            "id": "E",
+            "text": "Hình E",
+            "image": {
+              "assetId": "v6-image-drinking-f9fd9a88a84c",
+              "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+              "altText": "Một người đưa cốc lên miệng uống.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+            }
+          },
+          {
+            "id": "F",
+            "text": "Hình F",
+            "image": {
+              "assetId": "v6-image-writing-189d14996dc3",
+              "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+              "altText": "Một người dùng bút viết trên giấy.",
+              "width": 640,
+              "height": 420,
+              "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+            }
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-R1",
+      "groupOrder": 2,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R1-012",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "6f15ae8b8a8286b824cffac53dead3400a0e65543edc2c1b29fda233c3c6bed7",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R2-013",
+      "number": 13,
+      "part": 2,
+      "partId": "R2",
+      "type": "shared-options",
+      "questionType": "shared-options",
+      "skill": "reading",
+      "promptZh": "这本书是我（　）买的，不是妈妈给我的。",
+      "candidatePromptZh": "这本书是我（　）买的，不是妈妈给我的。",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "已经"
+        },
+        {
+          "id": "B",
+          "text": "一起"
+        },
+        {
+          "id": "C",
+          "text": "自己"
+        },
+        {
+          "id": "D",
+          "text": "为什么"
+        },
+        {
+          "id": "E",
+          "text": "可能"
+        },
+        {
+          "id": "F",
+          "text": "左边"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctOptionId": "C",
+      "explanation": "自己 nhấn mạnh tự mình mua.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00007"
+      ],
+      "vocabularyIds": [
+        "cti25-v-10",
+        "cti25-v-11",
+        "cti25-v-13",
+        "cti25-v-30",
+        "cti25-v-61",
+        "cti25-v-114",
+        "cti25-v-116",
+        "cti25-v-145",
+        "cti25-v-182",
+        "cti25-v-188",
+        "cti25-v-190",
+        "cti25-v-221",
+        "cti25-v-254",
+        "cti25-v-279",
+        "cti25-v-382",
+        "cti25-v-454",
+        "cti25-v-472",
+        "cti25-v-473",
+        "cti25-v-494",
+        "cti25-v-499",
+        "cti25-v-500"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-R2",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-R2",
+        "partId": "R2",
+        "options": [
+          {
+            "id": "A",
+            "text": "已经"
+          },
+          {
+            "id": "B",
+            "text": "一起"
+          },
+          {
+            "id": "C",
+            "text": "自己"
+          },
+          {
+            "id": "D",
+            "text": "为什么"
+          },
+          {
+            "id": "E",
+            "text": "可能"
+          },
+          {
+            "id": "F",
+            "text": "左边"
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-R2",
+      "groupOrder": 0,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R2-013",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "95ebab6a2c4a18bc6ec999ebe4ce4e9680749fc97ce47c5d4a15f0ca780bbd0e",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R2-014",
+      "number": 14,
+      "part": 2,
+      "partId": "R2",
+      "type": "shared-options",
+      "questionType": "shared-options",
+      "skill": "reading",
+      "promptZh": "弟弟（　）睡了，请不要大声说话。",
+      "candidatePromptZh": "弟弟（　）睡了，请不要大声说话。",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "已经"
+        },
+        {
+          "id": "B",
+          "text": "一起"
+        },
+        {
+          "id": "C",
+          "text": "自己"
+        },
+        {
+          "id": "D",
+          "text": "为什么"
+        },
+        {
+          "id": "E",
+          "text": "可能"
+        },
+        {
+          "id": "F",
+          "text": "左边"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctOptionId": "A",
+      "explanation": "已经 + động từ + 了: đã xảy ra.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00016"
+      ],
+      "vocabularyIds": [
+        "cti25-v-11",
+        "cti25-v-13",
+        "cti25-v-15",
+        "cti25-v-25",
+        "cti25-v-32",
+        "cti25-v-108",
+        "cti25-v-145",
+        "cti25-v-165",
+        "cti25-v-182",
+        "cti25-v-194",
+        "cti25-v-196",
+        "cti25-v-197",
+        "cti25-v-252",
+        "cti25-v-254",
+        "cti25-v-382",
+        "cti25-v-454",
+        "cti25-v-472",
+        "cti25-v-473",
+        "cti25-v-494",
+        "cti25-v-499",
+        "cti25-v-500"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-R2",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-R2",
+        "partId": "R2",
+        "options": [
+          {
+            "id": "A",
+            "text": "已经"
+          },
+          {
+            "id": "B",
+            "text": "一起"
+          },
+          {
+            "id": "C",
+            "text": "自己"
+          },
+          {
+            "id": "D",
+            "text": "为什么"
+          },
+          {
+            "id": "E",
+            "text": "可能"
+          },
+          {
+            "id": "F",
+            "text": "左边"
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-R2",
+      "groupOrder": 1,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R2-014",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "253e2c1824c3fad867edc7ee493cdccd4dda8b29b2f1aae36d69fcbf4a3aeb9d",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R2-015",
+      "number": 15,
+      "part": 2,
+      "partId": "R2",
+      "type": "shared-options",
+      "questionType": "shared-options",
+      "skill": "reading",
+      "promptZh": "你（　）今天没来上课？",
+      "candidatePromptZh": "你（　）今天没来上课？",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "已经"
+        },
+        {
+          "id": "B",
+          "text": "一起"
+        },
+        {
+          "id": "C",
+          "text": "自己"
+        },
+        {
+          "id": "D",
+          "text": "为什么"
+        },
+        {
+          "id": "E",
+          "text": "可能"
+        },
+        {
+          "id": "F",
+          "text": "左边"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctOptionId": "D",
+      "explanation": "为什么 dùng để hỏi lý do.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00006"
+      ],
+      "vocabularyIds": [
+        "cti25-v-11",
+        "cti25-v-94",
+        "cti25-v-103",
+        "cti25-v-106",
+        "cti25-v-145",
+        "cti25-v-146",
+        "cti25-v-175",
+        "cti25-v-177",
+        "cti25-v-182",
+        "cti25-v-207",
+        "cti25-v-254",
+        "cti25-v-382",
+        "cti25-v-454",
+        "cti25-v-472",
+        "cti25-v-473",
+        "cti25-v-494",
+        "cti25-v-499",
+        "cti25-v-500"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-R2",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-R2",
+        "partId": "R2",
+        "options": [
+          {
+            "id": "A",
+            "text": "已经"
+          },
+          {
+            "id": "B",
+            "text": "一起"
+          },
+          {
+            "id": "C",
+            "text": "自己"
+          },
+          {
+            "id": "D",
+            "text": "为什么"
+          },
+          {
+            "id": "E",
+            "text": "可能"
+          },
+          {
+            "id": "F",
+            "text": "左边"
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-R2",
+      "groupOrder": 2,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R2-015",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "0f3e02fcd2367c1011d6b6e802cf080e657048498a4d20639cbe25021a2de02e",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R3-016",
+      "number": 16,
+      "part": 3,
+      "partId": "R3",
+      "type": "shared-options",
+      "questionType": "shared-options",
+      "skill": "reading",
+      "promptZh": "你为什么走路去学校？",
+      "candidatePromptZh": "你为什么走路去学校？",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "是我的，谢谢。"
+        },
+        {
+          "id": "B",
+          "text": "因为学校很近。"
+        },
+        {
+          "id": "C",
+          "text": "我喝了一杯茶。"
+        },
+        {
+          "id": "D",
+          "text": "好，我们三点见。"
+        },
+        {
+          "id": "E",
+          "text": "他比我高。"
+        },
+        {
+          "id": "F",
+          "text": "在桌子上。"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctOptionId": "B",
+      "explanation": "Câu hỏi vì sao; đáp lại bằng 因为…近.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00006"
+      ],
+      "vocabularyIds": [
+        "cti25-v-17",
+        "cti25-v-30",
+        "cti25-v-33",
+        "cti25-v-71",
+        "cti25-v-77",
+        "cti25-v-79",
+        "cti25-v-88",
+        "cti25-v-108",
+        "cti25-v-124",
+        "cti25-v-146",
+        "cti25-v-167",
+        "cti25-v-173",
+        "cti25-v-175",
+        "cti25-v-182",
+        "cti25-v-188",
+        "cti25-v-200",
+        "cti25-v-221",
+        "cti25-v-222",
+        "cti25-v-241",
+        "cti25-v-247",
+        "cti25-v-250",
+        "cti25-v-254",
+        "cti25-v-271",
+        "cti25-v-295",
+        "cti25-v-309",
+        "cti25-v-336",
+        "cti25-v-341",
+        "cti25-v-371",
+        "cti25-v-392",
+        "cti25-v-454",
+        "cti25-v-476",
+        "cti25-v-495",
+        "cti25-v-496"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-R3",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-R3",
+        "partId": "R3",
+        "options": [
+          {
+            "id": "A",
+            "text": "是我的，谢谢。"
+          },
+          {
+            "id": "B",
+            "text": "因为学校很近。"
+          },
+          {
+            "id": "C",
+            "text": "我喝了一杯茶。"
+          },
+          {
+            "id": "D",
+            "text": "好，我们三点见。"
+          },
+          {
+            "id": "E",
+            "text": "他比我高。"
+          },
+          {
+            "id": "F",
+            "text": "在桌子上。"
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-R3",
+      "groupOrder": 0,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R3-016",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "cee542623161df67b13a6780c7e70b2099fb189a694ec3753f00400c91a2f375",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R3-017",
+      "number": 17,
+      "part": 3,
+      "partId": "R3",
+      "type": "shared-options",
+      "questionType": "shared-options",
+      "skill": "reading",
+      "promptZh": "我们一起去看电影，好吗？",
+      "candidatePromptZh": "我们一起去看电影，好吗？",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "是我的，谢谢。"
+        },
+        {
+          "id": "B",
+          "text": "因为学校很近。"
+        },
+        {
+          "id": "C",
+          "text": "我喝了一杯茶。"
+        },
+        {
+          "id": "D",
+          "text": "好，我们三点见。"
+        },
+        {
+          "id": "E",
+          "text": "他比我高。"
+        },
+        {
+          "id": "F",
+          "text": "在桌子上。"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctOptionId": "D",
+      "explanation": "Đáp lại lời rủ bằng sự đồng ý và kế hoạch gặp.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00015"
+      ],
+      "vocabularyIds": [
+        "cti25-v-17",
+        "cti25-v-30",
+        "cti25-v-33",
+        "cti25-v-38",
+        "cti25-v-71",
+        "cti25-v-77",
+        "cti25-v-79",
+        "cti25-v-88",
+        "cti25-v-99",
+        "cti25-v-108",
+        "cti25-v-115",
+        "cti25-v-124",
+        "cti25-v-167",
+        "cti25-v-173",
+        "cti25-v-175",
+        "cti25-v-188",
+        "cti25-v-200",
+        "cti25-v-221",
+        "cti25-v-222",
+        "cti25-v-241",
+        "cti25-v-247",
+        "cti25-v-250",
+        "cti25-v-254",
+        "cti25-v-271",
+        "cti25-v-295",
+        "cti25-v-309",
+        "cti25-v-336",
+        "cti25-v-341",
+        "cti25-v-371",
+        "cti25-v-473",
+        "cti25-v-476"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-R3",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-R3",
+        "partId": "R3",
+        "options": [
+          {
+            "id": "A",
+            "text": "是我的，谢谢。"
+          },
+          {
+            "id": "B",
+            "text": "因为学校很近。"
+          },
+          {
+            "id": "C",
+            "text": "我喝了一杯茶。"
+          },
+          {
+            "id": "D",
+            "text": "好，我们三点见。"
+          },
+          {
+            "id": "E",
+            "text": "他比我高。"
+          },
+          {
+            "id": "F",
+            "text": "在桌子上。"
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-R3",
+      "groupOrder": 1,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R3-017",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "5041e8ea4d8ddd5b463dbdf49f823377fd8cc101860a7c4ba317f4f553fd0bff",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R3-018",
+      "number": 18,
+      "part": 3,
+      "partId": "R3",
+      "type": "shared-options",
+      "questionType": "shared-options",
+      "skill": "reading",
+      "promptZh": "这本书是谁的？",
+      "candidatePromptZh": "这本书是谁的？",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "是我的，谢谢。"
+        },
+        {
+          "id": "B",
+          "text": "因为学校很近。"
+        },
+        {
+          "id": "C",
+          "text": "我喝了一杯茶。"
+        },
+        {
+          "id": "D",
+          "text": "好，我们三点见。"
+        },
+        {
+          "id": "E",
+          "text": "他比我高。"
+        },
+        {
+          "id": "F",
+          "text": "在桌子上。"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctOptionId": "A",
+      "explanation": "Câu hỏi sở hữu 谁的, trả lời 是我的.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00035"
+      ],
+      "vocabularyIds": [
+        "cti25-v-10",
+        "cti25-v-17",
+        "cti25-v-30",
+        "cti25-v-33",
+        "cti25-v-71",
+        "cti25-v-77",
+        "cti25-v-79",
+        "cti25-v-88",
+        "cti25-v-108",
+        "cti25-v-124",
+        "cti25-v-173",
+        "cti25-v-175",
+        "cti25-v-181",
+        "cti25-v-188",
+        "cti25-v-190",
+        "cti25-v-200",
+        "cti25-v-221",
+        "cti25-v-222",
+        "cti25-v-241",
+        "cti25-v-247",
+        "cti25-v-250",
+        "cti25-v-254",
+        "cti25-v-271",
+        "cti25-v-279",
+        "cti25-v-295",
+        "cti25-v-309",
+        "cti25-v-336",
+        "cti25-v-341",
+        "cti25-v-371",
+        "cti25-v-476"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-R3",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-R3",
+        "partId": "R3",
+        "options": [
+          {
+            "id": "A",
+            "text": "是我的，谢谢。"
+          },
+          {
+            "id": "B",
+            "text": "因为学校很近。"
+          },
+          {
+            "id": "C",
+            "text": "我喝了一杯茶。"
+          },
+          {
+            "id": "D",
+            "text": "好，我们三点见。"
+          },
+          {
+            "id": "E",
+            "text": "他比我高。"
+          },
+          {
+            "id": "F",
+            "text": "在桌子上。"
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-R3",
+      "groupOrder": 2,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R3-018",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "230b515c4fb733dd82412b611682ba4a447f30853a14b6bb8c999614ae6d6c0c",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R4-019",
+      "number": 19,
+      "part": 4,
+      "partId": "R4",
+      "type": "short-passage",
+      "questionType": "short-passage",
+      "skill": "reading",
+      "promptZh": "今天小林和朋友一起去买东西。小林买了两本书，朋友买了一件衣服。他们没有买水果。问：小林买了什么？",
+      "candidatePromptZh": "今天小林和朋友一起去买东西。小林买了两本书，朋友买了一件衣服。他们没有买水果。问：小林买了什么？",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "一件衣服"
+        },
+        {
+          "id": "B",
+          "text": "两本书"
+        },
+        {
+          "id": "C",
+          "text": "水果"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctOptionId": "B",
+      "explanation": "Chủ thể 小林 mua hai cuốn sách; quần áo do bạn mua.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00015"
+      ],
+      "vocabularyIds": [
+        "cti25-v-10",
+        "cti25-v-40",
+        "cti25-v-78",
+        "cti25-v-89",
+        "cti25-v-94",
+        "cti25-v-108",
+        "cti25-v-111",
+        "cti25-v-116",
+        "cti25-v-122",
+        "cti25-v-124",
+        "cti25-v-156",
+        "cti25-v-167",
+        "cti25-v-182",
+        "cti25-v-190",
+        "cti25-v-192",
+        "cti25-v-193",
+        "cti25-v-200",
+        "cti25-v-203",
+        "cti25-v-207",
+        "cti25-v-219",
+        "cti25-v-234",
+        "cti25-v-254",
+        "cti25-v-255",
+        "cti25-v-263",
+        "cti25-v-473"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R4-019",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "47bc5368f5590ba8dc4c413f629f6f3d7df6fa87edae8c12e1e3bac46d7595dd",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R4-020",
+      "number": 20,
+      "part": 4,
+      "partId": "R4",
+      "type": "short-passage",
+      "questionType": "short-passage",
+      "skill": "reading",
+      "promptZh": "姐姐每天六点起床，弟弟七点起床。今天弟弟也六点起床了，因为他要去学校考试。问：弟弟今天几点起床？",
+      "candidatePromptZh": "姐姐每天六点起床，弟弟七点起床。今天弟弟也六点起床了，因为他要去学校考试。问：弟弟今天几点起床？",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "六点"
+        },
+        {
+          "id": "B",
+          "text": "七点"
+        },
+        {
+          "id": "C",
+          "text": "八点"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctOptionId": "A",
+      "explanation": "Phân biệt lịch thường lệ với 今天也六点.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00027"
+      ],
+      "vocabularyIds": [
+        "cti25-v-2",
+        "cti25-v-32",
+        "cti25-v-33",
+        "cti25-v-85",
+        "cti25-v-92",
+        "cti25-v-94",
+        "cti25-v-108",
+        "cti25-v-113",
+        "cti25-v-160",
+        "cti25-v-161",
+        "cti25-v-167",
+        "cti25-v-200",
+        "cti25-v-207",
+        "cti25-v-219",
+        "cti25-v-247",
+        "cti25-v-250",
+        "cti25-v-252",
+        "cti25-v-253",
+        "cti25-v-321",
+        "cti25-v-336",
+        "cti25-v-380",
+        "cti25-v-381",
+        "cti25-v-399",
+        "cti25-v-476"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R4-020",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "4b3c67ce2ff3a2e2d0bd782620cf25ef8390b9324ab38593ddd0424050f289e2",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-R4-021",
+      "number": 21,
+      "part": 4,
+      "partId": "R4",
+      "type": "short-passage",
+      "questionType": "short-passage",
+      "skill": "reading",
+      "promptZh": "小雨想买一个杯子。红色的十块钱，蓝色的十五块钱。她只有十二块钱，所以买了红色的。问：她为什么买红色的？",
+      "candidatePromptZh": "小雨想买一个杯子。红色的十块钱，蓝色的十五块钱。她只有十二块钱，所以买了红色的。问：她为什么买红色的？",
+      "instruction": "Đọc và chọn đáp án phù hợp",
+      "options": [
+        {
+          "id": "A",
+          "text": "她不喜欢蓝色"
+        },
+        {
+          "id": "B",
+          "text": "她有十五块钱"
+        },
+        {
+          "id": "C",
+          "text": "蓝色的太贵了"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctOptionId": "C",
+      "explanation": "Cô ấy chỉ có 12, giá cốc xanh 15; không đủ tiền mua xanh.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00029"
+      ],
+      "vocabularyIds": [
+        "cti25-v-9",
+        "cti25-v-13",
+        "cti25-v-30",
+        "cti25-v-49",
+        "cti25-v-60",
+        "cti25-v-65",
+        "cti25-v-105",
+        "cti25-v-108",
+        "cti25-v-116",
+        "cti25-v-164",
+        "cti25-v-182",
+        "cti25-v-184",
+        "cti25-v-202",
+        "cti25-v-206",
+        "cti25-v-219",
+        "cti25-v-223",
+        "cti25-v-225",
+        "cti25-v-233",
+        "cti25-v-234",
+        "cti25-v-254",
+        "cti25-v-263",
+        "cti25-v-267",
+        "cti25-v-287",
+        "cti25-v-355",
+        "cti25-v-439",
+        "cti25-v-454"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-R4-021",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "d65ede2a273e0e9527a14afa41c329f09bb323c83da24fca2acdcabcfaae5ed3",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-W1-022",
+      "number": 22,
+      "part": 1,
+      "partId": "W1",
+      "type": "shared-options",
+      "questionType": "shared-options",
+      "skill": "writing",
+      "promptZh": "（　）+ 青 → 请",
+      "candidatePromptZh": "（　）+ 青 → 请",
+      "instruction": "Chọn thành phần chữ còn thiếu",
+      "options": [
+        {
+          "id": "A",
+          "text": "讠"
+        },
+        {
+          "id": "B",
+          "text": "足"
+        },
+        {
+          "id": "C",
+          "text": "门"
+        },
+        {
+          "id": "D",
+          "text": "氵"
+        },
+        {
+          "id": "E",
+          "text": "亻"
+        },
+        {
+          "id": "F",
+          "text": "木"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctOptionId": "A",
+      "explanation": "请 gồm bộ 讠 bên trái và 青 bên phải. Đây là luyện cấu tạo chữ, chưa đánh giá viết tay.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00035"
+      ],
+      "vocabularyIds": [
+        "cti25-v-165",
+        "cti25-v-400"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-W1",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-W1",
+        "partId": "W1",
+        "options": [
+          {
+            "id": "A",
+            "text": "讠"
+          },
+          {
+            "id": "B",
+            "text": "足"
+          },
+          {
+            "id": "C",
+            "text": "门"
+          },
+          {
+            "id": "D",
+            "text": "氵"
+          },
+          {
+            "id": "E",
+            "text": "亻"
+          },
+          {
+            "id": "F",
+            "text": "木"
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-W1",
+      "groupOrder": 0,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-W1-022",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "7b692e33f55049280831a19d9703e083afeddb76c07304ebcadedfac75267a46",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-W1-023",
+      "number": 23,
+      "part": 1,
+      "partId": "W1",
+      "type": "shared-options",
+      "questionType": "shared-options",
+      "skill": "writing",
+      "promptZh": "（　）+ 包 → 跑",
+      "candidatePromptZh": "（　）+ 包 → 跑",
+      "instruction": "Chọn thành phần chữ còn thiếu",
+      "options": [
+        {
+          "id": "A",
+          "text": "讠"
+        },
+        {
+          "id": "B",
+          "text": "足"
+        },
+        {
+          "id": "C",
+          "text": "门"
+        },
+        {
+          "id": "D",
+          "text": "氵"
+        },
+        {
+          "id": "E",
+          "text": "亻"
+        },
+        {
+          "id": "F",
+          "text": "木"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctOptionId": "B",
+      "explanation": "跑 có bộ 足 dạng đứng bên trái và 包 bên phải.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00005"
+      ],
+      "vocabularyIds": [
+        "cti25-v-307",
+        "cti25-v-400",
+        "cti25-v-414"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-W1",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-W1",
+        "partId": "W1",
+        "options": [
+          {
+            "id": "A",
+            "text": "讠"
+          },
+          {
+            "id": "B",
+            "text": "足"
+          },
+          {
+            "id": "C",
+            "text": "门"
+          },
+          {
+            "id": "D",
+            "text": "氵"
+          },
+          {
+            "id": "E",
+            "text": "亻"
+          },
+          {
+            "id": "F",
+            "text": "木"
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-W1",
+      "groupOrder": 1,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-W1-023",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "a38b6e122de00293231ba65de49aedb9c02000eecaef200559b0990a27fa32f2",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-W1-024",
+      "number": 24,
+      "part": 1,
+      "partId": "W1",
+      "type": "shared-options",
+      "questionType": "shared-options",
+      "skill": "writing",
+      "promptZh": "（　）+ 口 → 问",
+      "candidatePromptZh": "（　）+ 口 → 问",
+      "instruction": "Chọn thành phần chữ còn thiếu",
+      "options": [
+        {
+          "id": "A",
+          "text": "讠"
+        },
+        {
+          "id": "B",
+          "text": "足"
+        },
+        {
+          "id": "C",
+          "text": "门"
+        },
+        {
+          "id": "D",
+          "text": "氵"
+        },
+        {
+          "id": "E",
+          "text": "亻"
+        },
+        {
+          "id": "F",
+          "text": "木"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctOptionId": "C",
+      "explanation": "问 có 门 bao quanh 口; dấu cộng mô tả thành phần, không chỉ vị trí trái/phải.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00006"
+      ],
+      "vocabularyIds": [
+        "cti25-v-104",
+        "cti25-v-219",
+        "cti25-v-400"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "optionBankId": "v8-hsk2-bank-W1",
+      "optionBank": {
+        "syllabusVersion": "hsk3-2025",
+        "level": "2",
+        "source": "LuyenThiHSK original AI-assisted V8 pilot",
+        "sourceType": "AI_GENERATED",
+        "sourceUrl": "local:editorial/v8/hsk2-original",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "licenseStatus": "UNVERIFIED",
+        "reviewStatus": "NEEDS_REVIEW",
+        "revision": 1,
+        "editorialRelease": "v8-hsk2-pilot",
+        "contentEnvironment": "PREVIEW",
+        "humanReview": {
+          "status": "BLOCKED_FOR_HUMAN_REVIEW",
+          "reviewerId": null
+        },
+        "verifiedAt": null,
+        "id": "v8-hsk2-bank-W1",
+        "partId": "W1",
+        "options": [
+          {
+            "id": "A",
+            "text": "讠"
+          },
+          {
+            "id": "B",
+            "text": "足"
+          },
+          {
+            "id": "C",
+            "text": "门"
+          },
+          {
+            "id": "D",
+            "text": "氵"
+          },
+          {
+            "id": "E",
+            "text": "亻"
+          },
+          {
+            "id": "F",
+            "text": "木"
+          }
+        ],
+        "orderPolicy": "FIXED_PER_REVISION"
+      },
+      "groupId": "v8-hsk2-bank-W1",
+      "groupOrder": 2,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-W1-024",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "5efb0dc727ba7312d4bdbb6fafa0480dfc40d0df467a2417355537577bde4369",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-W2-025",
+      "number": 25,
+      "part": 2,
+      "partId": "W2",
+      "type": "short-answer",
+      "questionType": "short-answer",
+      "skill": "writing",
+      "promptZh": "请写出缺少的汉字：我想（　）一杯水。 hē",
+      "candidatePromptZh": "请写出缺少的汉字：我想（　）一杯水。 hē",
+      "instruction": "Nhập chữ Hán còn thiếu theo pinyin",
+      "options": [],
+      "correctAnswer": "喝",
+      "explanation": "Chữ gợi ý: 喝 (hē), uống. Cần người duyệt chữ, ngữ cảnh và cấp; không chấm điểm thi tự động.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00035"
+      ],
+      "vocabularyIds": [
+        "cti25-v-30",
+        "cti25-v-70",
+        "cti25-v-165",
+        "cti25-v-180",
+        "cti25-v-192",
+        "cti25-v-221",
+        "cti25-v-233",
+        "cti25-v-240",
+        "cti25-v-254",
+        "cti25-v-296",
+        "cti25-v-316"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "manual",
+      "sampleAnswer": "喝",
+      "rubric": [
+        "Một chữ Hán phù hợp pinyin và ngữ cảnh",
+        "Cần người kiểm tra; UNSCORED_PRACTICE"
+      ],
+      "pinyinIsExamContent": true,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-W2-025",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "8f19fdad8d78799462519e9ba648bdc0414a68fa433e4e96b9de385163c79143",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-W2-026",
+      "number": 26,
+      "part": 2,
+      "partId": "W2",
+      "type": "short-answer",
+      "questionType": "short-answer",
+      "skill": "writing",
+      "promptZh": "请写出缺少的汉字：今天是星期（　）。 sān",
+      "candidatePromptZh": "请写出缺少的汉字：今天是星期（　）。 sān",
+      "instruction": "Nhập chữ Hán còn thiếu theo pinyin",
+      "options": [],
+      "correctAnswer": "三",
+      "explanation": "Chữ gợi ý: 三 (sān), ba. Giữ pinyin vì đây là dữ kiện của câu.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00035"
+      ],
+      "vocabularyIds": [
+        "cti25-v-30",
+        "cti25-v-70",
+        "cti25-v-94",
+        "cti25-v-165",
+        "cti25-v-180",
+        "cti25-v-188",
+        "cti25-v-207",
+        "cti25-v-240",
+        "cti25-v-243",
+        "cti25-v-296",
+        "cti25-v-316"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "manual",
+      "sampleAnswer": "三",
+      "rubric": [
+        "Một chữ Hán phù hợp pinyin và ngữ cảnh",
+        "Cần người kiểm tra; UNSCORED_PRACTICE"
+      ],
+      "pinyinIsExamContent": true,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-W2-026",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "f613020a360ede2022a377008c6d9a22e013b76dcc657d450c8bb59c53be33bf",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-W2-027",
+      "number": 27,
+      "part": 2,
+      "partId": "W2",
+      "type": "short-answer",
+      "questionType": "short-answer",
+      "skill": "writing",
+      "promptZh": "请写出缺少的汉字：我有两（　）书。 běn",
+      "candidatePromptZh": "请写出缺少的汉字：我有两（　）书。 běn",
+      "instruction": "Nhập chữ Hán còn thiếu theo pinyin",
+      "options": [],
+      "correctAnswer": "本",
+      "explanation": "Chữ gợi ý: 本 (běn), lượng từ cho sách. Phản hồi là bài luyện chưa chấm chính thức.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK2-00035"
+      ],
+      "vocabularyIds": [
+        "cti25-v-30",
+        "cti25-v-70",
+        "cti25-v-111",
+        "cti25-v-165",
+        "cti25-v-180",
+        "cti25-v-190",
+        "cti25-v-221",
+        "cti25-v-240",
+        "cti25-v-263",
+        "cti25-v-296",
+        "cti25-v-316"
+      ],
+      "topicIds": [
+        "v8-topic-hsk2-everyday"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "manual",
+      "sampleAnswer": "本",
+      "rubric": [
+        "Một chữ Hán phù hợp pinyin và ngữ cảnh",
+        "Cần người kiểm tra; UNSCORED_PRACTICE"
+      ],
+      "pinyinIsExamContent": true,
+      "mediaRequirement": {
+        "audio": false,
+        "status": "AVAILABLE_PRIVATE_REVIEW_PENDING"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-W2-027",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "608c47920b334fcf18e93fd89aef700fc3152f4906ebccb3071416b6eb293c37",
+        "method": "Schema/references/answer structure; not semantic or human QA"
+      }
+    }
+  ],
+  "optionBanks": [
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-bank-L2",
+      "partId": "L2",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình A",
+          "image": {
+            "assetId": "v6-image-eating-d7d30b81407d",
+            "src": "/api/admin/v6/image/v6-image-eating-d7d30b81407d",
+            "altText": "Một người cầm đũa trước bát thức ăn.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "d7d30b81407d7a06ab2ad9c15495407086ce6537991ed976a17d020570fd6bf9"
+          }
+        },
+        {
+          "id": "B",
+          "text": "Hình B",
+          "image": {
+            "assetId": "v6-image-cooking-ecdb34052249",
+            "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+            "altText": "Một người đang nấu ăn bên bếp.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+          }
+        },
+        {
+          "id": "C",
+          "text": "Hình C",
+          "image": {
+            "assetId": "v6-image-calling-a391e185d990",
+            "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+            "altText": "Một người cầm điện thoại cạnh tai.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+          }
+        },
+        {
+          "id": "D",
+          "text": "Hình D",
+          "image": {
+            "assetId": "v6-image-driving-062a5bfabb12",
+            "src": "/api/admin/v6/image/v6-image-driving-062a5bfabb12",
+            "altText": "Một người ngồi sau vô lăng xe.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "062a5bfabb1224a529a46fdf9c17d43ee6c52cbf576e32674784ff06f811d473"
+          }
+        },
+        {
+          "id": "E",
+          "text": "Hình E",
+          "image": {
+            "assetId": "v6-image-drinking-f9fd9a88a84c",
+            "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+            "altText": "Một người đưa cốc lên miệng uống.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+          }
+        },
+        {
+          "id": "F",
+          "text": "Hình F",
+          "image": {
+            "assetId": "v6-image-writing-189d14996dc3",
+            "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+            "altText": "Một người dùng bút viết trên giấy.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+          }
+        }
+      ],
+      "orderPolicy": "FIXED_PER_REVISION"
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-bank-R1",
+      "partId": "R1",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hình A",
+          "image": {
+            "assetId": "v6-image-reading-2b4d2ae6b38c",
+            "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+            "altText": "Một người đang ngồi đọc sách.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "2b4d2ae6b38c8ea2a385c2f6c3e2589ec6d310f5dd8f4f3c6f02a6fb500fcf0c"
+          }
+        },
+        {
+          "id": "B",
+          "text": "Hình B",
+          "image": {
+            "assetId": "v6-image-cooking-ecdb34052249",
+            "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+            "altText": "Một người đang nấu ăn bên bếp.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "ecdb3405224991ad665a23eeb1ec2e6228bcd194398a1fee34f657de76f74ee1"
+          }
+        },
+        {
+          "id": "C",
+          "text": "Hình C",
+          "image": {
+            "assetId": "v6-image-calling-a391e185d990",
+            "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+            "altText": "Một người cầm điện thoại cạnh tai.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "a391e185d9900b5f72cc520c85b5daf74e593859a955d34de7642f0375dd5f20"
+          }
+        },
+        {
+          "id": "D",
+          "text": "Hình D",
+          "image": {
+            "assetId": "v6-image-sleeping-8190c7c819f6",
+            "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+            "altText": "Một người nằm ngủ trên giường.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "8190c7c819f69c22efc11b0a1daf970ffe75cf06ca129a5abddc6654e89f25c2"
+          }
+        },
+        {
+          "id": "E",
+          "text": "Hình E",
+          "image": {
+            "assetId": "v6-image-drinking-f9fd9a88a84c",
+            "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+            "altText": "Một người đưa cốc lên miệng uống.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "f9fd9a88a84ce1e437dad5a117b88dc9d4c29be1ddf6d832e71bca754e616102"
+          }
+        },
+        {
+          "id": "F",
+          "text": "Hình F",
+          "image": {
+            "assetId": "v6-image-writing-189d14996dc3",
+            "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+            "altText": "Một người dùng bút viết trên giấy.",
+            "width": 640,
+            "height": 420,
+            "contentHash": "189d14996dc3ddde6d3da60727bafefe453fea644df7dad7f3b43f09bd898b77"
+          }
+        }
+      ],
+      "orderPolicy": "FIXED_PER_REVISION"
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-bank-R2",
+      "partId": "R2",
+      "options": [
+        {
+          "id": "A",
+          "text": "已经"
+        },
+        {
+          "id": "B",
+          "text": "一起"
+        },
+        {
+          "id": "C",
+          "text": "自己"
+        },
+        {
+          "id": "D",
+          "text": "为什么"
+        },
+        {
+          "id": "E",
+          "text": "可能"
+        },
+        {
+          "id": "F",
+          "text": "左边"
+        }
+      ],
+      "orderPolicy": "FIXED_PER_REVISION"
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-bank-R3",
+      "partId": "R3",
+      "options": [
+        {
+          "id": "A",
+          "text": "是我的，谢谢。"
+        },
+        {
+          "id": "B",
+          "text": "因为学校很近。"
+        },
+        {
+          "id": "C",
+          "text": "我喝了一杯茶。"
+        },
+        {
+          "id": "D",
+          "text": "好，我们三点见。"
+        },
+        {
+          "id": "E",
+          "text": "他比我高。"
+        },
+        {
+          "id": "F",
+          "text": "在桌子上。"
+        }
+      ],
+      "orderPolicy": "FIXED_PER_REVISION"
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "2",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk2-pilot",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk2-bank-W1",
+      "partId": "W1",
+      "options": [
+        {
+          "id": "A",
+          "text": "讠"
+        },
+        {
+          "id": "B",
+          "text": "足"
+        },
+        {
+          "id": "C",
+          "text": "门"
+        },
+        {
+          "id": "D",
+          "text": "氵"
+        },
+        {
+          "id": "E",
+          "text": "亻"
+        },
+        {
+          "id": "F",
+          "text": "木"
+        }
+      ],
+      "orderPolicy": "FIXED_PER_REVISION"
+    }
+  ],
+  "officialMockAvailable": false,
+  "mediaAvailable": 0,
+  "sourceNumberingConflict": "UNRESOLVED_CTI_WRITING_NUMBERING",
+  "humanReviewed": 0,
+  "published": 0,
+  "grammarSupplement": [
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "1",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk1-supplement",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk1-grammar-00001",
+      "number": 1,
+      "part": 1,
+      "type": "grammar-practice",
+      "questionType": "grammar-practice",
+      "skill": "reading",
+      "promptZh": "我家有三个孩子，我是（　）个孩子。",
+      "candidatePromptZh": "我家有三个孩子，我是（　）个孩子。",
+      "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+      "options": [
+        {
+          "id": "A",
+          "text": "一第"
+        },
+        {
+          "id": "B",
+          "text": "第二"
+        },
+        {
+          "id": "C",
+          "text": "二第"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctOptionId": "B",
+      "explanation": "第 đặt trước số để chỉ thứ tự: 第二 là thứ hai.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00001"
+      ],
+      "vocabularyIds": [
+        "cti25-v-31",
+        "cti25-v-49",
+        "cti25-v-60",
+        "cti25-v-68",
+        "cti25-v-86",
+        "cti25-v-173",
+        "cti25-v-188",
+        "cti25-v-221",
+        "cti25-v-254",
+        "cti25-v-263"
+      ],
+      "topicIds": [
+        "v8-topic-hsk1-grammar"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": false,
+        "status": "NOT_REQUIRED"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L1-001",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "d77b86efb9d8507c84aeb425cf759b029cfcc8c42777e80d54c3a43bc42b97da",
+        "method": "Schema, refs and exact teaching overlap; human review pending"
+      },
+      "hskLevel": "1"
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "1",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk1-supplement",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk1-grammar-00002",
+      "number": 2,
+      "part": 1,
+      "type": "grammar-practice",
+      "questionType": "grammar-practice",
+      "skill": "reading",
+      "promptZh": "小王和小李是学生，他（　）都在学校。",
+      "candidatePromptZh": "小王和小李是学生，他（　）都在学校。",
+      "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+      "options": [
+        {
+          "id": "A",
+          "text": "们"
+        },
+        {
+          "id": "B",
+          "text": "的"
+        },
+        {
+          "id": "C",
+          "text": "吗"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctOptionId": "A",
+      "explanation": "Thêm 们 sau 他 tạo 他们, chỉ nhiều người.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00002"
+      ],
+      "vocabularyIds": [
+        "cti25-v-30",
+        "cti25-v-41",
+        "cti25-v-78",
+        "cti25-v-115",
+        "cti25-v-124",
+        "cti25-v-188",
+        "cti25-v-200",
+        "cti25-v-234",
+        "cti25-v-247",
+        "cti25-v-248",
+        "cti25-v-250",
+        "cti25-v-271"
+      ],
+      "topicIds": [
+        "v8-topic-hsk1-grammar"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": false,
+        "status": "NOT_REQUIRED"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L1-001",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "a9715a999962e36eb9ae834e6c21489179a5296414fca9ca7014bfe8c423ef79",
+        "method": "Schema, refs and exact teaching overlap; human review pending"
+      },
+      "hskLevel": "1"
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "1",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk1-supplement",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk1-grammar-00008",
+      "number": 3,
+      "part": 1,
+      "type": "grammar-practice",
+      "questionType": "grammar-practice",
+      "skill": "reading",
+      "promptZh": "A：你（　）时候去学校？ B：明天早上。",
+      "candidatePromptZh": "A：你（　）时候去学校？ B：明天早上。",
+      "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+      "options": [
+        {
+          "id": "A",
+          "text": "谁"
+        },
+        {
+          "id": "B",
+          "text": "哪里"
+        },
+        {
+          "id": "C",
+          "text": "什么"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctOptionId": "C",
+      "explanation": "什么时候 hỏi thời gian; câu trả lời 明天早上 là thời gian.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00008"
+      ],
+      "vocabularyIds": [
+        "cti25-v-110",
+        "cti25-v-129",
+        "cti25-v-131",
+        "cti25-v-133",
+        "cti25-v-146",
+        "cti25-v-167",
+        "cti25-v-175",
+        "cti25-v-181",
+        "cti25-v-182",
+        "cti25-v-185",
+        "cti25-v-207",
+        "cti25-v-247",
+        "cti25-v-250",
+        "cti25-v-273",
+        "cti25-v-275"
+      ],
+      "topicIds": [
+        "v8-topic-hsk1-grammar"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": false,
+        "status": "NOT_REQUIRED"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L1-001",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "41e5b293c03411476f578a2512df61273a68ff1f783501921d067c3d851d18bc",
+        "method": "Schema, refs and exact teaching overlap; human review pending"
+      },
+      "hskLevel": "1"
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "1",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk1-supplement",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk1-grammar-00018",
+      "number": 4,
+      "part": 1,
+      "type": "grammar-practice",
+      "questionType": "grammar-practice",
+      "skill": "reading",
+      "promptZh": "A：今天不去看电影吗？ B：今天没有时间，明天（　）去吧。",
+      "candidatePromptZh": "A：今天不去看电影吗？ B：今天没有时间，明天（　）去吧。",
+      "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+      "options": [
+        {
+          "id": "A",
+          "text": "不"
+        },
+        {
+          "id": "B",
+          "text": "再"
+        },
+        {
+          "id": "C",
+          "text": "也不"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctOptionId": "B",
+      "explanation": "再 trước động từ chỉ làm ở thời điểm sau, ở đây là ngày mai.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00018"
+      ],
+      "vocabularyIds": [
+        "cti25-v-4",
+        "cti25-v-13",
+        "cti25-v-38",
+        "cti25-v-94",
+        "cti25-v-99",
+        "cti25-v-115",
+        "cti25-v-122",
+        "cti25-v-129",
+        "cti25-v-167",
+        "cti25-v-186",
+        "cti25-v-207",
+        "cti25-v-253",
+        "cti25-v-263",
+        "cti25-v-270"
+      ],
+      "topicIds": [
+        "v8-topic-hsk1-grammar"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": false,
+        "status": "NOT_REQUIRED"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L1-001",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "ff31ceef2f1755bbb98999936bdaed9fab4b55d9685e8c519ccffb35a6c9cdfb",
+        "method": "Schema, refs and exact teaching overlap; human review pending"
+      },
+      "hskLevel": "1"
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "1",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk1-supplement",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk1-grammar-00022",
+      "number": 5,
+      "part": 1,
+      "type": "grammar-practice",
+      "questionType": "grammar-practice",
+      "skill": "reading",
+      "promptZh": "A：你一个人去买书吗？ B：不是，我（　）妈妈一起去。",
+      "candidatePromptZh": "A：你一个人去买书吗？ B：不是，我（　）妈妈一起去。",
+      "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+      "options": [
+        {
+          "id": "A",
+          "text": "和"
+        },
+        {
+          "id": "B",
+          "text": "在"
+        },
+        {
+          "id": "C",
+          "text": "对"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctOptionId": "A",
+      "explanation": "和 + người + 一起 + động từ: cùng mẹ đi.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00022"
+      ],
+      "vocabularyIds": [
+        "cti25-v-13",
+        "cti25-v-44",
+        "cti25-v-60",
+        "cti25-v-78",
+        "cti25-v-114",
+        "cti25-v-115",
+        "cti25-v-116",
+        "cti25-v-146",
+        "cti25-v-167",
+        "cti25-v-170",
+        "cti25-v-188",
+        "cti25-v-190",
+        "cti25-v-221",
+        "cti25-v-254",
+        "cti25-v-271"
+      ],
+      "topicIds": [
+        "v8-topic-hsk1-grammar"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": false,
+        "status": "NOT_REQUIRED"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L1-001",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "24a825c64fd401df352f2fc8efea918be62dbf2c024942dfaae01d8ef4f3a914",
+        "method": "Schema, refs and exact teaching overlap; human review pending"
+      },
+      "hskLevel": "1"
+    },
+    {
+      "syllabusVersion": "hsk3-2025",
+      "level": "1",
+      "source": "LuyenThiHSK original AI-assisted V8 pilot",
+      "sourceType": "AI_GENERATED",
+      "sourceUrl": "local:editorial/v8/hsk2-original",
+      "license": "Original AI-assisted draft; language, level and rights review required",
+      "licenseStatus": "UNVERIFIED",
+      "reviewStatus": "NEEDS_REVIEW",
+      "revision": 1,
+      "editorialRelease": "v8-hsk1-supplement",
+      "contentEnvironment": "PREVIEW",
+      "humanReview": {
+        "status": "BLOCKED_FOR_HUMAN_REVIEW",
+        "reviewerId": null
+      },
+      "verifiedAt": null,
+      "id": "v8-hsk1-grammar-00027",
+      "number": 6,
+      "part": 1,
+      "type": "grammar-practice",
+      "questionType": "grammar-practice",
+      "skill": "reading",
+      "promptZh": "打电话时，听到对方接了电话，可以先说什么？",
+      "candidatePromptZh": "打电话时，听到对方接了电话，可以先说什么？",
+      "instruction": "Chọn đáp án phù hợp với ngữ cảnh",
+      "options": [
+        {
+          "id": "A",
+          "text": "再见，我走了。"
+        },
+        {
+          "id": "B",
+          "text": "明天再来。"
+        },
+        {
+          "id": "C",
+          "text": "喂，你好！"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctOptionId": "C",
+      "explanation": "喂 dùng để mở đầu lời nói khi gọi/nhận điện thoại; ngữ cảnh khác với lời tạm biệt.",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00027"
+      ],
+      "vocabularyIds": [
+        "cti25-v-24",
+        "cti25-v-29",
+        "cti25-v-35",
+        "cti25-v-44",
+        "cti25-v-71",
+        "cti25-v-88",
+        "cti25-v-102",
+        "cti25-v-106",
+        "cti25-v-108",
+        "cti25-v-129",
+        "cti25-v-146",
+        "cti25-v-147",
+        "cti25-v-182",
+        "cti25-v-196",
+        "cti25-v-207",
+        "cti25-v-209",
+        "cti25-v-218",
+        "cti25-v-221",
+        "cti25-v-270",
+        "cti25-v-272"
+      ],
+      "topicIds": [
+        "v8-topic-hsk1-grammar"
+      ],
+      "difficulty": "unverified",
+      "assessmentSuitability": "INDEPENDENT_PRACTICE",
+      "answerVerified": false,
+      "answerValidation": "AI_SELF_CHECKED_NOT_HUMAN",
+      "scoring": "choice",
+      "mediaRequirement": {
+        "audio": false,
+        "status": "NOT_REQUIRED"
+      },
+      "audioAssetId": null,
+      "source_question_number": null,
+      "internal_question_id": "v8-hsk2-L1-001",
+      "sourceNumberingStatus": "ORIGINAL_NOT_CTI_NUMBERED",
+      "provenance": {
+        "source_name": "LuyenThiHSK original AI-assisted V8 pilot",
+        "source_url": "local:editorial/v8/hsk2-original",
+        "source_version": "v8-pilot-r1",
+        "retrieved_at": "2026-10-16",
+        "license": "Original AI-assisted draft; language, level and rights review required",
+        "rights_status": "original",
+        "is_original": true,
+        "attribution": "Original project draft; CTI structure only"
+      },
+      "internalValidation": {
+        "status": "PASSED",
+        "fingerprint": "f09a32d5825f1cd2df3f418d4329b383113a7a79521b79f482f16d9471f01625",
+        "method": "Schema, refs and exact teaching overlap; human review pending"
+      },
+      "hskLevel": "1"
+    }
+  ]
+}

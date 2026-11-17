@@ -1,0 +1,3993 @@
+[
+  {
+    "id": "cti25-v-366",
+    "editorialId": null,
+    "simplified": "间",
+    "pinyin": "jiān",
+    "meaning": "giữa",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R1-011",
+      "v12-hsk2-grammar-00011-2",
+      "v12-hsk2-grammar-00011-3",
+      "v12-hsk2-grammar-00011-4",
+      "v12-hsk2-grammar-00011-5"
+    ],
+    "priority": 21,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-443",
+    "editorialId": null,
+    "simplified": "条",
+    "pinyin": "tiáo",
+    "meaning": "dải",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-grammar-00013-2",
+      "v12-hsk2-grammar-00008-2",
+      "v12-hsk2-grammar-00011-1",
+      "v12-hsk2-grammar-00011-2",
+      "v12-hsk2-grammar-00011-5"
+    ],
+    "priority": 21,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-482",
+    "editorialId": null,
+    "simplified": "右边",
+    "pinyin": "yòubian",
+    "meaning": "bên phải",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R2-015",
+      "v9-hsk2-R3-016",
+      "v9-hsk2-R3-017",
+      "v9-hsk2-R3-018",
+      "v12-hsk2-grammar-00002-1",
+      "v12-hsk2-grammar-00002-3",
+      "v12-hsk2-grammar-00002-4",
+      "v12-hsk2-grammar-00022-5"
+    ],
+    "priority": 21,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-500",
+    "editorialId": null,
+    "simplified": "左边",
+    "pinyin": "zuǒbian",
+    "meaning": "bên trái",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R2-013",
+      "v8-hsk2-R2-014",
+      "v8-hsk2-R2-015",
+      "v9-hsk2-R2-013",
+      "v9-hsk2-R2-014",
+      "v9-hsk2-R2-015",
+      "v12-hsk2-grammar-00002-1",
+      "v12-hsk2-grammar-00002-4"
+    ],
+    "priority": 21,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-330",
+    "editorialId": null,
+    "simplified": "但",
+    "pinyin": "dàn",
+    "meaning": "nhưng",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L2-008",
+      "v10-hsk2-L3-005",
+      "v12-hsk2-grammar-00008-4"
+    ],
+    "priority": 19,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-414",
+    "editorialId": null,
+    "simplified": "跑",
+    "pinyin": "pǎo",
+    "meaning": "chạy",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-W1-023",
+      "v12-hsk2-grammar-00030-1",
+      "v12-hsk2-grammar-00030-3"
+    ],
+    "priority": 19,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-419",
+    "editorialId": null,
+    "simplified": "前面",
+    "pinyin": "qiánmiàn",
+    "meaning": "phía trước",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L2-006",
+      "v12-hsk2-grammar-00001-3",
+      "v12-hsk2-grammar-00022-2"
+    ],
+    "priority": 19,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-484",
+    "editorialId": null,
+    "simplified": "远",
+    "pinyin": "yuǎn",
+    "meaning": "xa",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 19,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-488",
+    "editorialId": null,
+    "simplified": "这么",
+    "pinyin": "zhème",
+    "meaning": "nhiều như vậy",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 19,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-489",
+    "editorialId": null,
+    "simplified": "这样",
+    "pinyin": "zhèyàng",
+    "meaning": "loại này",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 19,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-309",
+    "editorialId": "v10-vocab-cti25-v-309",
+    "simplified": "比",
+    "pinyin": "bǐ",
+    "meaning": "so với; hơn",
+    "example": "这本书比那本贵。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L3-009",
+      "v8-hsk2-R3-016",
+      "v8-hsk2-R3-017",
+      "v8-hsk2-R3-018",
+      "v9-hsk2-L3-008",
+      "v10-hsk2-L3-006",
+      "v10-hsk2-R2-001",
+      "v10-hsk2-R2-002",
+      "v10-hsk2-R2-003",
+      "v10-hsk2-R2-004",
+      "v10-hsk2-R2-005",
+      "v10-hsk2-R2-006",
+      "v10-hsk2-R4-005",
+      "v10-hsk2-grammar-00015-1",
+      "v10-hsk2-grammar-00016-3",
+      "v10-hsk2-grammar-00017-1",
+      "v10-hsk2-grammar-00018-1",
+      "v10-hsk2-grammar-00019-1",
+      "v10-hsk2-grammar-00019-3",
+      "v10-hsk2-grammar-00021-1",
+      "v10-hsk2-grammar-00024-1",
+      "v10-hsk2-grammar-00024-3",
+      "v10-hsk2-grammar-00025-1",
+      "v10-hsk2-grammar-00025-2",
+      "v10-hsk2-grammar-00025-3",
+      "v10-hsk2-grammar-00029-1",
+      "v10-hsk2-grammar-00031-1",
+      "v10-hsk2-grammar-00031-3",
+      "v10-hsk2-grammar-00048-1",
+      "v10-hsk2-grammar-00048-3",
+      "v11-hsk2-grammar-00036-2",
+      "v11-hsk2-grammar-00018-1",
+      "v11-hsk2-grammar-00048-2",
+      "v12-hsk2-grammar-00014-4",
+      "v12-hsk2-grammar-00026-2",
+      "v12-hsk2-grammar-00032-2",
+      "v12-hsk2-grammar-00043-2",
+      "v12-hsk2-grammar-00066-2"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-311",
+    "editorialId": "v10-vocab-cti25-v-311",
+    "simplified": "别",
+    "pinyin": "bié",
+    "meaning": "đừng",
+    "example": "别忘了今天的课。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L1-003",
+      "v9-hsk2-R2-013",
+      "v9-hsk2-R2-014",
+      "v9-hsk2-R2-015",
+      "v10-hsk2-L3-006",
+      "v10-hsk2-R3-006",
+      "v10-hsk2-R3-007",
+      "v10-hsk2-R3-008",
+      "v10-hsk2-R3-009",
+      "v10-hsk2-R3-010",
+      "v10-hsk2-grammar-00016-3",
+      "v10-hsk2-grammar-00018-1",
+      "v10-hsk2-grammar-00018-2",
+      "v10-hsk2-grammar-00018-3",
+      "v11-hsk2-grammar-00007-3",
+      "v11-hsk2-grammar-00018-1",
+      "v11-hsk2-grammar-00018-2",
+      "v12-hsk2-grammar-00003-5",
+      "v12-hsk2-grammar-00022-5"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-323",
+    "editorialId": "v10-vocab-cti25-v-323",
+    "simplified": "次",
+    "pinyin": "cì",
+    "meaning": "lần",
+    "example": "请再读一次。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R2-013",
+      "v9-hsk2-R2-014",
+      "v9-hsk2-R2-015",
+      "v9-hsk2-R3-017",
+      "v10-hsk2-L3-004",
+      "v10-hsk2-R2-001",
+      "v10-hsk2-R2-002",
+      "v10-hsk2-R2-003",
+      "v10-hsk2-R2-004",
+      "v10-hsk2-R2-005",
+      "v10-hsk2-R2-006",
+      "v10-hsk2-R3-001",
+      "v10-hsk2-R3-002",
+      "v10-hsk2-R3-003",
+      "v10-hsk2-R3-004",
+      "v10-hsk2-R3-005",
+      "v10-hsk2-grammar-00013-1",
+      "v10-hsk2-grammar-00013-2",
+      "v10-hsk2-grammar-00013-3",
+      "v10-hsk2-grammar-00016-3",
+      "v10-hsk2-grammar-00018-2",
+      "v10-hsk2-grammar-00019-3",
+      "v10-hsk2-grammar-00031-3",
+      "v11-hsk2-grammar-00035-4",
+      "v11-hsk2-grammar-00018-1",
+      "v11-hsk2-grammar-00048-2",
+      "v12-hsk2-grammar-00008-3"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-324",
+    "editorialId": "v10-vocab-cti25-v-324",
+    "simplified": "从",
+    "pinyin": "cóng",
+    "meaning": "từ; điểm bắt đầu",
+    "example": "从家到公司很近。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-R2-001",
+      "v10-hsk2-R2-002",
+      "v10-hsk2-R2-003",
+      "v10-hsk2-R2-004",
+      "v10-hsk2-R2-005",
+      "v10-hsk2-R2-006",
+      "v10-hsk2-R3-010",
+      "v10-hsk2-grammar-00016-1",
+      "v10-hsk2-grammar-00019-1",
+      "v10-hsk2-grammar-00021-1",
+      "v10-hsk2-grammar-00021-2",
+      "v10-hsk2-grammar-00021-3",
+      "v10-hsk2-grammar-00024-1",
+      "v10-hsk2-grammar-00024-3",
+      "v10-hsk2-grammar-00025-1",
+      "v10-hsk2-grammar-00029-2",
+      "v10-hsk2-grammar-00031-1",
+      "v10-hsk2-grammar-00031-3",
+      "v10-hsk2-grammar-00048-3",
+      "v11-hsk2-grammar-00018-1",
+      "v11-hsk2-grammar-00048-1",
+      "v12-hsk2-grammar-00004-5",
+      "v12-hsk2-grammar-00014-2",
+      "v12-hsk2-grammar-00022-4"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-329",
+    "editorialId": null,
+    "simplified": "打开",
+    "pinyin": "dǎkāi",
+    "meaning": "mở",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v11-hsk2-grammar-00018-2",
+      "v12-hsk2-grammar-00032-4"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-347",
+    "editorialId": "v10-vocab-cti25-v-347",
+    "simplified": "过",
+    "pinyin": "guò",
+    "meaning": "đã từng; dấu hiệu trải nghiệm",
+    "example": "我去过那个商店。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R2-013",
+      "v10-hsk2-L3-003",
+      "v10-hsk2-L3-004",
+      "v10-hsk2-R2-005",
+      "v10-hsk2-R3-001",
+      "v10-hsk2-R3-002",
+      "v10-hsk2-R3-003",
+      "v10-hsk2-R3-004",
+      "v10-hsk2-R3-005",
+      "v10-hsk2-grammar-00013-1",
+      "v10-hsk2-grammar-00013-3",
+      "v10-hsk2-grammar-00031-1",
+      "v10-hsk2-grammar-00031-2",
+      "v10-hsk2-grammar-00031-3",
+      "v12-hsk2-grammar-00043-2"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-355",
+    "editorialId": null,
+    "simplified": "红色",
+    "pinyin": "hóngsè",
+    "meaning": "màu đỏ (màu sắc)",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L3-009",
+      "v8-hsk2-R4-021",
+      "v10-hsk2-R3-003",
+      "v11-hsk2-grammar-00035-1",
+      "v12-hsk2-grammar-00014-2"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-356",
+    "editorialId": null,
+    "simplified": "后面",
+    "pinyin": "hòumiàn",
+    "meaning": "phía sau",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L2-006",
+      "v12-hsk2-grammar-00002-1"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-376",
+    "editorialId": "v12-vocab-cti25-v-376",
+    "simplified": "就",
+    "pinyin": "jiù",
+    "meaning": "liền; ngay; chỉ (tùy ngữ cảnh)",
+    "example": "我吃完饭就去上课。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L2-006",
+      "v9-hsk2-R3-016",
+      "v9-hsk2-R3-017",
+      "v9-hsk2-R3-018",
+      "v9-hsk2-R4-019",
+      "v10-hsk2-L1-001",
+      "v10-hsk2-L2-001",
+      "v10-hsk2-L2-003",
+      "v10-hsk2-L2-004",
+      "v10-hsk2-R3-006",
+      "v10-hsk2-R3-007",
+      "v10-hsk2-R3-008",
+      "v10-hsk2-R3-009",
+      "v10-hsk2-R3-010",
+      "v10-hsk2-R4-004",
+      "v10-hsk2-grammar-00019-2",
+      "v12-hsk2-grammar-00002-5"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-386",
+    "editorialId": null,
+    "simplified": "快要",
+    "pinyin": "kuàiyào",
+    "meaning": "gần như sắp (làm gì đó)",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00043-1",
+      "v12-hsk2-grammar-00043-2",
+      "v12-hsk2-grammar-00043-3",
+      "v12-hsk2-grammar-00043-4",
+      "v12-hsk2-grammar-00043-5"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-399",
+    "editorialId": "v12-vocab-cti25-v-399",
+    "simplified": "每",
+    "pinyin": "měi",
+    "meaning": "mỗi",
+    "example": "每个学生都有一本书。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L2-004",
+      "v8-hsk2-R1-010",
+      "v8-hsk2-R4-020",
+      "v10-hsk2-L3-006",
+      "v10-hsk2-R2-006",
+      "v10-hsk2-R3-001",
+      "v10-hsk2-R4-003",
+      "v10-hsk2-R4-006",
+      "v10-hsk2-grammar-00017-1",
+      "v11-hsk2-grammar-00007-5",
+      "v12-hsk2-grammar-00003-4",
+      "v12-hsk2-grammar-00004-2",
+      "v12-hsk2-grammar-00008-1",
+      "v12-hsk2-grammar-00008-2",
+      "v12-hsk2-grammar-00008-3",
+      "v12-hsk2-grammar-00008-4",
+      "v12-hsk2-grammar-00008-5",
+      "v12-hsk2-grammar-00022-2"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-400",
+    "editorialId": "v12-vocab-cti25-v-400",
+    "simplified": "门",
+    "pinyin": "mén",
+    "meaning": "cửa",
+    "example": "门开着呢。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R4-019",
+      "v9-hsk2-W1-022",
+      "v9-hsk2-W1-023",
+      "v9-hsk2-W1-024",
+      "v9-hsk2-W2-027",
+      "v10-hsk2-W1-001",
+      "v10-hsk2-W1-002",
+      "v10-hsk2-W1-003",
+      "v10-hsk2-W1-004",
+      "v10-hsk2-W1-005",
+      "v10-hsk2-W1-006",
+      "v11-hsk2-grammar-00018-2",
+      "v12-hsk2-grammar-00001-1",
+      "v12-hsk2-grammar-00032-1",
+      "v12-hsk2-grammar-00032-4"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-403",
+    "editorialId": null,
+    "simplified": "面",
+    "pinyin": "miàn",
+    "meaning": "mặt",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L1-003",
+      "v9-hsk2-L3-007"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-404",
+    "editorialId": null,
+    "simplified": "名",
+    "pinyin": "míng",
+    "meaning": "tên",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R1-012",
+      "v12-hsk2-grammar-00011-5"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-450",
+    "editorialId": "v11-vocab-cti25-v-450",
+    "simplified": "往",
+    "pinyin": "wǎng",
+    "meaning": "về phía; hướng tới",
+    "example": "车站在前面，往前走吧。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R3-016",
+      "v9-hsk2-R3-017",
+      "v9-hsk2-R3-018",
+      "v11-hsk2-grammar-00007-2",
+      "v12-hsk2-grammar-00002-1",
+      "v12-hsk2-grammar-00002-5",
+      "v12-hsk2-grammar-00004-2",
+      "v12-hsk2-grammar-00014-2",
+      "v12-hsk2-grammar-00022-1",
+      "v12-hsk2-grammar-00022-2",
+      "v12-hsk2-grammar-00022-3",
+      "v12-hsk2-grammar-00022-4",
+      "v12-hsk2-grammar-00022-5",
+      "v12-hsk2-grammar-00032-2",
+      "v12-hsk2-grammar-00066-2"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-452",
+    "editorialId": null,
+    "simplified": "忘",
+    "pinyin": "wàng",
+    "meaning": "quên",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L1-003",
+      "v10-hsk2-L2-004",
+      "v10-hsk2-L3-002",
+      "v10-hsk2-R1-002",
+      "v10-hsk2-grammar-00018-3"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-454",
+    "editorialId": "v11-vocab-cti25-v-454",
+    "simplified": "为什么",
+    "pinyin": "wèi shénme",
+    "meaning": "tại sao; vì sao",
+    "example": "你为什么喜欢这本书？",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L3-007",
+      "v8-hsk2-R2-013",
+      "v8-hsk2-R2-014",
+      "v8-hsk2-R2-015",
+      "v8-hsk2-R3-016",
+      "v8-hsk2-R4-021",
+      "v9-hsk2-L3-008",
+      "v9-hsk2-L3-009",
+      "v10-hsk2-L3-002",
+      "v10-hsk2-L3-006",
+      "v10-hsk2-R4-004",
+      "v10-hsk2-grammar-00029-3",
+      "v11-hsk2-grammar-00006-1",
+      "v11-hsk2-grammar-00006-2",
+      "v11-hsk2-grammar-00006-4",
+      "v11-hsk2-grammar-00006-5"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-459",
+    "editorialId": null,
+    "simplified": "下面",
+    "pinyin": "xiàmiàn",
+    "meaning": "bên dưới",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-R1-001",
+      "v12-hsk2-grammar-00001-2"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-472",
+    "editorialId": "v10-vocab-cti25-v-472",
+    "simplified": "已经",
+    "pinyin": "yǐjīng",
+    "meaning": "đã",
+    "example": "我已经到学校了。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L1-002",
+      "v8-hsk2-L3-007",
+      "v8-hsk2-R1-011",
+      "v8-hsk2-R2-013",
+      "v8-hsk2-R2-014",
+      "v8-hsk2-R2-015",
+      "v9-hsk2-L3-008",
+      "v9-hsk2-L3-009",
+      "v9-hsk2-R2-014",
+      "v10-hsk2-L3-006",
+      "v10-hsk2-R1-005",
+      "v10-hsk2-R2-001",
+      "v10-hsk2-R2-002",
+      "v10-hsk2-R2-003",
+      "v10-hsk2-R2-004",
+      "v10-hsk2-R2-005",
+      "v10-hsk2-R2-006",
+      "v10-hsk2-grammar-00015-1",
+      "v10-hsk2-grammar-00016-1",
+      "v10-hsk2-grammar-00017-1",
+      "v10-hsk2-grammar-00018-1",
+      "v10-hsk2-grammar-00018-2",
+      "v10-hsk2-grammar-00018-3",
+      "v10-hsk2-grammar-00048-3",
+      "v11-hsk2-grammar-00007-1",
+      "v12-hsk2-grammar-00022-1",
+      "v12-hsk2-grammar-00043-4"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-473",
+    "editorialId": "v10-vocab-cti25-v-473",
+    "simplified": "一起",
+    "pinyin": "yìqǐ",
+    "meaning": "cùng nhau",
+    "example": "我们一起回家吧。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L3-008",
+      "v8-hsk2-R2-013",
+      "v8-hsk2-R2-014",
+      "v8-hsk2-R2-015",
+      "v8-hsk2-R3-017",
+      "v8-hsk2-R4-019",
+      "v9-hsk2-R2-013",
+      "v9-hsk2-R2-014",
+      "v9-hsk2-R2-015",
+      "v10-hsk2-R2-001",
+      "v10-hsk2-R2-002",
+      "v10-hsk2-R2-003",
+      "v10-hsk2-R2-004",
+      "v10-hsk2-R2-005",
+      "v10-hsk2-R2-006",
+      "v10-hsk2-R3-001",
+      "v10-hsk2-R3-002",
+      "v10-hsk2-R3-003",
+      "v10-hsk2-R3-004",
+      "v10-hsk2-R3-005",
+      "v10-hsk2-grammar-00015-1",
+      "v10-hsk2-grammar-00015-2",
+      "v10-hsk2-grammar-00015-3",
+      "v10-hsk2-grammar-00016-1",
+      "v10-hsk2-grammar-00021-1",
+      "v12-hsk2-grammar-00001-2",
+      "v12-hsk2-grammar-00026-1",
+      "v12-hsk2-grammar-00026-2",
+      "v12-hsk2-grammar-00026-3"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-476",
+    "editorialId": "v12-vocab-cti25-v-476",
+    "simplified": "因为",
+    "pinyin": "yīnwèi",
+    "meaning": "vì; bởi vì",
+    "example": "因为下雨，我们不出门了。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R3-016",
+      "v8-hsk2-R3-017",
+      "v8-hsk2-R3-018",
+      "v8-hsk2-R4-020",
+      "v10-hsk2-R3-001",
+      "v10-hsk2-R3-002",
+      "v10-hsk2-R3-003",
+      "v10-hsk2-R3-004",
+      "v10-hsk2-R3-005",
+      "v10-hsk2-grammar-00029-2",
+      "v10-hsk2-grammar-00029-3",
+      "v11-hsk2-grammar-00006-1",
+      "v11-hsk2-grammar-00006-2",
+      "v11-hsk2-grammar-00006-3",
+      "v11-hsk2-grammar-00006-5",
+      "v11-hsk2-grammar-00007-2",
+      "v11-hsk2-grammar-00036-2",
+      "v12-hsk2-grammar-00001-2",
+      "v12-hsk2-grammar-00003-2"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-491",
+    "editorialId": null,
+    "simplified": "正",
+    "pinyin": "zhèng",
+    "meaning": "thẳng",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-L2-005",
+      "v10-hsk2-grammar-00016-3"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-495",
+    "editorialId": "v12-vocab-cti25-v-495",
+    "simplified": "走",
+    "pinyin": "zǒu",
+    "meaning": "đi; đi bộ; rời đi",
+    "example": "我们走路去学校吧。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R3-016",
+      "v9-hsk2-L1-003",
+      "v9-hsk2-L3-009",
+      "v9-hsk2-R3-016",
+      "v9-hsk2-R3-017",
+      "v9-hsk2-R3-018",
+      "v10-hsk2-R2-001",
+      "v10-hsk2-R3-010",
+      "v10-hsk2-W2-002",
+      "v10-hsk2-grammar-00021-1",
+      "v10-hsk2-grammar-00021-2",
+      "v12-hsk2-grammar-00002-1",
+      "v12-hsk2-grammar-00002-5",
+      "v12-hsk2-grammar-00022-1",
+      "v12-hsk2-grammar-00022-2",
+      "v12-hsk2-grammar-00022-3",
+      "v12-hsk2-grammar-00022-4",
+      "v12-hsk2-grammar-00022-5",
+      "v12-hsk2-grammar-00030-4",
+      "v12-hsk2-grammar-00042-4"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-496",
+    "editorialId": null,
+    "simplified": "走路",
+    "pinyin": "zǒulù",
+    "meaning": "đi bộ",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R3-016",
+      "v10-hsk2-R2-004",
+      "v10-hsk2-R4-003",
+      "v10-hsk2-grammar-00029-3",
+      "v12-hsk2-grammar-00042-5"
+    ],
+    "priority": 18,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-306",
+    "editorialId": null,
+    "simplified": "帮忙",
+    "pinyin": "bāngmáng",
+    "meaning": "giúp",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v11-hsk2-grammar-00007-3"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-315",
+    "editorialId": "v11-vocab-cti25-v-315",
+    "simplified": "车站",
+    "pinyin": "chēzhàn",
+    "meaning": "nhà ga; trạm xe",
+    "example": "我们在车站见面。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R2-015",
+      "v9-hsk2-R3-016",
+      "v9-hsk2-R3-017",
+      "v9-hsk2-R3-018",
+      "v10-hsk2-R2-001",
+      "v10-hsk2-R3-006",
+      "v10-hsk2-R3-007",
+      "v10-hsk2-R3-008",
+      "v10-hsk2-R3-009",
+      "v10-hsk2-R3-010",
+      "v11-hsk2-grammar-00036-4",
+      "v12-hsk2-grammar-00002-5",
+      "v12-hsk2-grammar-00004-1",
+      "v12-hsk2-grammar-00022-5"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-327",
+    "editorialId": null,
+    "simplified": "打",
+    "pinyin": "dǎ",
+    "meaning": "đánh",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L2-005"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-331",
+    "editorialId": null,
+    "simplified": "但是",
+    "pinyin": "dànshì",
+    "meaning": "nhưng",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R4-020",
+      "v10-hsk2-L3-004",
+      "v10-hsk2-grammar-00029-1",
+      "v10-hsk2-grammar-00029-2"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-337",
+    "editorialId": null,
+    "simplified": "懂",
+    "pinyin": "dǒng",
+    "meaning": "hiểu",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-grammar-00048-1",
+      "v10-hsk2-grammar-00048-2",
+      "v11-hsk2-grammar-00048-1",
+      "v11-hsk2-grammar-00048-2"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-369",
+    "editorialId": null,
+    "simplified": "介绍",
+    "pinyin": "jièshào",
+    "meaning": "giới thiệu (ai với ai)",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-grammar-00024-2"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-370",
+    "editorialId": null,
+    "simplified": "进",
+    "pinyin": "jìn",
+    "meaning": "tiến lên",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R4-019"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-371",
+    "editorialId": null,
+    "simplified": "近",
+    "pinyin": "jìn",
+    "meaning": "gần",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R3-016",
+      "v8-hsk2-R3-017",
+      "v8-hsk2-R3-018",
+      "v11-hsk2-grammar-00006-4"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-380",
+    "editorialId": null,
+    "simplified": "考",
+    "pinyin": "kǎo",
+    "meaning": "đánh",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R4-020"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-394",
+    "editorialId": null,
+    "simplified": "旅游",
+    "pinyin": "lǚyóu",
+    "meaning": "chuyến đi",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-W2-001"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-397",
+    "editorialId": null,
+    "simplified": "慢",
+    "pinyin": "màn",
+    "meaning": "chậm",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L3-002",
+      "v10-hsk2-grammar-00025-2",
+      "v10-hsk2-grammar-00048-2",
+      "v12-hsk2-grammar-00030-4"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-471",
+    "editorialId": null,
+    "simplified": "一会儿",
+    "pinyin": "yíhuìr",
+    "meaning": "một lúc",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R1-010"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-486",
+    "editorialId": null,
+    "simplified": "站",
+    "pinyin": "zhàn",
+    "meaning": "trạm",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MULTIPLE_MEANINGS",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v11-hsk2-grammar-00006-4"
+    ],
+    "priority": 17,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-301",
+    "editorialId": null,
+    "simplified": "啊",
+    "pinyin": "a",
+    "meaning": "thán từ kết thúc câu, thể hiện sự khẳng định, tán thành hoặc đồng ý",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-303",
+    "editorialId": null,
+    "simplified": "白色",
+    "pinyin": "báisè",
+    "meaning": "màu trắng",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L3-009",
+      "v11-hsk2-grammar-00035-1",
+      "v12-hsk2-grammar-00032-2"
+    ],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-317",
+    "editorialId": null,
+    "simplified": "出国",
+    "pinyin": "chūguó",
+    "meaning": "ra nước ngoài",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-318",
+    "editorialId": null,
+    "simplified": "出来",
+    "pinyin": "chūlái",
+    "meaning": "đi ra",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-325",
+    "editorialId": null,
+    "simplified": "从小",
+    "pinyin": "cóngxiǎo",
+    "meaning": "từ nhỏ",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-328",
+    "editorialId": null,
+    "simplified": "打车",
+    "pinyin": "dǎchē",
+    "meaning": "bắt taxi (trong thành phố)",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-340",
+    "editorialId": null,
+    "simplified": "飞",
+    "pinyin": "fēi",
+    "meaning": "bay",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-342",
+    "editorialId": null,
+    "simplified": "高中",
+    "pinyin": "gāozhōng",
+    "meaning": "trường trung học phổ thông",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-349",
+    "editorialId": null,
+    "simplified": "过年",
+    "pinyin": "guònián",
+    "meaning": "đón Tết Nguyên Đán",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-351",
+    "editorialId": null,
+    "simplified": "过",
+    "pinyin": "guo",
+    "meaning": "(trợ từ chỉ hành động đã trải qua)",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-361",
+    "editorialId": null,
+    "simplified": "回来",
+    "pinyin": "huílái",
+    "meaning": "trở về",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-362",
+    "editorialId": null,
+    "simplified": "回去",
+    "pinyin": "huíqù",
+    "meaning": "trở về",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-367",
+    "editorialId": null,
+    "simplified": "教",
+    "pinyin": "jiāo",
+    "meaning": "dạy",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-385",
+    "editorialId": null,
+    "simplified": "快乐",
+    "pinyin": "kuàilè",
+    "meaning": "vui vẻ",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-393",
+    "editorialId": null,
+    "simplified": "路上",
+    "pinyin": "lùshang",
+    "meaning": "trên đường",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-395",
+    "editorialId": null,
+    "simplified": "绿茶",
+    "pinyin": "lǜchá",
+    "meaning": "trà xanh",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-396",
+    "editorialId": null,
+    "simplified": "绿色",
+    "pinyin": "lǜsè",
+    "meaning": "màu xanh lá",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-407",
+    "editorialId": null,
+    "simplified": "那样",
+    "pinyin": "nàyàng",
+    "meaning": "loại đó",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-408",
+    "editorialId": null,
+    "simplified": "奶茶",
+    "pinyin": "nǎichá",
+    "meaning": "trà sữa",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-420",
+    "editorialId": null,
+    "simplified": "晴",
+    "pinyin": "qíng",
+    "meaning": "trời quang",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-425",
+    "editorialId": null,
+    "simplified": "上来",
+    "pinyin": "shànglái",
+    "meaning": "đi lên",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-426",
+    "editorialId": null,
+    "simplified": "上面",
+    "pinyin": "shàngmiàn",
+    "meaning": "bên trên",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-427",
+    "editorialId": null,
+    "simplified": "上去",
+    "pinyin": "shàngqù",
+    "meaning": "đi lên",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-438",
+    "editorialId": null,
+    "simplified": "虽然",
+    "pinyin": "suīrán",
+    "meaning": "mặc dù",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-440",
+    "editorialId": null,
+    "simplified": "疼",
+    "pinyin": "téng",
+    "meaning": "(bị) đau",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-444",
+    "editorialId": null,
+    "simplified": "跳舞",
+    "pinyin": "tiàowǔ",
+    "meaning": "nhảy múa",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-451",
+    "editorialId": null,
+    "simplified": "网上",
+    "pinyin": "wǎngshang",
+    "meaning": "trực tuyến",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-457",
+    "editorialId": null,
+    "simplified": "洗手间",
+    "pinyin": "xǐshǒujiān",
+    "meaning": "nhà vệ sinh",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-460",
+    "editorialId": null,
+    "simplified": "下去",
+    "pinyin": "xiàqù",
+    "meaning": "đi xuống",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-462",
+    "editorialId": null,
+    "simplified": "小时候",
+    "pinyin": "xiǎoshíhou",
+    "meaning": "khi còn nhỏ",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-464",
+    "editorialId": null,
+    "simplified": "姓",
+    "pinyin": "xìng",
+    "meaning": "là họ",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-465",
+    "editorialId": null,
+    "simplified": "姓名",
+    "pinyin": "xìngmíng",
+    "meaning": "tên đầy đủ",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-469",
+    "editorialId": null,
+    "simplified": "药店",
+    "pinyin": "yàodiàn",
+    "meaning": "nhà thuốc",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v11-hsk2-grammar-00036-1",
+      "v12-hsk2-grammar-00001-3",
+      "v12-hsk2-grammar-00002-5"
+    ],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-480",
+    "editorialId": null,
+    "simplified": "有时",
+    "pinyin": "yǒushí",
+    "meaning": "đôi khi",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 16,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-320",
+    "editorialId": null,
+    "simplified": "出去",
+    "pinyin": "chūqù",
+    "meaning": "đi ra ngoài",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-W2-002",
+      "v11-hsk2-grammar-00018-2"
+    ],
+    "priority": 15,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-374",
+    "editorialId": "v10-vocab-cti25-v-374",
+    "simplified": "经常",
+    "pinyin": "jīngcháng",
+    "meaning": "thường xuyên",
+    "example": "他经常在这里跑步。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R2-013",
+      "v9-hsk2-R2-014",
+      "v9-hsk2-R2-015",
+      "v10-hsk2-R2-001",
+      "v10-hsk2-R2-002",
+      "v10-hsk2-R2-003",
+      "v10-hsk2-R2-004",
+      "v10-hsk2-R2-005",
+      "v10-hsk2-R2-006",
+      "v10-hsk2-grammar-00017-1",
+      "v10-hsk2-grammar-00017-2",
+      "v10-hsk2-grammar-00017-3"
+    ],
+    "priority": 15,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-390",
+    "editorialId": null,
+    "simplified": "里面",
+    "pinyin": "lǐmiàn",
+    "meaning": "bên trong",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00001-4",
+      "v12-hsk2-grammar-00001-5"
+    ],
+    "priority": 15,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-413",
+    "editorialId": null,
+    "simplified": "旁边",
+    "pinyin": "pángbiān",
+    "meaning": "bên",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R1-011",
+      "v10-hsk2-L1-001"
+    ],
+    "priority": 15,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-415",
+    "editorialId": null,
+    "simplified": "跑步",
+    "pinyin": "pǎobù",
+    "meaning": "chạy",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-grammar-00017-2",
+      "v11-hsk2-grammar-00018-2"
+    ],
+    "priority": 15,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-448",
+    "editorialId": "v10-vocab-cti25-v-448",
+    "simplified": "完",
+    "pinyin": "wán",
+    "meaning": "xong; hết",
+    "example": "我吃完饭再去。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L2-006",
+      "v8-hsk2-R1-010",
+      "v9-hsk2-L1-003",
+      "v9-hsk2-W2-026",
+      "v10-hsk2-L2-002",
+      "v10-hsk2-L2-010",
+      "v10-hsk2-R1-006",
+      "v10-hsk2-grammar-00019-1",
+      "v10-hsk2-grammar-00048-1",
+      "v11-hsk2-grammar-00048-1",
+      "v11-hsk2-grammar-00048-2",
+      "v12-hsk2-grammar-00003-5"
+    ],
+    "priority": 15,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-494",
+    "editorialId": "v11-vocab-cti25-v-494",
+    "simplified": "自己",
+    "pinyin": "zìjǐ",
+    "meaning": "bản thân; tự mình",
+    "example": "这件事我自己做。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R1-012",
+      "v8-hsk2-R2-013",
+      "v8-hsk2-R2-014",
+      "v8-hsk2-R2-015",
+      "v10-hsk2-R4-001",
+      "v10-hsk2-R4-006",
+      "v11-hsk2-grammar-00007-1",
+      "v11-hsk2-grammar-00007-2",
+      "v11-hsk2-grammar-00007-3",
+      "v11-hsk2-grammar-00007-4",
+      "v11-hsk2-grammar-00007-5",
+      "v12-hsk2-grammar-00008-2"
+    ],
+    "priority": 15,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-343",
+    "editorialId": null,
+    "simplified": "告诉",
+    "pinyin": "gàosu",
+    "meaning": "nói",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-grammar-00017-2"
+    ],
+    "priority": 14,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-353",
+    "editorialId": null,
+    "simplified": "黑色",
+    "pinyin": "hēisè",
+    "meaning": "màu đen",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v11-hsk2-grammar-00035-1"
+    ],
+    "priority": 14,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-372",
+    "editorialId": null,
+    "simplified": "进来",
+    "pinyin": "jìnlái",
+    "meaning": "đến",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00001-5"
+    ],
+    "priority": 14,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-373",
+    "editorialId": null,
+    "simplified": "进去",
+    "pinyin": "jìnqù",
+    "meaning": "đi vào",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R4-019"
+    ],
+    "priority": 14,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-383",
+    "editorialId": null,
+    "simplified": "裤子",
+    "pinyin": "kùzi",
+    "meaning": "quần tây",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00011-2"
+    ],
+    "priority": 14,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-441",
+    "editorialId": null,
+    "simplified": "踢",
+    "pinyin": "tī",
+    "meaning": "đá",
+    "example": null,
+    "flags": [
+      "MISSING_EXAMPLE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-R4-002"
+    ],
+    "priority": 14,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-332",
+    "editorialId": "v12-vocab-cti25-v-332",
+    "simplified": "得",
+    "pinyin": "de",
+    "meaning": "trợ từ nối động từ với bổ ngữ",
+    "example": "姐姐唱得很好听。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L1-002",
+      "v10-hsk2-L3-006",
+      "v10-hsk2-W2-004",
+      "v10-hsk2-grammar-00019-3",
+      "v10-hsk2-grammar-00048-2",
+      "v11-hsk2-grammar-00035-2",
+      "v12-hsk2-grammar-00030-1",
+      "v12-hsk2-grammar-00030-2",
+      "v12-hsk2-grammar-00030-3",
+      "v12-hsk2-grammar-00030-5"
+    ],
+    "priority": 13,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-334",
+    "editorialId": "v10-vocab-cti25-v-334",
+    "simplified": "等",
+    "pinyin": "děng",
+    "meaning": "đợi",
+    "example": "我在学校门口等你。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-L2-005",
+      "v9-hsk2-L3-009",
+      "v9-hsk2-R4-019",
+      "v10-hsk2-L2-001",
+      "v10-hsk2-R2-001",
+      "v10-hsk2-R4-004",
+      "v11-hsk2-grammar-00036-4",
+      "v12-hsk2-grammar-00001-1",
+      "v12-hsk2-grammar-00042-5",
+      "v12-hsk2-grammar-00066-4"
+    ],
+    "priority": 13,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-382",
+    "editorialId": "v11-vocab-cti25-v-382",
+    "simplified": "可能",
+    "pinyin": "kěnéng",
+    "meaning": "có lẽ; có khả năng",
+    "example": "他今天可能不来。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R2-013",
+      "v8-hsk2-R2-014",
+      "v8-hsk2-R2-015",
+      "v9-hsk2-R2-013",
+      "v9-hsk2-R2-014",
+      "v9-hsk2-R2-015",
+      "v12-hsk2-grammar-00004-1",
+      "v12-hsk2-grammar-00004-2",
+      "v12-hsk2-grammar-00004-3",
+      "v12-hsk2-grammar-00004-5"
+    ],
+    "priority": 13,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-478",
+    "editorialId": "v12-vocab-cti25-v-478",
+    "simplified": "游泳",
+    "pinyin": "yóuyǒng",
+    "meaning": "bơi lội",
+    "example": "天热的时候，他经常去游泳。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R3-016",
+      "v9-hsk2-R3-017",
+      "v9-hsk2-R3-018",
+      "v9-hsk2-R4-020",
+      "v10-hsk2-L3-006",
+      "v10-hsk2-R2-006",
+      "v10-hsk2-R4-006",
+      "v11-hsk2-grammar-00006-1",
+      "v12-hsk2-grammar-00004-4",
+      "v12-hsk2-grammar-00008-3"
+    ],
+    "priority": 13,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-447",
+    "editorialId": "v12-vocab-cti25-v-447",
+    "simplified": "外面",
+    "pinyin": "wàimiàn",
+    "meaning": "bên ngoài",
+    "example": "外面很冷，穿上衣服吧。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L1-003",
+      "v10-hsk2-L1-002",
+      "v10-hsk2-R3-006",
+      "v10-hsk2-R3-007",
+      "v10-hsk2-R3-008",
+      "v10-hsk2-R3-009",
+      "v10-hsk2-R3-010",
+      "v11-hsk2-grammar-00018-2",
+      "v12-hsk2-grammar-00001-1"
+    ],
+    "priority": 12,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-345",
+    "editorialId": "v10-vocab-cti25-v-345",
+    "simplified": "跟",
+    "pinyin": "gēn",
+    "meaning": "với; cùng với",
+    "example": "我跟弟弟一起去。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L1-004",
+      "v10-hsk2-grammar-00015-2",
+      "v10-hsk2-grammar-00018-3",
+      "v12-hsk2-grammar-00026-1",
+      "v12-hsk2-grammar-00026-2",
+      "v12-hsk2-grammar-00026-3",
+      "v12-hsk2-grammar-00026-4",
+      "v12-hsk2-grammar-00026-5"
+    ],
+    "priority": 11,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-422",
+    "editorialId": "v12-vocab-cti25-v-422",
+    "simplified": "让",
+    "pinyin": "ràng",
+    "meaning": "để; cho; bảo (ai làm gì)",
+    "example": "老师让我们写名字。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-L1-001",
+      "v9-hsk2-L1-003",
+      "v9-hsk2-R1-010",
+      "v10-hsk2-L1-003",
+      "v10-hsk2-L1-006",
+      "v10-hsk2-R1-003",
+      "v12-hsk2-grammar-00066-1",
+      "v12-hsk2-grammar-00066-4"
+    ],
+    "priority": 11,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-499",
+    "editorialId": "v11-vocab-cti25-v-499",
+    "simplified": "左",
+    "pinyin": "zuǒ",
+    "meaning": "bên trái",
+    "example": "请往左走。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R2-013",
+      "v8-hsk2-R2-014",
+      "v8-hsk2-R2-015",
+      "v12-hsk2-grammar-00002-1",
+      "v12-hsk2-grammar-00002-2",
+      "v12-hsk2-grammar-00002-5",
+      "v12-hsk2-grammar-00022-3",
+      "v12-hsk2-grammar-00022-5"
+    ],
+    "priority": 11,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-319",
+    "editorialId": "v12-vocab-cti25-v-319",
+    "simplified": "出门",
+    "pinyin": "chūmén",
+    "meaning": "ra khỏi nhà",
+    "example": "天很冷，我今天不想出门。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-R1-003",
+      "v10-hsk2-R3-006",
+      "v10-hsk2-R3-007",
+      "v10-hsk2-R3-008",
+      "v10-hsk2-R3-009",
+      "v10-hsk2-R3-010",
+      "v12-hsk2-grammar-00042-5"
+    ],
+    "priority": 10,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-456",
+    "editorialId": "v11-vocab-cti25-v-456",
+    "simplified": "洗",
+    "pinyin": "xǐ",
+    "meaning": "rửa; giặt",
+    "example": "吃饭前要洗手。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R1-010",
+      "v9-hsk2-W1-022",
+      "v9-hsk2-W2-026",
+      "v10-hsk2-L3-001",
+      "v10-hsk2-grammar-00048-3",
+      "v11-hsk2-grammar-00007-1",
+      "v12-hsk2-grammar-00066-2"
+    ],
+    "priority": 10,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-474",
+    "editorialId": "v12-vocab-cti25-v-474",
+    "simplified": "意思",
+    "pinyin": "yìsi",
+    "meaning": "ý nghĩa; ý",
+    "example": "这个词是什么意思？",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-grammar-00015-2",
+      "v10-hsk2-grammar-00016-2",
+      "v10-hsk2-grammar-00018-2",
+      "v10-hsk2-grammar-00019-2",
+      "v10-hsk2-grammar-00031-2",
+      "v10-hsk2-grammar-00048-2",
+      "v11-hsk2-grammar-00048-2"
+    ],
+    "priority": 10,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-492",
+    "editorialId": "v12-vocab-cti25-v-492",
+    "simplified": "周",
+    "pinyin": "zhōu",
+    "meaning": "tuần",
+    "example": "这周我们有两次考试。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R4-020",
+      "v10-hsk2-R3-001",
+      "v10-hsk2-R3-002",
+      "v10-hsk2-R3-003",
+      "v10-hsk2-R3-004",
+      "v10-hsk2-R3-005",
+      "v12-hsk2-grammar-00008-3"
+    ],
+    "priority": 10,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-498",
+    "editorialId": "v11-vocab-cti25-v-498",
+    "simplified": "最",
+    "pinyin": "zuì",
+    "meaning": "nhất; biểu thị mức cao nhất",
+    "example": "这三个杯子，白色的最贵。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00014-1",
+      "v12-hsk2-grammar-00014-2",
+      "v12-hsk2-grammar-00014-3",
+      "v12-hsk2-grammar-00014-5",
+      "v12-hsk2-grammar-00022-2",
+      "v12-hsk2-grammar-00026-2",
+      "v12-hsk2-grammar-00066-5"
+    ],
+    "priority": 10,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-341",
+    "editorialId": "v11-vocab-cti25-v-341",
+    "simplified": "高",
+    "pinyin": "gāo",
+    "meaning": "cao",
+    "example": "哥哥比我高。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R3-016",
+      "v8-hsk2-R3-017",
+      "v8-hsk2-R3-018",
+      "v10-hsk2-R2-003",
+      "v12-hsk2-grammar-00014-1",
+      "v12-hsk2-grammar-00014-4"
+    ],
+    "priority": 9,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-384",
+    "editorialId": "v12-vocab-cti25-v-384",
+    "simplified": "快",
+    "pinyin": "kuài",
+    "meaning": "nhanh; sắp",
+    "example": "火车快到了。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L3-006",
+      "v10-hsk2-R1-004",
+      "v10-hsk2-grammar-00019-3",
+      "v10-hsk2-grammar-00025-2",
+      "v12-hsk2-grammar-00030-1",
+      "v12-hsk2-grammar-00030-3"
+    ],
+    "priority": 9,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-333",
+    "editorialId": "v12-vocab-cti25-v-333",
+    "simplified": "地",
+    "pinyin": "de",
+    "meaning": "trợ từ đứng sau trạng ngữ",
+    "example": "她高兴地笑了。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v11-hsk2-grammar-00035-2",
+      "v12-hsk2-grammar-00030-2",
+      "v12-hsk2-grammar-00030-3",
+      "v12-hsk2-grammar-00030-4",
+      "v12-hsk2-grammar-00030-5"
+    ],
+    "priority": 8,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-346",
+    "editorialId": "v10-vocab-cti25-v-346",
+    "simplified": "公交车",
+    "pinyin": "gōngjiāochē",
+    "meaning": "xe buýt",
+    "example": "坐公交车去医院很快。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-R3-001",
+      "v10-hsk2-R3-002",
+      "v10-hsk2-R3-003",
+      "v10-hsk2-R3-004",
+      "v10-hsk2-R3-005"
+    ],
+    "priority": 8,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-405",
+    "editorialId": "v12-vocab-cti25-v-405",
+    "simplified": "拿",
+    "pinyin": "ná",
+    "meaning": "cầm; lấy",
+    "example": "请拿一本书给我。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L1-002",
+      "v11-hsk2-grammar-00007-4",
+      "v12-hsk2-grammar-00008-5",
+      "v12-hsk2-grammar-00032-3",
+      "v12-hsk2-grammar-00032-5"
+    ],
+    "priority": 8,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-439",
+    "editorialId": "v12-vocab-cti25-v-439",
+    "simplified": "所以",
+    "pinyin": "suǒyǐ",
+    "meaning": "cho nên; vì vậy",
+    "example": "学校很近，所以我走路去。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R4-021",
+      "v10-hsk2-R1-004",
+      "v10-hsk2-grammar-00029-1",
+      "v10-hsk2-grammar-00029-3",
+      "v11-hsk2-grammar-00006-1"
+    ],
+    "priority": 8,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-468",
+    "editorialId": "v11-vocab-cti25-v-468",
+    "simplified": "药",
+    "pinyin": "yào",
+    "meaning": "thuốc",
+    "example": "这个药一天吃两次。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L2-002",
+      "v10-hsk2-grammar-00024-1",
+      "v11-hsk2-grammar-00007-3",
+      "v11-hsk2-grammar-00036-1",
+      "v11-hsk2-grammar-00018-1"
+    ],
+    "priority": 8,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-490",
+    "editorialId": "v11-vocab-cti25-v-490",
+    "simplified": "着",
+    "pinyin": "zhe",
+    "meaning": "trợ từ chỉ trạng thái tiếp diễn",
+    "example": "门开着呢。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00032-1",
+      "v12-hsk2-grammar-00032-2",
+      "v12-hsk2-grammar-00032-3",
+      "v12-hsk2-grammar-00032-4",
+      "v12-hsk2-grammar-00032-5"
+    ],
+    "priority": 8,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-310",
+    "editorialId": "v11-vocab-cti25-v-310",
+    "simplified": "笔",
+    "pinyin": "bǐ",
+    "meaning": "bút",
+    "example": "我买的笔在书包里。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R1-012",
+      "v11-hsk2-grammar-00007-4",
+      "v12-hsk2-grammar-00002-2",
+      "v12-hsk2-grammar-00032-5"
+    ],
+    "priority": 7,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-336",
+    "editorialId": "v12-vocab-cti25-v-336",
+    "simplified": "点",
+    "pinyin": "diǎn",
+    "meaning": "gọi món; điểm (tùy ngữ cảnh)",
+    "example": "我们点了鱼和肉。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R3-016",
+      "v8-hsk2-R3-017",
+      "v8-hsk2-R3-018",
+      "v8-hsk2-R4-020"
+    ],
+    "priority": 7,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-378",
+    "editorialId": "v12-vocab-cti25-v-378",
+    "simplified": "开始",
+    "pinyin": "kāishǐ",
+    "meaning": "bắt đầu",
+    "example": "电影八点开始。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-L3-007",
+      "v10-hsk2-L3-005",
+      "v10-hsk2-grammar-00016-1",
+      "v12-hsk2-grammar-00043-1"
+    ],
+    "priority": 7,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-433",
+    "editorialId": "v12-vocab-cti25-v-433",
+    "simplified": "手",
+    "pinyin": "shǒu",
+    "meaning": "tay",
+    "example": "吃饭前要洗手。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R1-010",
+      "v9-hsk2-W2-026",
+      "v12-hsk2-grammar-00002-2",
+      "v12-hsk2-grammar-00066-2"
+    ],
+    "priority": 7,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-481",
+    "editorialId": "v12-vocab-cti25-v-481",
+    "simplified": "右",
+    "pinyin": "yòu",
+    "meaning": "bên phải",
+    "example": "从门口往右走。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00002-1",
+      "v12-hsk2-grammar-00002-2",
+      "v12-hsk2-grammar-00002-5",
+      "v12-hsk2-grammar-00022-5"
+    ],
+    "priority": 7,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-302",
+    "editorialId": "v12-vocab-cti25-v-302",
+    "simplified": "爱好",
+    "pinyin": "àihào",
+    "meaning": "sở thích; yêu thích",
+    "example": "我的爱好是游泳。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-304",
+    "editorialId": "v11-vocab-cti25-v-304",
+    "simplified": "班",
+    "pinyin": "bān",
+    "meaning": "lớp học; ca làm việc",
+    "example": "我们班有二十个学生。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L3-008",
+      "v10-hsk2-R2-001",
+      "v12-hsk2-grammar-00008-5"
+    ],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-305",
+    "editorialId": "v11-vocab-cti25-v-305",
+    "simplified": "帮",
+    "pinyin": "bāng",
+    "meaning": "giúp",
+    "example": "请帮我打开门。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-307",
+    "editorialId": "v11-vocab-cti25-v-307",
+    "simplified": "包",
+    "pinyin": "bāo",
+    "meaning": "túi; gói; bọc",
+    "example": "你的包在桌子下面。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-L3-008",
+      "v11-hsk2-grammar-00007-2",
+      "v12-hsk2-grammar-00001-4"
+    ],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-312",
+    "editorialId": "v12-vocab-cti25-v-312",
+    "simplified": "不错",
+    "pinyin": "búcuò",
+    "meaning": "khá tốt; không tệ",
+    "example": "这家饭馆的菜不错。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-313",
+    "editorialId": "v12-vocab-cti25-v-313",
+    "simplified": "不好意思",
+    "pinyin": "bù hǎoyìsi",
+    "meaning": "ngại; xin lỗi (lời lịch sự)",
+    "example": "不好意思，我来晚了。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-316",
+    "editorialId": "v12-vocab-cti25-v-316",
+    "simplified": "出",
+    "pinyin": "chū",
+    "meaning": "ra; đi ra",
+    "example": "请从这个门出去。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-322",
+    "editorialId": "v11-vocab-cti25-v-322",
+    "simplified": "词",
+    "pinyin": "cí",
+    "meaning": "từ; từ ngữ",
+    "example": "这个词是什么意思？",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-338",
+    "editorialId": "v12-vocab-cti25-v-338",
+    "simplified": "动",
+    "pinyin": "dòng",
+    "meaning": "động; cử động",
+    "example": "请坐好，别动。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-339",
+    "editorialId": "v12-vocab-cti25-v-339",
+    "simplified": "饭馆",
+    "pinyin": "fànguǎn",
+    "meaning": "quán ăn; nhà hàng",
+    "example": "饭馆在车站的右边。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00001-5",
+      "v12-hsk2-grammar-00002-3",
+      "v12-hsk2-grammar-00022-2"
+    ],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-344",
+    "editorialId": "v12-vocab-cti25-v-344",
+    "simplified": "个子",
+    "pinyin": "gèzi",
+    "meaning": "vóc người; chiều cao",
+    "example": "她个子不高。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-348",
+    "editorialId": "v12-vocab-cti25-v-348",
+    "simplified": "过来",
+    "pinyin": "guòlái",
+    "meaning": "qua đây; lại gần",
+    "example": "请过来坐。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-350",
+    "editorialId": "v12-vocab-cti25-v-350",
+    "simplified": "过去",
+    "pinyin": "guòqù",
+    "meaning": "đi qua; trước đây",
+    "example": "过去我住在北京。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-352",
+    "editorialId": "v11-vocab-cti25-v-352",
+    "simplified": "还是",
+    "pinyin": "háishi",
+    "meaning": "hay là; vẫn",
+    "example": "你喝茶还是喝水？",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-354",
+    "editorialId": "v12-vocab-cti25-v-354",
+    "simplified": "红茶",
+    "pinyin": "hóngchá",
+    "meaning": "hồng trà; trà đen",
+    "example": "我喝红茶，不喝咖啡。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-358",
+    "editorialId": "v12-vocab-cti25-v-358",
+    "simplified": "花",
+    "pinyin": "huā",
+    "meaning": "hoa",
+    "example": "妈妈喜欢红色的花。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-360",
+    "editorialId": "v12-vocab-cti25-v-360",
+    "simplified": "坏",
+    "pinyin": "huài",
+    "meaning": "hỏng; xấu",
+    "example": "我的手表坏了。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R1-012",
+      "v10-hsk2-R4-003",
+      "v10-hsk2-grammar-00029-3"
+    ],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-364",
+    "editorialId": "v10-vocab-cti25-v-364",
+    "simplified": "机票",
+    "pinyin": "jīpiào",
+    "meaning": "vé máy bay",
+    "example": "我买了明天的机票。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-365",
+    "editorialId": "v12-vocab-cti25-v-365",
+    "simplified": "记得",
+    "pinyin": "jìde",
+    "meaning": "nhớ; còn nhớ",
+    "example": "你还记得他的名字吗？",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-377",
+    "editorialId": "v12-vocab-cti25-v-377",
+    "simplified": "咖啡",
+    "pinyin": "kāfēi",
+    "meaning": "cà phê",
+    "example": "我今天不想喝咖啡。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-379",
+    "editorialId": "v12-vocab-cti25-v-379",
+    "simplified": "开学",
+    "pinyin": "kāixué",
+    "meaning": "khai giảng; bắt đầu kỳ học",
+    "example": "我们学校九月开学。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-387",
+    "editorialId": "v12-vocab-cti25-v-387",
+    "simplified": "篮球",
+    "pinyin": "lánqiú",
+    "meaning": "bóng rổ; quả bóng rổ",
+    "example": "哥哥打篮球打得很好。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-398",
+    "editorialId": "v12-vocab-cti25-v-398",
+    "simplified": "没意思",
+    "pinyin": "méi yìsi",
+    "meaning": "không thú vị; chán",
+    "example": "一个人在家真没意思。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-401",
+    "editorialId": "v12-vocab-cti25-v-401",
+    "simplified": "门口",
+    "pinyin": "ménkǒu",
+    "meaning": "cửa ra vào; trước cửa",
+    "example": "我们在门口等你。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-L3-007",
+      "v9-hsk2-R4-019",
+      "v10-hsk2-R4-004"
+    ],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-406",
+    "editorialId": "v12-vocab-cti25-v-406",
+    "simplified": "那么",
+    "pinyin": "nàme",
+    "meaning": "như thế; đến thế",
+    "example": "这件衣服没有那么贵。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-409",
+    "editorialId": "v12-vocab-cti25-v-409",
+    "simplified": "奶奶",
+    "pinyin": "nǎinai",
+    "meaning": "bà nội",
+    "example": "奶奶每天早上喝茶。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-410",
+    "editorialId": "v12-vocab-cti25-v-410",
+    "simplified": "男孩儿",
+    "pinyin": "nánháir",
+    "meaning": "bé trai; con trai",
+    "example": "那个男孩儿在踢足球。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-411",
+    "editorialId": "v12-vocab-cti25-v-411",
+    "simplified": "鸟",
+    "pinyin": "niǎo",
+    "meaning": "chim",
+    "example": "那只鸟飞得很高。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-412",
+    "editorialId": "v12-vocab-cti25-v-412",
+    "simplified": "女孩儿",
+    "pinyin": "nǚháir",
+    "meaning": "bé gái; con gái",
+    "example": "这个女孩儿喜欢画画。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-417",
+    "editorialId": "v12-vocab-cti25-v-417",
+    "simplified": "妻子",
+    "pinyin": "qīzi",
+    "meaning": "vợ",
+    "example": "他的妻子是医生。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-418",
+    "editorialId": "v12-vocab-cti25-v-418",
+    "simplified": "起来",
+    "pinyin": "qǐlái",
+    "meaning": "đứng dậy; lên",
+    "example": "他从椅子上站起来了。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-423",
+    "editorialId": "v12-vocab-cti25-v-423",
+    "simplified": "肉",
+    "pinyin": "ròu",
+    "meaning": "thịt",
+    "example": "今天晚饭有鱼，也有肉。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-424",
+    "editorialId": "v12-vocab-cti25-v-424",
+    "simplified": "商场",
+    "pinyin": "shāngchǎng",
+    "meaning": "trung tâm mua sắm",
+    "example": "这个商场里有书店。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-428",
+    "editorialId": "v12-vocab-cti25-v-428",
+    "simplified": "上网",
+    "pinyin": "shàngwǎng",
+    "meaning": "lên mạng",
+    "example": "我上网买了机票。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-431",
+    "editorialId": "v12-vocab-cti25-v-431",
+    "simplified": "时",
+    "pinyin": "shí",
+    "meaning": "lúc; khi",
+    "example": "来时请给我打电话。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L3-008",
+      "v10-hsk2-R2-001",
+      "v10-hsk2-W1-006"
+    ],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-432",
+    "editorialId": "v12-vocab-cti25-v-432",
+    "simplified": "事情",
+    "pinyin": "shìqing",
+    "meaning": "việc; sự việc",
+    "example": "这件事情我想自己做。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-435",
+    "editorialId": "v10-vocab-cti25-v-435",
+    "simplified": "书包",
+    "pinyin": "shūbāo",
+    "meaning": "cặp sách",
+    "example": "我的书包里有两本书。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v11-hsk2-grammar-00035-2",
+      "v11-hsk2-grammar-00035-5",
+      "v12-hsk2-grammar-00008-1"
+    ],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-436",
+    "editorialId": "v10-vocab-cti25-v-436",
+    "simplified": "舒服",
+    "pinyin": "shūfu",
+    "meaning": "dễ chịu; khỏe trong ngữ cảnh",
+    "example": "我今天有点儿不舒服。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-R3-018",
+      "v10-hsk2-grammar-00029-1",
+      "v11-hsk2-grammar-00006-5"
+    ],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-437",
+    "editorialId": "v12-vocab-cti25-v-437",
+    "simplified": "送",
+    "pinyin": "sòng",
+    "meaning": "tặng; đưa; tiễn",
+    "example": "这是朋友送我的书。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-445",
+    "editorialId": "v12-vocab-cti25-v-445",
+    "simplified": "头",
+    "pinyin": "tóu",
+    "meaning": "đầu",
+    "example": "我的头有点儿疼。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-446",
+    "editorialId": "v12-vocab-cti25-v-446",
+    "simplified": "外国",
+    "pinyin": "wàiguó",
+    "meaning": "nước ngoài",
+    "example": "她在外国学习中文。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-449",
+    "editorialId": "v12-vocab-cti25-v-449",
+    "simplified": "万",
+    "pinyin": "wàn",
+    "meaning": "vạn; mười nghìn",
+    "example": "我们学校有一万本书。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-455",
+    "editorialId": "v12-vocab-cti25-v-455",
+    "simplified": "希望",
+    "pinyin": "xīwàng",
+    "meaning": "hy vọng; mong",
+    "example": "我希望明天不下雨。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-458",
+    "editorialId": "v12-vocab-cti25-v-458",
+    "simplified": "下来",
+    "pinyin": "xiàlái",
+    "meaning": "xuống đây; xuống",
+    "example": "楼上太热了，你下来吧。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-461",
+    "editorialId": "v12-vocab-cti25-v-461",
+    "simplified": "小孩儿",
+    "pinyin": "xiǎoháir",
+    "meaning": "trẻ nhỏ",
+    "example": "小孩儿已经睡了。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-466",
+    "editorialId": "v11-vocab-cti25-v-466",
+    "simplified": "颜色",
+    "pinyin": "yánsè",
+    "meaning": "màu sắc",
+    "example": "你喜欢什么颜色的衣服？",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-L3-009",
+      "v11-hsk2-grammar-00035-1",
+      "v12-hsk2-grammar-00014-2"
+    ],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-467",
+    "editorialId": "v11-vocab-cti25-v-467",
+    "simplified": "眼睛",
+    "pinyin": "yǎnjing",
+    "meaning": "mắt",
+    "example": "我的眼睛有点儿不舒服。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-470",
+    "editorialId": "v12-vocab-cti25-v-470",
+    "simplified": "爷爷",
+    "pinyin": "yéye",
+    "meaning": "ông nội",
+    "example": "爷爷坐在椅子上看书。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-475",
+    "editorialId": "v11-vocab-cti25-v-475",
+    "simplified": "阴",
+    "pinyin": "yīn",
+    "meaning": "âm u; nhiều mây",
+    "example": "今天是阴天，不太热。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-479",
+    "editorialId": "v12-vocab-cti25-v-479",
+    "simplified": "有意思",
+    "pinyin": "yǒu yìsi",
+    "meaning": "thú vị; có ý nghĩa",
+    "example": "这本书很有意思。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-485",
+    "editorialId": "v12-vocab-cti25-v-485",
+    "simplified": "运动",
+    "pinyin": "yùndòng",
+    "meaning": "vận động; thể thao",
+    "example": "爸爸喜欢做运动。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-487",
+    "editorialId": "v12-vocab-cti25-v-487",
+    "simplified": "丈夫",
+    "pinyin": "zhàngfu",
+    "meaning": "chồng",
+    "example": "她丈夫在学校工作。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-493",
+    "editorialId": "v10-vocab-cti25-v-493",
+    "simplified": "准备",
+    "pinyin": "zhǔnbèi",
+    "meaning": "chuẩn bị",
+    "example": "我准备明天去看医生。",
+    "flags": [
+      "MISSING_RELATED_PRACTICE",
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [],
+    "priority": 6,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-335",
+    "editorialId": "v11-vocab-cti25-v-335",
+    "simplified": "地铁",
+    "pinyin": "dìtiě",
+    "meaning": "tàu điện ngầm",
+    "example": "我坐地铁去上班。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-R4-003",
+      "v11-hsk2-grammar-00006-4"
+    ],
+    "priority": 5,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-368",
+    "editorialId": "v12-vocab-cti25-v-368",
+    "simplified": "教室",
+    "pinyin": "jiàoshì",
+    "meaning": "phòng học",
+    "example": "学生都在教室里。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00008-2",
+      "v12-hsk2-grammar-00011-3"
+    ],
+    "priority": 5,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-391",
+    "editorialId": "v12-vocab-cti25-v-391",
+    "simplified": "楼",
+    "pinyin": "lóu",
+    "meaning": "tòa nhà; tầng lầu",
+    "example": "教室在二楼。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-R4-004",
+      "v12-hsk2-grammar-00001-1"
+    ],
+    "priority": 5,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-416",
+    "editorialId": "v12-vocab-cti25-v-416",
+    "simplified": "票",
+    "pinyin": "piào",
+    "meaning": "vé",
+    "example": "我的票在书包里。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v9-hsk2-L3-007",
+      "v10-hsk2-R1-004"
+    ],
+    "priority": 5,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-429",
+    "editorialId": "v10-vocab-cti25-v-429",
+    "simplified": "身体",
+    "pinyin": "shēntǐ",
+    "meaning": "cơ thể; sức khỏe",
+    "example": "爷爷的身体很好。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-grammar-00029-1",
+      "v11-hsk2-grammar-00006-5"
+    ],
+    "priority": 5,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-434",
+    "editorialId": "v10-vocab-cti25-v-434",
+    "simplified": "手表",
+    "pinyin": "shǒubiǎo",
+    "meaning": "đồng hồ đeo tay",
+    "example": "这个手表是姐姐送的。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L3-002",
+      "v11-hsk2-grammar-00035-4"
+    ],
+    "priority": 5,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-442",
+    "editorialId": "v12-vocab-cti25-v-442",
+    "simplified": "题",
+    "pinyin": "tí",
+    "meaning": "câu hỏi; bài tập",
+    "example": "今天的题我都做完了。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-R2-002",
+      "v10-hsk2-grammar-00015-3"
+    ],
+    "priority": 5,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-453",
+    "editorialId": "v12-vocab-cti25-v-453",
+    "simplified": "位",
+    "pinyin": "wèi",
+    "meaning": "vị (lượng từ lịch sự cho người)",
+    "example": "那位老师教我们中文。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00008-2",
+      "v12-hsk2-grammar-00011-4"
+    ],
+    "priority": 5,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-477",
+    "editorialId": "v12-vocab-cti25-v-477",
+    "simplified": "游",
+    "pinyin": "yóu",
+    "meaning": "bơi; đi chơi, tham quan",
+    "example": "这条鱼游得很快。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L3-006",
+      "v10-hsk2-R4-006"
+    ],
+    "priority": 5,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-308",
+    "editorialId": "v11-vocab-cti25-v-308",
+    "simplified": "本子",
+    "pinyin": "běnzi",
+    "meaning": "quyển vở",
+    "example": "我在本子上写汉字。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L2-004"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-314",
+    "editorialId": "v12-vocab-cti25-v-314",
+    "simplified": "长",
+    "pinyin": "cháng",
+    "meaning": "dài",
+    "example": "这条裤子太长了。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-grammar-00021-1"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-321",
+    "editorialId": "v12-vocab-cti25-v-321",
+    "simplified": "床",
+    "pinyin": "chuáng",
+    "meaning": "giường",
+    "example": "小猫在床上睡觉。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R4-020"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-326",
+    "editorialId": "v11-vocab-cti25-v-326",
+    "simplified": "错",
+    "pinyin": "cuò",
+    "meaning": "sai; nhầm",
+    "example": "这个字写错了。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-R4-004"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-357",
+    "editorialId": "v12-vocab-cti25-v-357",
+    "simplified": "花",
+    "pinyin": "huā",
+    "meaning": "tiêu; tốn",
+    "example": "买这本书花了二十块钱。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-R4-003"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-359",
+    "editorialId": "v12-vocab-cti25-v-359",
+    "simplified": "画",
+    "pinyin": "huà",
+    "meaning": "vẽ; bức tranh",
+    "example": "妹妹画的花真好看。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v11-hsk2-grammar-00006-2"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-363",
+    "editorialId": "v10-vocab-cti25-v-363",
+    "simplified": "机场",
+    "pinyin": "jīchǎng",
+    "meaning": "sân bay",
+    "example": "爸爸现在在机场。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L1-001"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-375",
+    "editorialId": "v12-vocab-cti25-v-375",
+    "simplified": "酒店",
+    "pinyin": "jiǔdiàn",
+    "meaning": "khách sạn",
+    "example": "这个酒店离机场不远。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00002-3"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-381",
+    "editorialId": "v12-vocab-cti25-v-381",
+    "simplified": "考试",
+    "pinyin": "kǎoshì",
+    "meaning": "thi; bài kiểm tra",
+    "example": "这次考试我考得很好。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R4-020"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-388",
+    "editorialId": "v12-vocab-cti25-v-388",
+    "simplified": "累",
+    "pinyin": "lèi",
+    "meaning": "mệt",
+    "example": "今天走了很多路，我很累。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00042-2"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-389",
+    "editorialId": "v12-vocab-cti25-v-389",
+    "simplified": "离",
+    "pinyin": "lí",
+    "meaning": "cách; rời",
+    "example": "我家离学校很近。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v11-hsk2-grammar-00006-4"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-392",
+    "editorialId": "v12-vocab-cti25-v-392",
+    "simplified": "路",
+    "pinyin": "lù",
+    "meaning": "đường",
+    "example": "这条路上有一家药店。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v8-hsk2-R3-016"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-402",
+    "editorialId": "v10-vocab-cti25-v-402",
+    "simplified": "门票",
+    "pinyin": "ménpiào",
+    "meaning": "vé vào cửa",
+    "example": "这里的门票不贵。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v11-hsk2-grammar-00036-1"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-421",
+    "editorialId": "v12-vocab-cti25-v-421",
+    "simplified": "球",
+    "pinyin": "qiú",
+    "meaning": "bóng; quả bóng",
+    "example": "球在桌子下面。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00001-2"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-430",
+    "editorialId": "v12-vocab-cti25-v-430",
+    "simplified": "生日",
+    "pinyin": "shēngrì",
+    "meaning": "sinh nhật",
+    "example": "今天是妈妈的生日。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-L3-003"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-463",
+    "editorialId": "v12-vocab-cti25-v-463",
+    "simplified": "笑",
+    "pinyin": "xiào",
+    "meaning": "cười",
+    "example": "看见爸爸回家，孩子笑了。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00030-2"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-483",
+    "editorialId": "v11-vocab-cti25-v-483",
+    "simplified": "鱼",
+    "pinyin": "yú",
+    "meaning": "cá",
+    "example": "这条鱼很小。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v12-hsk2-grammar-00011-1"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  },
+  {
+    "id": "cti25-v-497",
+    "editorialId": "v12-vocab-cti25-v-497",
+    "simplified": "足球",
+    "pinyin": "zúqiú",
+    "meaning": "bóng đá; quả bóng đá",
+    "example": "星期天我们去踢足球。",
+    "flags": [
+      "NEEDS_HUMAN_REVIEW"
+    ],
+    "relatedQuestionIds": [
+      "v10-hsk2-R4-002"
+    ],
+    "priority": 4,
+    "suggestedAction": "Kiểm tra nghĩa, ví dụ, pinyin và related practice",
+    "humanDecision": "PENDING"
+  }
+]

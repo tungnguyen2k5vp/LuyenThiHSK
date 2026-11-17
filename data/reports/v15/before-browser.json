@@ -1,0 +1,515 @@
+{
+  "at": "2026-10-19T16:57:21.274Z",
+  "status": "PASS",
+  "scope": "V14 integrated Catalog/Intro/Room/Navigator; isolated API/profile, existing media/renderer owners",
+  "workspace": "D:\\ReactJS\\LuyenThiHSK\\.tmp\\v15-browser-1792428991249",
+  "logs": "data/reports/v15/browser-1792428991249",
+  "transformations": [
+    {
+      "file": "scripts/build-v6-content.mjs",
+      "before": "cd2cf7f4a9fc602175ab8ce24db59cc5d5867a1d36df295e3ba4bcb4ba4215ad",
+      "after": "1612ed5b37be3262829aceb514a4a821b131730a845efc2c6d769c048e357f1a",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v10-handoff.mjs",
+      "before": "281db52315ade9f8c33f6a90c24393e9853bda69c2c7fa44fb015896f535c9c5",
+      "after": "074a3c4edefd90e8ad1a2355e423d894e235cc5704cbb580ba402f6d939aa0be",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v11-handoff.mjs",
+      "before": "371f0355d4e3af4bf2def2aee1715a93d46fb8d81e48fd8043f51eada8b46c7c",
+      "after": "22334836b5e2d076f003b93790780acbadef613005d6b7e2f9524cb398d997b5",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v12-handoff.mjs",
+      "before": "fd27705d3f3f7a3ba32cfa671f5f201f7686079c39f79c192e4d2ecec75dc16f",
+      "after": "3137e2c28e92321bdbc9053cfe498311b0e08936ce41a9429454a0e6f8d6a5a4",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v6-handoff.mjs",
+      "before": "754ff69315666d8fbdd9222da7fdfdf3990e87e4c7a148ac7a5efc81791ce259",
+      "after": "5c01442c856f3f4912543bc953632a8e434b5bea414aa97624a2e6b2255c90d5",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v7-handoff.mjs",
+      "before": "23785f6a2b79143146014f4c423bedd11700d4dc3c960e47004c02b4d18b4ae1",
+      "after": "3345370ef97618b206d26866cbb142624d92bfaa47d8330761fd8645adbabd0e",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v8-handoff.mjs",
+      "before": "24db3bc7df3c454e9b91af480a9900839270dcb8ca8e8a09c1f54c5976d97672",
+      "after": "bfa830341fd7e3d91b6e1b18ee305922971033b1c6e963355c04b8d8d7f7fdf3",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/check-v9-handoff.mjs",
+      "before": "ae12e6b58f16827f34de576e69f2298a1ae982d463341398e92dcaa2fd748c07",
+      "after": "fb267430f002afd1f8a8cc388edd40a096e81a42fd46aa6b6657d263f4935166",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/exam-browser-check.mjs",
+      "before": "2f4b6cca8afea61e6be5626652673e851a54628f8d94a1e068e5738e61baa3b5",
+      "after": "693869f95a17ef7f39308c399f8b7db5732c8106ace58aacfd5065c2aeca7682",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/export-v5-review.mjs",
+      "before": "6ecdeacc3e85dca117fdf36b6ff0b46ece45c982dc339886ab96dc43b1ba477a",
+      "after": "c7ccd6dea1823978af99187bb33fdbc88a077bf62b17605283553bbe56092490",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/finalize-v5.mjs",
+      "before": "d342ea28055f8964113d00a409c118cbaa52741275ada6395d671979cab05c7d",
+      "after": "bac59a53a9d733480fb7f3036ef340c528206a9860f5e1b833fe74e0a582043a",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/preparation-browser-flows.mjs",
+      "before": "e5968e8a3f5d67d22d304cba16b4c28b3de747a31b8ac695a4785e4262c6858c",
+      "after": "f8bab792deb15e530c855745ac8f36d589ea7247aefd884b2c62ec1b413748ce",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/report-v4.mjs",
+      "before": "3ec6814594699d40446e8009613437623ff50dab4dc11c2a3b241d922835e3b4",
+      "after": "48671616d8c8b5f2e00b9c0046e3eba5afaa6b53b60f7b11e76cbb0f01771067",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/report-v5.mjs",
+      "before": "454e4419ad7b55785a29aec818bceb754fce2ecdc8fdde33ae4adb8c064a903f",
+      "after": "2dc468c4b8d3dd8f37555ed6d2be00e69784b51d9746ac0d1a8f3a8aefd8262f",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/report-v6.mjs",
+      "before": "5e1965b8f8df0e70987cd813d5232a91484ada85efbfca33e346b85f9dcba304",
+      "after": "771b43bef01b904ca8c3c1b9108e8debc9f3e86307c8fcf88f759498251bec8b",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/report-v7.mjs",
+      "before": "acd88b448f6774e30f2b2fa0e9446ba7ea68fc118c481486e7f4796cdeaa8f71",
+      "after": "3169a7ae378501dc4d4d1f97589cfcd1f3210219aa69665aa10215d708f6ce8b",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/test-v15.mjs",
+      "before": "ca8351b4205575275841187305b7f715efcf0126c4fa2786c083a14e3ef734e8",
+      "after": "ef612880a203c3d1df0a751f89f3e1593fa76ff83a5aad9c1365e7b6ac86916d",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v10-audit.mjs",
+      "before": "aa8a74ae57e1193d7a551a421f9ece4bfe3b99d1fee6c239e2e6465df9268b2a",
+      "after": "5096f01fac64f0c683fb6da95e2f12952169eb649cbbc2dc856e71118fa15b5f",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v10-browser-flows.mjs",
+      "before": "36f2ff7fd20f7011667a11501dc3f8226a8e2115e10360548e774aad4aed1dae",
+      "after": "4ad1f49145f46fa8389989a469a02a0fd4368ac2fc8dd97aef86d25b681f58ed",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v10-revise-authored.mjs",
+      "before": "99be30d6dd6e222187d72a054ef1cd410c0de10474445a8bce24a273118d4098",
+      "after": "5718dce1ea94dd6f324ce0cb65f56e7eba8a037423684d830e39f0308b80c60c",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v10-stage.mjs",
+      "before": "9439a679703481a60285196449cf3473d38efa1a90b30300deea0f7ee33eff71",
+      "after": "1c92a4b13e252e1e0c3f28cdb7fdb089f2119642354c480ffa23cc7566ff067a",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-audit.mjs",
+      "before": "54446618919e188552f834cfc8609a33208c39cb06cf8d6a5c18845e5329a684",
+      "after": "0e36ebaf7b4bf6b3fe0959707e23c6d12d99d38d8d8555ecb7ce37c090c42aa8",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-browser-flows.mjs",
+      "before": "2d2be2a58a62a20160b67cbd7b42e9f5ceb762575414020e90cfcd3093942521",
+      "after": "422ca3d32c7f2a08e93d37a70e1eee4532b32b0dbf23d7bf69716a4b3645dac5",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-live-smoke.mjs",
+      "before": "0fbd5d2c899660aa12d92eeaa55af30a8394758514894bc04cd15345deaf2187",
+      "after": "d2b45a9a079c3c4057cde84decea32d5063358adc36fa334f234df4a6a818e18",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-live-stage.mjs",
+      "before": "2204e50bc850be73f8548e631b352232750303ec47ec545ca32e4a7397437892",
+      "after": "2dc564c1c4148d659c641617b71310308dea75d3ba7ca1cec622a4d8d23ebdcc",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-mock-browser.mjs",
+      "before": "1c8ad27294a90647e8e561400a7f2226175d49ce9154a851032d54dbb6d237b9",
+      "after": "36342f9fdf8c54a1bbd6b38dc411111cdbf1d746261ddc8d2c5070ba7e9fe829",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-performance-flows.mjs",
+      "before": "d851a582277fd3f4a1eab101272547f9e0151895bac44404897cba8581c00e20",
+      "after": "526b3de0c54db8d03fbf259b5f451ac5043f8c3988bb59dc3efe2fe2c495efa6",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-revise-question-ids.mjs",
+      "before": "20f144a7c60f253fa804b9f9da675597f0f9cfe92bb259113607f28db4e9fee8",
+      "after": "db1ae070cc13a5e258553a821e16ecda8acda5938f4319812a10e49af0af138b",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-revise-words.mjs",
+      "before": "cbe4320362906197660f1ccf38bd2ac0f4a12b5b434f2409a44930ef1aeabf67",
+      "after": "3f9ebc5425bdb214b4b8fdcc9cffc807629b80ff8392551afcecda8cbcc2f523",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v11-staging-audit.mjs",
+      "before": "332aa5dae93d0edb89a294428ce517b263ceae12dff1ed59b0b7d6f03164ab34",
+      "after": "daddf0c5d29517bd496a3cd0d7fef675a65cfe5cfe025a8b64740999dca75679",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-audit.mjs",
+      "before": "d7c090b25df3e03f1503635fe28381699cfc88614f4f4362a71ed41bb1f0d2ad",
+      "after": "ebcb3d50a49542e653ca0d0de795e3b43055d4af39d954977e888b41d22bf637",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-browser-flows.mjs",
+      "before": "054f31eab1f3ffe29c8c5ee7f2d2a6eeb570a6dcf77820e5e4f15a97e3a8477e",
+      "after": "7cdf712e66a168ff653611ee40f98dc6263f961215e4088c977a9eb86a401899",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-live-stage.mjs",
+      "before": "8d0da2b910ee1dbe5e711ecea408ef95d843d2f3f02156763f7b5314f85a61c0",
+      "after": "39f2cdc8fce3d6c666a3fb25e6d9acbffbb9625d76651c096b60c436545a012e",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-metadata.mjs",
+      "before": "db58638b39f2eb94cbd51b2d144f8333d5f6713bb55474f909431620a294d5a1",
+      "after": "6d3741d9a7e88b5a2298433b73999660ea571f7ee312a84b644453d99c2bece2",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-mock-browser.mjs",
+      "before": "cdd154d87e900e0bc174c046503ab7579a8d51790c31b3c6784fa8a2c5288640",
+      "after": "d1f53ef1796ed4741b2322abe6fe3abbb8c59a2f89147349143905317865846a",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-performance-flows.mjs",
+      "before": "d8258f3fd97c535f4947cf1d39ce5c67bdc18bfbff9c0bafa29d62c14734753d",
+      "after": "02814b9f06db7d244572f4f7c653e78fddfa494f0518fa603c3e2011b3609a4a",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-reference-refinement.mjs",
+      "before": "3b38066b5bcbd1cb6ebe1d4ad483dcd477fcccaa7548605ae0ddd16afd661fbc",
+      "after": "4c0e132ad01fb758430cc0f04c8d83b5dfa86797f61ff739d9e81ab20fcb0c82",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-revise-quality.mjs",
+      "before": "14a5f910dc3da2605707864bef615089500e0e74a986123ed889288978f8dfd9",
+      "after": "30753935b14cb51d9bb460597d78231db73054bb0c53be54217f7cc1b17aa171",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v12-staging-audit.mjs",
+      "before": "1d1efe744dfa8f3afa63422c58cccc2c3536a254bcb4e9b8986415d160f4dca4",
+      "after": "e843b8c716154f1b076a8fea89959dc732dc0c96f3115008121ffe1c74d4cb73",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v13-browser-flows.mjs",
+      "before": "7668cf8543547789770b3a73a91ebcded742c73b18988720d29513a73aee1684",
+      "after": "d0606dff79f6b34f97bb43ab721490dd03d3b60654e8f2b73a50c7f248434232",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v13-live-stage.mjs",
+      "before": "b511fbbdf7289610138197f7bf3960abbb7b7806609aa24e0ce82401ab9c5297",
+      "after": "96e5f45071458da62de19b31470bbe85ecd2505e437e1c7bd3742f11d7a1e5f0",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v13-staging-audit.mjs",
+      "before": "6a19faaf5e47a668d1f47b909360fb9035396360792357046b14d0d5ac6040bf",
+      "after": "12623b4a0ddc58dfed656494ba974c084bc5ffaad91a91c25067792f53c6d4c8",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v14-browser-regression.mjs",
+      "before": "0fe50eb69e93f1846bd2e96108f01ad9eb50761b0258a674b3cdfce46dfddf48",
+      "after": "c4451a5e5a6169bcbeaa66e3acbaa7a815c6392c09f859b5cacb99fc1cfa4c7a",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v14-start-local-api.mjs",
+      "before": "110fa463ca83040970e0d0c8c632d4defe48ddad036c15247bdc982f45115913",
+      "after": "01c649e902d944636931545a86639c7bdd74a5f4dd8ed014c8e46a0a8a396f5c",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v15-browser-regression.mjs",
+      "before": "5bf4197de871673240d9c6004edcfba4e8656d59b89bb291c301b0eb406f5bc4",
+      "after": "49a5759e2aba664578a8ce94b53330b6eb633104054bf228df4a2567fac5bfa2",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v3-browser-flows.mjs",
+      "before": "e476563014d95e812a2873acdd7d17dadfd1177ca127243418dcd0fef1776003",
+      "after": "bba24a425372640fde69e92d58378b47cfdaa55c8f1419cab229b0f32384dadf",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v4-browser-flows.mjs",
+      "before": "bf7787669fc7bd5b16f58b64fc07d882e6163c595b6261da208cbfb58cd172ef",
+      "after": "dd11893cfbe0b9bc2b0cda27714abe478f2546b22dc7533819bc5b5c8d0225ff",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v5-baseline.mjs",
+      "before": "a63b705559beb5f4573a95c108bace941f6c2996d8f291d0c5a4379921f81cf0",
+      "after": "c63498007d16a532f6dc8ec45eeb58dd6546e796621ac208f9b0e53fd1ba3e79",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v5-browser-flows.mjs",
+      "before": "e0ff22db8fb90174bc8a4e9a1b5fe7a53828d6b280a5ef5e1371a962a36025d8",
+      "after": "639e6d8c43ffe9244d1505496ddb96de7a3ecbc8db3e26aa0ce36301a7ac8bfd",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v5-live-stage.mjs",
+      "before": "2890bc0f4d0b8ba402d8f3d2c389ba331ad3dd04515aa2c4a06338d3bd33f92f",
+      "after": "97e18434ede6efb985812d34852e5fca5b7d7856a692ffb3104cbf6db535749d",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-baseline.mjs",
+      "before": "12cec17d38dabfd25bc4ac24f0fccafa324a2298b1ce277098ebd9179008a365",
+      "after": "89716237fd9781c302d00acbf6982b4d3b71589daa25811351e3ffc192cb6268",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-browser-flows.mjs",
+      "before": "1c82ae1b44e232f84320b746dde3320733518e3622c780b99f9b68e7d8a8b67d",
+      "after": "8e8312ff5569df701a7b35518e4752575f38e03a4fd6e4f3f63cf203bde46167",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-finish-wiring.mjs",
+      "before": "a738a5d00883a8e47fec3c08a88c50854bb615d980552f5bcfd8b1e86569c1a5",
+      "after": "8130817299abf712acc77a8bbd517aaf9d2fa76e6bcdc60b7ccf7961b80bd405",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-live-stage.mjs",
+      "before": "11fd7e3ab401fc582cd34effaf60dbeb93b679b99c1f89310f7aac2aee4c3a60",
+      "after": "15ad34679f113026de45c82880c3e1dc1908aa3bf506cc279d61e311f85f03b3",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-performance-flows.mjs",
+      "before": "3291ae102d877432a270cabc2b2c82f460a89a2d15a5adae052893d7579ac13a",
+      "after": "560b809dc6b56881f6006d7dfa2e8e6e9e4464f29c55ee5ffccb169e753bca86",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v6-renderer-stress.mjs",
+      "before": "4063034048fc350135c9f9470dee5250b16a7afcadee8ad96766d35222a0f628",
+      "after": "40aabae49278faf56c436c9f115317128d5f86a31b0b8c9894464095edfb5cd1",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v7-content-audit.mjs",
+      "before": "2909efd57dd9fbeaf594f4f8e4deb4a55980fca2872728e0889531f83919725a",
+      "after": "fb8f2be00b5379b0c9428f65a7909574bda195d800a704491aeb0677c6b69e39",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v7-lesson-corrections.mjs",
+      "before": "c711214e2946d514c39f93b0e691dc63d1f6a4143753aadb2d58e7c394f36803",
+      "after": "cc663b7cb5211ee0fc4324e85446b98c5eaaaf4fdaae6d3001b9ea1a3dfd3ac1",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-base-performance.mjs",
+      "before": "744992973f78c95d39025c9352944f6369466b4173e5d8c5f25bb0bba9f064ea",
+      "after": "f53b0eb3525d5d972168ff3d02c47c337fc0ed3594cf27f3916b74c1b2ab550e",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-content-review.mjs",
+      "before": "8078f001ec3e193ae046b00c5f3ebfbc293a129ca2718aeb2ddd7bab6e9ad36d",
+      "after": "75573b987243de1b2f5352958329b1988a59b08a2cad39ea9fbb2912a459c7ac",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-extra-captures.mjs",
+      "before": "48803a6fe948af1f55b9ce0075e6b939970dc6efdfc5f7afddc7788c11496397",
+      "after": "e749549f847faa70c212f6679e44914ee960f90a03a4ddc41a2096a33357c686",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-manual-key-corrections.mjs",
+      "before": "cdf4bd1e02da097e4cdd4356e1ded8463bf533f07d47fe52c2212649b09c53e4",
+      "after": "50760d3ecec15cc144ec75a93fc725ed3174d8e73b115b435eba421954e6e79e",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-performance-flows.mjs",
+      "before": "912a4efe0da2adc227dfe4c35e6f90bdcd1be59ebd7c18732e947ae958502c03",
+      "after": "d8fa543dbf1d1a6685214944b795164379548ef7006dbdfd83ff49f3b61b025a",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v8-stage.mjs",
+      "before": "b5f5c289fcb89b30894d64a957733c1725e931f32d4c9900cec557caf77b886b",
+      "after": "6e4d48b0520fe35c789c267dc60c1353d9b231c1dbf28b0d5ddf3fd693df8475",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "scripts/v9-stage.mjs",
+      "before": "0b60ef77b966676f174dee1552ed6be67a10d397333c9548c9ff30a7e182d9dc",
+      "after": "4575b58c1a0f4c34c7f7bcbb7956f90eb7825f15ccb832e40ff42664d129450e",
+      "reason": "QA-only API port isolation; product files unchanged"
+    },
+    {
+      "file": "dist/assets/localApi-DKZXHjt7.js",
+      "before": "0f51e99287858efa61fee6052d3220a7dbbc4fd2d919b962dffbf7c85ef1acbb",
+      "after": "9ff0b59b97b7f5c6c34129efb61de034d8d0190602172eeb5c37826d7a696210",
+      "reason": "QA-only API port isolation; product files unchanged"
+    }
+  ],
+  "results": [
+    {
+      "browser": "chrome",
+      "exitCode": 0,
+      "status": "PASS",
+      "details": {
+        "at": "2026-10-19T16:56:58.887Z",
+        "status": "PASS",
+        "checks": [
+          "Real HSK1 private catalog has two cards",
+          "Catalog mobile has no horizontal overflow",
+          "Start is disabled until explicit platform-rule acknowledgement",
+          "Instructions do not create an attempt before confirm",
+          "Practice starts through existing owner with immutable snapshot",
+          "Practice audio actually plays through the existing owner and records a play",
+          "New layout uses only the existing audio owner",
+          "Answer persists with current question index",
+          "Refresh resumes same session and raw answer",
+          "Practice feedback appears only after check",
+          "Mobile drawer Escape closes and restores focus to its toggle",
+          "Shared-bank answer and revision survive refresh",
+          "Practice submit creates one completed attempt and removes session",
+          "Timed mode is fixed and future section navigation denied",
+          "Timed refresh keeps session/section deadline without duplicate attempt",
+          "Next-section instructions leave active section and deadline unchanged before acknowledgement",
+          "Section starts once and persists acknowledgement",
+          "Section acknowledgement and deadline survive reload",
+          "Double submit remains idempotent",
+          "HSK2 mock remains locked with real readiness",
+          "Flag fallback retains same learner data",
+          "V14 writing preserves raw Unicode and composition in the same owner",
+          "Native writing Undo remains intact under V14 layout",
+          "Existing loaded writing session keeps its saved draft offline",
+          "Manual writing stays ungraded and is submitted once",
+          "Supplementary true/false maps the real stable option ID without changing full-mock format"
+        ],
+        "screenshots": [
+          "v14-catalog-desktop.png",
+          "v14-catalog-mobile.png",
+          "v14-intro.png",
+          "v14-instructions.png",
+          "v14-room-listening.png",
+          "v14-practice-feedback.png",
+          "v14-room-mobile-navigator.png",
+          "v14-shared-options.png",
+          "v14-result-existing-owner.png",
+          "v14-timed-resume.png",
+          "v14-hsk2-blocked.png",
+          "v14-writing-raw-undo.png",
+          "v14-writing-result-ungraded.png",
+          "v14-true-false-ids.png"
+        ],
+        "scope": "Integrated Catalog/Intro + Room/Navigator using same legacy media/question/scoring owners; actual browser audio, isolated API/profile; no claim of complete V14 renderer conversion"
+      }
+    },
+    {
+      "browser": "edge",
+      "exitCode": 0,
+      "status": "PASS",
+      "details": {
+        "at": "2026-10-19T16:57:20.995Z",
+        "status": "PASS",
+        "checks": [
+          "Real HSK1 private catalog has two cards",
+          "Catalog mobile has no horizontal overflow",
+          "Start is disabled until explicit platform-rule acknowledgement",
+          "Instructions do not create an attempt before confirm",
+          "Practice starts through existing owner with immutable snapshot",
+          "Practice audio actually plays through the existing owner and records a play",
+          "New layout uses only the existing audio owner",
+          "Answer persists with current question index",
+          "Refresh resumes same session and raw answer",
+          "Practice feedback appears only after check",
+          "Mobile drawer Escape closes and restores focus to its toggle",
+          "Shared-bank answer and revision survive refresh",
+          "Practice submit creates one completed attempt and removes session",
+          "Timed mode is fixed and future section navigation denied",
+          "Timed refresh keeps session/section deadline without duplicate attempt",
+          "Next-section instructions leave active section and deadline unchanged before acknowledgement",
+          "Section starts once and persists acknowledgement",
+          "Section acknowledgement and deadline survive reload",
+          "Double submit remains idempotent",
+          "HSK2 mock remains locked with real readiness",
+          "Flag fallback retains same learner data",
+          "V14 writing preserves raw Unicode and composition in the same owner",
+          "Native writing Undo remains intact under V14 layout",
+          "Existing loaded writing session keeps its saved draft offline",
+          "Manual writing stays ungraded and is submitted once",
+          "Supplementary true/false maps the real stable option ID without changing full-mock format"
+        ],
+        "screenshots": [
+          "v14-catalog-desktop.png",
+          "v14-catalog-mobile.png",
+          "v14-intro.png",
+          "v14-instructions.png",
+          "v14-room-listening.png",
+          "v14-practice-feedback.png",
+          "v14-room-mobile-navigator.png",
+          "v14-shared-options.png",
+          "v14-result-existing-owner.png",
+          "v14-timed-resume.png",
+          "v14-hsk2-blocked.png",
+          "v14-writing-raw-undo.png",
+          "v14-writing-result-ungraded.png",
+          "v14-true-false-ids.png"
+        ],
+        "scope": "Integrated Catalog/Intro + Room/Navigator using same legacy media/question/scoring owners; actual browser audio, isolated API/profile; no claim of complete V14 renderer conversion"
+      }
+    }
+  ]
+}

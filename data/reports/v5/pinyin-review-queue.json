@@ -1,0 +1,5003 @@
+[
+  {
+    "id": "cti25-v-1",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我爱我的家人。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-4",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们回家吧。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-6",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "这件衣服一百元。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-8",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我早上吃包子。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "bāozi",
+        "wǒ zǎo shàng chī bāo zi。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-9",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这是我的杯子。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-13",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我不喝茶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-14",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "谢谢你！不客气。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-15",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "不要在这里说话。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-16",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天的菜很好吃。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "cài",
+        "jīn tiān de cài hěn hǎo chī。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-17",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想喝一杯茶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "chá",
+        "wǒ xiǎng hē yī bēi chá。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-20",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这是谁的车？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-22",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们坐出租车去学校。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-26",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "大家好！",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-30",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这是我的电脑。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-31",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这是我的第一本中文书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-35",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我的电话在桌子上。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-36",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这是我的电脑。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-38",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这个电影很好看。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "diànyǐng",
+        "zhè ge diàn yǐng hěn hǎo kàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-40",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这些东西是我的。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-41",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们都是学生。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-44",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "对，这是我的书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-45",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "对不起，我来晚了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-46",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这里的人很多。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-47",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这个杯子多少钱？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-48",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "她儿子在小学上学。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-50",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们现在吃饭吧。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-51",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这家饭店的菜很好吃。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "fàndiàn",
+        "zhè jiā fàn diàn de cài hěn hǎo chī。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-52",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我的房间很小。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "fángjiān",
+        "wǒ de fáng jiān hěn xiǎo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-56",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我们有十分钟。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "fēnzhōng",
+        "wǒ men yǒu shí fēn zhōng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-60",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我有一个朋友。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "gè",
+        "wǒ yǒu yí gè péng yǒu。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-61",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "请给我一杯水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "gěi",
+        "qǐng gěi wǒ yī bēi shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-62",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "他的公司在这里。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-64",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我家有一只狗。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-65",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这件衣服太贵了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-67",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "我还想喝水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-68",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "那个孩子是我弟弟。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-70",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "你会写汉字吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-71",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "你今天好吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-72",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这些饺子很好吃。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "hǎochī",
+        "zhè xiē jiǎo zi hěn hǎo chī。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-73",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这本书很好看。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "hǎokàn",
+        "zhè běn shū hěn hǎo kàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-74",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "她唱的歌很好听。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "hǎotīng",
+        "tā chàng de gē hěn hǎo tīng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-75",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这个很好玩儿。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "hǎowánr",
+        "zhè ge hěn hǎo wán ér。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-80",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "学校后边有一家书店。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-83",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们坐火车去。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-84",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我早饭吃了一个鸡蛋。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jīdàn",
+        "wǒ zǎo fàn chī le yí gè jī dàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-87",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我的家人都在中国。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-89",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我买了两件衣服。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jiàn",
+        "wǒ mǎi le liǎng jiàn yī fú。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-90",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "妈妈会做饺子。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-94",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "今天是星期一。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-96",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "你觉得怎么样？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-101",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我看见老师了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-102",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我可以坐这里吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "kěyǐ",
+        "wǒ kě yǐ zuò zhè lǐ ma？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-107",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这是我们的老师。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "lǎoshī",
+        "zhè shì wǒ men de lǎo shī。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-108",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我买了三本书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "le",
+        "wǒ mǎi le sān běn shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-111",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "桌子上有两个杯子。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "liǎng",
+        "zhuō zi shàng yǒu liǎng gè bēi zi。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-115",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "你是学生吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-116",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想买一个手机。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "mǎi",
+        "wǒ xiǎng mǎi yí gè shǒu jī。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-119",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "那只猫在椅子下。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-120",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "对不起！没关系。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-124",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们都是他的朋友。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-126",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "桌子上有一些面包。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-129",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "明天你有时间吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "míngtiān",
+        "míng tiān nǐ yǒu shí jiān ma？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-130",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "请写你的名字。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "míngzi",
+        "qǐng xiě nǐ de míng zì。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-132",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "哪个是你的杯子？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-133",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你的学校在哪里？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "nǎlǐ",
+        "nǐ de xué xiào zài nǎ lǐ？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-135",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "哪些书是你的？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-143",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "她的男朋友是老师。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-144",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我很好，你呢？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "ne",
+        "wǒ hěn hǎo， nǐ ne？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-145",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "今天我不能去。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-147",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你好，我叫小王。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "nǐ hǎo",
+        "nǐ hǎo， wǒ jiào xiǎo wáng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-148",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "你们都是中国人吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-149",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "一年有十二个月。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-150",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "您好，请坐。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-152",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "她是我们学校的女老师。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "nǚ",
+        "tā shì wǒ men xué xiào de nǚ lǎo shī。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-153",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "他的女儿很喜欢读书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "nǚ’ér",
+        "tā de nǚ ér hěn xǐ huān dú shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-155",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "王女士，您好！",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-156",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "他是我的好朋友。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "péngyou",
+        "tā shì wǒ de hǎo péng yǒu。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-158",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "她的新衣服很漂亮。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-159",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我买了五个苹果。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "píngguǒ",
+        "wǒ mǎi le wǔ gè píng guǒ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-169",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "今天太热了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-175",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "书在桌子上。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-177",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我们九点上课。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shàngkè",
+        "wǒ men jiǔ diǎn shàng kè。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-180",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天来的人很少。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shǎo",
+        "jīn tiān lái de rén hěn shǎo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-181",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "谁是你的老师？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shéi/shuí",
+        "shuí shì nǐ de lǎo shī？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-183",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我妹妹生病了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-189",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我的手机在这里。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shǒujī",
+        "wǒ de shǒu jī zài zhè lǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-194",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "孩子睡了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-195",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我晚上十点睡觉。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shuìjiào",
+        "wǒ wǎn shàng shí diǎn shuì jiào。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-198",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "桌子上有四个苹果。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-200",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "他是我的哥哥。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-203",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "他们都喜欢中文。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-204",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我有两只猫，它们都很小。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "tāmen",
+        "wǒ yǒu liǎng zhǐ māo， tā men dōu hěn xiǎo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-205",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "她们是我的姐姐。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "tāmen",
+        "tā men shì wǒ de jiě jiě。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-206",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这个杯子太小了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-208",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天的天气很好。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "tiānqì",
+        "jīn tiān de tiān qì hěn hǎo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-210",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "你听见了吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-211",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "她是我的同学。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-213",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "外边下雨了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-214",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "孩子们在家玩。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-215",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "现在很晚了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǎn",
+        "xiàn zài hěn wǎn le。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-218",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "喂，您好！",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-219",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想问一个问题。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wèn",
+        "wǒ xiǎng wèn yí gè wèn tí。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-222",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们去学校吧。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-223",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我有五个杯子。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǔ",
+        "wǒ yǒu wǔ gè bēi zi。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-224",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们在学校吃午饭。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-226",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "猫在桌子下。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-227",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "今天下雨了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-229",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们四点下课。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-231",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "王先生在公司吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-234",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这是一个小杯子。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-236",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我学习了一个小时。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-237",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这是我的小学。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiǎoxué",
+        "zhè shì wǒ de xiǎo xué。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-240",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "请写你的名字。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiě",
+        "qǐng xiě nǐ de míng zì。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-242",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这是我的新书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-243",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "一个星期有七天。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-244",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "星期日我不上班。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-245",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "星期天我们去看电影。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-246",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "你休息一下吧。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-248",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "他是大学的学生。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-249",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们在学校学习汉语。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-251",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "外边的雪很大。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xuě",
+        "wài biān de xuě hěn dà。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-254",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "桌子上有一个杯子。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-255",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这件衣服很好看。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "yīfu",
+        "zhè jiàn yī fú hěn hǎo kàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-256",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "她是医生，不是老师。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-258",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我吃了一半。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-259",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "请看一下。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-260",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这是我的椅子。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "yǐzi",
+        "zhè shì wǒ de yǐ zi。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-261",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想喝一点儿水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "yìdiǎnr",
+        "wǒ xiǎng hē yì diǎn ér shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-262",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我买了一些苹果。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "yìxiē",
+        "wǒ mǎi le yī xiē píng guǒ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-263",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我有一个女儿。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "yǒu",
+        "wǒ yǒu yí gè nǚ ér。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-264",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "有的学生喜欢看书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-266",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "有些人还在工作。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-267",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天的雨很大。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "yǔ",
+        "jīn tiān de yǔ hěn dà。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-269",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "今天是五月一日。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-273",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "现在还早。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-275",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "早上好！",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-278",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我在找我的手机。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhǎo",
+        "wǒ zài zhǎo wǒ de shǒu jī。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-281",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这个苹果很好吃。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhège",
+        "zhè ge píng guǒ hěn hǎo chī。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-284",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这些都是我的书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-285",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你写的字真好看。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhēn",
+        "nǐ xiě de zì zhēn hǎo kàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-288",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我知道他的名字。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-291",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "中午我们在学校吃饭。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhōngwǔ",
+        "zhōng wǔ wǒ men zài xué xiào chī fàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-295",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "杯子在桌子上。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-297",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "昨天我去了书店。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00001",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "小王是我的朋友。这是第一课。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00002",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们都是学生。学校在那边。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00003",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "书在桌子上。猫在椅子下。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00004",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我会说汉语。今天我不能去学校。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00006",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我可以坐这里吗？你可以看这本书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ kě yǐ zuò zhè lǐ ma？",
+        "nǐ kě yǐ kàn zhè běn shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00007",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我晚上十点睡觉。老师在和学生说话。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ wǎn shàng shí diǎn shuì jiào。",
+        "lǎo shī zài hé xué shēng shuō huà。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00008",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "谁是你的老师？你想吃什么？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shuí shì nǐ de lǎo shī？",
+        "nǐ xiǎng chī shén me？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00009",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我是学生。她是我的姐姐。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ shì xué shēng。",
+        "tā shì wǒ de jiě jiě。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00010",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这个杯子是我的。那些都是中文书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00011",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我有两个杯子。今天是二月三日。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ yǒu liǎng gè bēi zi。",
+        "jīn tiān shì èr yuè sān rì。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00012",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我买了三本书。这里有两只猫。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ mǎi le sān běn shū。",
+        "zhè lǐ yǒu liǎng zhǐ māo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00013",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "请给我一杯水。我想喝两杯茶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "qǐng gěi wǒ yī bēi shuǐ。",
+        "wǒ xiǎng hē liǎng bēi chá。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00015",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天很冷。这件衣服太贵了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jīn tiān hěn lěng。",
+        "zhè jiàn yī fú tài guì le。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00016",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我们都是学生。这些书都很好看。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ men dōu shì xué shēng。",
+        "zhè xiē shū dōu hěn hǎo kàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00018",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "请再说一次。我想再买一本书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "qǐng zài shuō yī cì。",
+        "wǒ xiǎng zài mǎi yī běn shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00019",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我也喜欢喝茶。他还在学校。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ yě xǐ huān hē chá。",
+        "tā hái zài xué xiào。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00020",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我不喝茶。我没有电脑。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00022",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我和朋友说话。老师对学生很好。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ hé péng yǒu shuō huà。",
+        "lǎo shī duì xué shēng hěn hǎo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00024",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这是我的书。老师的杯子在桌子上。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00025",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我买了三本书。他喝了一杯水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ mǎi le sān běn shū。",
+        "tā hē le yī bēi shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00026",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我们回家吧。我很好，你呢？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ men huí jiā ba。",
+        "wǒ hěn hǎo， nǐ ne？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00027",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "喂，您好！喂，你是小王吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00029",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这是我的中文书。那个小杯子很好看。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhè shì wǒ de zhōng wén shū。",
+        "nà ge xiǎo bēi zi hěn hǎo kàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00031",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "天气很好。妈妈在做饭。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "tiān qì hěn hǎo。",
+        "mā mā zài zuò fàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00032",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我买了两本书。请给我一杯水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ mǎi le liǎng běn shū。",
+        "qǐng gěi wǒ yī bēi shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00034",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "手机在桌子上。猫在椅子下。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00035",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "老师在学校。我的朋友喜欢喝茶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "lǎo shī zài xué xiào。",
+        "wǒ de péng yǒu xǐ huān hē chá。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00037",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "妈妈工作。这个杯子很小。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "mā mā gōng zuò。",
+        "zhè ge bēi zi hěn xiǎo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00039",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这是一本中文书。我的新衣服很好看。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhè shì yī běn zhōng wén shū。",
+        "wǒ de xīn yī fú hěn hǎo kàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00041",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "请再说一次。我看了两次。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00044",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "今天星期一。她今年十岁。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00047",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你是学生吗？你喜欢喝茶吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "nǐ shì xué shēng ma？",
+        "nǐ xǐ huān hē chá ma？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00049",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "你去不去？你是不是老师？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00050",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "请坐。不要说话。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00051",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "太好了！你真漂亮！",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00052",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我是学生。她不是医生。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00053",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我有一个手机。她没有电脑。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ yǒu yí gè shǒu jī。",
+        "tā méi yǒu diàn nǎo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00055",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "桌子上有一本书。学校里有很多学生。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhuō zi shàng yǒu yī běn shū。",
+        "xué xiào lǐ yǒu hěn duō xué shēng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00058",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "老师给我一本书。妈妈给他一杯水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "lǎo shī gěi wǒ yī běn shū。",
+        "mā mā gěi tā yī bēi shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00061",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我买了书，还买了一个杯子。她会说汉语，还会写汉字。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ mǎi le shū， hái mǎi le yí gè bēi zi。",
+        "tā huì shuō hàn yǔ， hái huì xiě hàn zì。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00062",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我喝了一杯水。他买了两本书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ hē le yī bēi shuǐ。",
+        "tā mǎi le liǎng běn shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00065",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "他正在看书呢。妈妈在做饭呢。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00066",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "他看书呢。我学习呢。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00068",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "这是第一课。他是第三个学生。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-lesson-00069",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "今天是五月一日。明天是星期六。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00001",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "这是___一课。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00003",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "书在桌子___，不在桌子下。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00004",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我学了汉语，现在___说汉语。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00005",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我___喝一杯茶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00006",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我___坐这里吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00010",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这___学生是我的朋友。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00011",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我有___个杯子。（số 2）",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00012",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我买了三___书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00013",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我想喝一___茶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00016",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们___是学生。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00018",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "请___说一次。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00022",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "老师___学生很好。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00026",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "我很好，你___？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00027",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "___，您好！（bắt đầu cuộc gọi）",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00029",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我有一个___杯子。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00031",
+    "reasons": [
+      "POLYPHONE_CONTEXT"
+    ],
+    "text": "___很好。（nói thời tiết）",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00032",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我买了两___书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00037",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这个杯子___小。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00041",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "请再说一___。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00051",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "___好了！（tốt quá）",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00053",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我___一个手机。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00055",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "桌子上___一本书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00058",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "老师给___一本书。（người nhận là tôi）",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00061",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我买了书，___买了一个杯子。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-gq-00069",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "今天是五___一日。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-003",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "桌子上有三个苹果。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-005",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我不喜欢喝茶，我喜欢喝牛奶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ bù xǐ huān hē chá， wǒ xǐ huān hē niú nǎi。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-007",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这本书二十元，那个杯子十元。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-008",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "今天星期五，明天我不上班。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-011",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想去书店买一本中文书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ xiǎng qù shū diàn mǎi yī běn zhōng wén shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-012",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "外边下雨了，我今天不去看电影。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-014",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "老师的手机在桌子上，我的手机在椅子上。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "lǎo shī de shǒu jī zài zhuō zi shàng， wǒ de shǒu jī zài yǐ zi shàng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-016",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们上午学习汉语，下午去看电影。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-017",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我买了两杯茶和一杯牛奶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ mǎi le liǎng bēi chá hé yī bēi niú nǎi。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-018",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这件衣服很好看，也很贵。我不买了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhè jiàn yī fú hěn hǎo kàn， yě hěn guì。 wǒ bù mǎi le。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-019",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我认识小李，他是我的大学同学。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ rèn shí xiǎo lǐ， tā shì wǒ de dà xué tóng xué。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-022",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "请坐，我给你一杯水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "qǐng zuò， wǒ gěi nǐ yī bēi shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-025",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "现在是中午十二点，我们去吃午饭吧。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-026",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这只猫是我妹妹的，那只狗是我哥哥的。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhè zhǐ māo shì wǒ mèi mèi de， nà zhǐ gǒu shì wǒ gē gē de。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-027",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我星期一到星期五上班，星期六休息。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-028",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这儿的水果很便宜，我想买一些苹果。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhè ér de shuǐ guǒ hěn pián yi， wǒ xiǎng mǎi yī xiē píng guǒ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-029",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我今天不忙，晚上可以给你打电话。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ jīn tiān bù máng， wǎn shàng kě yǐ gěi nǐ dǎ diàn huà。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-030",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们学校前边是商店，后边是医院。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-032",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这个杯子是新的，不是我的。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-034",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我弟弟不会开车。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-035",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们都是大学生。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-036",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "现在是晚上九点，我想睡觉了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiàn zài shì wǎn shàng jiǔ diǎn， wǒ xiǎng shuì jiào le。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-037",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我有两本书，一本是中文书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ yǒu liǎng běn shū， yī běn shì zhōng wén shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-039",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我女儿喜欢喝水，不喜欢喝牛奶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ nǚ ér xǐ huān hē shuǐ， bù xǐ huān hē niú nǎi。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-040",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我的手机在桌子上。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ de shǒu jī zài zhuō zi shàng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-042",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我家有三口人：爸爸、妈妈和我。我们都喜欢看书。\n他家有几口人？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-044",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "妈妈买了五个苹果，爸爸吃了两个，现在还有三个。\n现在有几个苹果？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "mā mā mǎi le wǔ gè píng guǒ， bà bà chī le liǎng gè， xiàn zài hái yǒu sān gè。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-045",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这本书三十元，那个杯子二十元。我只买了书。\n他买的东西多少钱？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhè běn shū sān shí yuán， nà ge bēi zi èr shí yuán。 wǒ zhǐ mǎi le shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-048",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我的书在桌子上。老师的书在椅子上。那本新书是老师的。\n新书是谁的？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-049",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "学校前边有一家商店，后边有一家医院。我家在学校里。\n学校前边有什么？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-051",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我会说汉语，不会写汉字。哥哥会说，也会写。\n谁会写汉字？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-052",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天太热了。我们想喝一点儿水，不想喝热茶。\n他们想喝什么？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jīn tiān tài rè le。 wǒ men xiǎng hē yì diǎn ér shuǐ， bù xiǎng hē rè chá。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-054",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这件衣服很漂亮，也很小。那件大一点儿，我要买那件。\n他要买哪件衣服？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhè jiàn yī fú hěn piào liàng， yě hěn xiǎo。 nà jiàn dà yī diǎn ér， wǒ yào mǎi nà jiàn。 \n tā yào mǎi nǎ jiàn yī fú？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-055",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "小张的女儿今年七岁，是小学生。他的儿子今年二十岁，是大学生。\n谁是小学生？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-cq-058",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "姐姐给我一本书，妈妈给我一个杯子。我很喜欢那本书。\n谁给他书？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jiě jiě gěi wǒ yī běn shū， mā mā gěi wǒ yí gè bēi zi。 wǒ hěn xǐ huān nà běn shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-059",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这家店的苹果很便宜。我买了一些。\n他买了苹果。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhè jiā diàn de píng guǒ hěn pián yi。 wǒ mǎi le yī xiē。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-060",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我今天很忙，不能和你去看电影。\n他今天能去看电影。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-rq-001",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "小王：我买了三本书。一本给你，一本给老师，一本是我的。\n小王给老师几本书？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiǎo wáng： wǒ mǎi le sān běn shū。 yī běn gěi nǐ， yī běn gěi lǎo shī， yī běn shì wǒ de。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-002",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "妈妈：家里没有米饭，还有面包。你想吃什么？孩子：我吃面包。\n孩子吃什么？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "mā mā： jiā lǐ méi yǒu mǐ fàn， hái yǒu miàn bāo。 nǐ xiǎng chī shén me？ hái zi： wǒ chī miàn bāo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-003",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天的汉语课在上午十点。现在九点半，我还在家。\n现在几点？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jīn tiān de hàn yǔ kè zài shàng wǔ shí diǎn。 xiàn zài jiǔ diǎn bàn， wǒ hái zài jiā。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-004",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想看电影。电影院今天不开，我们明天再去吧。\n他们想什么时候去电影院？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ xiǎng kàn diàn yǐng。 diàn yǐng yuàn jīn tiān bù kāi， wǒ men míng tiān zài qù ba。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-005",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "老师：你的书呢？学生：在家里。我今天没有书。\n学生的书在哪里？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-rq-006",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "小李想给妈妈打电话。他没有手机，朋友有手机。小李问：我可以给妈妈打电话吗？\n他想给谁打电话？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiǎo lǐ xiǎng gěi mā mā dǎ diàn huà。 tā méi yǒu shǒu jī， péng yǒu yǒu shǒu jī。 xiǎo lǐ wèn： wǒ kě yǐ gěi mā mā dǎ diàn huà ma？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-007",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "爸爸给我二十元。我买了一本十五元的书，现在还有五元。\n买书后，他还有多少钱？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "bà bà gěi wǒ èr shí yuán。 wǒ mǎi le yī běn shí wǔ yuán de shū， xiàn zài hái yǒu wǔ yuán。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-009",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这是我的电脑。那是哥哥的电脑。哥哥的电脑是新的，我的不是新的。\n谁的电脑是新的？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-rq-010",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "妹妹喜欢这件衣服，我喜欢那件衣服。妈妈今天给我买了那件衣服。\n妈妈给谁买衣服？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "mèi mèi xǐ huān zhè jiàn yī fú， wǒ xǐ huān nà jiàn yī fú。 mā mā jīn tiān gěi wǒ mǎi le nà jiàn yī fú。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-011",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我家没有猫。哥哥家有两只猫和一只狗。星期天我去哥哥家看猫。\n哥哥家有几只猫？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ jiā méi yǒu māo。 gē gē jiā yǒu liǎng zhǐ māo hé yī zhī gǒu。 xīng qī tiān wǒ qù gē gē jiā kàn māo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-012",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "老师说：请在这里写名字，那里写电话。学生们在这里写了名字。\n学生们在这里写什么？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "lǎo shī shuō： qǐng zài zhè lǐ xiě míng zì， nà lǐ xiě diàn huà。 xué shēng men zài zhè lǐ xiě le míng zì。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-013",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我今天不上班，也不上课。我想在家睡觉。朋友问：去超市吗？我说：不去了。\n他今天想做什么？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ jīn tiān bù shàng bān， yě bù shàng kè。 wǒ xiǎng zài jiā shuì jiào。 péng yǒu wèn： qù chāo shì ma？ wǒ shuō： bù qù le。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-014",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "姐姐的飞机上午九点到。我的火车下午三点到。爸爸上午去看姐姐。\n谁上午九点到？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jiě jiě de fēi jī shàng wǔ jiǔ diǎn dào。 wǒ de huǒ chē xià wǔ sān diǎn dào。 bà bà shàng wǔ qù kàn jiě jiě。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-015",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我正在看书，妈妈正在做饭。弟弟说他也想看书，现在也在我的房间里。\n谁正在做饭？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ zhèng zài kàn shū， mā mā zhèng zài zuò fàn。 dì di shuō tā yě xiǎng kàn shū， xiàn zài yě zài wǒ de fáng jiān lǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-016",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "小王问：这本书好吗？我说：很好看，你可以看一下。小王说：谢谢！\n我觉得这本书怎么样？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiǎo wáng wèn： zhè běn shū hǎo ma？ wǒ shuō： hěn hǎo kàn， nǐ kě yǐ kàn yī xià。 xiǎo wáng shuō： xiè xiè！"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-017",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想喝茶。妈妈说没有茶了，还有水和牛奶。我说：给我水吧。\n他要什么？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ xiǎng hē chá。 mā mā shuō méi yǒu chá le， hái yǒu shuǐ hé niú nǎi。 wǒ shuō： gěi wǒ shuǐ ba。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-018",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天星期日。爸爸妈妈都不上班，姐姐也不上课。我们在家吃午饭。\n他们在哪里吃午饭？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jīn tiān xīng qī rì。 bà bà mā mā dōu bù shàng bān， jiě jiě yě bù shàng kè。 wǒ men zài jiā chī wǔ fàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-019",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "小李：你认识那个医生吗？小王：认识，她是我姐姐，不是我老师。\n医生是小王的谁？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiǎo lǐ： nǐ rèn shí nà ge yī shēng ma？ xiǎo wáng： rèn shí， tā shì wǒ jiě jiě， bú shì wǒ lǎo shī。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-020",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这家书店上午卖书，下午也卖书。今天晚上不开。我要下午去。\n他什么时候去书店？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhè jiā shū diàn shàng wǔ mài shū， xià wǔ yě mài shū。 jīn tiān wǎn shàng bù kāi。 wǒ yào xià wǔ qù。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-021",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我买了两杯茶。第一杯给妈妈，第二杯给爸爸，我没有喝。\n他喝了茶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ mǎi le liǎng bēi chá。 dì yī bēi gěi mā mā， dì èr bēi gěi bà bà， wǒ méi yǒu hē。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-023",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "哥哥会开车。今天他不开车，坐出租车去公司。\n哥哥今天开车去公司。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-rq-024",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这些小杯子都是我的。那个大杯子是老师的。\n老师的大杯子也是我的。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-rq-025",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我家有一个女儿和一个儿子。女儿上小学，儿子上中学。\n他的儿子是中学生。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-rq-027",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这是___书，不是老师的书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-rq-028",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "妈妈问：你喜欢吃什么？我说：包子___饺子我都喜欢。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "mā mā wèn： nǐ xǐ huān chī shén me？ wǒ shuō： bāo zi _ _ _ jiǎo zi wǒ dōu xǐ huān。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-029",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "桌子上有两本书和一杯水。我想看书，老师给我___，没有给我水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhuō zi shàng yǒu liǎng běn shū hé yī bēi shuǐ。 wǒ xiǎng kàn shū， lǎo shī gěi wǒ _ _ _， méi yǒu gěi wǒ shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-030",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "现在八点，我___看书。妈妈九点来，我们现在不说话。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiàn zài bā diǎn， wǒ _ _ _ kàn shū。 mā mā jiǔ diǎn lái， wǒ men xiàn zài bù shuō huà。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-gq-001",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这是老师___杯子。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-gq-003",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "___手机是新的。（ý: điện thoại của cô ấy）",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-gq-006",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这___你的书吗？",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-gq-008",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "___是你的老师？（hỏi người nào）",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "_ _ _ shì nǐ de lǎo shī？ （ h ỏ i   n g ư ờ i   n à o ）"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-gq-010",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "桌子上___一本书。（ý: có）",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-gq-018",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "妈妈买了一___衣服。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-gq-020",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "请给我一___水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "qǐng gěi wǒ yī _ _ _ shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-audio-003",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "桌子上有三个苹果。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-005",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我不喜欢喝茶，我喜欢喝牛奶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-007",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这本书二十元，那个杯子十元。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-008",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "今天星期五，明天我不上班。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-011",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我想去书店买一本中文书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-012",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "外边下雨了，我今天不去看电影。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-014",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "老师的手机在桌子上，我的手机在椅子上。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-016",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们上午学习汉语，下午去看电影。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-017",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我买了两杯茶和一杯牛奶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-audio-018-d5fc52fdabeb",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这件衣服很好看，也很贵。我不买了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-019",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我认识小李，他是我的大学同学。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-audio-022-82821affc011",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "请坐，我给你一杯水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-025",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "现在是中午十二点，我们去吃午饭吧。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-026",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这只猫是我妹妹的，那只狗是我哥哥的。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-027",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我星期一到星期五上班，星期六休息。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-028",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这儿的水果很便宜，我想买一些苹果。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-029",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我今天不忙，晚上可以给你打电话。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v5-audio-030-78fbf55ca168",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们学校前边是商店，后边是医院。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-032",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "这个杯子是新的，不是我的。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-034",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我弟弟不会开车。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-035",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我们都是大学生。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-036",
+    "reasons": [
+      "POLYPHONE_CONTEXT",
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "现在是晚上九点，我想睡觉了。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-037",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我有两本书，一本是中文书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-039",
+    "reasons": [
+      "CONTEXTUAL_TONE_SANDHI_ONE_NOT"
+    ],
+    "text": "我女儿喜欢喝水，不喜欢喝牛奶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "v4-audio-040",
+    "reasons": [
+      "NEUTRAL_TONE_AND_WORD_SEGMENTATION"
+    ],
+    "text": "我的手机在桌子上。",
+    "status": "NEEDS_REVIEW",
+    "note": "Dictionary citation tones versus spoken sandhi must be distinguished; automated candidates are not corrections."
+  },
+  {
+    "id": "cti25-v-10",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我有三本书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "běn",
+        "wǒ yǒu sān běn shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-19",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "妈妈去超市买水果。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "chāoshì",
+        "mā mā qù chāo shì mǎi shuǐ guǒ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-21",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你想吃什么？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "chī",
+        "nǐ xiǎng chī shén me？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-28",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我姐姐是大学生。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "dàxuéshēng",
+        "wǒ jiě jiě shì dà xué shēng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-33",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你几点下班？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "diǎn",
+        "nǐ jǐ diǎn xià bān？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-43",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我晚上喜欢读书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "dúshū",
+        "wǒ wǎn shàng xǐ huān dú shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-57",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "见到你很高兴。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "gāoxìng",
+        "jiàn dào nǐ hěn gāo xìng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-58",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我喜欢听歌。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "gē",
+        "wǒ xǐ huān tīng gē。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-63",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你在哪里工作？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "gōngzuò",
+        "nǐ zài nǎ lǐ gōng zuò？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-77",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你想喝什么？我想喝水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "hē",
+        "nǐ xiǎng hē shén me？ wǒ xiǎng hē shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-85",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你家有几口人？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jǐ",
+        "nǐ jiā yǒu jǐ kǒu rén？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-92",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我姐姐喜欢看电影。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jiějie",
+        "wǒ jiě jiě xǐ huān kàn diàn yǐng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-95",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "九点上课。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jiǔ",
+        "jiǔ diǎn shàng kè。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-99",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想看这本书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "kàn",
+        "wǒ xiǎng kàn zhè běn shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-109",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天很冷。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "lěng",
+        "jīn tiān hěn lěng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-113",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我六点起床。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "liù",
+        "wǒ liù diǎn qǐ chuáng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-125",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我午饭吃米饭。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "mǐfàn",
+        "wǒ wǔ fàn chī mǐ fàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-127",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我喜欢吃面条儿。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "miàntiáor",
+        "wǒ xǐ huān chī miàn tiáo ér。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-140",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你可以坐那儿。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "nàr",
+        "nǐ kě yǐ zuò nà ér。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-146",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你喜欢吃什么？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "nǐ",
+        "nǐ xǐ huān chī shén me？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-151",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我早上喝牛奶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "niúnǎi",
+        "wǒ zǎo shàng hē niú nǎi。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-154",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我女朋友在医院工作。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "nǚpéngyou",
+        "wǒ nǚ péng yǒu zài yī yuàn gōng zuò。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-157",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这些苹果很便宜。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "piányi",
+        "zhè xiē píng guǒ hěn pián yi。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-161",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你今天几点起床？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "qǐchuáng",
+        "nǐ jīn tiān jǐ diǎn qǐ chuáng？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-166",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "请问，医院在哪里？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "qǐngwèn",
+        "qǐng wèn， yī yuàn zài nǎ lǐ？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-170",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这里有很多人。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "rén",
+        "zhè lǐ yǒu hěn duō rén。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-173",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我有三本中文书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "sān",
+        "wǒ yǒu sān běn zhōng wén shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-174",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "商店里有很多水果。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shāngdiàn",
+        "shāng diàn lǐ yǒu hěn duō shuǐ guǒ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-178",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我上午有课。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shàngwǔ",
+        "wǒ shàng wǔ yǒu kè。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-187",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你有什么事？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shì",
+        "nǐ yǒu shén me shì？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-190",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我喜欢这本书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shū",
+        "wǒ xǐ huān zhè běn shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-192",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想喝水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shuǐ",
+        "wǒ xiǎng hē shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-193",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你喜欢吃什么水果？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "shuǐguǒ",
+        "nǐ xǐ huān chī shén me shuǐ guǒ？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-201",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这只猫很小，它很漂亮。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "tā",
+        "zhè zhǐ māo hěn xiǎo， tā hěn piào liàng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-209",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我喜欢听歌。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "tīng",
+        "wǒ xǐ huān tīng gē。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-216",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你晚饭吃什么？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǎnfàn",
+        "nǐ wǎn fàn chī shén me？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-217",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我晚上在家学习。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǎnshang",
+        "wǒ wǎn shàng zài jiā xué xí。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-220",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你有什么问题？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wèntí",
+        "nǐ yǒu shén me wèn tí？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-225",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我喜欢学习汉语。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xǐhuan",
+        "wǒ xǐ huān xué xí hàn yǔ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-230",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "下午我去看朋友。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiàwǔ",
+        "xià wǔ wǒ qù kàn péng yǒu。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-232",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "现在几点？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiànzài",
+        "xiàn zài jǐ diǎn？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-233",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想喝牛奶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiǎng",
+        "wǒ xiǎng hē niú nǎi。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-239",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想买些水果。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiē",
+        "wǒ xiǎng mǎi xiē shuǐ guǒ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-241",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "谢谢你给我打电话。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xièxie",
+        "xiè xiè nǐ gěi wǒ dǎ diàn huà。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-247",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想学中文。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xué",
+        "wǒ xiǎng xué zhōng wén。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-252",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我要买两本书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "yào",
+        "wǒ yào mǎi liǎng běn shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-253",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我也喜欢喝茶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "yě",
+        "wǒ yě xǐ huān hē chá。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-265",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天有点儿冷。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "yǒudiǎnr",
+        "jīn tiān yǒu diǎn ér lěng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-276",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你怎么去学校？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zěnme",
+        "nǐ zěn me qù xué xiào？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-287",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "这里有三只猫。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhī",
+        "zhè lǐ yǒu sān zhǐ māo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-289",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想去中国。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "Zhōngguó",
+        "wǒ xiǎng qù zhōng guó。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-293",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我姐姐是中学生。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhōngxuéshēng",
+        "wǒ jiě jiě shì zhōng xué shēng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-294",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你住在哪里？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zhù",
+        "nǐ zhù zài nǎ lǐ？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "cti25-v-299",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你想做什么？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "zuò",
+        "nǐ xiǎng zuò shén me？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00005",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我想喝水。 / 我要买两本书。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ xiǎng hē shuǐ。",
+        "wǒ yào mǎi liǎng běn shū。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00014",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我今年十八岁。 / 现在是九点。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ jīn nián shí bā suì。",
+        "xiàn zài shì jiǔ diǎn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00028",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "爸爸和妈妈都在家。 / 我喜欢苹果和牛奶。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "bà bà hé mā mā dōu zài jiā。",
+        "wǒ xǐ huān píng guǒ hé niú nǎi。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00030",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我喜欢看书。 / 他想喝水。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ xǐ huān kàn shū。",
+        "tā xiǎng hē shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00046",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我在家。 / 今天很冷。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ zài jiā。",
+        "jīn tiān hěn lěng。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-lesson-00060",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我喜欢茶，她也喜欢茶。 / 爸爸是老师，妈妈也是老师。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ xǐ huān chá， tā yě xǐ huān chá。",
+        "bà bà shì lǎo shī， mā mā yě shì lǎo shī。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-004",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我今天七点起床，八点上班。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ jīn tiān qī diǎn qǐ chuáng， bā diǎn shàng bān。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-006",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "姐姐在学校，弟弟在家。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jiě jiě zài xué xiào， dì di zài jiā。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-010",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我家有四口人，爸爸、妈妈、姐姐和我。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ jiā yǒu sì kǒu rén， bà bà、 mā mā、 jiě jiě hé wǒ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-020",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我现在有时间，可以和你去超市。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ xiàn zài yǒu shí jiān， kě yǐ hé nǐ qù chāo shì。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-021",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天很冷，请穿那件新衣服。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jīn tiān hěn lěng， qǐng chuān nà jiàn xīn yī fú。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-023",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我姐姐会说汉语，也会写汉字。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ jiě jiě huì shuō hàn yǔ， yě huì xiě hàn zì。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-043",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天我上午有课，下午没有课。我想下午去书店。\n他什么时候去书店？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jīn tiān wǒ shàng wǔ yǒu kè， xià wǔ méi yǒu kè。 wǒ xiǎng xià wǔ qù shū diàn。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-046",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "小李今天六点起床，七点吃早饭，八点上班。\n小李几点吃早饭？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "xiǎo lǐ jīn tiān liù diǎn qǐ chuáng， qī diǎn chī zǎo fàn， bā diǎn shàng bān。 \n xiǎo lǐ jǐ diǎn chī zǎo fàn？"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v4-cq-047",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "姐姐喜欢喝茶，妹妹喜欢喝牛奶。我喜欢喝水。\n谁喜欢喝牛奶？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jiě jiě xǐ huān hē chá， mèi mèi xǐ huān hē niú nǎi。 wǒ xǐ huān hē shuǐ。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-008",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天上午我在公司。中午我去妈妈家吃饭，下午回公司。\n中午他在哪里吃饭？",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jīn tiān shàng wǔ wǒ zài gōng sī。 zhōng wǔ wǒ qù mā mā jiā chī fàn， xià wǔ huí gōng sī。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-022",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天早上我去医院看病。下午我在家休息，没有上班。\n他下午没有上班。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jīn tiān zǎo shàng wǒ qù yī yuàn kàn bìng。 xià wǔ wǒ zài jiā xiū xī， méi yǒu shàng bān。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-rq-026",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "今天学校没有汉语课，我在家休息。我___有汉语课。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "jīn tiān xué xiào méi yǒu hàn yǔ kè， wǒ zài jiā xiū xī。 wǒ _ _ _ yǒu hàn yǔ kè。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-gq-009",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我___有手机。（ý: không có）",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ _ _ _ yǒu shǒu jī。 （ ý :   k h ô n g   c ó ）"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-gq-011",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "你有___本书？（hỏi số lượng nhỏ）",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "nǐ yǒu _ _ _ běn shū？ （ h ỏ i   s ố   l ư ợ n g   n h ỏ ）"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-gq-012",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我有书，她___有书。（ý: cũng có）",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ yǒu shū， tā _ _ _ yǒu shū。 （ ý :   c ũ n g   c ó ）"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  },
+  {
+    "id": "v5-gq-017",
+    "reasons": [
+      "POTENTIAL_THIRD_TONE_SEQUENCE"
+    ],
+    "text": "我有两___猫。",
+    "status": "NEEDS_REVIEW",
+    "note": "Automated candidate, not a phonetic correction; qualified listening review required.",
+    "thirdToneEvidence": {
+      "pinyin": [
+        "wǒ yǒu liǎng _ _ _ māo。"
+      ],
+      "method": "Adjacent marked third tones within phrase; neutral/unmarked syllables may cause false positives. Check actual syllable boundaries and spoken grouping."
+    }
+  }
+]

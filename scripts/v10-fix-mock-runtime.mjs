@@ -1,0 +1,1 @@
+import {readFile,writeFile} from 'node:fs/promises';const p='shared/v10-mock.mjs';let s=await readFile(p,'utf8');s=s.replace('audio:template.audio,navigation:template.navigation','audio:{kind:"file",delivery:"question",maxPlays:2,allowSeek:false,allowRateChange:false,rate:1},navigation:{previousSections:false,futureSections:false,withinSection:true}');await writeFile(p,s);

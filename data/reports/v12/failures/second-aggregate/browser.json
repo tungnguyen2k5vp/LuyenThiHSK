@@ -1,0 +1,109 @@
+{
+  "at": "2026-10-18T13:56:53.694Z",
+  "results": [
+    {
+      "name": "Chrome",
+      "run": 1,
+      "status": "PASS",
+      "durationMs": 20419
+    },
+    {
+      "name": "Chrome",
+      "run": 2,
+      "status": "PASS",
+      "durationMs": 20701
+    },
+    {
+      "name": "Chrome",
+      "run": 3,
+      "status": "PASS",
+      "durationMs": 21208
+    },
+    {
+      "name": "Chrome",
+      "run": 4,
+      "status": "PASS",
+      "durationMs": 21100
+    },
+    {
+      "name": "Chrome",
+      "run": 5,
+      "status": "PASS",
+      "durationMs": 21090
+    },
+    {
+      "name": "Chrome",
+      "run": 6,
+      "status": "PASS",
+      "durationMs": 20679
+    },
+    {
+      "name": "Chrome",
+      "run": 7,
+      "status": "PASS",
+      "durationMs": 20378
+    },
+    {
+      "name": "Chrome",
+      "run": 8,
+      "status": "PASS",
+      "durationMs": 20372
+    },
+    {
+      "name": "Chrome",
+      "run": 9,
+      "status": "PASS",
+      "durationMs": 20582
+    },
+    {
+      "name": "Chrome",
+      "run": 10,
+      "status": "PASS",
+      "durationMs": 20399
+    },
+    {
+      "name": "Edge",
+      "run": 1,
+      "status": "PASS",
+      "durationMs": 22683
+    },
+    {
+      "name": "Edge",
+      "run": 2,
+      "status": "PASS",
+      "durationMs": 22665
+    },
+    {
+      "name": "Edge",
+      "run": 3,
+      "status": "PASS",
+      "durationMs": 21907
+    },
+    {
+      "name": "Edge",
+      "run": 4,
+      "status": "PASS",
+      "durationMs": 22552
+    },
+    {
+      "name": "Edge",
+      "run": 5,
+      "status": "PASS",
+      "durationMs": 21455
+    },
+    {
+      "name": "Edge",
+      "run": 6,
+      "status": "PASS",
+      "durationMs": 22503
+    },
+    {
+      "name": "Edge",
+      "run": 7,
+      "status": "FAIL",
+      "durationMs": 21627
+    }
+  ],
+  "retries": 0,
+  "ci": "NOT_RUN_NO_CI_ENVIRONMENT"
+}

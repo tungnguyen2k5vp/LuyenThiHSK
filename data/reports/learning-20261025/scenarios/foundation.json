@@ -1,0 +1,85 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=learn"
+  },
+  "actions": [
+    {
+      "step_id": "pinyin",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".foundation-card >> nth=9"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "radicals",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Bộ thủ · 50 thành phần"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "radicals_loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".foundation-card >> nth=49"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "search",
+      "action": "fill",
+      "locator": {
+        "kind": "css",
+        "selector": ".foundation-practice input"
+      },
+      "value": {
+        "source": "literal",
+        "value": "氵"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "water",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".foundation-character:has-text(\"氵\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

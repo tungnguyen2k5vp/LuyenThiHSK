@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Home",
+    "before": "docs/screenshots/v7/before-v6/v6-desktop-homepage.png",
+    "after": "docs/screenshots/v7/after-chrome/v7-desktop-homepage.png"
+  },
+  {
+    "name": "Exam Catalog",
+    "before": "docs/screenshots/v7/before-v6/v6-desktop-practice.png",
+    "after": "docs/screenshots/v7/after-chrome/v7-desktop-practice.png"
+  },
+  {
+    "name": "Exam Room",
+    "before": "docs/screenshots/v7/before-v6/v6-desktop-picture-question.png",
+    "after": "docs/screenshots/v7/after-chrome/v7-desktop-picture-question.png"
+  },
+  {
+    "name": "Results",
+    "before": "docs/screenshots/v7/before-v6/v6-desktop-results.png",
+    "after": "docs/screenshots/v7/after-chrome/v7-desktop-results.png"
+  },
+  {
+    "name": "Content Review",
+    "before": "docs/screenshots/v7/before-v6/v6-desktop-review-queue.png",
+    "after": "docs/screenshots/v7/after-chrome/v7-desktop-review-queue.png"
+  },
+  {
+    "name": "Vocabulary",
+    "before": "docs/screenshots/v7/before-v6/v6-desktop-vocabulary.png",
+    "after": "docs/screenshots/v7/after-chrome/v7-desktop-vocabulary.png"
+  },
+  {
+    "name": "Grammar",
+    "before": "docs/screenshots/v7/before-v6/v6-desktop-grammar.png",
+    "after": "docs/screenshots/v7/after-chrome/v7-desktop-grammar.png"
+  },
+  {
+    "name": "Media",
+    "before": "docs/screenshots/v7/before-v6/v6-desktop-image-failure.png",
+    "after": "docs/screenshots/v7/after-chrome/v7-desktop-image-failure.png"
+  },
+  {
+    "name": "Account",
+    "before": "docs/screenshots/v7/before-v6/v6-desktop-account-guest.png",
+    "after": "docs/screenshots/v7/after-chrome/v7-desktop-account-guest.png"
+  },
+  {
+    "name": "HSK2",
+    "before": null,
+    "after": "docs/screenshots/v7/after-chrome/v7-hsk2-foundation.png"
+  }
+]

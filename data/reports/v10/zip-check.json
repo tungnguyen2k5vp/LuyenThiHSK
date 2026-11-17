@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "file": "data/review-packages/v10/HSK_CONTENT_REVIEW_V10.zip",
+      "entries": 6,
+      "bytes": 1548959,
+      "crc": "PASS",
+      "safePaths": true
+    },
+    {
+      "file": "data/reports/v10/V10_SCREENSHOTS_BEFORE_AFTER.zip",
+      "entries": 32,
+      "bytes": 1758480,
+      "crc": "PASS",
+      "safePaths": true
+    }
+  ]
+}

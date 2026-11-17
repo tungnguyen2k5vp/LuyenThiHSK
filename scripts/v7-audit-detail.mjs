@@ -1,0 +1,2 @@
+import {readFile} from 'node:fs/promises';const b=JSON.parse(await readFile('data/reports/v7/live-release.json','utf8')),a=JSON.parse(await readFile('data/reports/v7/content-audit.json','utf8'));
+console.log(JSON.stringify(b.questions.find(q=>q.id==='v4-gq-00046'),null,2));console.log('Overlaps',a.rows.filter(r=>r.teachingOverlap.length).map(r=>({id:r.id,suitability:r.assessmentSuitability})));console.log('Independent overlaps',a.rows.filter(r=>r.teachingOverlap.length&&r.assessmentSuitability!=='GUIDED_PRACTICE').map(r=>r.id));

@@ -1,0 +1,135 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "timezone": "Asia/Bangkok",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "reduced_motion": "no-preference"
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/"
+  },
+  "actions": [
+    {
+      "step_id": "entry",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".journey-tone-link"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "open_lesson",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".journey-tone-link"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "loaded",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".tone-explorer"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "rising",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".tone-options button >> nth=1"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "rising_hint",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".tone-caption h4:has-text(\"Thanh 2\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "keyboard_falling",
+      "action": "press",
+      "locator": {
+        "kind": "css",
+        "selector": ".tone-options button >> nth=3"
+      },
+      "key": "Enter",
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "falling_hint",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".tone-caption h4:has-text(\"Thanh 4\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "dipping",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".tone-options button >> nth=2"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "dipping_hint",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".tone-caption h4:has-text(\"Thanh 3\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "replay",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": ".tone-actions button:has-text(\"Xem lại đường nét\")"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "animation_complete",
+      "action": "wait_for_timeout",
+      "duration_ms": 1700
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

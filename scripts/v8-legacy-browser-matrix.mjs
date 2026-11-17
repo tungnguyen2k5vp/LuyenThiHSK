@@ -1,0 +1,5 @@
+import {spawn} from 'node:child_process';import {mkdir,writeFile} from 'node:fs/promises';
+const health=await fetch('http://127.0.0.1:4173');if(!health.ok)throw Error('Start Vite preview4173 before browser matrix');
+const jobs=[['v5',['--v5']],['v4',['--v4']],['v1-v3',[]],['v6-stress',['--v6-stress']]],results=[];await mkdir('data/reports/v8/browser-logs',{recursive:true});
+for(const [name,args]of jobs){const start=Date.now(),child=spawn(process.execPath,['scripts/exam-browser-check.mjs',...args],{env:{...process.env,HSK_SCREENSHOT_ROOT:'docs/screenshots/v8/regression-'+name},windowsHide:true,stdio:['ignore','pipe','pipe']});let output='';child.stdout.on('data',c=>output+=c);child.stderr.on('data',c=>output+=c);const code=await new Promise(r=>child.once('exit',r));await writeFile('data/reports/v8/browser-logs/'+name+'.log',output);results.push({suite:name,status:code===0?'PASS':'FAIL',durationMs:Date.now()-start});console.log(name+': '+code);}
+await writeFile('data/reports/v8/legacy-browser-matrix.json',JSON.stringify({at:new Date().toISOString(),results},null,2));if(results.some(r=>r.status!=='PASS'))process.exitCode=1;

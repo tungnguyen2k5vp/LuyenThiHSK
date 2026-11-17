@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-18T03:30:06.011Z",
+  "results": [
+    {
+      "name": "browser-matrix",
+      "status": "FAIL",
+      "exitCode": 1,
+      "durationMs": 51592
+    }
+  ],
+  "retries": 0
+}

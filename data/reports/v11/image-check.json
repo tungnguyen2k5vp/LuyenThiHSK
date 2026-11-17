@@ -1,0 +1,258 @@
+{
+  "status": "PASS",
+  "images": [
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-audio-workbench.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2382,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-grammar-lesson.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 8053,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-hsk2-hub.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2591,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-image-error.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2150,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-images-loaded.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 3514,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-internal-mock-result.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2427,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-internal-mock-writing.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2232,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-listening-blocked.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2606,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-media-rights.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2382,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-mixed-mini.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 5027,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-mobile-hub.png",
+      "width": 390,
+      "height": 900,
+      "uniqueColors": 5542,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-mobile-writing.png",
+      "width": 390,
+      "height": 900,
+      "uniqueColors": 4853,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-offline-review-package.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 1392,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-reading-result.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 5562,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-study-plan.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 5924,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-vocabulary-detail.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 6119,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-writing-restored.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 4910,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-chrome/v11-writing-ungraded.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 5697,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-audio-workbench.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2380,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-grammar-lesson.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 8048,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-hsk2-hub.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2589,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-image-error.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2148,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-images-loaded.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 3512,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-internal-mock-result.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2425,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-internal-mock-writing.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2230,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-listening-blocked.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2604,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-media-rights.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 2380,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-mixed-mini.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 5030,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-mobile-hub.png",
+      "width": 390,
+      "height": 900,
+      "uniqueColors": 5542,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-mobile-writing.png",
+      "width": 390,
+      "height": 900,
+      "uniqueColors": 4820,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-offline-review-package.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 1390,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-reading-result.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 5560,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-study-plan.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 5922,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-vocabulary-detail.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 6117,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-writing-restored.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 4892,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v11/after-edge/v11-writing-ungraded.png",
+      "width": 1280,
+      "height": 900,
+      "uniqueColors": 5679,
+      "status": "PASS"
+    }
+  ],
+  "method": "Pillow decode and >32 distinct RGB colors, plus representative visual inspection; not a11y certification"
+}

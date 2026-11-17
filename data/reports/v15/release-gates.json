@@ -1,0 +1,139 @@
+{
+  "at": "2026-10-19T17:32:20.197Z",
+  "status": "V15_LOCAL_QA_PASSED",
+  "productionReady": false,
+  "gates": {
+    "snapshotRestore": true,
+    "dataSafety": true,
+    "regression": true,
+    "sourceMatches": true,
+    "logic": true,
+    "security": true,
+    "before": true,
+    "browsers": true,
+    "performance": true,
+    "contentStructure": true,
+    "contracts": true,
+    "v14Fallback": true,
+    "performanceCoreSource": true
+  },
+  "unpassed": [],
+  "sourceSha256": "0074aea5acb7dbfddc30163d4401b6b158cb8b2fb6a536c248f9dec39b4a5e0b",
+  "browsers": [
+    {
+      "browser": "chrome",
+      "status": "PASS",
+      "groups": 34,
+      "reloads": [
+        1195,
+        1200,
+        1185,
+        1204,
+        1184
+      ]
+    },
+    {
+      "browser": "edge",
+      "status": "PASS",
+      "groups": 34,
+      "reloads": [
+        1209,
+        1214,
+        1214,
+        1211,
+        1199
+      ]
+    }
+  ],
+  "performance": {
+    "chrome": {
+      "status": "WITHIN",
+      "at": "2026-10-19T17:22:10.984Z",
+      "probes": {
+        "navigation": {
+          "baselineP95": 67.60000002384186,
+          "currentP95": 67.69999998807907,
+          "budgetMs": 87.60000002384186,
+          "status": "WITHIN"
+        },
+        "choices": {
+          "baselineP95": 67.19999998807907,
+          "currentP95": 67.20000004768372,
+          "budgetMs": 87.19999998807907,
+          "status": "WITHIN"
+        },
+        "result": {
+          "baselineP95": 151.5,
+          "currentP95": 75.5,
+          "budgetMs": 174.225,
+          "status": "WITHIN"
+        }
+      }
+    },
+    "edge": {
+      "status": "WITHIN",
+      "at": "2026-10-19T17:23:15.399Z",
+      "probes": {
+        "navigation": {
+          "baselineP95": 69.80000001192093,
+          "currentP95": 68.29999995231628,
+          "budgetMs": 89.80000001192093,
+          "status": "WITHIN"
+        },
+        "choices": {
+          "baselineP95": 68.10000002384186,
+          "currentP95": 68.10000002384186,
+          "budgetMs": 88.10000002384186,
+          "status": "WITHIN"
+        },
+        "result": {
+          "baselineP95": 115.5,
+          "currentP95": 67,
+          "budgetMs": 135.5,
+          "status": "WITHIN"
+        }
+      }
+    }
+  },
+  "content": {
+    "at": "2026-10-19T16:54:04.457Z",
+    "status": "TECHNICAL_VALIDATION_PASSED_CONTENT_PENDING_HUMAN_REVIEW",
+    "database": {
+      "editorialRecords": 1359,
+      "questions": 681,
+      "byLevel": {
+        "HSK1": 435,
+        "HSK2": 246
+      },
+      "draft": 5,
+      "needsReview": 1354,
+      "humanReviewed": 0,
+      "published": 0,
+      "fingerprint": "6e5441291a895b41f7d62dff59c6a84c2234a43420f5d60533d0fe5344f6e826"
+    },
+    "reviewQueue": 681,
+    "structuralFindings": [],
+    "hsk2GrammarGaps": 40,
+    "stagedDrafts": {
+      "lessons": 2,
+      "questions": 10,
+      "registryErrors": [],
+      "humanReviewed": 0,
+      "published": 0,
+      "databaseImported": 0
+    },
+    "audioReviewQueue": 40,
+    "createdAudio": 0,
+    "sourceAudit": "CTI HSK1/HSK2/syllabus rechecked 2026-10-19; preserve separate versioned structures. See V15_CONTENT_QUALITY_REPORT.md.",
+    "humanGate": "BLOCKED_FOR_HUMAN_REVIEW"
+  },
+  "releaseBlockers": [
+    "BLOCKED_FOR_HUMAN_REVIEW",
+    "HSK2_EXAM_AUDIO_RIGHTS_AND_PRONUNCIATION_PENDING",
+    "CLOUD_NOT_DEPLOYED",
+    "SECURE_EXAM_SERVER_AUTHORITY_NOT_IMPLEMENTED"
+  ],
+  "catalogReliability": "Bounded loading, explicit retry and repeated reloads tested; historical V14 network stall root cause not conclusively established.",
+  "url": "http://127.0.0.1:4173/?view=preview&ui=v15",
+  "fallback": "http://127.0.0.1:4173/?view=preview&ui=v14"
+}

@@ -1,0 +1,32 @@
+{
+  "at": "2026-10-19T16:54:04.457Z",
+  "status": "TECHNICAL_VALIDATION_PASSED_CONTENT_PENDING_HUMAN_REVIEW",
+  "database": {
+    "editorialRecords": 1359,
+    "questions": 681,
+    "byLevel": {
+      "HSK1": 435,
+      "HSK2": 246
+    },
+    "draft": 5,
+    "needsReview": 1354,
+    "humanReviewed": 0,
+    "published": 0,
+    "fingerprint": "6e5441291a895b41f7d62dff59c6a84c2234a43420f5d60533d0fe5344f6e826"
+  },
+  "reviewQueue": 681,
+  "structuralFindings": [],
+  "hsk2GrammarGaps": 40,
+  "stagedDrafts": {
+    "lessons": 2,
+    "questions": 10,
+    "registryErrors": [],
+    "humanReviewed": 0,
+    "published": 0,
+    "databaseImported": 0
+  },
+  "audioReviewQueue": 40,
+  "createdAudio": 0,
+  "sourceAudit": "CTI HSK1/HSK2/syllabus rechecked 2026-10-19; preserve separate versioned structures. See V15_CONTENT_QUALITY_REPORT.md.",
+  "humanGate": "BLOCKED_FOR_HUMAN_REVIEW"
+}

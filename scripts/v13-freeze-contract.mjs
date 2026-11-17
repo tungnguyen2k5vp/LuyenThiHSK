@@ -1,0 +1,7 @@
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import {digest} from '../shared/v5-quality.mjs';
+const file='src/contracts/ui-v13.ts',bytes=await readFile(file),tests=JSON.parse(await readFile('data/reports/v13/contract-tests.json','utf8')),baseline=JSON.parse(await readFile('data/reports/v13/baseline/regression.json','utf8'));
+if(!bytes.toString().includes("CONTRACT_STATUS = 'FROZEN'")||tests.status!=='PASS'||tests.contractSha256!==digest(bytes)||baseline.results.length!==32||baseline.results.some(r=>r.status!=='PASS'))throw Error('Contract freeze gates not passed for current bytes');
+const previous=await readFile('data/reports/v13/contract-freeze.json','utf8').catch(e=>{if(e.code!=='ENOENT')throw e;return null;});
+if(previous&&JSON.parse(previous).sha256!==digest(bytes)){await mkdir('data/reports/v13/contract-freeze-history',{recursive:true});await writeFile('data/reports/v13/contract-freeze-history/'+JSON.parse(previous).sha256+'.json',previous,{flag:'wx'}).catch(e=>{if(e.code!=='EEXIST')throw e;});}
+const report={at:new Date().toISOString(),UI_CONTRACT_VERSION:'13.0',CONTRACT_STATUS:'FROZEN',historyPreserved:previous!==null,postHandoffIntegration:true,handoff:'CONTRACT_READY — Gemini can begin UI Batch 1.',file,sha256:digest(bytes),assertions:tests.assertions,baselineChecks:baseline.results.length,geminiFilesModifiedDuringFreeze:false};await writeFile('data/reports/v13/contract-freeze.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));

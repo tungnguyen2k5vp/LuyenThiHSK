@@ -1,0 +1,22 @@
+{
+  "url": "https://tatoeba.org/en/downloads",
+  "status": 200,
+  "at": "2026-10-25T05:09:34.404Z",
+  "sha256": "91f1467b65cb57d3a82c956932077c72c43c98fa8e47eca3233166c51ab7c5ff",
+  "bytes": 316138,
+  "title": "Download sentences - Tatoeba",
+  "licenseExcerpts": [
+    "Creative commons",
+    "Licenses covering audio",
+    "The license covering an audio file is chosen by the contributor, and is indicated on the page that lists the audio files that he or she has contributed.",
+    "Contains the ids of the sentences, in all languages, for which audio is available. Other fields indicate who recorded the audio, its license and a URL to attribute the author. If the license field is empty, you may not reuse the audio outside the Tatoeba project.",
+    "Sentence id   [tab]   Audio id   [tab]   Username   [tab]   License   [tab]   Attribution URL",
+    "Our data is released under various Creative Commons licenses. More information"
+  ],
+  "policyLinks": [
+    "https://creativecommons.org/licenses/by/2.0/fr/",
+    "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "https://tatoeba.org/en/terms_of_use",
+    "https://tatoeba.org/en/terms_of_use#section-6"
+  ]
+}

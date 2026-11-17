@@ -1,0 +1,27 @@
+/* Codex integration aliases for the handed-off Gemini styles. Scoped to V13. */
+.hsk-ui-v13 {
+ --v13-emerald-200:#a7f3d0; --v13-space-16:4rem;
+ --hsk-color-surface:var(--v13-bg-surface); --hsk-color-surface-soft:var(--v13-bg-surface-subtle);
+ --hsk-color-surface-hover:var(--v13-neutral-100); --hsk-color-border-subtle:var(--v13-border-default);
+ --hsk-color-border-strong:var(--v13-neutral-400); --hsk-color-text-main:var(--v13-text-primary);
+ --hsk-color-text-secondary:var(--v13-text-secondary); --hsk-color-text-muted:var(--v13-text-tertiary);
+ --hsk-color-primary:var(--v13-teal-600); --hsk-color-primary-dark:var(--v13-teal-800);
+ --hsk-color-primary-light:var(--v13-teal-50); --hsk-color-amber:var(--v13-amber-500);
+ --hsk-color-amber-light:var(--v13-amber-50); --hsk-color-amber-dark:var(--v13-amber-700);
+ --hsk-color-success:var(--v13-emerald-700);
+ --hsk-font-hanzi:var(--v13-font-chinese); --hsk-font-pinyin:var(--v13-font-sans);
+ --hsk-font-size-xs:var(--v13-text-xs); --hsk-font-size-sm:var(--v13-text-sm);
+ --hsk-font-size-base:var(--v13-text-base); --hsk-font-size-lg:var(--v13-text-lg);
+ --hsk-font-size-xl:var(--v13-text-xl); --hsk-font-size-2xl:var(--v13-text-2xl); --hsk-font-size-3xl:var(--v13-text-3xl);
+ --hsk-space-1:.25rem; --hsk-space-1-5:.375rem; --hsk-space-2:.5rem; --hsk-space-2-5:.625rem;
+ --hsk-space-3:.75rem; --hsk-space-3-5:.875rem; --hsk-space-4:1rem; --hsk-space-5:1.25rem; --hsk-space-6:1.5rem;
+ --hsk-radius-md:var(--v13-radius-md); --hsk-radius-lg:var(--v13-radius-lg); --hsk-radius-xl:var(--v13-radius-xl); --hsk-radius-2xl:1.5rem; --hsk-radius-full:9999px;
+ --hsk-shadow-xs:var(--v13-shadow-xs); --hsk-shadow-sm:var(--v13-shadow-sm); --hsk-shadow-md:var(--v13-shadow-md); --hsk-shadow-lg:var(--v13-shadow-lg); --hsk-shadow-xl:0 20px 40px #0f172a26;
+ --hsk-transition-fast:var(--v13-transition-fast); --hsk-z-modal-backdrop:1000; --hsk-z-modal:1001;
+}
+.hsk-ui-v13 .v13-today-container > .page-heading { margin:0; }
+.hsk-ui-v13 .hsk-grammar-header > .hsk-search-input-wrap { flex:0 0 auto; width:100%; }
+/* Only the explicit V13 catalog host; the outer Preview level picker remains available. */
+.course-workspace.ui-v13-course-host > .page-heading,
+.course-workspace.ui-v13-course-host > .course-levels { display:none; }
+.course-workspace.ui-v13-course-host > .course-study-banner { padding:12px 16px; }

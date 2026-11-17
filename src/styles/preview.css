@@ -1,0 +1,27 @@
+.preview-workspace>.card,.preview-workspace>.admin-tabs,.preview-workspace>.preview-banner{margin-block:1rem}
+.preview-banner{border-inline-start:4px solid var(--primary,#0f766e);background:#f0fdfa}
+.preview-workspace .card{min-width:0}
+.preview-workspace .admin-tabs{display:flex;flex-wrap:wrap;gap:.5rem}
+.preview-workspace input,.preview-workspace select,.preview-workspace textarea{max-width:100%}
+.preview-workspace>section.card>label,.preview-banner>label{display:grid;gap:.4rem;margin-block:.8rem;max-width:36rem}
+.preview-workspace input:not([type=checkbox]),.preview-workspace select,.preview-workspace textarea{padding:.65rem .8rem;border:1px solid #cbd5e1;border-radius:.55rem;background:white;color:#17324d;font:inherit}
+.preview-workspace:has(.exam-room)>.page-heading{display:none}
+.preview-workspace:has(.exam-room)>.preview-banner{padding:.65rem 1rem;margin:.5rem 0;font-size:.8rem}
+.preview-workspace:has(.exam-room)>.preview-banner>p,.preview-workspace:has(.exam-room)>.preview-banner>label,.preview-workspace:has(.exam-room)>.preview-banner>button{display:none}
+.focused-app:has(.preview-workspace .exam-room)>.focused-header{display:none}
+.focused-app:has(.preview-workspace .exam-room)>.mobile-bottom-nav,.focused-app:has(.preview-workspace .exam-room)>.focused-footer{display:none}
+.preview-workspace .admin-record{overflow-wrap:anywhere}
+.preview-workspace .preview-sound-check{width:min(600px,calc(100vw - 32px));max-height:85vh;overflow:auto}
+.preview-workspace audio{max-width:100%;width:100%}
+.preview-workspace .table-scroll{overflow:auto}
+.preview-banner{padding:.65rem .85rem;font-size:.85rem;border-radius:.5rem;margin-block:1rem}.preview-banner details{display:inline-block;margin-inline-start:.7rem}.preview-banner details[open]{display:block}.preview-banner summary{cursor:pointer}.content-review pre{white-space:pre-wrap;overflow-wrap:anywhere;max-height:30rem;overflow:auto}.content-review label{display:grid;gap:.4rem;margin-block:.8rem}.content-review .checkbox-label{display:flex}.review-editor{margin-block:1rem}.review-editor textarea{min-height:8rem;width:100%}.preview-bottom-nav{display:none}
+.preview-daily-plan{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:1rem;margin-block:1.2rem}.preview-daily-plan article{border:1px solid #e2e8f0;border-radius:.75rem;padding:1rem}.content-issue label{display:grid;gap:.4rem;margin-block:.7rem}.content-issue textarea{max-width:100%;min-height:5rem}.content-issue{margin-block:1rem}
+.content-review .checkbox-label input{width:1.1rem!important;height:1.1rem!important;min-height:0;flex:0 0 auto;margin:0}.content-review .checkbox-label{align-items:center}.content-review .review-editor>details{margin-block:1rem}
+.focused-app:has(.preview-workspace)>.mobile-bottom-nav,.focused-app:has(.content-review)>.mobile-bottom-nav{display:none}
+@media(max-width:600px){.preview-workspace:not(.content-review){padding-bottom:5rem}.preview-bottom-nav{position:fixed;display:flex;bottom:0;inset-inline:0;z-index:40;background:#fff;border-top:1px solid #cbd5e1;padding:.5rem .2rem max(.5rem,env(safe-area-inset-bottom));box-shadow:0 -3px 12px #17324d0b}.preview-bottom-nav button{flex:1;border:0;background:transparent;min-height:44px;font-size:.75rem;color:#334155}.preview-bottom-nav button[aria-current=page]{color:#0f766e;background:#ecfdf5;border-radius:.5rem;font-weight:700}.preview-workspace:not(.content-review) .admin-tabs{flex-wrap:nowrap;overflow:auto;padding-block:.3rem}.preview-workspace:not(.content-review) .admin-tabs .btn{flex:0 0 auto}.content-review .course-filters{grid-template-columns:1fr}.content-review pre{font-size:.75rem}}
+@media(max-width:600px){.preview-workspace .dialog-actions{display:flex;flex-direction:column;align-items:stretch}.preview-workspace .dialog-actions .btn{white-space:normal}.preview-workspace .admin-tabs .btn{flex:1 1 42%;white-space:normal}.preview-workspace .course-filters{grid-template-columns:1fr}}
+
+/* V10: five learner concepts remain visible on narrow screens. */
+.preview-workspace .admin-tabs.hsk2-navigation{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));overflow:visible;gap:6px}.hsk2-navigation .btn{min-width:0;min-height:44px;padding:10px 3px;font-size:12px;white-space:normal}.audio-hash{overflow-wrap:anywhere}.audio-workbench-v10 fieldset{display:grid;gap:12px;min-width:0;margin-block:16px}.audio-workbench-v10 audio{max-width:100%}
+
+.media-rights-row{padding:16px 0;border-bottom:1px solid #d8e7e4;overflow-wrap:anywhere}.media-rights-row h3{font-size:1rem}.media-rights-v11 select{min-height:44px;max-width:100%}

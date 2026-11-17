@@ -1,0 +1,313 @@
+{
+  "at": "2026-10-16T02:09:07.747Z",
+  "backup": ".runtime/backups/before-v5-2026-10-16",
+  "results": [
+    {
+      "script": "typecheck",
+      "exitCode": 0,
+      "durationMs": 2333
+    },
+    {
+      "script": "lint",
+      "exitCode": 0,
+      "durationMs": 910
+    },
+    {
+      "script": "test",
+      "exitCode": 0,
+      "durationMs": 7577
+    },
+    {
+      "script": "test:v2",
+      "exitCode": 0,
+      "durationMs": 4627
+    },
+    {
+      "script": "test:v3",
+      "exitCode": 0,
+      "durationMs": 3027
+    },
+    {
+      "script": "test:v3-api",
+      "exitCode": 0,
+      "durationMs": 1144
+    },
+    {
+      "script": "test:v4",
+      "exitCode": 0,
+      "durationMs": 5242
+    },
+    {
+      "script": "test:admin",
+      "exitCode": 0,
+      "durationMs": 914
+    },
+    {
+      "script": "check:content",
+      "exitCode": 0,
+      "durationMs": 2250
+    },
+    {
+      "script": "build",
+      "exitCode": 0,
+      "durationMs": 4514
+    }
+  ],
+  "live": {
+    "status": 200,
+    "summary": {
+      "counts": {
+        "vocabulary": {
+          "total": 300,
+          "draft": 0,
+          "needsReview": 300,
+          "internallyValidated": 300,
+          "humanReviewed": 0,
+          "published": 0
+        },
+        "grammar": {
+          "total": 68,
+          "draft": 0,
+          "needsReview": 68,
+          "internallyValidated": 68,
+          "humanReviewed": 0,
+          "published": 0
+        },
+        "questions": {
+          "total": 128,
+          "draft": 0,
+          "needsReview": 128,
+          "internallyValidated": 128,
+          "humanReviewed": 0,
+          "published": 0
+        },
+        "audio": {
+          "total": 40,
+          "draft": 0,
+          "needsReview": 40,
+          "internallyValidated": 40,
+          "humanReviewed": 0,
+          "published": 0
+        },
+        "templates": {
+          "total": 1,
+          "draft": 0,
+          "needsReview": 1,
+          "internallyValidated": 1,
+          "humanReviewed": 0,
+          "published": 0
+        }
+      },
+      "total": 537,
+      "errors": 0,
+      "warnings": 0,
+      "renderedAudio": 40,
+      "productionPublished": 0,
+      "humanReviewed": 0
+    },
+    "audioDecoded": 40
+  },
+  "reports": {
+    "v4-browser-chrome.json": {
+      "keys": [
+        "browser",
+        "at",
+        "releaseLoadMs",
+        "searchMs",
+        "practiceStartMs",
+        "decodedAudio",
+        "journey"
+      ]
+    },
+    "v4-browser-edge.json": {
+      "keys": [
+        "browser",
+        "at",
+        "releaseLoadMs",
+        "searchMs",
+        "practiceStartMs",
+        "decodedAudio",
+        "journey"
+      ]
+    },
+    "v4-content-validation.json": {
+      "keys": [
+        "checkedAt",
+        "errors",
+        "warnings",
+        "summary",
+        "note",
+        "previewMock"
+      ],
+      "summary": {
+        "counts": {
+          "vocabulary": {
+            "total": 300,
+            "draft": 0,
+            "needsReview": 300,
+            "internallyValidated": 300,
+            "humanReviewed": 0,
+            "published": 0
+          },
+          "grammar": {
+            "total": 68,
+            "draft": 0,
+            "needsReview": 68,
+            "internallyValidated": 68,
+            "humanReviewed": 0,
+            "published": 0
+          },
+          "questions": {
+            "total": 128,
+            "draft": 0,
+            "needsReview": 128,
+            "internallyValidated": 128,
+            "humanReviewed": 0,
+            "published": 0
+          },
+          "audio": {
+            "total": 40,
+            "draft": 0,
+            "needsReview": 40,
+            "internallyValidated": 40,
+            "humanReviewed": 0,
+            "published": 0
+          },
+          "templates": {
+            "total": 1,
+            "draft": 0,
+            "needsReview": 1,
+            "internallyValidated": 1,
+            "humanReviewed": 0,
+            "published": 0
+          }
+        },
+        "total": 537,
+        "errors": 0,
+        "warnings": 0,
+        "renderedAudio": 40,
+        "productionPublished": 0,
+        "humanReviewed": 0
+      }
+    },
+    "v4-dictionary-cleanup.json": {
+      "keys": [
+        "checkedAt",
+        "license",
+        "changes",
+        "summary"
+      ],
+      "summary": {
+        "total": 300,
+        "normalized": 175,
+        "needsReview": 125,
+        "missingVietnamese": 0,
+        "noShortMeaning": 3
+      }
+    },
+    "v4-editorial-batches.json": {
+      "keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ]
+    },
+    "v4-level-screening.json": {
+      "keys": [
+        "checkedAt",
+        "syllabus",
+        "method",
+        "itemsFlagged",
+        "findings"
+      ],
+      "itemsFlagged": 64
+    },
+    "v4-live-readiness.json": {
+      "keys": [
+        "checkedAt",
+        "status",
+        "summary",
+        "levels",
+        "browserDecodedAudio",
+        "studyProgress",
+        "humanReview"
+      ],
+      "summary": {
+        "counts": {
+          "vocabulary": {
+            "total": 300,
+            "draft": 0,
+            "needsReview": 300,
+            "internallyValidated": 300,
+            "humanReviewed": 0,
+            "published": 0
+          },
+          "grammar": {
+            "total": 68,
+            "draft": 0,
+            "needsReview": 68,
+            "internallyValidated": 68,
+            "humanReviewed": 0,
+            "published": 0
+          },
+          "questions": {
+            "total": 128,
+            "draft": 0,
+            "needsReview": 128,
+            "internallyValidated": 128,
+            "humanReviewed": 0,
+            "published": 0
+          },
+          "audio": {
+            "total": 40,
+            "draft": 0,
+            "needsReview": 40,
+            "internallyValidated": 40,
+            "humanReviewed": 0,
+            "published": 0
+          },
+          "templates": {
+            "total": 1,
+            "draft": 0,
+            "needsReview": 1,
+            "internallyValidated": 1,
+            "humanReviewed": 0,
+            "published": 0
+          }
+        },
+        "total": 537,
+        "errors": 0,
+        "warnings": 0,
+        "renderedAudio": 40,
+        "productionPublished": 0,
+        "humanReviewed": 0
+      }
+    },
+    "v4-performance.json": {
+      "keys": [
+        "assets",
+        "browser",
+        "audioBytes",
+        "audioMs",
+        "batches"
+      ]
+    }
+  }
+}

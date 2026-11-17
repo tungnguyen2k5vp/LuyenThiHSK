@@ -1,0 +1,2204 @@
+{
+  "at": "2026-10-18T10:57:45.550Z",
+  "rows": [
+    {
+      "id": "v8-hsk2-L1-001",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-20",
+              "cti25-v-83",
+              "cti25-v-94",
+              "cti25-v-99",
+              "cti25-v-114",
+              "cti25-v-156",
+              "cti25-v-167",
+              "cti25-v-207",
+              "cti25-v-298"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00015"
+            ],
+            "evidence": "坐火车 chỉ đi tàu hỏa; 去看朋友 là mục đích."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-dca74427f9fa"
+            ],
+            "evidence": "问答出行情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-20",
+            "cti25-v-83",
+            "cti25-v-94",
+            "cti25-v-99",
+            "cti25-v-114",
+            "cti25-v-156",
+            "cti25-v-167",
+            "cti25-v-207",
+            "cti25-v-298"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00015"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Chủ thể mẹ đi tàu hỏa thăm bạn. Đối chiếu phương tiện trong hình, không chọn chỉ vì có người.",
+        "focus": "坐火车 chỉ đi tàu hỏa; 去看朋友 là mục đích.",
+        "mistake": "Đừng chọn máy bay hoặc xe ô tô chỉ vì đều là phương tiện."
+      }
+    },
+    {
+      "id": "v8-hsk2-L1-002",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-68",
+              "cti25-v-108",
+              "cti25-v-165",
+              "cti25-v-194",
+              "cti25-v-196",
+              "cti25-v-197",
+              "cti25-v-234",
+              "cti25-v-472"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00016"
+            ],
+            "evidence": "已经……了 diễn đạt sự việc đã xảy ra."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-ce0130396d14"
+            ],
+            "evidence": "介绍家庭日常生活 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-68",
+            "cti25-v-108",
+            "cti25-v-165",
+            "cti25-v-194",
+            "cti25-v-196",
+            "cti25-v-197",
+            "cti25-v-234",
+            "cti25-v-472"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00016"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Đứa trẻ đã ngủ nên cần nói nhỏ. Hình đúng phải phù hợp trạng thái ngủ.",
+        "focus": "已经……了 diễn đạt sự việc đã xảy ra.",
+        "mistake": "Không chọn hình nói điện thoại khi transcript nói đứa trẻ ngủ."
+      }
+    },
+    {
+      "id": "v8-hsk2-L1-003",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-108",
+              "cti25-v-212",
+              "cti25-v-226",
+              "cti25-v-227",
+              "cti25-v-267",
+              "cti25-v-311",
+              "cti25-v-403",
+              "cti25-v-447",
+              "cti25-v-452"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00018"
+            ],
+            "evidence": "别 + động từ là lời ngăn/nhắc đừng làm."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-429f12772948"
+            ],
+            "evidence": "介绍天气基本情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-108",
+            "cti25-v-212",
+            "cti25-v-226",
+            "cti25-v-227",
+            "cti25-v-267",
+            "cti25-v-311",
+            "cti25-v-403",
+            "cti25-v-447",
+            "cti25-v-452"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00018"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Ngoài trời mưa; người nói nhắc đừng quên mang ô.",
+        "focus": "别 + động từ là lời ngăn/nhắc đừng làm.",
+        "mistake": "Không suy thành trời nắng chỉ vì hình có người ra ngoài."
+      }
+    },
+    {
+      "id": "v8-hsk2-L2-004",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-50",
+              "cti25-v-86",
+              "cti25-v-200",
+              "cti25-v-207",
+              "cti25-v-215",
+              "cti25-v-216",
+              "cti25-v-271",
+              "cti25-v-299",
+              "cti25-v-399"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00008"
+            ],
+            "evidence": "每天 nêu tần suất, 做晚饭 là hành động."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-4724381b9e50"
+            ],
+            "evidence": "问答日常饮食 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-50",
+            "cti25-v-86",
+            "cti25-v-200",
+            "cti25-v-207",
+            "cti25-v-215",
+            "cti25-v-216",
+            "cti25-v-271",
+            "cti25-v-299",
+            "cti25-v-399"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00008"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Hành động là làm bữa tối ở nhà mỗi ngày. Đối chiếu hình nấu ăn.",
+        "focus": "每天 nêu tần suất, 做晚饭 là hành động.",
+        "mistake": "Phân biệt nấu ăn với đang ăn, không chỉ nhìn bát cơm."
+      }
+    },
+    {
+      "id": "v8-hsk2-L2-005",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-24",
+              "cti25-v-35",
+              "cti25-v-61",
+              "cti25-v-156",
+              "cti25-v-202",
+              "cti25-v-327"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00024"
+            ],
+            "evidence": "给 + người đứng trước 打电话."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-1c8186f11988"
+            ],
+            "evidence": "日常言语交往 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-24",
+            "cti25-v-35",
+            "cti25-v-61",
+            "cti25-v-156",
+            "cti25-v-202",
+            "cti25-v-327"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00024"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Cô ấy gọi điện cho bạn; 给朋友 xác định đối tượng cuộc gọi.",
+        "focus": "给 + người đứng trước 打电话.",
+        "mistake": "Phân biệt cầm điện thoại gọi với viết chữ hoặc uống nước."
+      }
+    },
+    {
+      "id": "v8-hsk2-L2-006",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-21",
+              "cti25-v-50",
+              "cti25-v-167",
+              "cti25-v-200",
+              "cti25-v-247",
+              "cti25-v-250",
+              "cti25-v-376",
+              "cti25-v-448"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00048"
+            ],
+            "evidence": "吃完 nêu hoàn tất; 就 nối việc tiếp sau."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-ce0130396d14"
+            ],
+            "evidence": "介绍家庭日常生活 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-21",
+            "cti25-v-50",
+            "cti25-v-167",
+            "cti25-v-200",
+            "cti25-v-247",
+            "cti25-v-250",
+            "cti25-v-376",
+            "cti25-v-448"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00048"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Anh ấy ăn xong rồi đi học. Cần bám chuỗi hành động trong câu.",
+        "focus": "吃完 nêu hoàn tất; 就 nối việc tiếp sau.",
+        "mistake": "Không đọc 就 thành lý do, cũng không bỏ hành động ăn xong."
+      }
+    },
+    {
+      "id": "v8-hsk2-L3-007",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-13",
+              "cti25-v-17",
+              "cti25-v-30",
+              "cti25-v-77",
+              "cti25-v-108",
+              "cti25-v-142",
+              "cti25-v-146",
+              "cti25-v-151",
+              "cti25-v-152",
+              "cti25-v-182",
+              "cti25-v-192",
+              "cti25-v-219",
+              "cti25-v-221",
+              "cti25-v-232",
+              "cti25-v-233",
+              "cti25-v-254",
+              "cti25-v-271",
+              "cti25-v-454",
+              "cti25-v-472"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00006"
+            ],
+            "evidence": "已经喝了一杯 là quá khứ gần; 现在想喝水 là thông tin cần chọn."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-4724381b9e50"
+            ],
+            "evidence": "问答日常饮食 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-13",
+            "cti25-v-17",
+            "cti25-v-30",
+            "cti25-v-77",
+            "cti25-v-108",
+            "cti25-v-142",
+            "cti25-v-146",
+            "cti25-v-151",
+            "cti25-v-152",
+            "cti25-v-182",
+            "cti25-v-192",
+            "cti25-v-219",
+            "cti25-v-221",
+            "cti25-v-232",
+            "cti25-v-233",
+            "cti25-v-254",
+            "cti25-v-271",
+            "cti25-v-454",
+            "cti25-v-472"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00006"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Người nam đã uống sữa và bây giờ muốn uống nước. Câu hỏi hỏi nhu cầu hiện tại.",
+        "focus": "已经喝了一杯 là quá khứ gần; 现在想喝水 là thông tin cần chọn.",
+        "mistake": "Không chọn sữa chỉ vì xuất hiện đầu hội thoại."
+      }
+    },
+    {
+      "id": "v8-hsk2-L3-008",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-30",
+              "cti25-v-71",
+              "cti25-v-94",
+              "cti25-v-102",
+              "cti25-v-115",
+              "cti25-v-116",
+              "cti25-v-129",
+              "cti25-v-142",
+              "cti25-v-152",
+              "cti25-v-167",
+              "cti25-v-175",
+              "cti25-v-176",
+              "cti25-v-182",
+              "cti25-v-185",
+              "cti25-v-190",
+              "cti25-v-207",
+              "cti25-v-215",
+              "cti25-v-217",
+              "cti25-v-219",
+              "cti25-v-221",
+              "cti25-v-252",
+              "cti25-v-254",
+              "cti25-v-273",
+              "cti25-v-275",
+              "cti25-v-304",
+              "cti25-v-431",
+              "cti25-v-473"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00015"
+            ],
+            "evidence": "明天 đối chiếu với 今天; 可以 chỉ khả năng/điều kiện được làm."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-75bdaaeac417"
+            ],
+            "evidence": "交流休闲活动 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-30",
+            "cti25-v-71",
+            "cti25-v-94",
+            "cti25-v-102",
+            "cti25-v-115",
+            "cti25-v-116",
+            "cti25-v-129",
+            "cti25-v-142",
+            "cti25-v-152",
+            "cti25-v-167",
+            "cti25-v-175",
+            "cti25-v-176",
+            "cti25-v-182",
+            "cti25-v-185",
+            "cti25-v-190",
+            "cti25-v-207",
+            "cti25-v-215",
+            "cti25-v-217",
+            "cti25-v-219",
+            "cti25-v-221",
+            "cti25-v-252",
+            "cti25-v-254",
+            "cti25-v-273",
+            "cti25-v-275",
+            "cti25-v-304",
+            "cti25-v-431",
+            "cti25-v-473"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00015"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Người nữ hôm nay đi làm và chỉ có thể mua sách ngày mai.",
+        "focus": "明天 đối chiếu với 今天; 可以 chỉ khả năng/điều kiện được làm.",
+        "mistake": "Không chọn sáng hoặc tối hôm nay, vì cả ngày được nói là đi làm."
+      }
+    },
+    {
+      "id": "v8-hsk2-L3-009",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-30",
+              "cti25-v-71",
+              "cti25-v-73",
+              "cti25-v-89",
+              "cti25-v-99",
+              "cti25-v-111",
+              "cti25-v-131",
+              "cti25-v-142",
+              "cti25-v-146",
+              "cti25-v-152",
+              "cti25-v-182",
+              "cti25-v-219",
+              "cti25-v-225",
+              "cti25-v-255",
+              "cti25-v-279",
+              "cti25-v-303",
+              "cti25-v-309",
+              "cti25-v-355",
+              "cti25-v-466"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00025"
+            ],
+            "evidence": "比……好看 so sánh vẻ đẹp; không nói áo trắng không đẹp."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-ac642b2d5d0e"
+            ],
+            "evidence": "问答商品情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-30",
+            "cti25-v-71",
+            "cti25-v-73",
+            "cti25-v-89",
+            "cti25-v-99",
+            "cti25-v-111",
+            "cti25-v-131",
+            "cti25-v-142",
+            "cti25-v-146",
+            "cti25-v-152",
+            "cti25-v-182",
+            "cti25-v-219",
+            "cti25-v-225",
+            "cti25-v-255",
+            "cti25-v-279",
+            "cti25-v-303",
+            "cti25-v-309",
+            "cti25-v-355",
+            "cti25-v-466"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00025"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Người nam thích áo màu xanh hơn áo trắng. Chọn màu của áo được ưa thích.",
+        "focus": "比……好看 so sánh vẻ đẹp; không nói áo trắng không đẹp.",
+        "mistake": "Không đảo hai vế so sánh hoặc coi câu là chọn màu đỏ."
+      }
+    },
+    {
+      "id": "v8-hsk2-R1-010",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-21",
+              "cti25-v-50",
+              "cti25-v-80",
+              "cti25-v-82",
+              "cti25-v-99",
+              "cti25-v-190",
+              "cti25-v-207",
+              "cti25-v-221",
+              "cti25-v-254",
+              "cti25-v-399",
+              "cti25-v-448",
+              "cti25-v-471"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00048"
+            ],
+            "evidence": "吃完饭以后 nêu mốc trước hoạt động 看书."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-75bdaaeac417"
+            ],
+            "evidence": "交流休闲活动 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-21",
+            "cti25-v-50",
+            "cti25-v-80",
+            "cti25-v-82",
+            "cti25-v-99",
+            "cti25-v-190",
+            "cti25-v-207",
+            "cti25-v-221",
+            "cti25-v-254",
+            "cti25-v-399",
+            "cti25-v-448",
+            "cti25-v-471"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00048"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Sau bữa ăn người nói đọc sách một lúc. Hình cần mô tả đọc sách.",
+        "focus": "吃完饭以后 nêu mốc trước hoạt động 看书.",
+        "mistake": "Phân biệt thời điểm sau ăn với hành động chính đang đọc."
+      }
+    },
+    {
+      "id": "v8-hsk2-R1-011",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-52",
+              "cti25-v-79",
+              "cti25-v-108",
+              "cti25-v-110",
+              "cti25-v-194",
+              "cti25-v-200",
+              "cti25-v-366",
+              "cti25-v-472"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00016"
+            ],
+            "evidence": "已经 + động từ + 了 nêu trạng thái đã hình thành."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-ce0130396d14"
+            ],
+            "evidence": "介绍家庭日常生活 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-52",
+            "cti25-v-79",
+            "cti25-v-108",
+            "cti25-v-110",
+            "cti25-v-194",
+            "cti25-v-200",
+            "cti25-v-366",
+            "cti25-v-472"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00016"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Anh ấy đã ngủ; phòng yên tĩnh. Hình phù hợp phải là người đang ngủ.",
+        "focus": "已经 + động từ + 了 nêu trạng thái đã hình thành.",
+        "mistake": "Không chọn đọc sách chỉ vì hoạt động đó cũng có thể yên lặng."
+      }
+    },
+    {
+      "id": "v8-hsk2-R1-012",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-30",
+              "cti25-v-123",
+              "cti25-v-130",
+              "cti25-v-240",
+              "cti25-v-296",
+              "cti25-v-310",
+              "cti25-v-404",
+              "cti25-v-494"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00007"
+            ],
+            "evidence": "自己的 chỉ chính em gái theo chủ ngữ câu."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-96e0b02c992a"
+            ],
+            "evidence": "介绍学习情况、学习经历 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-30",
+            "cti25-v-123",
+            "cti25-v-130",
+            "cti25-v-240",
+            "cti25-v-296",
+            "cti25-v-310",
+            "cti25-v-404",
+            "cti25-v-494"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00007"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Em gái dùng bút viết tên của mình. Hình mô tả viết, không phải đọc.",
+        "focus": "自己的 chỉ chính em gái theo chủ ngữ câu.",
+        "mistake": "Không hiểu 自己 là tên của người nói thay vì em gái."
+      }
+    },
+    {
+      "id": "v8-hsk2-R2-013",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-10",
+              "cti25-v-11",
+              "cti25-v-13",
+              "cti25-v-30",
+              "cti25-v-61",
+              "cti25-v-114",
+              "cti25-v-116",
+              "cti25-v-145",
+              "cti25-v-182",
+              "cti25-v-188",
+              "cti25-v-190",
+              "cti25-v-221",
+              "cti25-v-254",
+              "cti25-v-279",
+              "cti25-v-382",
+              "cti25-v-454",
+              "cti25-v-472",
+              "cti25-v-473",
+              "cti25-v-494",
+              "cti25-v-499",
+              "cti25-v-500"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00007"
+            ],
+            "evidence": "我自己买的 là cách nhấn người thực hiện."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-6be34197947e"
+            ],
+            "evidence": "问答物品情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-10",
+            "cti25-v-11",
+            "cti25-v-13",
+            "cti25-v-30",
+            "cti25-v-61",
+            "cti25-v-114",
+            "cti25-v-116",
+            "cti25-v-145",
+            "cti25-v-182",
+            "cti25-v-188",
+            "cti25-v-190",
+            "cti25-v-221",
+            "cti25-v-254",
+            "cti25-v-279",
+            "cti25-v-382",
+            "cti25-v-454",
+            "cti25-v-472",
+            "cti25-v-473",
+            "cti25-v-494",
+            "cti25-v-499",
+            "cti25-v-500"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00007"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "自己 nhấn mạnh người nói tự mua, đối chiếu với không phải mẹ cho.",
+        "focus": "我自己买的 là cách nhấn người thực hiện.",
+        "mistake": "已经 chỉ thời điểm hoàn thành, không nêu đối lập ai là người mua."
+      }
+    },
+    {
+      "id": "v8-hsk2-R2-014",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-11",
+              "cti25-v-13",
+              "cti25-v-15",
+              "cti25-v-25",
+              "cti25-v-32",
+              "cti25-v-108",
+              "cti25-v-145",
+              "cti25-v-165",
+              "cti25-v-182",
+              "cti25-v-194",
+              "cti25-v-196",
+              "cti25-v-197",
+              "cti25-v-252",
+              "cti25-v-254",
+              "cti25-v-382",
+              "cti25-v-454",
+              "cti25-v-472",
+              "cti25-v-473",
+              "cti25-v-494",
+              "cti25-v-499",
+              "cti25-v-500"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00016"
+            ],
+            "evidence": "已经睡了 diễn đạt đã đi vào trạng thái ngủ."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-ce0130396d14"
+            ],
+            "evidence": "介绍家庭日常生活 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-11",
+            "cti25-v-13",
+            "cti25-v-15",
+            "cti25-v-25",
+            "cti25-v-32",
+            "cti25-v-108",
+            "cti25-v-145",
+            "cti25-v-165",
+            "cti25-v-182",
+            "cti25-v-194",
+            "cti25-v-196",
+            "cti25-v-197",
+            "cti25-v-252",
+            "cti25-v-254",
+            "cti25-v-382",
+            "cti25-v-454",
+            "cti25-v-472",
+            "cti25-v-473",
+            "cti25-v-494",
+            "cti25-v-499",
+            "cti25-v-500"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00016"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "已经 phù hợp vì em trai đã ngủ nên không nên nói to.",
+        "focus": "已经睡了 diễn đạt đã đi vào trạng thái ngủ.",
+        "mistake": "可能 chỉ phỏng đoán, không phù hợp ý khẳng định hiện trạng của lời nhắc."
+      }
+    },
+    {
+      "id": "v8-hsk2-R2-015",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-11",
+              "cti25-v-94",
+              "cti25-v-103",
+              "cti25-v-106",
+              "cti25-v-145",
+              "cti25-v-146",
+              "cti25-v-175",
+              "cti25-v-177",
+              "cti25-v-182",
+              "cti25-v-207",
+              "cti25-v-254",
+              "cti25-v-382",
+              "cti25-v-454",
+              "cti25-v-472",
+              "cti25-v-473",
+              "cti25-v-494",
+              "cti25-v-499",
+              "cti25-v-500"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00006"
+            ],
+            "evidence": "为什么 đặt trước phần 今天没来上课 cần hỏi nguyên nhân."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-1c8186f11988"
+            ],
+            "evidence": "日常言语交往 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-11",
+            "cti25-v-94",
+            "cti25-v-103",
+            "cti25-v-106",
+            "cti25-v-145",
+            "cti25-v-146",
+            "cti25-v-175",
+            "cti25-v-177",
+            "cti25-v-182",
+            "cti25-v-207",
+            "cti25-v-254",
+            "cti25-v-382",
+            "cti25-v-454",
+            "cti25-v-472",
+            "cti25-v-473",
+            "cti25-v-494",
+            "cti25-v-499",
+            "cti25-v-500"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00006"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "为什么 hỏi lý do hôm nay không đến lớp.",
+        "focus": "为什么 đặt trước phần 今天没来上课 cần hỏi nguyên nhân.",
+        "mistake": "Không dùng 自己 hay 一起 để thay từ hỏi nguyên nhân."
+      }
+    },
+    {
+      "id": "v8-hsk2-R3-016",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-17",
+              "cti25-v-30",
+              "cti25-v-33",
+              "cti25-v-71",
+              "cti25-v-77",
+              "cti25-v-79",
+              "cti25-v-88",
+              "cti25-v-108",
+              "cti25-v-124",
+              "cti25-v-146",
+              "cti25-v-167",
+              "cti25-v-173",
+              "cti25-v-175",
+              "cti25-v-182",
+              "cti25-v-188",
+              "cti25-v-200",
+              "cti25-v-221",
+              "cti25-v-222",
+              "cti25-v-241",
+              "cti25-v-247",
+              "cti25-v-250",
+              "cti25-v-254",
+              "cti25-v-271",
+              "cti25-v-295",
+              "cti25-v-309",
+              "cti25-v-336",
+              "cti25-v-341",
+              "cti25-v-371",
+              "cti25-v-392",
+              "cti25-v-454",
+              "cti25-v-476",
+              "cti25-v-495",
+              "cti25-v-496"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00006"
+            ],
+            "evidence": "为什么 hỏi lý do; 因为 mở lời giải thích."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-dca74427f9fa"
+            ],
+            "evidence": "问答出行情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-17",
+            "cti25-v-30",
+            "cti25-v-33",
+            "cti25-v-71",
+            "cti25-v-77",
+            "cti25-v-79",
+            "cti25-v-88",
+            "cti25-v-108",
+            "cti25-v-124",
+            "cti25-v-146",
+            "cti25-v-167",
+            "cti25-v-173",
+            "cti25-v-175",
+            "cti25-v-182",
+            "cti25-v-188",
+            "cti25-v-200",
+            "cti25-v-221",
+            "cti25-v-222",
+            "cti25-v-241",
+            "cti25-v-247",
+            "cti25-v-250",
+            "cti25-v-254",
+            "cti25-v-271",
+            "cti25-v-295",
+            "cti25-v-309",
+            "cti25-v-336",
+            "cti25-v-341",
+            "cti25-v-371",
+            "cti25-v-392",
+            "cti25-v-454",
+            "cti25-v-476",
+            "cti25-v-495",
+            "cti25-v-496"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00006"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Vì trường gần nên đi bộ là câu trả lời đúng nguyên nhân.",
+        "focus": "为什么 hỏi lý do; 因为 mở lời giải thích.",
+        "mistake": "Câu trả lời vị trí 在桌子上 không trả lời vì sao đi bộ."
+      }
+    },
+    {
+      "id": "v8-hsk2-R3-017",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-17",
+              "cti25-v-30",
+              "cti25-v-33",
+              "cti25-v-38",
+              "cti25-v-71",
+              "cti25-v-77",
+              "cti25-v-79",
+              "cti25-v-88",
+              "cti25-v-99",
+              "cti25-v-108",
+              "cti25-v-115",
+              "cti25-v-124",
+              "cti25-v-167",
+              "cti25-v-173",
+              "cti25-v-175",
+              "cti25-v-188",
+              "cti25-v-200",
+              "cti25-v-221",
+              "cti25-v-222",
+              "cti25-v-241",
+              "cti25-v-247",
+              "cti25-v-250",
+              "cti25-v-254",
+              "cti25-v-271",
+              "cti25-v-295",
+              "cti25-v-309",
+              "cti25-v-336",
+              "cti25-v-341",
+              "cti25-v-371",
+              "cti25-v-473",
+              "cti25-v-476"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00015"
+            ],
+            "evidence": "一起 cho biết cùng tham gia hoạt động."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-75bdaaeac417"
+            ],
+            "evidence": "交流休闲活动 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-17",
+            "cti25-v-30",
+            "cti25-v-33",
+            "cti25-v-38",
+            "cti25-v-71",
+            "cti25-v-77",
+            "cti25-v-79",
+            "cti25-v-88",
+            "cti25-v-99",
+            "cti25-v-108",
+            "cti25-v-115",
+            "cti25-v-124",
+            "cti25-v-167",
+            "cti25-v-173",
+            "cti25-v-175",
+            "cti25-v-188",
+            "cti25-v-200",
+            "cti25-v-221",
+            "cti25-v-222",
+            "cti25-v-241",
+            "cti25-v-247",
+            "cti25-v-250",
+            "cti25-v-254",
+            "cti25-v-271",
+            "cti25-v-295",
+            "cti25-v-309",
+            "cti25-v-336",
+            "cti25-v-341",
+            "cti25-v-371",
+            "cti25-v-473",
+            "cti25-v-476"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00015"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Lời rủ đi xem phim cần được đáp bằng đồng ý và giờ gặp.",
+        "focus": "一起 cho biết cùng tham gia hoạt động.",
+        "mistake": "Không chọn câu nói người sở hữu hay so chiều cao."
+      }
+    },
+    {
+      "id": "v8-hsk2-R3-018",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-10",
+              "cti25-v-17",
+              "cti25-v-30",
+              "cti25-v-33",
+              "cti25-v-71",
+              "cti25-v-77",
+              "cti25-v-79",
+              "cti25-v-88",
+              "cti25-v-108",
+              "cti25-v-124",
+              "cti25-v-173",
+              "cti25-v-175",
+              "cti25-v-181",
+              "cti25-v-188",
+              "cti25-v-190",
+              "cti25-v-200",
+              "cti25-v-221",
+              "cti25-v-222",
+              "cti25-v-241",
+              "cti25-v-247",
+              "cti25-v-250",
+              "cti25-v-254",
+              "cti25-v-271",
+              "cti25-v-279",
+              "cti25-v-295",
+              "cti25-v-309",
+              "cti25-v-336",
+              "cti25-v-341",
+              "cti25-v-371",
+              "cti25-v-476"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00035"
+            ],
+            "evidence": "我的 lược danh từ 书 đã biết."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-6be34197947e"
+            ],
+            "evidence": "问答物品情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-10",
+            "cti25-v-17",
+            "cti25-v-30",
+            "cti25-v-33",
+            "cti25-v-71",
+            "cti25-v-77",
+            "cti25-v-79",
+            "cti25-v-88",
+            "cti25-v-108",
+            "cti25-v-124",
+            "cti25-v-173",
+            "cti25-v-175",
+            "cti25-v-181",
+            "cti25-v-188",
+            "cti25-v-190",
+            "cti25-v-200",
+            "cti25-v-221",
+            "cti25-v-222",
+            "cti25-v-241",
+            "cti25-v-247",
+            "cti25-v-250",
+            "cti25-v-254",
+            "cti25-v-271",
+            "cti25-v-279",
+            "cti25-v-295",
+            "cti25-v-309",
+            "cti25-v-336",
+            "cti25-v-341",
+            "cti25-v-371",
+            "cti25-v-476"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00035"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "谁的 hỏi người sở hữu sách, nên lời đáp 是我的 phù hợp.",
+        "focus": "我的 lược danh từ 书 đã biết.",
+        "mistake": "Không trả lời bằng vị trí sách khi câu hỏi hỏi của ai."
+      }
+    },
+    {
+      "id": "v8-hsk2-R4-019",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-10",
+              "cti25-v-40",
+              "cti25-v-78",
+              "cti25-v-89",
+              "cti25-v-94",
+              "cti25-v-108",
+              "cti25-v-111",
+              "cti25-v-116",
+              "cti25-v-122",
+              "cti25-v-124",
+              "cti25-v-156",
+              "cti25-v-167",
+              "cti25-v-182",
+              "cti25-v-190",
+              "cti25-v-192",
+              "cti25-v-193",
+              "cti25-v-200",
+              "cti25-v-203",
+              "cti25-v-207",
+              "cti25-v-219",
+              "cti25-v-234",
+              "cti25-v-254",
+              "cti25-v-255",
+              "cti25-v-263",
+              "cti25-v-473"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00015"
+            ],
+            "evidence": "Chủ thể 小林 khác 朋友; 没有买 phủ định mua trái cây."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-ac642b2d5d0e"
+            ],
+            "evidence": "问答商品情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-10",
+            "cti25-v-40",
+            "cti25-v-78",
+            "cti25-v-89",
+            "cti25-v-94",
+            "cti25-v-108",
+            "cti25-v-111",
+            "cti25-v-116",
+            "cti25-v-122",
+            "cti25-v-124",
+            "cti25-v-156",
+            "cti25-v-167",
+            "cti25-v-182",
+            "cti25-v-190",
+            "cti25-v-192",
+            "cti25-v-193",
+            "cti25-v-200",
+            "cti25-v-203",
+            "cti25-v-207",
+            "cti25-v-219",
+            "cti25-v-234",
+            "cti25-v-254",
+            "cti25-v-255",
+            "cti25-v-263",
+            "cti25-v-473"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00015"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Tiểu Lâm mua hai cuốn sách; quần áo do bạn mua, còn trái cây không mua.",
+        "focus": "Chủ thể 小林 khác 朋友; 没有买 phủ định mua trái cây.",
+        "mistake": "Không gộp đồ hai người mua thành đồ Tiểu Lâm."
+      }
+    },
+    {
+      "id": "v8-hsk2-R4-020",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-2",
+              "cti25-v-32",
+              "cti25-v-33",
+              "cti25-v-85",
+              "cti25-v-92",
+              "cti25-v-94",
+              "cti25-v-108",
+              "cti25-v-113",
+              "cti25-v-160",
+              "cti25-v-161",
+              "cti25-v-167",
+              "cti25-v-200",
+              "cti25-v-207",
+              "cti25-v-219",
+              "cti25-v-247",
+              "cti25-v-250",
+              "cti25-v-252",
+              "cti25-v-253",
+              "cti25-v-321",
+              "cti25-v-336",
+              "cti25-v-380",
+              "cti25-v-381",
+              "cti25-v-399",
+              "cti25-v-476"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00027"
+            ],
+            "evidence": "今天限定时间; 因为解释变化原因."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-4bc10a32d7ac"
+            ],
+            "evidence": "交流学校情况、课后活动 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-2",
+            "cti25-v-32",
+            "cti25-v-33",
+            "cti25-v-85",
+            "cti25-v-92",
+            "cti25-v-94",
+            "cti25-v-108",
+            "cti25-v-113",
+            "cti25-v-160",
+            "cti25-v-161",
+            "cti25-v-167",
+            "cti25-v-200",
+            "cti25-v-207",
+            "cti25-v-219",
+            "cti25-v-247",
+            "cti25-v-250",
+            "cti25-v-252",
+            "cti25-v-253",
+            "cti25-v-321",
+            "cti25-v-336",
+            "cti25-v-380",
+            "cti25-v-381",
+            "cti25-v-399",
+            "cti25-v-476"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00027"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Hôm nay em trai dậy lúc sáu giờ để đi thi, khác lịch thường ngày bảy giờ.",
+        "focus": "今天限定时间; 因为解释变化原因.",
+        "mistake": "Không dùng lịch thường lệ 七点 để trả lời câu hỏi hôm nay."
+      }
+    },
+    {
+      "id": "v8-hsk2-R4-021",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-9",
+              "cti25-v-13",
+              "cti25-v-30",
+              "cti25-v-49",
+              "cti25-v-60",
+              "cti25-v-65",
+              "cti25-v-105",
+              "cti25-v-108",
+              "cti25-v-116",
+              "cti25-v-164",
+              "cti25-v-182",
+              "cti25-v-184",
+              "cti25-v-202",
+              "cti25-v-206",
+              "cti25-v-219",
+              "cti25-v-223",
+              "cti25-v-225",
+              "cti25-v-233",
+              "cti25-v-234",
+              "cti25-v-254",
+              "cti25-v-263",
+              "cti25-v-267",
+              "cti25-v-287",
+              "cti25-v-355",
+              "cti25-v-439",
+              "cti25-v-454"
+            ],
+            "evidence": "Token links retained; actual prompt and options individually inspected"
+          },
+          "grammar": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "HSK30-2025-GRA-HSK2-00029"
+            ],
+            "evidence": "只有限制数量; 所以 nối kết quả mua cốc đỏ."
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v9-cti25-task-2-ac642b2d5d0e"
+            ],
+            "evidence": "问答商品情况 · source fact at https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-9",
+            "cti25-v-13",
+            "cti25-v-30",
+            "cti25-v-49",
+            "cti25-v-60",
+            "cti25-v-65",
+            "cti25-v-105",
+            "cti25-v-108",
+            "cti25-v-116",
+            "cti25-v-164",
+            "cti25-v-182",
+            "cti25-v-184",
+            "cti25-v-202",
+            "cti25-v-206",
+            "cti25-v-219",
+            "cti25-v-223",
+            "cti25-v-225",
+            "cti25-v-233",
+            "cti25-v-234",
+            "cti25-v-254",
+            "cti25-v-263",
+            "cti25-v-267",
+            "cti25-v-287",
+            "cti25-v-355",
+            "cti25-v-439",
+            "cti25-v-454"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00029"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Cô ấy chỉ có mười hai tệ; cốc xanh giá mười lăm nên quá đắt so với tiền hiện có.",
+        "focus": "只有限制数量; 所以 nối kết quả mua cốc đỏ.",
+        "mistake": "Không suy cô ấy ghét màu xanh: bài chỉ nêu giới hạn tiền."
+      }
+    },
+    {
+      "id": "v8-hsk2-W1-022",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-165"
+            ],
+            "evidence": "Target character in this item: 请"
+          },
+          "grammar": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character component recognition, not structure mastery"
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character component/recall drill, not a communicative syllabus task"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-165",
+            "cti25-v-400"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00035"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "请 gồm bộ 讠 và phần 青. Bài này kiểm tra nhận biết cấu tạo chữ, không kiểm ngữ pháp.",
+        "focus": "请 dùng trong lời yêu cầu; metadata từ chỉ hỗ trợ học chữ.",
+        "mistake": "Không coi ghép đúng bộ chữ là đã nắm cụm 的."
+      }
+    },
+    {
+      "id": "v8-hsk2-W1-023",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-414"
+            ],
+            "evidence": "Target character in this item: 跑"
+          },
+          "grammar": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character component recognition, not structure mastery"
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character component/recall drill, not a communicative syllabus task"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-307",
+            "cti25-v-400",
+            "cti25-v-414"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00005"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "跑 có bộ 足 dạng đứng bên trái và 包 ở bên phải.",
+        "focus": "跑 nghĩa chạy; đây là cấu tạo chữ.",
+        "mistake": "Không suy thành bằng chứng nắm ngữ pháp động từ ly hợp."
+      }
+    },
+    {
+      "id": "v8-hsk2-W1-024",
+      "revision": 2,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-219"
+            ],
+            "evidence": "Target character in this item: 问"
+          },
+          "grammar": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character component recognition, not structure mastery"
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character component/recall drill, not a communicative syllabus task"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-104",
+            "cti25-v-219",
+            "cti25-v-400"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00006"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "问 có 门 bao quanh 口. Dấu cộng biểu thị thành phần, không nhất thiết bố trí trái/phải.",
+        "focus": "问 nghĩa hỏi; chữ khác 门 đứng riêng.",
+        "mistake": "Không tính câu ghép chữ này thành bằng chứng nắm 为什么."
+      }
+    },
+    {
+      "id": "v8-hsk2-W2-025",
+      "revision": 3,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-77"
+            ],
+            "evidence": "Target character in this item: 喝"
+          },
+          "grammar": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character recall from pinyin; no grammar structure assessed"
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character component/recall drill, not a communicative syllabus task"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-30",
+            "cti25-v-70",
+            "cti25-v-165",
+            "cti25-v-180",
+            "cti25-v-192",
+            "cti25-v-221",
+            "cti25-v-233",
+            "cti25-v-240",
+            "cti25-v-254",
+            "cti25-v-296",
+            "cti25-v-316"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00035"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Chữ gợi ý 喝 (hē) là uống, phù hợp tân ngữ nước. Câu trả lời lưu để tự đối chiếu và người chấm xem.",
+        "focus": "我想喝水: muốn uống nước.",
+        "mistake": "Không tự chấm Writing chính thức bằng một chuỗi đúng duy nhất."
+      }
+    },
+    {
+      "id": "v8-hsk2-W2-026",
+      "revision": 3,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-173"
+            ],
+            "evidence": "Target character in this item: 三"
+          },
+          "grammar": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character recall from pinyin; no grammar structure assessed"
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character component/recall drill, not a communicative syllabus task"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-30",
+            "cti25-v-70",
+            "cti25-v-94",
+            "cti25-v-165",
+            "cti25-v-180",
+            "cti25-v-188",
+            "cti25-v-207",
+            "cti25-v-240",
+            "cti25-v-243",
+            "cti25-v-296",
+            "cti25-v-316"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00035"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Pinyin sān gợi chữ 三 trong 星期三. Nội dung được lưu dưới dạng bài viết chưa chấm.",
+        "focus": "星期三 là thứ Tư.",
+        "mistake": "Không xóa pinyin: đây là dữ kiện đề, không phải gợi ý được bật thêm."
+      }
+    },
+    {
+      "id": "v8-hsk2-W2-027",
+      "revision": 3,
+      "status": "REVISED",
+      "evidence": {
+        "version": "V12",
+        "fields": {
+          "vocabulary": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "cti25-v-10"
+            ],
+            "evidence": "Target character in this item: 本"
+          },
+          "grammar": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character recall from pinyin; no grammar structure assessed"
+          },
+          "topic": {
+            "status": "AUTHOR_PROPOSED_NEEDS_REVIEW",
+            "ids": [
+              "v8-topic-hsk2-everyday"
+            ],
+            "evidence": "Everyday context retained; broad platform topic is not an official CTI task"
+          },
+          "task": {
+            "status": "NOT_APPLICABLE",
+            "ids": [],
+            "evidence": "Character component/recall drill, not a communicative syllabus task"
+          }
+        },
+        "source": "https://www.chinesetest.cn/syllabus",
+        "academicDecision": "BLOCKED_FOR_HUMAN_REVIEW",
+        "previous": {
+          "vocabularyIds": [
+            "cti25-v-30",
+            "cti25-v-70",
+            "cti25-v-111",
+            "cti25-v-165",
+            "cti25-v-180",
+            "cti25-v-190",
+            "cti25-v-221",
+            "cti25-v-240",
+            "cti25-v-263",
+            "cti25-v-296",
+            "cti25-v-316"
+          ],
+          "grammarIds": [
+            "HSK30-2025-GRA-HSK2-00035"
+          ],
+          "taskIds": null,
+          "topicIds": [
+            "v8-topic-hsk2-everyday"
+          ]
+        },
+        "reason": "Pinyin běn gợi 本, lượng từ cho sách. Lưu câu trả lời để người học tự đối chiếu.",
+        "focus": "两本书 là hai cuốn sách.",
+        "mistake": "Không gọi câu điền chữ này là đánh giá chính thức mọi kỹ năng Writing."
+      }
+    }
+  ],
+  "academicReviewed": 0,
+  "missing": 0,
+  "notApplicable": 6
+}

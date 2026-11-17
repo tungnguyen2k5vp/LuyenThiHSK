@@ -1,0 +1,153 @@
+{
+  "at": "2026-10-19T01:56:13.429Z",
+  "records": 20,
+  "questionsAdded": 0,
+  "screen": [
+    {
+      "id": "v13-vocab-cti25-v-366",
+      "canonicalId": "cti25-v-366",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-443",
+      "canonicalId": "cti25-v-443",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-482",
+      "canonicalId": "cti25-v-482",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-500",
+      "canonicalId": "cti25-v-500",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-330",
+      "canonicalId": "cti25-v-330",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-414",
+      "canonicalId": "cti25-v-414",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-419",
+      "canonicalId": "cti25-v-419",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-484",
+      "canonicalId": "cti25-v-484",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-488",
+      "canonicalId": "cti25-v-488",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-489",
+      "canonicalId": "cti25-v-489",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-329",
+      "canonicalId": "cti25-v-329",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-355",
+      "canonicalId": "cti25-v-355",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-356",
+      "canonicalId": "cti25-v-356",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-386",
+      "canonicalId": "cti25-v-386",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-403",
+      "canonicalId": "cti25-v-403",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-404",
+      "canonicalId": "cti25-v-404",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-452",
+      "canonicalId": "cti25-v-452",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-459",
+      "canonicalId": "cti25-v-459",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-491",
+      "canonicalId": "cti25-v-491",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    },
+    {
+      "id": "v13-vocab-cti25-v-496",
+      "canonicalId": "cti25-v-496",
+      "unknownOrHigherTokens": [],
+      "decision": "KEEP_DRAFT_PENDING_EXPERT_REVIEW"
+    }
+  ],
+  "humanReviewed": 0,
+  "published": 0,
+  "sourceLicense": {
+    "officialFacts": {
+      "name": "CTI syllabus (vocabulary/level/pinyin facts)",
+      "url": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "license": "Official source facts; PDF not redistributed",
+      "sha256": "ec74ce0439e837bbb15154be13e747ae798903b2fd3a331629df6c3b45504941"
+    },
+    "dictionary": [
+      {
+        "name": "CVDICT — Phong Phan; derived CC-CEDICT",
+        "url": "https://github.com/ph0ngp/CVDICT",
+        "license": "CC BY-SA 4.0",
+        "sha256": "4dde4b204193efa9c192d7f7daeab1bb579c8ccd7c41ed90d1b6caee22ba0948"
+      },
+      {
+        "name": "Complete HSK Vocabulary — Yanis Zafiropulos",
+        "url": "https://github.com/drkameleon/complete-hsk-vocabulary",
+        "license": "MIT repo; CC-CEDICT meanings CC BY-SA 4.0",
+        "sha256": "c869a0ce353279c9333d9b42c31fc3549785e8b40673dab57ee42bc99cd14131"
+      }
+    ],
+    "examples": "Original AI draft; not copied official/sample/premium questions"
+  },
+  "canonicalIdsHash": "2a5e2c3001ddd03bef1722ef757acc158e811270eb84bdcac8cdd8783ff0b9ed"
+}

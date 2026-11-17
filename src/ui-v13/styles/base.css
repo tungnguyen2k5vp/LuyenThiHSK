@@ -1,0 +1,62 @@
+@import './tokens.css';
+
+/* Scoped root wrapper */
+.hsk-ui-v13 {
+  font-family: var(--v13-font-sans);
+  color: var(--v13-text-primary);
+  background-color: var(--v13-bg-canvas);
+  line-height: var(--v13-line-normal);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+}
+
+.hsk-ui-v13 *,
+.hsk-ui-v13 *::before,
+.hsk-ui-v13 *::after {
+  box-sizing: border-box;
+}
+
+/* Typography Utilities */
+.hsk-ui-v13 .font-chinese {
+  font-family: var(--v13-font-chinese);
+}
+
+.hsk-ui-v13 h1,
+.hsk-ui-v13 h2,
+.hsk-ui-v13 h3,
+.hsk-ui-v13 h4 {
+  color: var(--v13-text-primary);
+  line-height: var(--v13-line-tight);
+  margin: 0;
+  font-weight: var(--v13-weight-bold);
+}
+
+.hsk-ui-v13 h1 { font-size: var(--v13-text-3xl); letter-spacing: -0.025em; }
+.hsk-ui-v13 h2 { font-size: var(--v13-text-2xl); letter-spacing: -0.02em; }
+.hsk-ui-v13 h3 { font-size: var(--v13-text-xl); letter-spacing: -0.015em; }
+.hsk-ui-v13 h4 { font-size: var(--v13-text-lg); }
+
+.hsk-ui-v13 p {
+  margin: 0;
+  color: var(--v13-text-secondary);
+}
+
+.hsk-ui-v13 .text-eyebrow {
+  font-size: var(--v13-text-xs);
+  font-weight: var(--v13-weight-bold);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--v13-text-brand);
+}
+
+.hsk-ui-v13 .text-caption {
+  font-size: var(--v13-text-sm);
+  color: var(--v13-text-secondary);
+}
+
+/* Accessibility Focus Ring helper */
+.hsk-ui-v13 :focus-visible {
+  outline: none;
+  box-shadow: var(--v13-focus-ring);
+}

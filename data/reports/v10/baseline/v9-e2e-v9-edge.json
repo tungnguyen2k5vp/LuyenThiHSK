@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-17T06:10:36.171Z",
+  "suite": "v9",
+  "status": "PASS",
+  "browser": "Edge",
+  "args": [
+    "--v9"
+  ],
+  "runtimeExceptions": 0,
+  "consoleErrors": 0,
+  "screenshotBackend": "foreground-view",
+  "purpose": "Automated browser assertions"
+}

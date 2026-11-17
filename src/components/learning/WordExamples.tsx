@@ -1,0 +1,5 @@
+import type {CourseWord} from '../../types/curriculum';
+
+export function WordExamples({word}:{word:CourseWord}){
+ return <>{word.meaningSupplement&&<p className="data-note">Nghĩa bổ sung có AI hỗ trợ, chưa duyệt độc lập. <a href={word.meaningSupplement.sourceUrl}>Nguồn và giấy phép</a>.</p>}{Boolean(word.supplementalExamples?.length)&&<section className="word-linked-examples" aria-label="Ví dụ có audio"><h3>Gặp từ trong câu</h3><p className="data-note">Ví dụ cộng đồng theo GF2021, ghép theo chữ và pinyin; cần đối chiếu nghĩa trong ngữ cảnh. Audio tổng hợp, chưa duyệt độc lập từng câu.</p>{word.supplementalExamples?.map(ex=><blockquote key={ex.id}><p lang="zh-CN">{ex.zh}</p><p>{ex.pinyin}</p><p lang="en">{ex.en}</p><audio controls preload="none" src={ex.audioUrl} aria-label={'Nghe câu '+ex.zh}/>{ex.slowAudioUrl&&<details><summary>Nghe chậm</summary><audio controls preload="none" src={ex.slowAudioUrl} aria-label={'Nghe chậm câu '+ex.zh}/></details>}<small><a href={ex.sourceUrl} target="_blank" rel="noreferrer">{ex.sourceName}</a> · {ex.license} · {ex.id}</small></blockquote>)}</section>}</>;
+}

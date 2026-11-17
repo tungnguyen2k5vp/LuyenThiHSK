@@ -1,0 +1,2 @@
+import {readFile,writeFile} from 'node:fs/promises';
+for(const p of ['scripts/preparation-browser-flows.mjs','scripts/v3-browser-flows.mjs']){let s=await readFile(p,'utf8');s=s.replaceAll("click('Đã ôn cấu trúc')","click('Đánh dấu đã đọc · ôn sau')").replaceAll('Luyện 1 câu đã duyệt','Luyện cấu trúc này · 1 câu');await writeFile(p,s);}console.log('Changed only renamed grammar button selectors; assertions unchanged.');

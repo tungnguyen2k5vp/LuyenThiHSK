@@ -1,0 +1,1 @@
+import {readFile,writeFile} from 'node:fs/promises';const f='scripts/exam-browser-check.mjs';let s=await readFile(f,'utf8');s="if(process.argv.includes('--v7-matrix')){await import('./v7-browser-matrix.mjs');process.exit(process.exitCode??0);}\n"+s;await writeFile(f,s);

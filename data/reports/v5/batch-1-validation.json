@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-10-16T02:32:20.327Z",
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "counts": {
+      "vocabulary": {
+        "total": 300,
+        "draft": 0,
+        "needsReview": 300,
+        "internallyValidated": 300,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "grammar": {
+        "total": 68,
+        "draft": 0,
+        "needsReview": 68,
+        "internallyValidated": 68,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "questions": {
+        "total": 158,
+        "draft": 0,
+        "needsReview": 158,
+        "internallyValidated": 158,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "audio": {
+        "total": 40,
+        "draft": 0,
+        "needsReview": 40,
+        "internallyValidated": 40,
+        "humanReviewed": 0,
+        "published": 0
+      },
+      "templates": {
+        "total": 1,
+        "draft": 0,
+        "needsReview": 1,
+        "internallyValidated": 1,
+        "humanReviewed": 0,
+        "published": 0
+      }
+    },
+    "total": 567,
+    "errors": 0,
+    "warnings": 0,
+    "renderedAudio": 40,
+    "productionPublished": 0,
+    "humanReviewed": 0
+  },
+  "note": "Technical checks do not verify language, pronunciation or licensing. AI self-check is not human review.",
+  "batch": 1,
+  "added": 30
+}

@@ -1,0 +1,69 @@
+{
+  "at": "2026-10-19T17:30:28.351Z",
+  "status": "PASS",
+  "baseline": "2026-10-19T16:36:58.946Z",
+  "checks": [
+    {
+      "database": "hsk-content.sqlite",
+      "table": "audit",
+      "unchanged": true
+    },
+    {
+      "database": "hsk-content.sqlite",
+      "table": "audit_details",
+      "unchanged": true
+    },
+    {
+      "database": "hsk-content.sqlite",
+      "table": "content",
+      "unchanged": true
+    },
+    {
+      "database": "hsk-content.sqlite",
+      "table": "content_issues",
+      "unchanged": true
+    },
+    {
+      "database": "hsk-content.sqlite",
+      "table": "content_reviews",
+      "unchanged": true
+    },
+    {
+      "database": "hsk-content.sqlite",
+      "table": "imports",
+      "unchanged": true
+    },
+    {
+      "database": "hsk-content.sqlite",
+      "table": "media_assets",
+      "unchanged": true
+    },
+    {
+      "database": "hsk-content.sqlite",
+      "table": "v5_review_work",
+      "unchanged": true
+    },
+    {
+      "database": "hsk-content.sqlite",
+      "integrity": "ok"
+    },
+    {
+      "database": "account-sessions.sqlite",
+      "table": "account_audit",
+      "unchanged": true
+    },
+    {
+      "database": "account-sessions.sqlite",
+      "table": "account_sessions",
+      "unchanged": true
+    },
+    {
+      "database": "account-sessions.sqlite",
+      "integrity": "ok"
+    }
+  ],
+  "issues": [],
+  "contentAccountAuditAndReviewRowsUnchanged": true,
+  "knownArchivedQaRetained": true,
+  "scope": "All rows of every existing content/account table, private media bytes and public content assets (sw.js intentionally upgraded); no real learner browser profile read/reset. Earlier archived QA fixtures/audit retained exactly."
+}

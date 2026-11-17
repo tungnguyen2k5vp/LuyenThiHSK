@@ -1,0 +1,199 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=writing"
+  },
+  "actions": [
+    {
+      "step_id": "ready",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "textarea"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "level",
+      "action": "select_option",
+      "locator": {
+        "kind": "role",
+        "role": "combobox",
+        "name": "Cấp luyện diễn đạt"
+      },
+      "value": {
+        "source": "literal",
+        "value": "7-9"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "prompt",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "h2:has-text(\"指标\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "draft",
+      "action": "fill",
+      "locator": {
+        "kind": "css",
+        "selector": "textarea"
+      },
+      "value": {
+        "source": "literal",
+        "value": "算法应该帮助人们发现新的观点，同时保护用户的选择权。"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "rubric",
+      "action": "check",
+      "locator": {
+        "kind": "css",
+        "selector": ".response-rubric input >> nth=0"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "save",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Lưu lượt luyện và tự đánh giá"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "reload",
+      "action": "goto",
+      "destination": {
+        "url": "http://127.0.0.1:4173/?view=writing"
+      },
+      "wait_until": "load",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "ready_again",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "textarea"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "level_again",
+      "action": "select_option",
+      "locator": {
+        "kind": "role",
+        "role": "combobox",
+        "name": "Cấp luyện diễn đạt"
+      },
+      "value": {
+        "source": "literal",
+        "value": "7-9"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "draft_restored",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "textarea:has-text(\"算法应该\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "rubric_restored",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".response-rubric input:checked"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "legacy",
+      "action": "select_option",
+      "locator": {
+        "kind": "role",
+        "role": "combobox",
+        "name": "Cấp luyện diễn đạt"
+      },
+      "value": {
+        "source": "literal",
+        "value": "all"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "legacy_available",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "select[aria-label=\"Chọn bài phản hồi\"] option >> nth=14"
+      },
+      "state": "attached",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "back",
+      "action": "select_option",
+      "locator": {
+        "kind": "role",
+        "role": "combobox",
+        "name": "Cấp luyện diễn đạt"
+      },
+      "value": {
+        "source": "literal",
+        "value": "7-9"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "draft_still_here",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "textarea:has-text(\"算法应该\")"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    }
+  ],
+  "capture": {
+    "after_each_step": [
+      "url",
+      "accessibility"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  }
+}

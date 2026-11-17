@@ -1,0 +1,229 @@
+{
+  "checkedAt": "2026-10-15T17:08:15.841Z",
+  "license": "CVDICT dictionary adaptation CC BY-SA 4.0; see THIRD_PARTY_NOTICES.md",
+  "changes": [
+    {
+      "id": "cti25-v-4",
+      "hanzi": "吧",
+      "before": "(trợ từ ngữ khí chỉ gợi ý hoặc phỏng đoán); ...phải không?; ...được chứ?; ...tôi đoán.",
+      "after": "quán bar (từ mượn) (phục vụ đồ uống, hoặc cung cấp truy cập Internet, v.v.); hút (thuốc lá, tẩu thuốc, v.v.); (từ tượng thanh) bùm; viết tắt của 貼吧|贴吧[tie1 ba1]"
+    },
+    {
+      "id": "cti25-v-6",
+      "hanzi": "百",
+      "before": "họ [Bai3]",
+      "after": "một trăm; nhiều; tất cả các loại"
+    },
+    {
+      "id": "cti25-v-20",
+      "hanzi": "车",
+      "before": "họ [Che1]",
+      "after": "xe; phương tiện giao thông; LT:輛|辆[liang4]; máy; mài giũa bằng máy tiện; bộ thủ Khang Hy số 159"
+    },
+    {
+      "id": "cti25-v-27",
+      "hanzi": "大学",
+      "before": "Đại học, một trong Tứ thư 四書|四书[Si4 shu1] của Nho giáo",
+      "after": "trường đại học; trường cao đẳng; LT:所[suo3]"
+    },
+    {
+      "id": "cti25-v-40",
+      "hanzi": "东西",
+      "before": "đồ vật; thứ; người; lượng từ: 個|个[ge4], 件[jian4]",
+      "after": "đông và tây"
+    },
+    {
+      "id": "cti25-v-47",
+      "hanzi": "多少",
+      "before": "bao nhiêu?; mấy?; (số điện thoại, mã sinh viên, v.v.) số bao nhiêu?",
+      "after": "số lượng; mức độ; phần nào"
+    },
+    {
+      "id": "cti25-v-60",
+      "hanzi": "个",
+      "before": "(lượng từ dùng trước danh từ không có lượng từ cụ thể); (dạng kết hợp) cá nhân",
+      "after": "dùng trong 自個兒|自个儿[zi4 ge3 r5]"
+    },
+    {
+      "id": "cti25-v-66",
+      "hanzi": "国",
+      "before": "họ [Guo2]",
+      "after": "quốc gia; dân tộc; nhà nước (LT:個|个[ge4]); (hình thức kết hợp) quốc gia"
+    },
+    {
+      "id": "cti25-v-76",
+      "hanzi": "号",
+      "before": "số thứ tự; ngày trong tháng; dấu; ký hiệu; cơ sở kinh doanh; kích cỡ; hậu tố tàu; thổi kèn; lệnh kèn; tên giả; bắt mạch; lượng từ chỉ số người",
+      "after": "gầm; kêu; LT:個|个[ge4]"
+    },
+    {
+      "id": "cti25-v-78",
+      "hanzi": "和",
+      "before": "biến thể cũ của 和[he2]",
+      "after": "(nối hai danh từ) và; cùng với; với (cách đọc ở Đài Loan [han4]); (toán học) tổng; làm hoà; (thể thao) hoà; trận hoà; (dạng kết hợp) hài hoà; (dạng kết hợp) Nhật Bản; Nhật"
+    },
+    {
+      "id": "cti25-v-80",
+      "hanzi": "后",
+      "before": "họ [Hou4]",
+      "after": "hoàng hậu; nữ hoàng; (cổ đại) quân vương; người cai trị"
+    },
+    {
+      "id": "cti25-v-85",
+      "hanzi": "几",
+      "before": "bao nhiêu; mấy; một vài; vài",
+      "after": "bàn nhỏ"
+    },
+    {
+      "id": "cti25-v-99",
+      "hanzi": "看",
+      "before": "nhìn; xem; đọc; coi như; chăm sóc; chữa (bệnh hoặc triệu chứng); phụ thuộc; cảm thấy (rằng); (sau động từ) thử làm; cẩn thận; coi chừng",
+      "after": "chăm sóc; trông nom; theo dõi; canh giữ"
+    },
+    {
+      "id": "cti25-v-109",
+      "hanzi": "冷",
+      "before": "họ [Leng3]",
+      "after": "lạnh"
+    },
+    {
+      "id": "cti25-v-110",
+      "hanzi": "里",
+      "before": "",
+      "after": "lót; bên trong; phía trong; nội bộ; cũng viết 裏|里[li3]"
+    },
+    {
+      "id": "cti25-v-115",
+      "hanzi": "吗",
+      "before": "(trợ từ nghi vấn cho câu hỏi \"có-không\")",
+      "after": "(thông tục) gì?"
+    },
+    {
+      "id": "cti25-v-139",
+      "hanzi": "那里",
+      "before": "",
+      "after": "ở đó; nơi đó"
+    },
+    {
+      "id": "cti25-v-145",
+      "hanzi": "能",
+      "before": "họ [Neng2]",
+      "after": "có thể; có khả năng; có khả năng sẽ; năng lực; (vật lý) năng lượng"
+    },
+    {
+      "id": "cti25-v-149",
+      "hanzi": "年",
+      "before": "họ [Nian2]",
+      "after": "năm; Lượng từ: 個|个[ge4]"
+    },
+    {
+      "id": "cti25-v-153",
+      "hanzi": "女儿",
+      "before": "",
+      "after": "con gái"
+    },
+    {
+      "id": "cti25-v-164",
+      "hanzi": "钱",
+      "before": "họ [Qian2]",
+      "after": "tiền xu; tiền; LT:筆|笔[bi3]; đơn vị trọng lượng, một phần mười của một lạng 兩|两[liang3]"
+    },
+    {
+      "id": "cti25-v-172",
+      "hanzi": "日",
+      "before": "viết tắt của 日本[Ri4 ben3], Nhật Bản",
+      "after": "mặt trời; ngày; ngày, ngày trong tháng"
+    },
+    {
+      "id": "cti25-v-173",
+      "hanzi": "三",
+      "before": "họ [San1]",
+      "after": "ba; 3"
+    },
+    {
+      "id": "cti25-v-175",
+      "hanzi": "上",
+      "before": "(hình thức kết hợp) trên; phía trên; trước; đầu tiên (của nhiều phần); leo; lên; đi lên; tham dự (lớp hoặc đại học); (bổ ngữ phương hướng) lên; (hậu tố danh từ) trên; phía trên",
+      "after": "dùng trong 上聲|上声[shang3 sheng1]"
+    },
+    {
+      "id": "cti25-v-181",
+      "hanzi": "谁",
+      "before": "",
+      "after": "ai; cũng đọc là [shui2]"
+    },
+    {
+      "id": "cti25-v-190",
+      "hanzi": "书",
+      "before": "viết tắt của 書經|书经[Shu1 jing1]",
+      "after": "sách; thư; tài liệu; LT:本[ben3],冊|册[ce4],部[bu4]; viết"
+    },
+    {
+      "id": "cti25-v-192",
+      "hanzi": "水",
+      "before": "họ [Shui3]",
+      "after": "nước; sông; chất lỏng; đồ uống; phí hoặc thu nhập bổ sung; (quần áo) lượng từ cho số lần giặt"
+    },
+    {
+      "id": "cti25-v-218",
+      "hanzi": "喂",
+      "before": "này; cho ăn (động vật, em bé, người bệnh v.v.)",
+      "after": "a lô (khi trả lời điện thoại)"
+    },
+    {
+      "id": "cti25-v-242",
+      "hanzi": "新",
+      "before": "viết tắt của Tân Cương 新疆[Xin1jiang1]; viết tắt của Singapore 新加坡[Xin1jia1po1]; họ [Xin1]",
+      "after": "mới; vừa mới; meso- (hoá học)"
+    },
+    {
+      "id": "cti25-v-251",
+      "hanzi": "雪",
+      "before": "họ [Xue3]",
+      "after": "tuyết; LT: 場|场[chang2]; (văn học) xoá đi (nhục nhã, v.v.)"
+    },
+    {
+      "id": "cti25-v-252",
+      "hanzi": "要",
+      "before": "muốn; cần; yêu cầu; sẽ; sắp; sắp sửa; cần phải; nên; nếu (giống như 要是[yao4 shi5]); (dạng kết hợp) quan trọng",
+      "after": "(hình thức kết hợp) yêu cầu; ép buộc"
+    },
+    {
+      "id": "cti25-v-253",
+      "hanzi": "也",
+      "before": "họ [Ye3]",
+      "after": "(phó từ) cũng; vừa ... vừa ... (chỉ dùng trước vị ngữ); (văn viết) trợ từ có chức năng giống với 啊[a5]"
+    },
+    {
+      "id": "cti25-v-268",
+      "hanzi": "元",
+      "before": "họ [Yuan2]; triều Nguyên (1279-1368)",
+      "after": "đơn vị tiền tệ (đặc biệt là nhân dân tệ Trung Quốc); (hình vị liên kết) đầu tiên; nguyên thủy; sơ cấp; (hình vị liên kết) cơ bản; nền tảng; (hình vị liên kết) cấu thành; phần; (tiền tố) siêu; (toán học) đối số; biến số; niên hiệu (của một triều đại); (Đài Loan) (địa chất) đại"
+    },
+    {
+      "id": "cti25-v-282",
+      "hanzi": "这里",
+      "before": "",
+      "after": "ở đây"
+    },
+    {
+      "id": "cti25-v-287",
+      "hanzi": "只",
+      "before": "hạt bắt đầu chín",
+      "after": "chỉ; chỉ đơn thuần; chỉ là; nhưng"
+    },
+    {
+      "id": "cti25-v-298",
+      "hanzi": "坐",
+      "before": "họ [Zuo4]",
+      "after": "ngồi; ngồi xuống; đi (xe buýt, máy bay, v.v.); kết trái"
+    }
+  ],
+  "summary": {
+    "total": 300,
+    "normalized": 175,
+    "needsReview": 125,
+    "missingVietnamese": 0,
+    "noShortMeaning": 3
+  }
+}

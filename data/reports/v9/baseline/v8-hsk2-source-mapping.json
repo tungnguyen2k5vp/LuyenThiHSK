@@ -1,0 +1,237 @@
+{
+  "at": "2026-10-16T15:45:32.178Z",
+  "source": "https://www.chinesetest.cn/syllabus",
+  "sampleSha256": "920396379b9795c1b5aadb3820ec74e3e606a49d1444043394e7475a35b4bf9c",
+  "answerSha256": "4bb64c8d61a3b385c66cce19222edafbd6149d8542339fbaa4bf04487bc7dbfd",
+  "mapping": [
+    {
+      "part": "W1",
+      "source_question_number": 51,
+      "answer_document_number": 54,
+      "internal_question_id": null,
+      "status": "POSITIONAL_HYPOTHESIS_NOT_VERIFIED",
+      "samplePdfPage": 18,
+      "answerPdfPage": 2
+    },
+    {
+      "part": "W1",
+      "source_question_number": 52,
+      "answer_document_number": 55,
+      "internal_question_id": null,
+      "status": "POSITIONAL_HYPOTHESIS_NOT_VERIFIED",
+      "samplePdfPage": 18,
+      "answerPdfPage": 2
+    },
+    {
+      "part": "W1",
+      "source_question_number": 53,
+      "answer_document_number": 56,
+      "internal_question_id": null,
+      "status": "POSITIONAL_HYPOTHESIS_NOT_VERIFIED",
+      "samplePdfPage": 18,
+      "answerPdfPage": 2
+    },
+    {
+      "part": "W1",
+      "source_question_number": 54,
+      "answer_document_number": 57,
+      "internal_question_id": null,
+      "status": "POSITIONAL_HYPOTHESIS_NOT_VERIFIED",
+      "samplePdfPage": 18,
+      "answerPdfPage": 2
+    },
+    {
+      "part": "W1",
+      "source_question_number": 55,
+      "answer_document_number": 58,
+      "internal_question_id": null,
+      "status": "POSITIONAL_HYPOTHESIS_NOT_VERIFIED",
+      "samplePdfPage": 18,
+      "answerPdfPage": 2
+    },
+    {
+      "part": "W2",
+      "source_question_number": 56,
+      "answer_document_number": 59,
+      "internal_question_id": null,
+      "status": "POSITIONAL_HYPOTHESIS_NOT_VERIFIED",
+      "samplePdfPage": 19,
+      "answerPdfPage": 2
+    },
+    {
+      "part": "W2",
+      "source_question_number": 57,
+      "answer_document_number": 60,
+      "internal_question_id": null,
+      "status": "POSITIONAL_HYPOTHESIS_NOT_VERIFIED",
+      "samplePdfPage": 19,
+      "answerPdfPage": 2
+    },
+    {
+      "part": "W2",
+      "source_question_number": 58,
+      "answer_document_number": 61,
+      "internal_question_id": null,
+      "status": "POSITIONAL_HYPOTHESIS_NOT_VERIFIED",
+      "samplePdfPage": 19,
+      "answerPdfPage": 2
+    },
+    {
+      "part": "W2",
+      "source_question_number": 59,
+      "answer_document_number": 62,
+      "internal_question_id": null,
+      "status": "POSITIONAL_HYPOTHESIS_NOT_VERIFIED",
+      "samplePdfPage": 19,
+      "answerPdfPage": 2
+    },
+    {
+      "part": "W2",
+      "source_question_number": 60,
+      "answer_document_number": 63,
+      "internal_question_id": null,
+      "status": "POSITIONAL_HYPOTHESIS_NOT_VERIFIED",
+      "samplePdfPage": 19,
+      "answerPdfPage": 2
+    }
+  ],
+  "originalPilotNumbers": [
+    {
+      "internal_question_id": "v8-hsk2-L1-001",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-L1-002",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-L1-003",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-L2-004",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-L2-005",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-L2-006",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-L3-007",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-L3-008",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-L3-009",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R1-010",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R1-011",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R1-012",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R2-013",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R2-014",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R2-015",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R3-016",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R3-017",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R3-018",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R4-019",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R4-020",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-R4-021",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-W1-022",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-W1-023",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-W1-024",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-W2-025",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-W2-026",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    },
+    {
+      "internal_question_id": "v8-hsk2-W2-027",
+      "source_question_number": null,
+      "reason": "Original authored text, not a CTI sample item"
+    }
+  ],
+  "resolution": "UNRESOLVED: +3 apparent positional offset is not proof of answer equivalence; no official key reused",
+  "officialMock": "BLOCKED"
+}

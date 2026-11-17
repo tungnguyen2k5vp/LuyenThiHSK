@@ -1,0 +1,23 @@
+{
+  "at": "2026-10-19T05:59:29.844Z",
+  "status": "PASS",
+  "sourceFiles": 3914,
+  "runtimeFiles": 147,
+  "databases": [
+    {
+      "name": "hsk-content.sqlite",
+      "tableCount": 8,
+      "logicalRestore": true,
+      "integrity": "ok"
+    },
+    {
+      "name": "account-sessions.sqlite",
+      "tableCount": 2,
+      "logicalRestore": true,
+      "integrity": "ok"
+    }
+  ],
+  "issues": [],
+  "originalBackupModified": false,
+  "credentialsPrinted": false
+}

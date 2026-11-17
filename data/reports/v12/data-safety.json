@@ -1,0 +1,217 @@
+{
+  "historicalChanged": [],
+  "technicalMetadataOnly": [
+    {
+      "id": "v4-audio-001",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-002",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-003",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-004",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-005",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-006",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-007",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-008",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-009",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-010",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-011",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-012",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-013",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-014",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-015",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-016",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-017",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-019",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-020",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-021",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-023",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-024",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-025",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-026",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-027",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-028",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-029",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-031",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-032",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-033",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-034",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-035",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-036",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-037",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-038",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-039",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v4-audio-040",
+      "revision": 3,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v5-audio-018-d5fc52fdabeb",
+      "revision": 2,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v5-audio-022-82821affc011",
+      "revision": 2,
+      "field": "mediaValidation.checkedAt"
+    },
+    {
+      "id": "v5-audio-030-78fbf55ca168",
+      "revision": 2,
+      "field": "mediaValidation.checkedAt"
+    }
+  ],
+  "reviewWorkChanged": [],
+  "reviewWorkTimestampOnly": [
+    {
+      "id": "cti25-v-116",
+      "revision": 3,
+      "notesPreserved": true
+    }
+  ],
+  "publicFilesChanged": [],
+  "schemaChanged": false,
+  "browserProgress": "No real learner profiles extracted, reset or migrated; isolated QA profiles only.",
+  "status": "PASS"
+}

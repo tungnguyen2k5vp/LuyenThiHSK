@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-18T03:30:06.000Z",
+  "phase": "final",
+  "results": [
+    {
+      "name": "v8-chrome",
+      "status": "FAIL",
+      "exitCode": 1,
+      "durationMs": 51530
+    }
+  ]
+}

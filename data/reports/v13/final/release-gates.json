@@ -1,0 +1,52 @@
+{
+  "at": "2026-10-19T07:16:56.375Z",
+  "status": "V13_QA_PASSED",
+  "results": [
+    {
+      "name": "microphone-repeat",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 308802,
+      "carriedForward": true,
+      "sourceLog": "data/reports/v13/final/sequence-1792390516139"
+    },
+    {
+      "name": "browser-matrix",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 102012
+    },
+    {
+      "name": "performance",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 44140
+    },
+    {
+      "name": "data-safety",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 2667
+    },
+    {
+      "name": "security",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 144
+    },
+    {
+      "name": "source-stable",
+      "status": "PASS",
+      "exitCode": 0,
+      "durationMs": 196
+    }
+  ],
+  "logs": "data/reports/v13/final/sequence-1792394067211",
+  "regression": "data/reports/v13/final/regression-1792390165979",
+  "retries": 0,
+  "content": "PENDING_FINAL_HUMAN_REVIEW",
+  "productionReady": false,
+  "cloud": "NOT_DEPLOYED",
+  "ci": "NOT_RUN_NO_GIT_OR_CI",
+  "scope": "Integrated presentation subset and existing engine; see integration log for retained legacy renderers; headless/fake microphone is not physical-device or pronunciation approval"
+}

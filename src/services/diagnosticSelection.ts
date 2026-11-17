@@ -1,0 +1,2 @@
+export function nextDiagnosticLevel(level:number,streak:number,correct:boolean){if(!correct)return{level:Math.max(1,level-1),streak:0};return streak>=1?{level:Math.min(6,level+1),streak:0}:{level,streak:streak+1};}
+export function estimateDiagnosticLevel(answers:{level:number;correct:boolean}[]):number{return Math.max(1,...[1,2,3,4,5,6].filter(level=>{const sample=answers.filter(a=>a.level===level);return sample.length>=2&&sample.filter(a=>a.correct).length/sample.length>=2/3;}));}

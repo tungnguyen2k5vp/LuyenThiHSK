@@ -1,0 +1,61 @@
+# skill|type|original text|translation|candidate question|correct|distractor 1|distractor 2|distractor 3|explanation VI|grammar suffix|topic
+listening|multiple-choice|我叫小王，我是学生。|Tôi tên Tiểu Vương, tôi là học sinh.|他是做什么的？|学生|医生|老师|公司|Người nói tự giới thiệu 我是学生; thông tin về tên không thay đổi nghề nghiệp.|00052|identity
+listening|multiple-choice|我妈妈在医院工作，她是医生。|Mẹ tôi làm việc ở bệnh viện, bà là bác sĩ.|他妈妈在哪里工作？|医院|学校|书店|超市|在医院工作 nêu trực tiếp nơi làm việc; 医生 là nghề nghiệp, không phải nơi chốn.|00021|work
+listening|multiple-choice|桌子上有三个苹果。|Trên bàn có ba quả táo.|桌子上有几个苹果？|三个|两个|五个|八个|三个 trong lời đọc tương ứng ba quả; phải nghe số 三 thay vì chỉ nhận ra 苹果.|00055|numbers
+listening|multiple-choice|我今天七点起床，八点上班。|Hôm nay tôi dậy lúc bảy giờ, đi làm lúc tám giờ.|他几点上班？|八点|七点|九点|十点|Câu hỏi hỏi 上班, nên lấy 八点; 七点 là giờ 起床.|00070|time
+listening|multiple-choice|我不喜欢喝茶，我喜欢喝牛奶。|Tôi không thích uống trà, tôi thích uống sữa.|他喜欢喝什么？|牛奶|茶|水|米饭|不喜欢 phủ định trà; lựa chọn được khẳng định ở vế sau là 牛奶.|00020|food
+listening|multiple-choice|姐姐在学校，弟弟在家。|Chị gái ở trường, em trai ở nhà.|弟弟在哪里？|家|学校|医院|公司|Ghép đúng người và nơi chốn: 弟弟 đi với 在家, không lấy nơi của 姐姐.|00052|family
+listening|multiple-choice|这本书二十元，那个杯子十元。|Quyển sách này hai mươi tệ, cốc kia mười tệ.|书多少钱？|二十元|十元|三十元|五十元|二十元 là giá sách; 十元 là giá cốc. Câu hỏi yêu cầu giá của 书.|00067|shopping
+listening|multiple-choice|今天星期五，明天我不上班。|Hôm nay thứ sáu, ngày mai tôi không đi làm.|今天星期几？|星期五|星期六|星期日|星期一|Thông tin được nói trực tiếp là 今天星期五; không lấy thứ của ngày mai.|00069|calendar
+listening|multiple-choice|爸爸正在看电视，妈妈正在做饭。|Bố đang xem ti vi, mẹ đang nấu cơm.|妈妈在做什么？|做饭|看电视|读书|睡觉|妈妈对应做饭; 看电视 là hành động của bố.|00064|daily
+listening|multiple-choice|我家有四口人，爸爸、妈妈、姐姐和我。|Nhà tôi có bốn người: bố, mẹ, chị và tôi.|他家有几口人？|四口|三口|五口|六口|Câu nêu 四口人 và liệt kê bốn người; 口 là lượng từ khi đếm người trong gia đình.|00012|family
+listening|multiple-choice|我想去书店买一本中文书。|Tôi muốn đến nhà sách mua một quyển sách tiếng Trung.|他想买什么？|中文书|手机|杯子|衣服|Mục đích sau 去书店 là 买一本中文书; câu hỏi hỏi vật mua, không hỏi địa điểm.|00056|study
+listening|multiple-choice|外边下雨了，我今天不去看电影。|Ngoài trời mưa rồi, hôm nay tôi không đi xem phim.|外边的天气怎么样？|下雨了|很热|下雪了|很好|Lời đọc nêu 下雨了. Không suy ra trời lạnh hay nóng vì không có thông tin đó.|00051|weather
+listening|multiple-choice|我没有车，今天坐出租车去公司。|Tôi không có xe, hôm nay đi taxi đến công ty.|他怎么去公司？|坐出租车|开车|坐飞机|坐火车|坐出租车 nêu phương tiện thực tế; 没有车 không có nghĩa người nói lái xe riêng.|00057|transport
+listening|multiple-choice|老师的手机在桌子上，我的手机在椅子上。|Điện thoại giáo viên ở trên bàn, của tôi ở trên ghế.|老师的手机在哪里？|桌子上|椅子上|学校外|杯子里|Phải theo đúng người sở hữu 老师的; 椅子上 là vị trí điện thoại của người nói.|00024|location
+listening|multiple-choice|我妹妹今年九岁，在小学上学。|Em gái tôi năm nay chín tuổi, học tiểu học.|妹妹今年几岁？|九岁|六岁|八岁|十岁|Thông tin tuổi là 九岁; 小学 cho biết trường học, không phải một số tuổi khác.|00014|family
+listening|multiple-choice|我们上午学习汉语，下午去看电影。|Buổi sáng chúng tôi học tiếng Trung, buổi chiều đi xem phim.|他们下午做什么？|看电影|学习汉语|上班|看病|Vế 下午对应去看电影. Học tiếng Trung là hoạt động buổi sáng.|00042|daily
+listening|multiple-choice|我买了两杯茶和一杯牛奶。|Tôi đã mua hai cốc trà và một cốc sữa.|他买了几杯茶？|两杯|一杯|三杯|四杯|Câu hỏi chỉ đếm 茶, không cộng cả cốc sữa vào.|00013|food
+listening|multiple-choice|这件衣服很好看，但是太贵了，我不买了。|Bộ quần áo này đẹp nhưng đắt quá, tôi không mua nữa.|他觉得衣服怎么样？|太贵了|太小了|不漂亮|很便宜|Lời đọc khen 好看 nhưng chê 太贵; không có thông tin về kích cỡ.|00015|shopping
+listening|multiple-choice|我认识小李，他是我的大学同学。|Tôi quen Tiểu Lý, anh ấy là bạn học đại học của tôi.|小李是他的什么人？|同学|哥哥|老师|儿子|我的大学同学 nêu quan hệ bạn học, không phải quan hệ gia đình.|00038|people
+listening|multiple-choice|我现在有时间，可以和你去超市。|Bây giờ tôi có thời gian, có thể đi siêu thị với bạn.|他们可以去哪里？|超市|医院|电影院|学校|Đích đến sau 去 là 超市; 有时间 giải thích điều kiện để có thể đi.|00006|shopping
+listening|multiple-choice|今天很冷，请穿那件新衣服。|Hôm nay rất lạnh, hãy mặc bộ quần áo mới kia.|今天的天气怎么样？|很冷|很热|下雨|下雪|Chỉ có 很冷 được khẳng định; lạnh không tự đồng nghĩa đang có tuyết.|00043|weather
+listening|multiple-choice|你先坐一下，我去给你拿一杯水。|Bạn ngồi một chút trước, tôi đi lấy cho bạn một cốc nước.|他要给对方什么？|水|书|苹果|手机|Vật sẽ đưa là 一杯水; 坐一下 là lời mời người nghe ngồi chờ.|00058|hospitality
+listening|multiple-choice|我姐姐会说汉语，也会写汉字。|Chị tôi biết nói tiếng Trung, cũng biết viết chữ Hán.|姐姐会写什么？|汉字|名字和电话|中文书|电脑|Động từ 写 gắn với 汉字; không đổi đối tượng sang một vật khác chỉ vì có chữ 中文.|00004|study
+listening|multiple-choice|我昨天在家看书，没有去学校。|Hôm qua tôi đọc sách ở nhà, không đến trường.|他昨天在哪里看书？|家|学校|公司|书店|在家 là nơi đọc sách; 没有去学校 loại trừ việc lấy trường làm địa điểm.|00021|study
+listening|multiple-choice|现在是中午十二点，我们去吃午饭吧。|Bây giờ là mười hai giờ trưa, chúng ta đi ăn trưa nhé.|他们要吃什么饭？|午饭|早饭|晚饭|米饭|午饭 là bữa trưa; 米饭 là cơm và không phải tên bữa trong câu hỏi này.|00050|food
+listening|multiple-choice|这只猫是我妹妹的，那只狗是我哥哥的。|Con mèo này của em gái tôi, con chó kia của anh trai tôi.|狗是谁的？|哥哥的|妹妹的|妈妈的|老师的|Chủ sở hữu của 狗 là 哥哥; 妹妹 sở hữu 猫.|00024|animals
+listening|multiple-choice|我星期一到星期五上班，星期六休息。|Tôi đi làm từ thứ hai đến thứ sáu, nghỉ thứ bảy.|他星期六做什么？|休息|上班|上课|看病|星期六 nghỉ là thông tin được nêu; lịch đi làm thuộc các ngày trước đó.|00069|work
+listening|multiple-choice|这儿的水果很便宜，我想买一些苹果。|Trái cây ở đây rất rẻ, tôi muốn mua ít táo.|他想买哪种水果？|苹果|牛奶|鸡蛋|包子|苹果 là loại trái cây được nêu cụ thể; các đáp án khác là đồ ăn hoặc đồ uống khác.|00005|shopping
+listening|multiple-choice|我今天不忙，晚上可以给你打电话。|Hôm nay tôi không bận, tối có thể gọi điện cho bạn.|他什么时候打电话？|晚上|早上|上午|中午|晚上 là mốc thời gian hẹn gọi; 不忙 không cho phép suy ra một giờ cụ thể.|00070|communication
+listening|multiple-choice|我们学校前面是商店，后面是医院。|Phía trước trường là cửa hàng, phía sau là bệnh viện.|学校后面是什么？|医院|商店|超市|饭店|Phải phân biệt 前面 với 后面; 后面对应医院.|00054|location
+listening|true-false|我今天没有汉语课，明天有汉语课。|Hôm nay tôi không có tiết tiếng Trung, ngày mai có.|他今天有汉语课。|Sai||||Mệnh đề đổi 没有 thành 有 nên sai; ngày mai có tiết không làm hôm nay có tiết.|00020|study
+listening|true-false|这个杯子是新的，不是我的。|Cái cốc này mới, không phải của tôi.|这个杯子是他的。|Sai||||不是我的 phủ định quyền sở hữu của người nói; mới chỉ là đặc điểm của cốc.|00024|objects
+listening|true-false|妈妈在超市买菜。|Mẹ đang mua rau ở siêu thị.|妈妈在超市。|Đúng||||Địa điểm được nêu trực tiếp là 超市 nên mệnh đề phù hợp.|00021|shopping
+listening|true-false|我弟弟不会开车。|Em trai tôi không biết lái xe.|他弟弟会开车。|Sai||||不会 phủ định kỹ năng; không được bỏ qua 不 khi nghe.|00004|transport
+listening|true-false|我们都是大学生。|Chúng tôi đều là sinh viên đại học.|他们都是学生。|Đúng||||大学生 thuộc nhóm 学生; câu nhận định giữ đúng ý tất cả là người học.|00016|study
+listening|true-false|现在是晚上九点，我想睡觉了。|Bây giờ là chín giờ tối, tôi muốn đi ngủ rồi.|现在是早上九点。|Sai||||Giờ 九点 giống nhau nhưng buổi bị đổi từ 晚上 sang 早上.|00070|time
+listening|true-false|我有两本书，一本是中文书。|Tôi có hai quyển sách, một quyển là sách tiếng Trung.|他有两本中文书。|Sai||||Tổng sách là hai nhưng chỉ một quyển được xác nhận là 中文书.|00011|numbers
+listening|true-false|明天我和爸爸去看电影。|Ngày mai tôi và bố đi xem phim.|他们明天去看电影。|Đúng||||他们 ở nhận định chỉ người nói và bố; cả hành động và thời gian đều khớp.|00023|leisure
+listening|true-false|我女儿喜欢喝水，不喜欢喝牛奶。|Con gái tôi thích uống nước, không thích uống sữa.|他女儿喜欢喝牛奶。|Sai||||Lời đọc nêu rõ 不喜欢喝牛奶; không nhầm với đồ uống được thích ở vế đầu.|00020|family
+listening|true-false|我的手机在桌子上。|Điện thoại của tôi ở trên bàn.|他的手机在桌子下。|Sai||||Nhận định đổi vị trí từ 上 sang 下 nên không đúng.|00003|location
+reading|multiple-choice|小王是医生。他在医院工作。他妹妹是学生，在学校学习。|Tiểu Vương là bác sĩ làm ở bệnh viện; em gái là học sinh học ở trường.|小王在哪里工作？|医院|学校|公司|饭店|Chủ ngữ 小王 đi với 医生 và 在医院工作; không lấy nơi học của em gái.|00021|work
+reading|multiple-choice|我家有三口人：爸爸、妈妈和我。我们都喜欢看书。|Nhà tôi có ba người: bố, mẹ và tôi. Chúng tôi đều thích đọc sách.|他家有几口人？|三口|两口|四口|五口|Ba thành viên được liệt kê, khớp 三口人.|00012|family
+reading|multiple-choice|今天我上午有课，下午没有课。我想下午去书店。|Hôm nay buổi sáng tôi có tiết, buổi chiều không có. Tôi muốn chiều đi nhà sách.|他什么时候去书店？|下午|上午|早上|昨天|下午 được nêu là thời gian dự định đến nhà sách; 上午 là thời gian có tiết.|00056|daily
+reading|multiple-choice|妈妈买了五个苹果，爸爸吃了两个，现在还有三个。|Mẹ mua năm quả táo, bố ăn hai, giờ còn ba.|现在有几个苹果？|三个|两个|五个|七个|Hỏi số còn lại, không hỏi số đã mua hoặc đã ăn: 五减二剩三.|00011|numbers
+reading|multiple-choice|这本书三十元，那个杯子二十元。我只买了书。|Sách ba mươi tệ, cốc hai mươi. Tôi chỉ mua sách.|他买的东西多少钱？|三十元|二十元|五十元|十元|Chỉ mua sách nên không cộng tiền cốc; giá sách là 三十元.|00067|shopping
+reading|multiple-choice|小李每天六点起床，七点吃早饭，八点上班。|Tiểu Lý dậy sáu giờ, ăn sáng bảy giờ, đi làm tám giờ mỗi ngày.|小李几点吃早饭？|七点|六点|八点|九点|Ghép hành động 吃早饭 với 七点; các mốc khác gắn với hành động khác.|00070|time
+reading|multiple-choice|姐姐喜欢喝茶，妹妹喜欢喝牛奶。我喜欢喝水。|Chị thích trà, em gái thích sữa, tôi thích nước.|谁喜欢喝牛奶？|妹妹|姐姐|我|爸爸|妹妹 là người được nêu cùng 喝牛奶; không chọn người uống trà hoặc nước.|00048|food
+reading|multiple-choice|我的书在桌子上。老师的书在椅子上。那本新书是老师的。|Sách tôi trên bàn; sách giáo viên trên ghế; sách mới là của giáo viên.|新书是谁的？|老师的|我的|姐姐的|朋友的|Câu cuối xác định quyền sở hữu 新书是老师的, không suy đoán từ vị trí.|00024|objects
+reading|multiple-choice|学校前面有一家商店，后面有一家医院。我家在学校里。|Trước trường có cửa hàng, sau trường có bệnh viện; nhà tôi trong trường.|学校前面有什么？|商店|医院|电影院|公司|前面对应商店; 医院 ở 后面.|00055|location
+reading|multiple-choice|今天星期三，明天星期四。妈妈明天去公司。|Hôm nay thứ tư, ngày mai thứ năm; mẹ ngày mai đến công ty.|妈妈星期几去公司？|星期四|星期三|星期五|星期日|明天 được xác định là 星期四, cần liên kết hai câu.|00069|calendar
+reading|multiple-choice|我会说汉语，不会写汉字。哥哥会说，也会写。|Tôi biết nói tiếng Trung, chưa biết viết chữ Hán; anh trai biết cả nói và viết.|谁会写汉字？|哥哥|我|弟弟|妈妈|Chỉ 哥哥 được xác nhận 会写, người nói phủ định kỹ năng viết.|00004|study
+reading|multiple-choice|今天太热了。我们想喝一点儿水，不想喝热茶。|Hôm nay nóng quá; chúng tôi muốn uống ít nước, không muốn trà nóng.|他们想喝什么？|水|热茶|牛奶|咖啡|水 được khẳng định; 热茶 bị phủ định. Không có bằng chứng chọn đồ uống khác.|00005|weather
+reading|multiple-choice|他没有车，学校又不在家前面。他今天坐出租车上学。|Anh ấy không có xe; trường cũng không ở trước nhà; hôm nay đi taxi đi học.|他今天怎么去学校？|坐出租车|开车|坐火车|坐飞机|Câu cuối nêu trực tiếp 坐出租车; 没有车 chỉ điều kiện, không phải phương tiện.|00057|transport
+reading|multiple-choice|这件衣服很漂亮，但是太小了。那件大一点儿，我要买那件。|Bộ này đẹp nhưng nhỏ quá; bộ kia lớn hơn chút, tôi muốn mua bộ kia.|他要买哪件衣服？|那件大一点儿的|这件太小的|两件都买|两件都不买|我要买那件 chỉ bộ lớn hơn; không suy ra người nói mua cả hai.|00010|shopping
+reading|multiple-choice|小张的女儿今年七岁，是小学生。他的儿子今年二十岁，是大学生。|Con gái Tiểu Trương bảy tuổi học tiểu học; con trai hai mươi tuổi là sinh viên.|谁是小学生？|女儿|儿子|小张|老师|女儿 gắn với 七岁 và 小学生; 儿子 là 大学生.|00052|family
+reading|multiple-choice|爸爸正在看电视，妈妈正在做饭。我正在房间里学习。|Bố đang xem ti vi, mẹ nấu cơm, tôi học trong phòng.|谁在学习？|我|爸爸|妈妈|弟弟|Người nói 我 gắn với 学习; không chọn bố hoặc mẹ đang làm việc khác.|00064|daily
+reading|multiple-choice|昨天我去医院看朋友，今天我去书店买书。|Hôm qua tôi đến bệnh viện thăm bạn; hôm nay đến nhà sách mua sách.|他今天去哪里？|书店|医院|学校|超市|今天对应书店; 昨天 mới tương ứng 医院.|00042|calendar
+reading|multiple-choice|姐姐给我一本书，妈妈给我一个杯子。我很喜欢那本书。|Chị đưa tôi sách; mẹ đưa cốc; tôi rất thích sách đó.|谁给他书？|姐姐|妈妈|哥哥|爸爸|姐姐 là người đưa sách, 妈妈 đưa cốc; hỏi người thực hiện hành động.|00058|family
+reading|true-false|这家店的苹果很便宜。我买了一些。|Táo ở cửa hàng này rẻ; tôi đã mua một ít.|他买了苹果。|Đúng||||买了一些 lược danh từ 苹果 đã nêu, nên nhận định phù hợp.|00062|shopping
+reading|true-false|我今天很忙，不能和你去看电影。|Hôm nay tôi bận, không thể cùng bạn đi xem phim.|他今天能去看电影。|Sai||||不能 phủ định khả năng đi trong hôm nay; đừng bỏ qua 不.|00004|leisure

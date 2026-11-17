@@ -1,0 +1,68 @@
+import { useState } from 'react';
+import { resolveExam } from '../../data/examCatalog';
+import { useManifest } from '../../services/curriculum';
+import { routeUrl, type ExamRoute } from '../../services/examRoute';
+import { summarizeAttempt } from '../../services/examScoring';
+import { localDay, type PreparationData } from '../../services/preparationStorage';
+import { taskProgress } from '../../services/studyPlan';
+import type { StudyData } from '../../services/studyStorage';
+import { PortalIcon } from '../layout/HskNavigation';
+
+interface Props { preparation: PreparationData; study: StudyData; route: ExamRoute; onNavigate: (route: Partial<ExamRoute>) => void }
+export function HskHome({ preparation, study, route, onNavigate }: Props) {
+  const { manifest, error } = useManifest();
+  const levels = manifest?.editions.find(e => e.id === 'hsk3-2025')?.levels;
+  const selected = route.level === 'all' ? 'HSK ' + preparation.profile.targetLevel : route.level;
+  const level = levels?.find(l => 'HSK ' + l.level === selected);
+  const today = localDay(), plan = preparation.plans[today];
+  const completed = plan?.tasks.filter(t => !plan.skipped.includes(t.id) && taskProgress(plan, t, preparation) >= t.count).length ?? 0;
+  const learned = Object.values(preparation.cards).filter(c => c.learned).length;
+  const due = Object.values(preparation.cards).filter(c => c.level === preparation.profile.targetLevel && Date.parse(c.dueAt) <= Date.now()).length;
+  const recent = study.attempts.flatMap(saved => { const exam = resolveExam(saved); return exam ? [{ saved, exam, summary: summarizeAttempt(exam, saved) }] : []; });
+  const resume = study.sessions.flatMap(saved => { const exam = resolveExam(saved); return exam ? [{ saved, exam }] : []; }).sort((a,b) => b.saved.updatedAt.localeCompare(a.saved.updatedAt))[0];
+  const days = new Set(preparation.events.map(e => localDay(new Date(e.at))));
+  const week = Array.from({ length: 7 }, (_, i) => { const date = new Date(); date.setDate(date.getDate() - 6 + i); return date; });
+  const [activeDay,setActiveDay] = useState(today);
+  const dayEvents = preparation.events.filter(e=>localDay(new Date(e.at))===activeDay);
+  const dayWords = dayEvents.filter(e=>e.kind==='word-learn'||e.kind==='word-review').reduce((n,e)=>n+e.count,0);
+  const learnedAtLevel = (value:string) => Object.values(preparation.cards).filter(c=>c.learned&&c.level===value).length;
+  const goalPercent = plan?.tasks.length ? Math.round(completed/plan.tasks.length*100) : 0;
+  const link = (update: Partial<ExamRoute>) => ({
+    href: routeUrl({ ...route, session: undefined, attempt: undefined, type: 'all', section: 'all', level: selected, ...update }),
+    onClick: (e: React.MouseEvent<HTMLAnchorElement>) => {
+      if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+      e.preventDefault(); onNavigate({ session: undefined, attempt: undefined, type: 'all', section: 'all', level: selected, ...update });
+    },
+  });
+  const skills = [
+    {page:'parts',section:'listening',icon:'headphones',title:'Luyện nghe',text:'Nghe chọn đáp án · chép chính tả',color:'mint'},
+    {page:'parts',section:'reading',icon:'book',title:'Luyện đọc',text:'Đọc hiểu · sắp xếp câu',color:'sky'},
+    {page:'writing',section:'writing',icon:'pen',title:'Luyện viết',text:'Soạn nháp · tự đánh giá theo rubric',color:'amber'},
+    {page:'speaking',section:'speaking',icon:'mic',title:'Luyện nói',text:'Thu âm · nghe lại · tự đánh giá',color:'violet'},
+  ] as const;
+  return <section className="hsk-home journey-home">
+    <header className="portal-page-heading"><div><p className="portal-eyebrow">KHÔNG GIAN HỌC TẬP</p><h1>Hôm nay bạn muốn học gì?</h1><p>Học nền tảng, luyện kỹ năng và nhìn lại từng bước tiến.</p></div><a className="portal-outline" {...link({page:'settings'})}><PortalIcon name="settings"/> Mục tiêu HSK {preparation.profile.targetLevel}</a></header>
+    {resume && <section className="portal-resume"><span className="portal-icon-tile mint"><PortalIcon name="play"/></span><div><span>BÀI ĐANG LÀM</span><h2>{resume.exam.title}</h2><p>Câu {resume.saved.currentIndex + 1}/{resume.exam.questions.length} · {resume.saved.mode === 'timed' ? 'Có tính giờ · thời hạn vẫn tiếp tục' : 'Luyện không giờ'}</p></div><a className="portal-primary" {...link({session:resume.saved.id,version:resume.exam.version})}>Tiếp tục bài <PortalIcon name="arrow"/></a></section>}
+    <div className="journey-home-grid"><div className="journey-main">
+      <section className="journey-welcome"><div className="journey-welcome-copy"><span className="journey-tag">每天进步一点 · MỖI NGÀY MỘT CHÚT</span><h2>Một buổi học nhỏ.<br/><em>Một bước gần mục tiêu.</em></h2><p>Chọn một kỹ năng, luyện 10 câu và ôn lại những chỗ chưa vững.</p><div className="portal-hero-actions"><a className="portal-primary" {...link({page:'practice'})}>Luyện {selected} <PortalIcon name="arrow"/></a><a className="portal-text-link" {...link({page:'plan'})}>Xem kế hoạch hôm nay →</a></div><a className="journey-tone-link" {...link({page:'learn'})}>Khám phá 4 thanh điệu <span aria-hidden="true">↗</span></a></div><div className="journey-visual" aria-hidden="true"><svg viewBox="0 0 210 210"><path className="journey-orbit-guide" d="M18 150C-5 80 30 10 106 18S211 81 190 144S85 217 39 178"/><path className="journey-orbit-trace" pathLength="1" d="M18 150C-5 80 30 10 106 18S211 81 190 144S85 217 39 178"/><circle cx="18" cy="150" r="5"/><circle cx="106" cy="18" r="4"/><circle cx="190" cy="144" r="5"/></svg><span className="journey-seal" lang="zh-CN">学<small>HSK JOURNEY</small></span><span className="journey-word-chip chip-pinyin">nǐ hǎo <small>↗</small></span><span className="journey-word-chip chip-hanzi" lang="zh-CN">你好 <small>✦</small></span></div></section>
+      <section className="journey-level-section" aria-labelledby="home-levels"><div className="portal-section-heading"><h2 id="home-levels">Bạn đang chinh phục cấp nào?</h2><a {...link({page:'diagnostic'})}>Thử sức đầu vào ↗</a></div><div className="journey-level-tabs level-journey" role="group" aria-label="Chọn cấp học">{['1','2','3','4','5','6','7-9'].map(l => {const count=learnedAtLevel(l),total=levels?.find(item=>item.level===l)?.vocabulary,percent=total?Math.min(100,count/total*100):0;return <button key={l} aria-pressed={selected === 'HSK '+l} aria-label={'HSK '+l+', '+count+' từ đã đánh dấu học'+(total?' trên '+total+' từ':'' )} onClick={() => onNavigate({level:'HSK '+l})}><span className="level-orb" aria-hidden="true"><svg viewBox="0 0 56 56"><circle className="level-ring-track" cx="28" cy="28" r="24"/><circle className="level-ring-fill" pathLength="100" cx="28" cy="28" r="24" style={{strokeDashoffset:100-percent}}/></svg><strong>{l}</strong></span><span>HSK {l}</span><small>{count} đã học</small></button>;})}</div>
+        {error && <p role="alert">{error}</p>}{!levels&&!error&&<p role="status">Đang tải các cấp học…</p>}
+        <div key={selected} className="journey-course-heading"><div><span className="journey-level-number">{selected}</span><p>Học nền tảng · syllabus 2025</p></div><span>{level ? `${level.vocabulary.toLocaleString('vi-VN')} từ mới · ${level.grammar} cấu trúc` : 'Từ vựng · Ngữ pháp · Hán tự'}</span></div>
+        {level&&<div className="level-learning-progress"><progress value={Math.min(level.vocabulary,learnedAtLevel(level.level))} max={level.vocabulary} aria-label={'Từ đã đánh dấu học ở '+selected}/><span>{learnedAtLevel(level.level)}/{level.vocabulary.toLocaleString('vi-VN')} từ đã đánh dấu học · phần bổ sung của cấp</span></div>}
+        <div className="journey-learning-path">{[
+          {page:'vocab',icon:'book',title:'Từ vựng',text:'Nghe cách đọc, học nghĩa và ôn thẻ',color:'mint'},
+          {page:'grammar',icon:'pen',title:'Ngữ pháp',text:'Tra cấu trúc và nội dung hiện có',color:'sky'},
+          {page:'hanzi',icon:'path',title:'Hán tự',text:'Nhớ mặt chữ, luyện từng nét',color:'amber'},
+        ].map((item,i) => <a key={item.page} {...link({page:item.page as ExamRoute['page']})}><span className={'portal-icon-tile '+item.color}><PortalIcon name={item.icon}/></span><small>0{i+1}</small><h3>{item.title}</h3><p>{item.text}</p><span className="journey-link">Vào học →</span></a>)}</div>
+      </section>
+      <section aria-labelledby="home-practice"><div className="portal-section-heading"><div><h2 id="home-practice">Luyện để tiến bộ</h2><p>Bài ngắn theo kỹ năng hoặc cả bộ có tính giờ</p></div><a {...link({page:'practice'})}>Tất cả dạng luyện →</a></div><div className="journey-practice-links">{skills.map(item => <a key={item.title} {...link({page:item.page,section:item.section})}><span className={'portal-icon-tile '+item.color}><PortalIcon name={item.icon}/></span><div><h3>{item.title}</h3><p>{item.text}</p></div><span aria-hidden="true">↗</span></a>)}</div></section>
+      <section className="journey-exam-banner"><span className="portal-icon-tile mint"><PortalIcon name="exam"/></span><div><h2>Sẵn sàng cho một buổi luyện có giờ?</h2><p>Chọn bộ bài, kiểm tra âm thanh và bắt đầu. Kết quả được lưu để xem lại.</p></div><a className="portal-outline" {...link({page:'exams'})}>Mở kho bài →</a></section>
+      <section className="journey-history" aria-labelledby="home-history"><div className="portal-section-heading"><h2 id="home-history">Bài làm gần đây</h2><a {...link({page:'history',level:'all'})}>Xem lịch sử →</a></div>{recent.length ? recent.slice(0,3).map(({saved,exam,summary}) => <a className="journey-history-row" key={saved.id} {...link({attempt:saved.id,version:exam.version})}><span className="portal-icon-tile sky"><PortalIcon name="exam"/></span><div><h3>{exam.title}</h3><p>{new Date(saved.finishedAt).toLocaleDateString('vi-VN')} · {Math.floor(saved.durationSeconds/60)} phút</p></div><strong>{summary.correctCount}/{summary.objectiveQuestionCount}<small>câu đúng</small></strong><span aria-hidden="true">→</span></a>) : <div className="journey-empty"><PortalIcon name="exam"/><p>Chưa có bài làm. Bắt đầu một bài ngắn để thấy tiến bộ của bạn ở đây.</p><a {...link({page:'practice'})}>Chọn bài luyện →</a></div>}</section>
+    </div><aside className="journey-aside" aria-label="Kế hoạch học cá nhân">
+      <section className="journey-today"><div className="portal-section-heading"><h2>Kế hoạch hôm nay</h2><PortalIcon name="sun"/></div>{plan?<div className="daily-goal"><span className="daily-goal-ring" aria-hidden="true"><svg viewBox="0 0 80 80"><circle className="level-ring-track" cx="40" cy="40" r="33"/><circle className="level-ring-fill" pathLength="100" cx="40" cy="40" r="33" style={{strokeDashoffset:100-goalPercent}}/></svg><strong>{goalPercent}%</strong></span><div><strong>{completed}/{plan.tasks.length} nhiệm vụ</strong><p>đã hoàn thành{plan.skipped.length?' · '+plan.skipped.length+' đã bỏ qua':''}</p></div></div>:<p>Tạo kế hoạch để bắt đầu một nhịp học phù hợp với bạn.</p>}{plan&&<progress max={Math.max(1,plan.tasks.length)} value={completed} aria-label="Tiến độ kế hoạch hôm nay"/>}<div className="journey-tasks">{plan?.tasks.map(task => {const count=taskProgress(plan,task,preparation),skipped=plan.skipped.includes(task.id);return <a key={task.id} {...link({page:task.page as ExamRoute['page'],section:(task.skill as ExamRoute['section'])??'all',level:'HSK '+preparation.profile.targetLevel})}><span className={!skipped&&count>=task.count?'is-done':''}>{!skipped&&count>=task.count?'✓':'○'}</span><div><strong>{task.title}</strong><small>{skipped?'Đã bỏ qua':`${count}/${task.count} mục`} · {task.minutes} phút</small></div><span aria-hidden="true">→</span></a>;})}</div><a className="portal-primary" {...link({page:'plan'})}>{plan?'Quản lý kế hoạch':'Thiết lập lộ trình'} <PortalIcon name="arrow"/></a></section>
+      <section className="journey-review-card"><span className="portal-icon-tile amber"><PortalIcon name="review"/></span><h2>Ôn lại để nhớ lâu</h2><div><a {...link({page:'vocab',level:'HSK '+preparation.profile.targetLevel})}><strong>{due}</strong><span>Từ đến hạn · HSK {preparation.profile.targetLevel}</span><span>→</span></a><a {...link({page:'review',level:'all'})}><strong>{study.reviewItems.length}</strong><span>Câu cần xem lại</span><span>→</span></a></div></section>
+      <section className="portal-week-card"><div className="portal-section-heading"><h2>Nhịp học 7 ngày</h2><span>{week.filter(d=>days.has(localDay(d))).length}/7</span></div><div className="portal-week-days interactive-week" role="group" aria-label="Xem hoạt động từng ngày">{week.map(date => <span key={localDay(date)}><small>{['CN','T2','T3','T4','T5','T6','T7'][date.getDay()]}</small><button className={(days.has(localDay(date))?'is-done ':'')+(localDay(date)===today?'is-today':'')} aria-pressed={activeDay===localDay(date)} aria-label={date.toLocaleDateString('vi-VN')+(days.has(localDay(date))?': có hoạt động học':': chưa có hoạt động học')} onClick={()=>setActiveDay(localDay(date))}>{days.has(localDay(date))?'✓':date.getDate()}</button></span>)}</div><div key={activeDay} className="week-day-detail" role="status"><strong>{new Date(activeDay+'T12:00:00').toLocaleDateString('vi-VN',{day:'numeric',month:'long'})}</strong><span>{dayEvents.length?dayEvents.length+' hoạt động đã lưu · '+dayWords+' lượt học/ôn từ':'Chưa có hoạt động học được lưu trong ngày này.'}</span></div><p className="portal-soft-text">Chạm một ngày để nhìn lại nhịp học của bạn.</p></section>
+      <section className="journey-summary"><h2>Những gì bạn đã tích lũy</h2><div><strong>{learned.toLocaleString('vi-VN')}</strong><span>Từ vựng đã học</span></div><div><strong>{study.attempts.length}</strong><span>Bài luyện hoàn thành</span></div><a {...link({page:'progress'})}>Xem tiến độ chi tiết →</a></section>
+    </aside></div>
+  </section>;
+}

@@ -1,0 +1,9 @@
+import type {VocabularyExplorerProps} from '../../contracts/ui-v13';
+import {VocabBrowserView} from '../../ui-v13/components/vocab/VocabBrowserView';
+import '../../ui-v13/styles/index.css';
+import '../../styles/ui-v13-integration.css';
+export default function VocabularyPresentation(p:VocabularyExplorerProps){
+ if(p.state.status!=='ready')return <p role="status">{p.state.status==='loading'?p.state.label:p.state.status==='error'?p.state.message:p.state.description}</p>;
+ const vm=p.state.data,available=new Set(vm.items.map(w=>w.id)),safe=(id:string,fn?:((id:string)=>unknown))=>{if(available.has(id))fn?.(id);};
+ return <div className="hsk-ui-v13"><VocabBrowserView manageDetail={false} canPractice={vm.filteredTotal>=4} canFlashcards={vm.filteredTotal>0} model={{level:'HSK '+vm.meta.level,totalCount:vm.total,learnedCount:vm.learnedCount??null,searchQuery:vm.query,selectedFilter:vm.filter==='new'?'unlearned':vm.filter==='due'?'review':vm.filter==='favorite'?'favorite':'all',items:vm.items.map(w=>({id:w.id,word:w.hanzi,pinyin:w.pinyin,level:'HSK '+vm.meta.level,primaryMeaning:w.meaningVi,primaryPos:w.partOfSpeech.join(' · '),senses:[],isFavorite:w.favorite,isLearned:w.learned,audioStatus:p.onPlayWord?'PREVIEW_ONLY':'UNAVAILABLE',contentStatus:w.content.published?'PUBLISHED':'NEEDS_REVIEW'})),hasMore:(vm.page+1)*vm.pageSize<vm.filteredTotal,contentStatus:vm.meta.content.published?'PUBLISHED':'NEEDS_REVIEW'}} callbacks={{onSearchChange:q=>void p.onQueryChange(q),onFilterChange:f=>void p.onFilterChange(f==='unlearned'?'new':f==='review'?'due':f),onSelectWord:id=>safe(id,p.onOpenWord),onToggleFavorite:id=>safe(id,p.onFavorite),onToggleLearned:id=>{if(!vm.items.find(w=>w.id===id)?.learned)safe(id,p.onLearnWord);},onPlayAudio:id=>safe(id,p.onPlayWord),onStartPractice:()=>void p.onStartQuiz?.(),onOpenFlashcards:()=>void p.onStartReview?.()}}/></div>;
+}

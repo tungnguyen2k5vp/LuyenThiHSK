@@ -1,0 +1,754 @@
+{
+  "checkedAt": "2026-10-22T04:12:14.363Z",
+  "scope": "41 requested public entry pages checked; selected license/terms pages and 2 datasets inspected in depth. Not an exhaustive crawl of each site. No bulk restricted question/audio acquisition.",
+  "sources": [
+    {
+      "url": "https://hskqkt.com/",
+      "checkedAt": "2026-10-22T04:11:53.545Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hskqkt.com/",
+      "title": "HSK QKT — Thi thử HSK 3.0 miễn phí, đề mô phỏng chuẩn cấu trúc mới",
+      "licenseMentions": [
+        "Mọi quyền được bảo lưu"
+      ],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "UI reference via REA only. No questions, recordings, branding or internal database copied.",
+      "license": "Mọi quyền được bảo lưu",
+      "scope": "Quan sát REA: danh mục/phiên bản/cấp, đọc/nghe/kết quả và trọn đề công khai; phần Viết và chi tiết đáp án yêu cầu tài khoản. Không suy ra database nội bộ."
+    },
+    {
+      "url": "https://hskzen.com/vi",
+      "checkedAt": "2026-10-22T04:11:53.592Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hskzen.com/vi",
+      "title": "Thi thử HSK online miễn phí 1-6, có đáp án | HSKZen",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://www.thi-hsk.com/",
+      "checkedAt": "2026-10-22T04:11:53.593Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.thi-hsk.com/",
+      "title": "Thi Thử HSK Online Miễn Phí - Lộ Trình Học &amp; Tự Học Tiếng Trung Toàn Diện",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://hskclub.com/",
+      "checkedAt": "2026-10-22T04:11:54.518Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hskclub.com/",
+      "title": "HSK Club - Luyện thi HSK online miễn phí cho người Việt",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://hskclub.com/dieu-khoan"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://hsk.hoctudat.com/",
+      "checkedAt": "2026-10-22T04:11:55.178Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hsk.hoctudat.com/",
+      "title": "Học &amp; Luyện HSK Online — Học Tư Đạt",
+      "licenseMentions": [
+        "All rights reserved"
+      ],
+      "policyLinks": [
+        "https://hsk.hoctudat.com/terms"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://hihsk.com/",
+      "checkedAt": "2026-10-22T04:11:56.203Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hihsk.com/",
+      "title": "HiHSK.com - Học Tiếng Trung Online Miễn Phí | Luyện Thi HSK 1-6 Dễ Dàng",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://hsk.training/",
+      "checkedAt": "2026-10-22T04:11:56.282Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hsk.training/",
+      "title": "HSK Practice Online — Exam Exercises &amp; Free Level Test · HSK Training",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://hsk.training/terms"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://hskace.com/",
+      "checkedAt": "2026-10-22T04:11:56.610Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hskace.com/",
+      "title": "Practice HSK Exams Online — HSK Ace",
+      "licenseMentions": [
+        "All rights reserved"
+      ],
+      "policyLinks": [
+        "https://hskace.com/terms"
+      ],
+      "downloadFormats": [
+        ".csv"
+      ],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://www.chinesetest.cn/",
+      "checkedAt": "2026-10-22T04:11:56.875Z",
+      "classification": "official_sample_review",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.chinesetest.cn/",
+      "title": "中文考试服务网",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [
+        ".pdf",
+        ".zip"
+      ],
+      "note": "Official links only; distinguish 2021 grading, 2025 syllabus and pilot exam format. No official questions/PDF/audio redistributed.",
+      "license": "Chưa xác minh quyền phân phối lại tài liệu mẫu",
+      "scope": "HSK 1–9; /syllabus có Syllabus, Sample Questions, Competency Profile và demo."
+    },
+    {
+      "url": "https://www.hskmock.com/en/index.html",
+      "checkedAt": "2026-10-22T04:11:57.326Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.hskmock.com/en/index.html",
+      "title": "HSK Mock - FAQs & Blog",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://hsk.visionchinese.com/",
+      "checkedAt": "2026-10-22T04:11:57.945Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hsk.visionchinese.com/",
+      "title": "免费 HSK 模拟考试在线练习 | HSK 1–9 / YCT 每日题库 | hsk101.com",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://www.hskonline.com/vi/",
+      "checkedAt": "2026-10-22T04:11:58.520Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.hskonline.com/vi/",
+      "title": "Không thể thiếu cho kỳ thi HSK - SuperTest",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://sishumandarin.com/hsk-online-practices-and-mock-tests",
+      "checkedAt": "2026-10-22T04:11:58.973Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://sishumandarin.com/hsk-online-practices-and-mock-tests",
+      "title": "HSK Online Practices and Mock Tests &mdash; Sishu Mandarin Chinese Language School",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://tiengtrungpanda.vn/",
+      "checkedAt": "2026-10-22T04:11:59.903Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://tiengtrungpanda.vn/",
+      "title": "Học tiếng Trung online miễn phí theo HSK cho người Việt | Tiếng Trung Panda",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://tiengtrungpanda.vn/dieu-khoan"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://www.byehsk.org/",
+      "checkedAt": "2026-10-22T04:12:00.319Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.byehsk.org/",
+      "title": "Bye HSK | Học giao tiếp tiếng Trung cho người đi làm",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://www.byehsk.org/terms"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://www.chinesezerotohero.com/",
+      "checkedAt": "2026-10-22T04:12:00.832Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.chinesezerotohero.com/",
+      "title": "Home - Chinese Zero To Hero",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://learnchinese.ai/",
+      "checkedAt": "2026-10-22T04:12:01.022Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://learnchinese.ai/",
+      "title": "LearnChinese.ai - Free HSK Course, Character Course, and Spaced Repetition Practice | LearnChinese.ai",
+      "licenseMentions": [
+        "All rights reserved"
+      ],
+      "policyLinks": [
+        "https://learnchinese.ai/terms"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://haohsk.com/",
+      "checkedAt": "2026-10-22T04:12:01.037Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://haohsk.com/",
+      "title": "Learn Chinese Online: Listening, Reading, Vocab &amp; HSK 1–9 Prep | HaoHSK",
+      "licenseMentions": [
+        "All rights reserved"
+      ],
+      "policyLinks": [
+        "https://haohsk.com/terms"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://www.legchinese.com/",
+      "checkedAt": "2026-10-22T04:12:02.548Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.legchinese.com/",
+      "title": "Master HSK Chinese — Free Vocabulary &amp; Flashcards · LegChinese",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://www.legchinese.com/terms"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://www.hskzi.online/",
+      "checkedAt": "2026-10-22T04:12:02.783Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.hskzi.online/",
+      "title": "HSKZI - Learn Chinese Vocabulary (HSK 1-9)",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [
+        ".json"
+      ],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://hsk.cards/en/",
+      "checkedAt": "2026-10-22T04:12:02.814Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hsk.cards/en/",
+      "title": "Baozi — learn 10,990 words of HSK 1–9 in 5 minutes a day",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://hsk.cards/en/licenses/",
+        "https://hsk.cards/en/terms/"
+      ],
+      "downloadFormats": [
+        ".json"
+      ],
+      "note": "https://hsk.cards/en/licenses/ checked HTTP 200. CC-CEDICT, Arphic, wordfreq and audio-cmn have upstream licenses; obtain upstream directly if needed. No Baozi content imported.",
+      "license": "Giấy phép theo thành phần; không cấp phép toàn website",
+      "scope": "Baozi HSK 1–9; audio-cmn CC BY-SA; Baozi tự tạo audio HSK 2–9, minh họa/ví dụ riêng."
+    },
+    {
+      "url": "https://mandarinchinesesystem.com/",
+      "checkedAt": "2026-10-22T04:12:04.065Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://mandarinchinesesystem.com/",
+      "title": "Learn Mandarin Chinese Online with Free HSK Flashcards – MandarinChineseSystem.com",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [
+        ".json"
+      ],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://www.hanzipress.com/",
+      "checkedAt": "2026-10-22T04:12:04.080Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.hanzipress.com/",
+      "title": "Chinese Flashcards &amp; Printable Worksheets | HanziPress",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://www.hanzipress.com/terms"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://mandarinflash.com/",
+      "checkedAt": "2026-10-22T04:12:04.172Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://mandarinflash.com/",
+      "title": "MandarinFlash — Free HSK Flashcards, Quizzes & Chinese Dictionary",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://mandarinbean.com/",
+      "checkedAt": "2026-10-22T04:12:04.965Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://mandarinbean.com/",
+      "title": "Mandarin Bean: Learn and Practice Chinese | High Quality Resources",
+      "licenseMentions": [
+        "All Rights Reserved"
+      ],
+      "policyLinks": [
+        "https://mandarinbean.com/terms-of-use/",
+        "https://mandarinbean.com/terms-of-use/"
+      ],
+      "downloadFormats": [
+        ".json"
+      ],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://hskreading.com/",
+      "checkedAt": "2026-10-22T04:12:05.418Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hskreading.com/",
+      "title": "Chinese Reading and Comprehension - HSKReading.com",
+      "licenseMentions": [
+        "All Rights Reserved"
+      ],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://readmandarin.com/",
+      "checkedAt": "2026-10-22T04:12:06.198Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://readmandarin.com/",
+      "title": "Read Mandarin — Free graded Chinese readings (HSK 1-6)",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://readmandarin.com/texts/hsk5-24-solar-terms"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://realhsk.com/vi",
+      "checkedAt": "2026-10-22T04:12:06.462Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://realhsk.com/vi",
+      "title": "Luyện đọc tiếng Trung theo HSK 3.0 | RealHSK",
+      "licenseMentions": [
+        "CC BY-SA 4.0"
+      ],
+      "policyLinks": [
+        "https://realhsk.com/vi/terms"
+      ],
+      "downloadFormats": [],
+      "note": "https://realhsk.com/vi/terms HTTP 200; no explicit redistribution grant for stories verified. Reference only.",
+      "license": "CC BY-SA ở footer không xác lập quyền với toàn bộ bài đọc",
+      "scope": "Đọc HSK 3.0; điều khoản dùng học cá nhân, chống thu thập/phát tán gây hại."
+    },
+    {
+      "url": "https://hsk.fulinlabs.com/",
+      "checkedAt": "2026-10-22T04:12:06.913Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hsk.fulinlabs.com/",
+      "title": "Free Chinese Text Reader &amp; Vocabulary Practice | HSK Studio",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://hsk.fulinlabs.com/terms"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://mandachinese.com/",
+      "checkedAt": "2026-10-22T04:12:07.912Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://mandachinese.com/",
+      "title": "Learn Chinese by Reading | Manda",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://mandachinese.com/assets/license-CLqgKGFF.js",
+        "https://mandachinese.com/assets/LicenseActivation-BU6IC1rZ.js",
+        "https://mandachinese.com/terms",
+        "https://mandachinese.com/terms"
+      ],
+      "downloadFormats": [
+        ".json"
+      ],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://duchinese.net/",
+      "checkedAt": "2026-10-22T04:12:08.147Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://duchinese.net/",
+      "title": "Du Chinese | Read and Learn Mandarin",
+      "licenseMentions": [
+        "All rights reserved"
+      ],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://www.thechairmansbao.com/",
+      "checkedAt": "2026-10-22T04:12:08.424Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.thechairmansbao.com/",
+      "title": "The Chairman's Bao: Chinese Reading with News-Based Lessons",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://www.thechairmansbao.com/terms-of-use/"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://chenximandarin.com/",
+      "checkedAt": "2026-10-22T04:12:08.751Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://chenximandarin.com/",
+      "title": "Chenxi Mandarin | Beginner to HSK 5 reading practice",
+      "licenseMentions": [],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://hearmandarin.com/",
+      "checkedAt": "2026-10-22T04:12:08.767Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://hearmandarin.com/",
+      "title": "HearMandarin: Learn Mandarin by Ear, Free HSK 3.0 Words, Stories, Tones",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://hearmandarin.com/terms/"
+      ],
+      "downloadFormats": [
+        ".mp3"
+      ],
+      "note": "Reference only; word dataset imported separately from /datasets/.",
+      "license": "Không áp dụng giấy phép dataset cho toàn website",
+      "scope": "Trang học/nghe; quyền nội dung/audio riêng chưa xác minh."
+    },
+    {
+      "url": "https://resources.allsetlearning.com/chinese/grammar/",
+      "checkedAt": "2026-10-22T04:12:09.766Z",
+      "classification": "import_allowed",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://resources.allsetlearning.com/chinese/grammar/Main_Page",
+      "title": "Chinese Grammar Wiki",
+      "licenseMentions": [],
+      "policyLinks": [
+        "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "https://resources.allsetlearning.com/chinese/grammar/Chinese%20Grammar%20Wiki:Copyrights",
+        "https://resources.allsetlearning.com/chinese/grammar/Chinese%20Grammar%20Wiki:Copyrights"
+      ],
+      "downloadFormats": [],
+      "note": "Copyrights page with underscore fetched HTTP 200 after earlier encoded-space URL returned 403. No grammar imported: existing grammar retained, avoid adding NC material unnecessarily. License https://creativecommons.org/licenses/by-nc-sa/3.0/ ; https://resources.allsetlearning.com/chinese/grammar/Chinese_Grammar_Wiki:Copyrights",
+      "license": "CC BY-NC-SA 3.0; trừ mục có ghi khác",
+      "scope": "Ngữ pháp HSK/CEFR; chỉ dùng phi thương mại, kể cả không có doanh thu quảng cáo; ghi tên và link trên từng view."
+    },
+    {
+      "url": "https://www.purpleculture.net/",
+      "checkedAt": "2026-10-22T04:12:10.995Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.purpleculture.net/",
+      "title": "Purple Culture, Online Chinese Bookstore for Chinese Language Learning, Culture Studying, Statistics & Yearbooks and More",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://www.purpleculture.net/terms_conditions/"
+      ],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://www.digmandarin.com/",
+      "checkedAt": "2026-10-22T04:12:11.538Z",
+      "classification": "reference_only",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://www.digmandarin.com/",
+      "title": "Your Guide To The Chinese Learning Jungle | DigMandarin",
+      "licenseMentions": [
+        "All Rights Reserved"
+      ],
+      "policyLinks": [],
+      "downloadFormats": [],
+      "note": "Public page checked; no redistribution permission verified for questions/audio.",
+      "license": "Chưa xác minh giấy phép tái phân phối",
+      "scope": "Trang giới thiệu HTML; chưa xác minh toàn kho, phiên bản, kỹ năng, định dạng tải hay quyền audio."
+    },
+    {
+      "url": "https://github.com/morluto/rea",
+      "checkedAt": "2026-10-22T04:12:12.313Z",
+      "classification": "import_allowed",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://github.com/morluto/rea",
+      "title": "GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries. · GitHub",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://github.com/morluto/rea/tree/main/licenses",
+        "https://github.com/morluto/rea/tree/main/licenses",
+        "https://github.com/morluto/rea/blob/main/LICENSE",
+        "https://github.com/morluto/rea/blob/main/LICENSE",
+        "https://github.com/morluto/rea/blob/main/LICENSE",
+        "https://github.com/morluto/rea#license",
+        "https://github.com/morluto/rea/blob/main/LICENSE",
+        "https://docs.github.com/site-policy/github-terms/github-terms-of-service"
+      ],
+      "downloadFormats": [
+        ".json",
+        ".zip"
+      ],
+      "note": "Installed in ../Rea-HSK-Reference; public browser scenarios used; no target source/database copied.",
+      "license": "MIT (code)",
+      "scope": "Công cụ REA 6.7.0; không phải dataset HSK."
+    },
+    {
+      "url": "https://github.com/no7z/hsk-sentences-audio",
+      "checkedAt": "2026-10-22T04:12:12.545Z",
+      "classification": "import_allowed",
+      "imported": true,
+      "status": 200,
+      "finalUrl": "https://github.com/no7z/hsk-sentences-audio",
+      "title": "GitHub - no7z/hsk-sentences-audio: HSK-graded Chinese sentence dataset: sentences + pinyin + English + per-word glosses + official grammar-point tags + normal/slow audio. Verified zero out-of-level words and wordlist coverage per level (HSK 3.0, GF0025-2021). · GitHub",
+      "licenseMentions": [
+        "CC-BY-SA 4.0"
+      ],
+      "policyLinks": [
+        "https://github.com/no7z/hsk-sentences-audio#License-1-ov-file",
+        "https://github.com/no7z/hsk-sentences-audio/blob/main/LICENSE",
+        "https://github.com/no7z/hsk-sentences-audio/blob/main/LICENSE",
+        "https://github.com/no7z/hsk-sentences-audio#license",
+        "https://github.com/no7z/hsk-sentences-audio#License-1-ov-file",
+        "https://docs.github.com/site-policy/github-terms/github-terms-of-service"
+      ],
+      "downloadFormats": [
+        ".json",
+        ".zip",
+        ".mp3"
+      ],
+      "note": "Pinned 857dfbab91027ebd97df01260e91b817cb6b4854; canonical sentences 4352; derived tasks 8704; attribution retained.",
+      "license": "CC BY-SA 4.0 (dist); MIT (code)",
+      "scope": "4354 câu nguồn HSK 1–6 GF0025-2021; JSON + 8708 MP3 tổng hợp normal/slow.",
+      "continuation": {
+        "checkedAt": "2026-10-22T08:59:07.267Z",
+        "derivedQuestions": 17384,
+        "activities": [
+          "listening sentence choice",
+          "reading meaning choice",
+          "listening dictation",
+          "sentence reconstruction"
+        ],
+        "independentlyReviewed": false
+      }
+    },
+    {
+      "url": "https://hearmandarin.com/datasets/",
+      "checkedAt": "2026-10-22T04:12:13.029Z",
+      "classification": "import_allowed",
+      "imported": true,
+      "status": 200,
+      "finalUrl": "https://hearmandarin.com/datasets/",
+      "title": "HSK 3.0 Word List Dataset: Free CSV and JSON Download (CC BY 4.0)",
+      "licenseMentions": [
+        "CC BY 4.0"
+      ],
+      "policyLinks": [
+        "https://creativecommons.org/licenses/by/4.0/",
+        "https://hearmandarin.com/terms/"
+      ],
+      "downloadFormats": [
+        ".csv",
+        ".json"
+      ],
+      "note": "Version metadata 2026-09-09, generated 2026-09-28; canonical words 11105; excludes site readers, tests and recordings.",
+      "license": "CC BY 4.0 (word dataset only)",
+      "scope": "11147 dòng JSON/CSV; 11000 mục syllabus 2025 +147 mục chỉ HSK2; không audio."
+    },
+    {
+      "url": "https://github.com/wuerling520/HSK3.0-Collection-2026",
+      "checkedAt": "2026-10-22T04:12:13.402Z",
+      "classification": "restricted_or_unknown",
+      "imported": false,
+      "status": 200,
+      "finalUrl": "https://github.com/wuerling520/HSK3.0-Collection-2026",
+      "title": "GitHub - wuerling520/HSK3.0-Collection-2026: A Compilation of Official and Publicly Available HSK 3.0 Resources for Chinese Learners · GitHub",
+      "licenseMentions": [],
+      "policyLinks": [
+        "https://docs.github.com/site-policy/github-terms/github-terms-of-service"
+      ],
+      "downloadFormats": [
+        ".json",
+        ".zip"
+      ],
+      "note": "Commit 814c7f927c2d5b6c76d6af58d0a24145d9e9a5ae; README third-party/removal-on-request is not a reuse grant; not imported.",
+      "license": "Không có LICENSE ở commit đã kiểm tra",
+      "scope": "15 tệp PDF/ZIP, gồm tài liệu thi chính thức bên thứ ba."
+    }
+  ]
+}

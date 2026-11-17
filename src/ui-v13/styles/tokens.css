@@ -1,0 +1,168 @@
+/**
+ * HSK UI V13 - DESIGN TOKENS
+ * Scoped strictly to the .hsk-ui-v13 namespace to prevent regression or conflict with legacy stylesheets.
+ * Architecture:
+ * - Layer 1: Primitive scales (Color, Space, Radii, Shadows, Typography)
+ * - Layer 2: Semantic tokens (Brand, Canvas, Text, Status, Borders)
+ * - Layer 3: Component tokens (Buttons, Cards, Badges, Tap Targets)
+ */
+
+.hsk-ui-v13 {
+  /* ==========================================================================
+     1. COLOR PRIMITIVES (Modernized Teal + Warm Neutrals + Intent Accents)
+     ========================================================================== */
+  
+  /* Primary Teal Palette (Modern, focused educational tone) */
+  --v13-teal-50: #f0fdfa;
+  --v13-teal-100: #ccfbf1;
+  --v13-teal-200: #99f6e4;
+  --v13-teal-300: #5eead4;
+  --v13-teal-400: #2dd4bf;
+  --v13-teal-500: #14b8a6;
+  --v13-teal-600: #0d9488;  /* Primary brand interactive */
+  --v13-teal-700: #0f766e;  /* Primary brand hover / active */
+  --v13-teal-800: #115e59;  /* High-contrast brand headers */
+  --v13-teal-900: #134e4a;
+  --v13-teal-950: #042f2e;
+
+  /* Warm Slate & Neutral Palette (High legibility, soft on eyes) */
+  --v13-neutral-0: #ffffff;
+  --v13-neutral-50: #f8fafc;
+  --v13-neutral-100: #f1f5f9;
+  --v13-neutral-200: #e2e8f0;
+  --v13-neutral-300: #cbd5e1;
+  --v13-neutral-400: #94a3b8;
+  --v13-neutral-500: #64748b;
+  --v13-neutral-600: #475569;
+  --v13-neutral-700: #334155;
+  --v13-neutral-800: #1e293b;
+  --v13-neutral-900: #0f172a;
+  --v13-neutral-950: #020617;
+
+  /* Amber / Gold Palette (Streaks, attention, progress milestones) */
+  --v13-amber-50: #fffbeb;
+  --v13-amber-100: #fef3c7;
+  --v13-amber-200: #fde68a;
+  --v13-amber-500: #f59e0b;
+  --v13-amber-600: #d97706;
+  --v13-amber-700: #b45309;
+
+  /* Status Colors (Semantic WCAG AA compliant) */
+  --v13-emerald-50: #ecfdf5;
+  --v13-emerald-100: #d1fae5;
+  --v13-emerald-600: #059669;
+  --v13-emerald-700: #047857;
+
+  --v13-rose-50: #fff1f2;
+  --v13-rose-100: #ffe4e6;
+  --v13-rose-600: #e11d48;
+  --v13-rose-700: #be123c;
+
+  --v13-sky-50: #f0f9ff;
+  --v13-sky-100: #e0f2fe;
+  --v13-sky-600: #0284c7;
+  --v13-sky-700: #0369a1;
+
+  /* ==========================================================================
+     2. SEMANTIC TOKENS
+     ========================================================================== */
+  
+  /* Backgrounds */
+  --v13-bg-canvas: var(--v13-neutral-50);
+  --v13-bg-surface: var(--v13-neutral-0);
+  --v13-bg-surface-subtle: var(--v13-neutral-100);
+  --v13-bg-brand-subtle: var(--v13-teal-50);
+  --v13-bg-accent-subtle: var(--v13-amber-50);
+
+  /* Text & Content */
+  --v13-text-primary: var(--v13-neutral-900);
+  --v13-text-secondary: var(--v13-neutral-600);
+  --v13-text-tertiary: var(--v13-neutral-400);
+  --v13-text-brand: var(--v13-teal-700);
+  --v13-text-accent: var(--v13-amber-700);
+  --v13-text-inverse: var(--v13-neutral-0);
+
+  /* Borders & Dividers */
+  --v13-border-subtle: var(--v13-neutral-200);
+  --v13-border-default: var(--v13-neutral-300);
+  --v13-border-brand: var(--v13-teal-300);
+  --v13-border-brand-strong: var(--v13-teal-600);
+
+  /* Interactive States */
+  --v13-interactive-primary: var(--v13-teal-600);
+  --v13-interactive-primary-hover: var(--v13-teal-700);
+  --v13-interactive-primary-active: var(--v13-teal-800);
+  --v13-interactive-disabled-bg: var(--v13-neutral-200);
+  --v13-interactive-disabled-text: var(--v13-neutral-400);
+
+  /* Focus Ring */
+  --v13-focus-ring: 0 0 0 3px rgba(13, 148, 136, 0.35);
+  --v13-focus-ring-offset: 2px;
+
+  /* ==========================================================================
+     3. TYPOGRAPHY SCALES (Optimized for Vietnamese Diacritics + CJK Hanzi)
+     ========================================================================== */
+  --v13-font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --v13-font-chinese: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', 'SimHei', sans-serif;
+  
+  --v13-text-xs: 0.75rem;    /* 12px */
+  --v13-text-sm: 0.875rem;   /* 14px */
+  --v13-text-base: 1rem;     /* 16px */
+  --v13-text-lg: 1.125rem;   /* 18px */
+  --v13-text-xl: 1.25rem;    /* 20px */
+  --v13-text-2xl: 1.5rem;    /* 24px */
+  --v13-text-3xl: 1.875rem;  /* 30px */
+  --v13-text-4xl: 2.25rem;   /* 36px */
+
+  --v13-hanzi-sm: 1.25rem;
+  --v13-hanzi-md: 1.75rem;
+  --v13-hanzi-lg: 2.25rem;
+  --v13-hanzi-xl: 3rem;
+
+  --v13-weight-normal: 400;
+  --v13-weight-medium: 500;
+  --v13-weight-semibold: 600;
+  --v13-weight-bold: 700;
+  --v13-weight-heavy: 800;
+
+  --v13-line-tight: 1.2;
+  --v13-line-snug: 1.35;
+  --v13-line-normal: 1.5;
+  --v13-line-relaxed: 1.65;
+
+  /* ==========================================================================
+     4. SPACING, RADII, SHADOWS & MOTION
+     ========================================================================== */
+  --v13-space-1: 0.25rem;  /* 4px */
+  --v13-space-2: 0.5rem;   /* 8px */
+  --v13-space-3: 0.75rem;  /* 12px */
+  --v13-space-4: 1rem;     /* 16px */
+  --v13-space-5: 1.25rem;  /* 20px */
+  --v13-space-6: 1.5rem;   /* 24px */
+  --v13-space-8: 2rem;     /* 32px */
+  --v13-space-10: 2.5rem;  /* 40px */
+  --v13-space-12: 3rem;    /* 48px */
+
+  --v13-radius-sm: 6px;
+  --v13-radius-md: 10px;
+  --v13-radius-lg: 14px;
+  --v13-radius-xl: 20px;
+  --v13-radius-full: 9999px;
+
+  --v13-shadow-xs: 0 1px 2px rgba(15, 23, 42, 0.04);
+  --v13-shadow-sm: 0 1px 3px rgba(15, 23, 42, 0.06), 0 1px 2px rgba(15, 23, 42, 0.04);
+  --v13-shadow-md: 0 4px 10px -2px rgba(15, 23, 42, 0.08), 0 2px 4px -2px rgba(15, 23, 42, 0.04);
+  --v13-shadow-lg: 0 12px 20px -4px rgba(15, 23, 42, 0.1), 0 4px 6px -2px rgba(15, 23, 42, 0.05);
+
+  --v13-transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --v13-transition-normal: 220ms cubic-bezier(0.4, 0, 0.2, 1);
+  --v13-tap-target-min: 44px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hsk-ui-v13 * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

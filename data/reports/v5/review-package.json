@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-16T03:31:21.587Z",
+  "bundle": "v5-hsk1-batch-2",
+  "records": 586,
+  "groups": {
+    "vocabulary": 300,
+    "grammar": 68,
+    "questions": 178,
+    "audio": 40
+  },
+  "privateHtmlFolder": ".runtime/review-packages/v5",
+  "publicAudioIncluded": false,
+  "commentImport": "Manual application to revision-aware admin editor; no automatic approval"
+}

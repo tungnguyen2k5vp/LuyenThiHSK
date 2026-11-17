@@ -1,0 +1,182 @@
+[
+  {
+    "filename": "v11-hsk2-hub.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:31.438Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-media-rights.png",
+    "browser": "Chrome",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:33.744Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-audio-workbench.png",
+    "browser": "Chrome",
+    "route": "?view=content-review",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:33.807Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-listening-blocked.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:43.863Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-images-loaded.png",
+    "browser": "Chrome",
+    "route": "?view=preview&previewSession=preview-session-78740200-acff-44c7-8629-399aaea0a8b7",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:44.740Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-image-error.png",
+    "browser": "Chrome",
+    "route": "?view=preview&previewSession=preview-session-78740200-acff-44c7-8629-399aaea0a8b7",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:45.591Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-reading-result.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:49.342Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-mixed-mini.png",
+    "browser": "Chrome",
+    "route": "?view=preview&previewSession=preview-session-53b54146-0e00-4eaa-a2ba-30bd3ce283b4",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:49.542Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-writing-restored.png",
+    "browser": "Chrome",
+    "route": "?view=preview&previewSession=preview-session-52eae7be-03ce-46da-8a92-5e38cabdc3c3",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:51.385Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-mobile-writing.png",
+    "browser": "Chrome",
+    "route": "?view=preview&previewSession=preview-session-52eae7be-03ce-46da-8a92-5e38cabdc3c3",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:51.471Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-writing-ungraded.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:51.628Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-grammar-lesson.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:51.900Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-vocabulary-detail.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:52.250Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-study-plan.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:52.335Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  },
+  {
+    "filename": "v11-mobile-hub.png",
+    "browser": "Chrome",
+    "route": "?view=preview",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "at": "2026-10-19T06:23:52.469Z",
+    "source": "Real editorial drafts; isolated QA learner profile",
+    "realDevice": false
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "source": {
+    "sourceId": "src-ebb2fb7c8143",
+    "name": "MDBG CC-CEDICT",
+    "baseUrl": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict",
+    "sourceType": "WEBSITE",
+    "organization": null,
+    "accessedAt": "2026-10-25T05:09:29.887Z",
+    "termsUrl": null,
+    "robotsUrl": "https://www.mdbg.net/robots.txt",
+    "licenseName": "CC BY-SA 4.0 (CC-CEDICT download only)",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "CC_CEDICT_DICTIONARY_DOWNLOAD"
+    ],
+    "rightsStatus": "SHARE_ALIKE_REQUIRED",
+    "attribution": "CC-CEDICT contributors; Paul Andrew Denisowski 1997/1998; MDBG distribution",
+    "shareAlikeRequired": true,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": "conditional",
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Only public title/license metadata retained; no question/passage bodies downloaded into corpus."
+    ],
+    "publicStatus": 200,
+    "publicEvidence": "registry/evidence/src-ebb2fb7c8143-public-page.json",
+    "termsReview": "Public page metadata only; no corpus crawl without content-specific permission",
+    "publicDatasetLinks": [
+      "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz"
+    ],
+    "policyEvidence": [],
+    "licenseEvidence": [
+      "registry/evidence/src-ebb2fb7c8143-public-page.json"
+    ]
+  }
+}

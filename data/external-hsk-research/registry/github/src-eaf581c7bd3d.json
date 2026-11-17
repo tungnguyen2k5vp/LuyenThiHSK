@@ -1,0 +1,890 @@
+{
+  "source": {
+    "sourceId": "src-eaf581c7bd3d",
+    "name": "drkameleon/complete-hsk-vocabulary",
+    "baseUrl": "https://github.com/drkameleon/complete-hsk-vocabulary",
+    "sourceType": "GITHUB",
+    "organization": "drkameleon",
+    "accessedAt": "2026-10-25T04:50:58.613Z",
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": "MIT",
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "VOCABULARY",
+      "DICTIONARY_ENTRY"
+    ],
+    "rightsStatus": "REUSE_WITH_ATTRIBUTION",
+    "attribution": "Yanis Zafirópulos; complete-hsk-vocabulary contributors; preserve MIT notice",
+    "shareAlikeRequired": false,
+    "commercialUseAllowed": true,
+    "redistributionAllowed": true,
+    "downloadAllowed": true,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "Code license is not automatically data permission; read file-specific provenance before acquisition.",
+      "Repository explicitly presents itself as the vocabulary dataset; retain individual level labels and dictionary-form distinctions. No third-party audio."
+    ],
+    "repo": "drkameleon/complete-hsk-vocabulary",
+    "defaultBranch": "main",
+    "sourceRevision": "7ac65bf1a6387d35f1ade478906172a19311c7f9",
+    "licenseEvidence": [
+      "registry/evidence/src-eaf581c7bd3d-LICENSE.json"
+    ],
+    "auditDocuments": [
+      {
+        "path": "LICENSE",
+        "status": 200,
+        "evidence": "registry/evidence/src-eaf581c7bd3d-LICENSE.json"
+      },
+      {
+        "path": "README.md",
+        "status": 200,
+        "evidence": "registry/evidence/src-eaf581c7bd3d-README.md.json"
+      }
+    ],
+    "candidateFiles": [
+      {
+        "path": "complete.json",
+        "bytes": 9763716
+      },
+      {
+        "path": "complete.min.json",
+        "bytes": 2974371
+      },
+      {
+        "path": "wordlists/exclusive/new/1.json",
+        "bytes": 495350
+      },
+      {
+        "path": "wordlists/exclusive/new/1.min.json",
+        "bytes": 140204
+      },
+      {
+        "path": "wordlists/exclusive/new/2.json",
+        "bytes": 659502
+      },
+      {
+        "path": "wordlists/exclusive/new/2.min.json",
+        "bytes": 190439
+      },
+      {
+        "path": "wordlists/exclusive/new/3.json",
+        "bytes": 804735
+      },
+      {
+        "path": "wordlists/exclusive/new/3.min.json",
+        "bytes": 235876
+      },
+      {
+        "path": "wordlists/exclusive/new/4.json",
+        "bytes": 804440
+      },
+      {
+        "path": "wordlists/exclusive/new/4.min.json",
+        "bytes": 235546
+      },
+      {
+        "path": "wordlists/exclusive/new/5.json",
+        "bytes": 841905
+      },
+      {
+        "path": "wordlists/exclusive/new/5.min.json",
+        "bytes": 249373
+      },
+      {
+        "path": "wordlists/exclusive/new/6.json",
+        "bytes": 914960
+      },
+      {
+        "path": "wordlists/exclusive/new/6.min.json",
+        "bytes": 270401
+      },
+      {
+        "path": "wordlists/exclusive/new/7.json",
+        "bytes": 4325996
+      },
+      {
+        "path": "wordlists/exclusive/new/7.min.json",
+        "bytes": 1333895
+      },
+      {
+        "path": "wordlists/exclusive/newest/1.json",
+        "bytes": 281274
+      },
+      {
+        "path": "wordlists/exclusive/newest/1.min.json",
+        "bytes": 80028
+      },
+      {
+        "path": "wordlists/exclusive/newest/2.json",
+        "bytes": 209050
+      },
+      {
+        "path": "wordlists/exclusive/newest/2.min.json",
+        "bytes": 58055
+      },
+      {
+        "path": "wordlists/exclusive/newest/3.json",
+        "bytes": 423216
+      },
+      {
+        "path": "wordlists/exclusive/newest/3.min.json",
+        "bytes": 122454
+      },
+      {
+        "path": "wordlists/exclusive/newest/4.json",
+        "bytes": 827462
+      },
+      {
+        "path": "wordlists/exclusive/newest/4.min.json",
+        "bytes": 240255
+      },
+      {
+        "path": "wordlists/exclusive/newest/5.json",
+        "bytes": 1260186
+      },
+      {
+        "path": "wordlists/exclusive/newest/5.min.json",
+        "bytes": 370814
+      },
+      {
+        "path": "wordlists/exclusive/newest/6.json",
+        "bytes": 1370037
+      },
+      {
+        "path": "wordlists/exclusive/newest/6.min.json",
+        "bytes": 404510
+      },
+      {
+        "path": "wordlists/exclusive/newest/7.json",
+        "bytes": 3809398
+      },
+      {
+        "path": "wordlists/exclusive/newest/7.min.json",
+        "bytes": 1167629
+      },
+      {
+        "path": "wordlists/exclusive/old/1.json",
+        "bytes": 152873
+      },
+      {
+        "path": "wordlists/exclusive/old/1.min.json",
+        "bytes": 43502
+      },
+      {
+        "path": "wordlists/exclusive/old/2.json",
+        "bytes": 155261
+      },
+      {
+        "path": "wordlists/exclusive/old/2.min.json",
+        "bytes": 42495
+      },
+      {
+        "path": "wordlists/exclusive/old/3.json",
+        "bytes": 272864
+      },
+      {
+        "path": "wordlists/exclusive/old/3.min.json",
+        "bytes": 77846
+      },
+      {
+        "path": "wordlists/exclusive/old/4.json",
+        "bytes": 511899
+      },
+      {
+        "path": "wordlists/exclusive/old/4.min.json",
+        "bytes": 148403
+      },
+      {
+        "path": "wordlists/exclusive/old/5.json",
+        "bytes": 1054595
+      },
+      {
+        "path": "wordlists/exclusive/old/5.min.json",
+        "bytes": 311327
+      },
+      {
+        "path": "wordlists/exclusive/old/6.json",
+        "bytes": 1944361
+      },
+      {
+        "path": "wordlists/exclusive/old/6.min.json",
+        "bytes": 591430
+      },
+      {
+        "path": "wordlists/inclusive/new/1.json",
+        "bytes": 495350
+      },
+      {
+        "path": "wordlists/inclusive/new/1.min.json",
+        "bytes": 140204
+      },
+      {
+        "path": "wordlists/inclusive/new/2.json",
+        "bytes": 1154852
+      },
+      {
+        "path": "wordlists/inclusive/new/2.min.json",
+        "bytes": 330642
+      },
+      {
+        "path": "wordlists/inclusive/new/3.json",
+        "bytes": 1959587
+      },
+      {
+        "path": "wordlists/inclusive/new/3.min.json",
+        "bytes": 566517
+      },
+      {
+        "path": "wordlists/inclusive/new/4.json",
+        "bytes": 2764027
+      },
+      {
+        "path": "wordlists/inclusive/new/4.min.json",
+        "bytes": 802062
+      },
+      {
+        "path": "wordlists/inclusive/new/5.json",
+        "bytes": 3605932
+      },
+      {
+        "path": "wordlists/inclusive/new/5.min.json",
+        "bytes": 1051434
+      },
+      {
+        "path": "wordlists/inclusive/new/6.json",
+        "bytes": 4520892
+      },
+      {
+        "path": "wordlists/inclusive/new/6.min.json",
+        "bytes": 1321834
+      },
+      {
+        "path": "wordlists/inclusive/new/7.json",
+        "bytes": 8846888
+      },
+      {
+        "path": "wordlists/inclusive/new/7.min.json",
+        "bytes": 2655728
+      },
+      {
+        "path": "wordlists/inclusive/newest/1.json",
+        "bytes": 281274
+      },
+      {
+        "path": "wordlists/inclusive/newest/1.min.json",
+        "bytes": 80028
+      },
+      {
+        "path": "wordlists/inclusive/newest/2.json",
+        "bytes": 490324
+      },
+      {
+        "path": "wordlists/inclusive/newest/2.min.json",
+        "bytes": 138082
+      },
+      {
+        "path": "wordlists/inclusive/newest/3.json",
+        "bytes": 913540
+      },
+      {
+        "path": "wordlists/inclusive/newest/3.min.json",
+        "bytes": 260535
+      },
+      {
+        "path": "wordlists/inclusive/newest/4.json",
+        "bytes": 1741002
+      },
+      {
+        "path": "wordlists/inclusive/newest/4.min.json",
+        "bytes": 500789
+      },
+      {
+        "path": "wordlists/inclusive/newest/5.json",
+        "bytes": 3001188
+      },
+      {
+        "path": "wordlists/inclusive/newest/5.min.json",
+        "bytes": 871602
+      },
+      {
+        "path": "wordlists/inclusive/newest/6.json",
+        "bytes": 4371225
+      },
+      {
+        "path": "wordlists/inclusive/newest/6.min.json",
+        "bytes": 1276111
+      },
+      {
+        "path": "wordlists/inclusive/newest/7.json",
+        "bytes": 8180623
+      },
+      {
+        "path": "wordlists/inclusive/newest/7.min.json",
+        "bytes": 2443739
+      },
+      {
+        "path": "wordlists/inclusive/old/1.json",
+        "bytes": 152873
+      },
+      {
+        "path": "wordlists/inclusive/old/1.min.json",
+        "bytes": 43502
+      },
+      {
+        "path": "wordlists/inclusive/old/2.json",
+        "bytes": 308134
+      },
+      {
+        "path": "wordlists/inclusive/old/2.min.json",
+        "bytes": 85996
+      },
+      {
+        "path": "wordlists/inclusive/old/3.json",
+        "bytes": 580998
+      },
+      {
+        "path": "wordlists/inclusive/old/3.min.json",
+        "bytes": 163841
+      },
+      {
+        "path": "wordlists/inclusive/old/4.json",
+        "bytes": 1092897
+      },
+      {
+        "path": "wordlists/inclusive/old/4.min.json",
+        "bytes": 312243
+      },
+      {
+        "path": "wordlists/inclusive/old/5.json",
+        "bytes": 2147492
+      },
+      {
+        "path": "wordlists/inclusive/old/5.min.json",
+        "bytes": 623569
+      }
+    ]
+  },
+  "tree": [
+    {
+      "path": ".github",
+      "type": "tree"
+    },
+    {
+      "path": ".github/FUNDING.yml",
+      "type": "blob",
+      "size": 20
+    },
+    {
+      "path": ".github/workflows",
+      "type": "tree"
+    },
+    {
+      "path": ".github/workflows/test.yml",
+      "type": "blob",
+      "size": 4608
+    },
+    {
+      "path": ".github/workflows/update.yml",
+      "type": "blob",
+      "size": 1891
+    },
+    {
+      "path": ".gitignore",
+      "type": "blob",
+      "size": 29
+    },
+    {
+      "path": "Gemfile",
+      "type": "blob",
+      "size": 80
+    },
+    {
+      "path": "LICENSE",
+      "type": "blob",
+      "size": 1075
+    },
+    {
+      "path": "README.md",
+      "type": "blob",
+      "size": 10634
+    },
+    {
+      "path": "complete.json",
+      "type": "blob",
+      "size": 9763716
+    },
+    {
+      "path": "complete.min.json",
+      "type": "blob",
+      "size": 2974371
+    },
+    {
+      "path": "logo.png",
+      "type": "blob",
+      "size": 25566
+    },
+    {
+      "path": "scripts",
+      "type": "tree"
+    },
+    {
+      "path": "scripts/filter.rb",
+      "type": "blob",
+      "size": 2376
+    },
+    {
+      "path": "scripts/minify.rb",
+      "type": "blob",
+      "size": 1642
+    },
+    {
+      "path": "scripts/process.rb",
+      "type": "blob",
+      "size": 3089
+    },
+    {
+      "path": "wordlists",
+      "type": "tree"
+    },
+    {
+      "path": "wordlists/exclusive",
+      "type": "tree"
+    },
+    {
+      "path": "wordlists/exclusive/new",
+      "type": "tree"
+    },
+    {
+      "path": "wordlists/exclusive/new/1.json",
+      "type": "blob",
+      "size": 495350
+    },
+    {
+      "path": "wordlists/exclusive/new/1.min.json",
+      "type": "blob",
+      "size": 140204
+    },
+    {
+      "path": "wordlists/exclusive/new/2.json",
+      "type": "blob",
+      "size": 659502
+    },
+    {
+      "path": "wordlists/exclusive/new/2.min.json",
+      "type": "blob",
+      "size": 190439
+    },
+    {
+      "path": "wordlists/exclusive/new/3.json",
+      "type": "blob",
+      "size": 804735
+    },
+    {
+      "path": "wordlists/exclusive/new/3.min.json",
+      "type": "blob",
+      "size": 235876
+    },
+    {
+      "path": "wordlists/exclusive/new/4.json",
+      "type": "blob",
+      "size": 804440
+    },
+    {
+      "path": "wordlists/exclusive/new/4.min.json",
+      "type": "blob",
+      "size": 235546
+    },
+    {
+      "path": "wordlists/exclusive/new/5.json",
+      "type": "blob",
+      "size": 841905
+    },
+    {
+      "path": "wordlists/exclusive/new/5.min.json",
+      "type": "blob",
+      "size": 249373
+    },
+    {
+      "path": "wordlists/exclusive/new/6.json",
+      "type": "blob",
+      "size": 914960
+    },
+    {
+      "path": "wordlists/exclusive/new/6.min.json",
+      "type": "blob",
+      "size": 270401
+    },
+    {
+      "path": "wordlists/exclusive/new/7.json",
+      "type": "blob",
+      "size": 4325996
+    },
+    {
+      "path": "wordlists/exclusive/new/7.min.json",
+      "type": "blob",
+      "size": 1333895
+    },
+    {
+      "path": "wordlists/exclusive/newest",
+      "type": "tree"
+    },
+    {
+      "path": "wordlists/exclusive/newest/1.json",
+      "type": "blob",
+      "size": 281274
+    },
+    {
+      "path": "wordlists/exclusive/newest/1.min.json",
+      "type": "blob",
+      "size": 80028
+    },
+    {
+      "path": "wordlists/exclusive/newest/2.json",
+      "type": "blob",
+      "size": 209050
+    },
+    {
+      "path": "wordlists/exclusive/newest/2.min.json",
+      "type": "blob",
+      "size": 58055
+    },
+    {
+      "path": "wordlists/exclusive/newest/3.json",
+      "type": "blob",
+      "size": 423216
+    },
+    {
+      "path": "wordlists/exclusive/newest/3.min.json",
+      "type": "blob",
+      "size": 122454
+    },
+    {
+      "path": "wordlists/exclusive/newest/4.json",
+      "type": "blob",
+      "size": 827462
+    },
+    {
+      "path": "wordlists/exclusive/newest/4.min.json",
+      "type": "blob",
+      "size": 240255
+    },
+    {
+      "path": "wordlists/exclusive/newest/5.json",
+      "type": "blob",
+      "size": 1260186
+    },
+    {
+      "path": "wordlists/exclusive/newest/5.min.json",
+      "type": "blob",
+      "size": 370814
+    },
+    {
+      "path": "wordlists/exclusive/newest/6.json",
+      "type": "blob",
+      "size": 1370037
+    },
+    {
+      "path": "wordlists/exclusive/newest/6.min.json",
+      "type": "blob",
+      "size": 404510
+    },
+    {
+      "path": "wordlists/exclusive/newest/7.json",
+      "type": "blob",
+      "size": 3809398
+    },
+    {
+      "path": "wordlists/exclusive/newest/7.min.json",
+      "type": "blob",
+      "size": 1167629
+    },
+    {
+      "path": "wordlists/exclusive/old",
+      "type": "tree"
+    },
+    {
+      "path": "wordlists/exclusive/old/1.json",
+      "type": "blob",
+      "size": 152873
+    },
+    {
+      "path": "wordlists/exclusive/old/1.min.json",
+      "type": "blob",
+      "size": 43502
+    },
+    {
+      "path": "wordlists/exclusive/old/2.json",
+      "type": "blob",
+      "size": 155261
+    },
+    {
+      "path": "wordlists/exclusive/old/2.min.json",
+      "type": "blob",
+      "size": 42495
+    },
+    {
+      "path": "wordlists/exclusive/old/3.json",
+      "type": "blob",
+      "size": 272864
+    },
+    {
+      "path": "wordlists/exclusive/old/3.min.json",
+      "type": "blob",
+      "size": 77846
+    },
+    {
+      "path": "wordlists/exclusive/old/4.json",
+      "type": "blob",
+      "size": 511899
+    },
+    {
+      "path": "wordlists/exclusive/old/4.min.json",
+      "type": "blob",
+      "size": 148403
+    },
+    {
+      "path": "wordlists/exclusive/old/5.json",
+      "type": "blob",
+      "size": 1054595
+    },
+    {
+      "path": "wordlists/exclusive/old/5.min.json",
+      "type": "blob",
+      "size": 311327
+    },
+    {
+      "path": "wordlists/exclusive/old/6.json",
+      "type": "blob",
+      "size": 1944361
+    },
+    {
+      "path": "wordlists/exclusive/old/6.min.json",
+      "type": "blob",
+      "size": 591430
+    },
+    {
+      "path": "wordlists/inclusive",
+      "type": "tree"
+    },
+    {
+      "path": "wordlists/inclusive/new",
+      "type": "tree"
+    },
+    {
+      "path": "wordlists/inclusive/new/1.json",
+      "type": "blob",
+      "size": 495350
+    },
+    {
+      "path": "wordlists/inclusive/new/1.min.json",
+      "type": "blob",
+      "size": 140204
+    },
+    {
+      "path": "wordlists/inclusive/new/2.json",
+      "type": "blob",
+      "size": 1154852
+    },
+    {
+      "path": "wordlists/inclusive/new/2.min.json",
+      "type": "blob",
+      "size": 330642
+    },
+    {
+      "path": "wordlists/inclusive/new/3.json",
+      "type": "blob",
+      "size": 1959587
+    },
+    {
+      "path": "wordlists/inclusive/new/3.min.json",
+      "type": "blob",
+      "size": 566517
+    },
+    {
+      "path": "wordlists/inclusive/new/4.json",
+      "type": "blob",
+      "size": 2764027
+    },
+    {
+      "path": "wordlists/inclusive/new/4.min.json",
+      "type": "blob",
+      "size": 802062
+    },
+    {
+      "path": "wordlists/inclusive/new/5.json",
+      "type": "blob",
+      "size": 3605932
+    },
+    {
+      "path": "wordlists/inclusive/new/5.min.json",
+      "type": "blob",
+      "size": 1051434
+    },
+    {
+      "path": "wordlists/inclusive/new/6.json",
+      "type": "blob",
+      "size": 4520892
+    },
+    {
+      "path": "wordlists/inclusive/new/6.min.json",
+      "type": "blob",
+      "size": 1321834
+    },
+    {
+      "path": "wordlists/inclusive/new/7.json",
+      "type": "blob",
+      "size": 8846888
+    },
+    {
+      "path": "wordlists/inclusive/new/7.min.json",
+      "type": "blob",
+      "size": 2655728
+    },
+    {
+      "path": "wordlists/inclusive/newest",
+      "type": "tree"
+    },
+    {
+      "path": "wordlists/inclusive/newest/1.json",
+      "type": "blob",
+      "size": 281274
+    },
+    {
+      "path": "wordlists/inclusive/newest/1.min.json",
+      "type": "blob",
+      "size": 80028
+    },
+    {
+      "path": "wordlists/inclusive/newest/2.json",
+      "type": "blob",
+      "size": 490324
+    },
+    {
+      "path": "wordlists/inclusive/newest/2.min.json",
+      "type": "blob",
+      "size": 138082
+    },
+    {
+      "path": "wordlists/inclusive/newest/3.json",
+      "type": "blob",
+      "size": 913540
+    },
+    {
+      "path": "wordlists/inclusive/newest/3.min.json",
+      "type": "blob",
+      "size": 260535
+    },
+    {
+      "path": "wordlists/inclusive/newest/4.json",
+      "type": "blob",
+      "size": 1741002
+    },
+    {
+      "path": "wordlists/inclusive/newest/4.min.json",
+      "type": "blob",
+      "size": 500789
+    },
+    {
+      "path": "wordlists/inclusive/newest/5.json",
+      "type": "blob",
+      "size": 3001188
+    },
+    {
+      "path": "wordlists/inclusive/newest/5.min.json",
+      "type": "blob",
+      "size": 871602
+    },
+    {
+      "path": "wordlists/inclusive/newest/6.json",
+      "type": "blob",
+      "size": 4371225
+    },
+    {
+      "path": "wordlists/inclusive/newest/6.min.json",
+      "type": "blob",
+      "size": 1276111
+    },
+    {
+      "path": "wordlists/inclusive/newest/7.json",
+      "type": "blob",
+      "size": 8180623
+    },
+    {
+      "path": "wordlists/inclusive/newest/7.min.json",
+      "type": "blob",
+      "size": 2443739
+    },
+    {
+      "path": "wordlists/inclusive/old",
+      "type": "tree"
+    },
+    {
+      "path": "wordlists/inclusive/old/1.json",
+      "type": "blob",
+      "size": 152873
+    },
+    {
+      "path": "wordlists/inclusive/old/1.min.json",
+      "type": "blob",
+      "size": 43502
+    },
+    {
+      "path": "wordlists/inclusive/old/2.json",
+      "type": "blob",
+      "size": 308134
+    },
+    {
+      "path": "wordlists/inclusive/old/2.min.json",
+      "type": "blob",
+      "size": 85996
+    },
+    {
+      "path": "wordlists/inclusive/old/3.json",
+      "type": "blob",
+      "size": 580998
+    },
+    {
+      "path": "wordlists/inclusive/old/3.min.json",
+      "type": "blob",
+      "size": 163841
+    },
+    {
+      "path": "wordlists/inclusive/old/4.json",
+      "type": "blob",
+      "size": 1092897
+    },
+    {
+      "path": "wordlists/inclusive/old/4.min.json",
+      "type": "blob",
+      "size": 312243
+    },
+    {
+      "path": "wordlists/inclusive/old/5.json",
+      "type": "blob",
+      "size": 2147492
+    },
+    {
+      "path": "wordlists/inclusive/old/5.min.json",
+      "type": "blob",
+      "size": 623569
+    },
+    {
+      "path": "wordlists/inclusive/old/6.json",
+      "type": "blob",
+      "size": 4091853
+    },
+    {
+      "path": "wordlists/inclusive/old/6.min.json",
+      "type": "blob",
+      "size": 1214998
+    }
+  ]
+}

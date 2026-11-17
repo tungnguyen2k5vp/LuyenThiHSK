@@ -1,0 +1,573 @@
+{
+  "topics": [
+    {
+      "level": "1",
+      "title": "个人信息",
+      "group": "基本信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-640803d89773",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "事件信息",
+      "group": "基本信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-b3a688135fad",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "物品信息",
+      "group": "基本信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-8e4ee19f41ea",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "环境信息",
+      "group": "基本信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-883e873ea332",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "交往",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-06b139c0aed8",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "饮食",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-fe60e205a1c5",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "交通出行",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-b91973ea3c3b",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "购物",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-2acd5439c792",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "医疗健康",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-6b4626582e7d",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "休闲",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-dbe53bfc4320",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "学习情况",
+      "group": "教育情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-fe94c36ab620",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "校园生活",
+      "group": "教育情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-21255f717947",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "工作情况",
+      "group": "职场生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-7e5e530e91ea",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "职业",
+      "group": "职场生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-2db9c88698e5",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "饮食文化",
+      "group": "文化与传统",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-1-9b7727ad9617",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "个人信息",
+      "group": "基本信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-640803d89773",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "事件信息",
+      "group": "基本信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-b3a688135fad",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "物品信息",
+      "group": "基本信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-8e4ee19f41ea",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "环境信息",
+      "group": "基本信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-883e873ea332",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "交往",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-06b139c0aed8",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "饮食",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-fe60e205a1c5",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "交通出行",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-b91973ea3c3b",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "购物",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-2acd5439c792",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "医疗健康",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-6b4626582e7d",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "休闲",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-dbe53bfc4320",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "家庭生活",
+      "group": "日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-86c132633d66",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "学习情况",
+      "group": "教育情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-fe94c36ab620",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "校园生活",
+      "group": "教育情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-21255f717947",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "工作情况",
+      "group": "职场生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-7e5e530e91ea",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "职业",
+      "group": "职场生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-2db9c88698e5",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "传统习俗",
+      "group": "文化与传统",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-e430911d5658",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "饮食文化",
+      "group": "文化与传统",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-9b7727ad9617",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "姓氏文化",
+      "group": "文化与传统",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-topic-2-fa6cb988346a",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "id": "v9-topic-grammar",
+      "level": "1",
+      "title": "Ngữ pháp theo ngữ cảnh",
+      "sourceType": "ORIGINAL",
+      "syllabusVersion": "hsk3-2025"
+    }
+  ],
+  "tasks": [
+    {
+      "level": "1",
+      "title": "问答个人基本信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-9d1af9ce2409",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "问答事件信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-d2df0966152d",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "问答物品信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-243e391a5da4",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "问答天气",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-c51289c580ac",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "问答环境信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-b1d12b4040db",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "日常言语交往",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-1c8186f11988",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "问答饮食喜好",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-f9a62914a0b8",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "问答出行信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-a61aaab09406",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "问答商品信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-54c0acd95879",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "告知生病、探病",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-2611a8576eb7",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "交流休闲活动",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-75bdaaeac417",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "介绍学习情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-b23b7be1de72",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "交流学校情况、课后活动",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-4bc10a32d7ac",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "交流工作信息",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-c84c07bd2bb9",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "1",
+      "title": "问答中国传统饮食",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-1-87bd51a52c34",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "问答个人基本情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-d4f273e2f31b",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "问答事件情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-920759cf02fb",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "问答物品情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-6be34197947e",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "介绍天气基本情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-429f12772948",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "介绍某个地方",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-aeed62342070",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "日常言语交往",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-1c8186f11988",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "问答日常饮食",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-4724381b9e50",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "问答出行情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-dca74427f9fa",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "问答商品情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-ac642b2d5d0e",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "问答生病、探病",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-3d2a3992e6c8",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "交流休闲活动",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-75bdaaeac417",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "介绍家庭日常生活",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-ce0130396d14",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "介绍学习情况、学习经历",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-96e0b02c992a",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "交流学校情况、课后活动",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-4bc10a32d7ac",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "交流工作情况",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-f326989bdd2e",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "介绍过年及传统饮食",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-963d65e5a7a4",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "level": "2",
+      "title": "使用中文称谓语",
+      "sourceUrl": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+      "id": "v9-cti25-task-2-9b537bef508d",
+      "syllabusVersion": "hsk3-2025",
+      "mappingStatus": "IMPORTED_SOURCE_FACT_REFERENCE"
+    },
+    {
+      "id": "v9-task-grammar-assessment",
+      "level": "1",
+      "title": "Independent grammar practice",
+      "sourceType": "ORIGINAL",
+      "syllabusVersion": "hsk3-2025"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "result": "PASS",
+  "date": "2026-10-26T16:28:25.169Z",
+  "fixtures": "Home and progress cases seed synthetic local records only inside disposable REA profiles. Vocabulary and Hanzi use shipped curriculum.",
+  "checks": [
+    "unique matching labels and next sets",
+    "keyboard and touch-sized UI, 320/390/1440 px",
+    "SM2 persistence across reload",
+    "matching does not write learning records",
+    "actual skipped/completed task counts",
+    "7/14-day chart and zero-data states",
+    "manual Hanzi controls and save acknowledgement",
+    "result feedback does not invent a score"
+  ],
+  "limits": [
+    "TTS playback depends on installed Mandarin voice and is not asserted",
+    "Hanzi pointer check is a click; freehand stroke accuracy is not graded",
+    "Reduced motion flows checked; no user Cốc Cốc control"
+  ],
+  "rows": [
+    {
+      "name": "home-desktop",
+      "result": "PASS",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "motion": "no-preference",
+      "steps": 12
+    },
+    {
+      "name": "home-mobile",
+      "result": "PASS",
+      "viewport": [
+        390,
+        844
+      ],
+      "motion": "no-preference",
+      "steps": 12
+    },
+    {
+      "name": "flashcards-desktop",
+      "result": "PASS",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "motion": "no-preference",
+      "steps": 36
+    },
+    {
+      "name": "flashcards-mobile-reduced",
+      "result": "PASS",
+      "viewport": [
+        320,
+        740
+      ],
+      "motion": "reduce",
+      "steps": 11
+    },
+    {
+      "name": "flashcards-mobile",
+      "result": "PASS",
+      "viewport": [
+        390,
+        844
+      ],
+      "motion": "no-preference",
+      "steps": 15
+    },
+    {
+      "name": "matching-desktop",
+      "result": "PASS",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "motion": "no-preference",
+      "steps": 17
+    },
+    {
+      "name": "matching-to-flashcards",
+      "result": "PASS",
+      "viewport": [
+        390,
+        844
+      ],
+      "motion": "no-preference",
+      "steps": 23
+    },
+    {
+      "name": "matching-mobile-reduced",
+      "result": "PASS",
+      "viewport": [
+        320,
+        740
+      ],
+      "motion": "reduce",
+      "steps": 21
+    },
+    {
+      "name": "hanzi-desktop",
+      "result": "PASS",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "motion": "no-preference",
+      "steps": 26
+    },
+    {
+      "name": "hanzi-mobile-reduced",
+      "result": "PASS",
+      "viewport": [
+        320,
+        740
+      ],
+      "motion": "reduce",
+      "steps": 22
+    },
+    {
+      "name": "progress-desktop",
+      "result": "PASS",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "motion": "no-preference",
+      "steps": 9
+    },
+    {
+      "name": "progress-mobile-empty",
+      "result": "PASS",
+      "viewport": [
+        390,
+        844
+      ],
+      "motion": "reduce",
+      "steps": 7
+    },
+    {
+      "name": "practice-desktop",
+      "result": "PASS",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "motion": "no-preference",
+      "steps": 7
+    },
+    {
+      "name": "practice-mobile",
+      "result": "PASS",
+      "viewport": [
+        390,
+        844
+      ],
+      "motion": "no-preference",
+      "steps": 3
+    },
+    {
+      "name": "result-saved",
+      "result": "PASS",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "motion": "no-preference",
+      "steps": 6
+    }
+  ]
+}

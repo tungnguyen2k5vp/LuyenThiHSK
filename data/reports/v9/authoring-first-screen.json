@@ -1,0 +1,1191 @@
+{
+  "at": "2026-10-16T16:20:34.189Z",
+  "batch": "HSK2-A-27 / grammar-depth-33",
+  "count": 60,
+  "checks": [
+    {
+      "id": "v9-hsk2-L1-001",
+      "revision": 1,
+      "sourceFingerprint": "ff3f5dc9c390a3f7b1dd011f877b5d7462be49cdce435eee24d3dad5bf7cdc95",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "medical-advice",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L1-002",
+      "revision": 1,
+      "sourceFingerprint": "cbf91ae235a56e4d93d98bed71747db6c0e5531829bfd1588e1971e189b1e0b1",
+      "tokensToReview": [
+        {
+          "text": "用",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "作业",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "不用",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "digital-homework",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L1-003",
+      "revision": 1,
+      "sourceFingerprint": "c1b72db4e1e9d273c8d17c3930547754a7478d8820db5e0553642bf76586f512",
+      "tokensToReview": [
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "breakfast-before-departure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L2-004",
+      "revision": 1,
+      "sourceFingerprint": "ac480f1b74def49f907df53cf503f34f81c20f7a7c146f3359a87604c75e12e6",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "prepare-language-class",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L2-005",
+      "revision": 1,
+      "sourceFingerprint": "9121fc2c69fe3aa11b446791bc7fe8754ee0fa36549da0bb41c7c1c51cf48fe1",
+      "tokensToReview": [
+        {
+          "text": "接",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "cannot-answer-while-driving",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L2-006",
+      "revision": 1,
+      "sourceFingerprint": "c841ef7e671b7719419b4f2705566407ddb481ca3e23d81cf1efc5819d90bc14",
+      "tokensToReview": [
+        {
+          "text": "用",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "prepare-class-notes",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L3-007",
+      "revision": 1,
+      "sourceFingerprint": "c53edb43f7dc8a635e2ba4e48d7807361d7491554cd5689a18ef5f41a63e47a8",
+      "tokensToReview": [
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "约",
+          "indexedLevel": "4"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "meeting-before-movie",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L3-008",
+      "revision": 1,
+      "sourceFingerprint": "638e133e2b788f599c2597277a571bf1971db5d130db051155fafc75f80f6513",
+      "tokensToReview": [
+        {
+          "text": "用",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "用",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "用",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "new-and-used-bag",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-L3-009",
+      "revision": 1,
+      "sourceFingerprint": "e45e4490edea09bde45bae7dc06c7093917398839280b7441258eaa8cb73376e",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "waiting-for-family",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R1-010",
+      "revision": 1,
+      "sourceFingerprint": "1609d0d2d3e906a5ee6dcf98d7700bb2c40bf61d0ab4c6f550618904933650ec",
+      "tokensToReview": [
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "wash-hands-before-bread",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R1-011",
+      "revision": 1,
+      "sourceFingerprint": "260788fe821518ec09954a1be2e9e1c89d61022bd0d53389a90a34a0d60722c4",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "chair-beside-table",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R1-012",
+      "revision": 1,
+      "sourceFingerprint": "0d202945123bc9812356f109005bbd4d94b9dbe4a7dcaee8665d23c3d29c0e40",
+      "tokensToReview": [
+        {
+          "text": "没",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "电",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "用",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "phone-battery-empty",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R2-013",
+      "revision": 1,
+      "sourceFingerprint": "41300aa41930fea3dc6eb1a147556bc78002c73135c6ba341449d2310bcb6f71",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "second-visit",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R2-014",
+      "revision": 1,
+      "sourceFingerprint": "f843e2835d86583449eb3d388e9612b8fb09814b9dd39325b64e6b97f94032c0",
+      "tokensToReview": [
+        {
+          "text": "刚",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "keep-quiet-near-sleeping-child",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R2-015",
+      "revision": 1,
+      "sourceFingerprint": "fd49fe3add8d5ac9b7ebe1bedce391d62126dd06fde08310135a4d4e1c3d5017",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "station-school-hospital-map",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R3-016",
+      "revision": 1,
+      "sourceFingerprint": "7c9d590c18fb3c901964486eb303db6ff0afafa8ec989f49276985887bdad19f",
+      "tokensToReview": [
+        {
+          "text": "试",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "向",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "关心",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "试",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "地方",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "ask-to-try-clothes",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R3-017",
+      "revision": 1,
+      "sourceFingerprint": "dd747f2b6c13987b9cd6ff5f9457e1af8b45638a42896be6ea28c5b4ab09da1c",
+      "tokensToReview": [
+        {
+          "text": "向",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "关心",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "试",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "地方",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "ask-station-direction",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R3-018",
+      "revision": 1,
+      "sourceFingerprint": "1578ba9a2269478de9bbb45d1e7584b1168a4a0ea826ecd3fdded86c683c8506",
+      "tokensToReview": [
+        {
+          "text": "向",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "关心",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "试",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "地方",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "ask-about-recovery",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R4-019",
+      "revision": 1,
+      "sourceFingerprint": "9af0b3bc5f9bf56dc6d9c632c3c245f35081d2a940af86d60f776cd463d407e7",
+      "tokensToReview": [
+        {
+          "text": "陈",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "才",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "陈",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "wait-for-shop-opening",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R4-020",
+      "revision": 1,
+      "sourceFingerprint": "f0351c7143c5ba32c4172610ce82d6d4a5e4fa6ccdf08f626fc544619e317e3c",
+      "tokensToReview": [
+        {
+          "text": "梅",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "可是",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "选",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "梅",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "choose-swimming-class-time",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-R4-021",
+      "revision": 1,
+      "sourceFingerprint": "0001ffd6d78d5fe49dbb45b62f5605c8ce178ff7589c7ff78de1690deec59e9b",
+      "tokensToReview": [
+        {
+          "text": "张",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "张",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "放",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "张",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "用",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "张",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "一样",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "compare-room-furniture",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-022",
+      "revision": 1,
+      "sourceFingerprint": "b591ce197de4a393b977c9c05243efdeca911ad761dc21d390a813751c420f7c",
+      "tokensToReview": [
+        {
+          "text": "氵",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "河",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "子",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "可",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "木",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "青",
+          "indexedLevel": "5"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "river-character-component",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-023",
+      "revision": 1,
+      "sourceFingerprint": "1b33fcfa3a217de8b0470e497a390a10ae33af40052145f6587d6709c9e50391",
+      "tokensToReview": [
+        {
+          "text": "亻",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "休",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "子",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "可",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "木",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "青",
+          "indexedLevel": "5"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "rest-character-component",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W1-024",
+      "revision": 1,
+      "sourceFingerprint": "b5c6c14904aeb004f099451ef8dcb534a808878919fb2936f6b8f14c489ef25c",
+      "tokensToReview": [
+        {
+          "text": "子",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "可",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "木",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "青",
+          "indexedLevel": "5"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "good-character-component",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W2-025",
+      "revision": 1,
+      "sourceFingerprint": "2e08b48700cadf8970eef4a66a986ac86f5c43ecef4389faee0d3d001b50e5bd",
+      "tokensToReview": [
+        {
+          "text": "缺少",
+          "indexedLevel": "4"
+        }
+      ],
+      "pinyin": {
+        "expected": "买",
+        "displayed": "mǎi",
+        "indexed": "mǎi",
+        "status": "AUTOMATED_CROSS_CHECK_NOT_HUMAN"
+      },
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "buy-warm-clothing",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W2-026",
+      "revision": 1,
+      "sourceFingerprint": "fab1e3170025d85b6d00dc458af03563eb9d28ab8c06e6147c02805f2a07a0e2",
+      "tokensToReview": [
+        {
+          "text": "缺少",
+          "indexedLevel": "4"
+        },
+        {
+          "text": "以前",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        }
+      ],
+      "pinyin": {
+        "expected": "手",
+        "displayed": "shǒu",
+        "indexed": "shǒu",
+        "status": "AUTOMATED_CROSS_CHECK_NOT_HUMAN"
+      },
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "handwashing-hanzi",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk2-W2-027",
+      "revision": 1,
+      "sourceFingerprint": "401e2b37af5fd079eaad77f185ee8d111856224a8661246eb9f79263b7fdd3e9",
+      "tokensToReview": [
+        {
+          "text": "缺少",
+          "indexedLevel": "4"
+        }
+      ],
+      "pinyin": {
+        "expected": "口",
+        "displayed": "kǒu",
+        "indexed": "kǒu",
+        "status": "AUTOMATED_CROSS_CHECK_NOT_HUMAN"
+      },
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "school-gate-meeting-hanzi",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00001-1",
+      "revision": 1,
+      "sourceFingerprint": "c2fb7c689cc1e43925100e23e02e7bc3f510f9649188290735dcfe9363db5c95",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00002-1",
+      "revision": 1,
+      "sourceFingerprint": "2f18dfde856b92231ea77a1f4a2380f14c3a014b6bf0d74244725f5254cdf73b",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "similar-structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00008-1",
+      "revision": 1,
+      "sourceFingerprint": "52be71942eef9e58a1fb25f68f85a84a6291db98f1bf097dd03222b457d92742",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00009-1",
+      "revision": 1,
+      "sourceFingerprint": "2d2b42d69be820c160e7e4a603f4e410be1e9060a2c81148b1305e80d7d1515c",
+      "tokensToReview": [
+        {
+          "text": "王",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "李",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00013-1",
+      "revision": 1,
+      "sourceFingerprint": "c5e8b924ccc062eefa65b69c173b9ddcbb008ae375146078bba0ebb07ab59ae9",
+      "tokensToReview": [
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "fill-gap",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00018-1",
+      "revision": 1,
+      "sourceFingerprint": "94bb7f65a314da6bda9e5454647d7ad366495fc02e606360ba7706286f756dae",
+      "tokensToReview": [
+        {
+          "text": "没",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "清",
+          "indexedLevel": "6"
+        },
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00022-1",
+      "revision": 1,
+      "sourceFingerprint": "7e92e01d843ea95011a1a3ed01dc42d3bef88df5d4a7ea3952c32677f76c656e",
+      "tokensToReview": [
+        {
+          "text": "走路",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "similar-structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00027-1",
+      "revision": 1,
+      "sourceFingerprint": "c319eb8546a805180e2755fea60ab3b042b7636cd8a991b84d84b54967c37f67",
+      "tokensToReview": [
+        {
+          "text": "响",
+          "indexedLevel": "4"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00029-1",
+      "revision": 1,
+      "sourceFingerprint": "e5287b48334f982b87a73df134bb1228df113ac741d6130617fed7066a9bcdae",
+      "tokensToReview": [
+        {
+          "text": "桌",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "word-order",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00029-2",
+      "revision": 1,
+      "sourceFingerprint": "7beff6f3660076fc7c7f414b6d97b53f4b2de893959b59319e9662de06a4c115",
+      "tokensToReview": [
+        {
+          "text": "红色",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00031-1",
+      "revision": 1,
+      "sourceFingerprint": "095e3cd1bf697ff122975a6d3e7f1f4c88acf6a924ae3fc5c902dbf90c7d984a",
+      "tokensToReview": [
+        {
+          "text": "每",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "每",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00031-2",
+      "revision": 1,
+      "sourceFingerprint": "89d4c92182f04117715ed2149ea93c3b6a2e12d8dff5180530e48f5c7bb803c4",
+      "tokensToReview": [
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        },
+        {
+          "text": "杯",
+          "indexedLevel": "UNKNOWN"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00035-1",
+      "revision": 1,
+      "sourceFingerprint": "d0bbb7ed5712bddeb3479f198f1095f2f80e903dc9d48843eb61e07031e23645",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00036-1",
+      "revision": 1,
+      "sourceFingerprint": "0507a1c04154c966797fa04e8d59de642a3477b17f9b72d6a580faf88104ef66",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00036-2",
+      "revision": 1,
+      "sourceFingerprint": "aa6b302b5fd747421437abdff3a8b71d99158884dc6999308f1852b56aa87daf",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00037-1",
+      "revision": 1,
+      "sourceFingerprint": "6715c339f25e2eaa183034918ab1f520a66c4aa4d980d04767d138a3e68aca92",
+      "tokensToReview": [
+        {
+          "text": "高",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "高",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "高",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "similar-structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00037-2",
+      "revision": 1,
+      "sourceFingerprint": "0e7457b1a7484389828ae7aebc323b956c641159ed1de9b5e7327ad1ea183a2b",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "word-order",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00039-1",
+      "revision": 1,
+      "sourceFingerprint": "04e4245e9e43d23b6fa9ea23f80fec2f53671701b99dc4fad5e84a6852c680cc",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00041-1",
+      "revision": 1,
+      "sourceFingerprint": "c76a6b9d87c14cf3c5416c10e6b869cef0fb5c974adb2323329ac45937164f4e",
+      "tokensToReview": [
+        {
+          "text": "打",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "打",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "fill-gap",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00041-2",
+      "revision": 1,
+      "sourceFingerprint": "ecfaea18e4849edf9ccab10a8d6b9857e70625cdd988ae741581137dea54a026",
+      "tokensToReview": [
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "次",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "word-order",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00044-1",
+      "revision": 1,
+      "sourceFingerprint": "b0a1c13cbad1a1509b312f3ba8ba4d16fb88290f0cb2d7457994d2d8775b7041",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00044-2",
+      "revision": 1,
+      "sourceFingerprint": "b939f6486c42a54bde46498398f7131b7464f3970b9c586c74e8acca6c95b8e5",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00049-1",
+      "revision": 1,
+      "sourceFingerprint": "aa91f5ebd543db81b48fb33930959b84d9e43bfb70a7a7bfae8bdb14f2ef5720",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "similar-structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00051-1",
+      "revision": 1,
+      "sourceFingerprint": "2a0ceaab9c772e02f817e2a7e3b6c9a085c8bbe63f6944d91ae1cf8e320a0485",
+      "tokensToReview": [
+        {
+          "text": "可爱",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "啊",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00054-1",
+      "revision": 1,
+      "sourceFingerprint": "94ad6699d2ea0f5ad9eefadd1d960aefba49041775f87a86ad2edcd899119b90",
+      "tokensToReview": [
+        {
+          "text": "着",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00059-1",
+      "revision": 1,
+      "sourceFingerprint": "993fb358a22587892eb5a5fc13bbe781dd63599a0851d767c834d08de5d80a88",
+      "tokensToReview": [
+        {
+          "text": "每",
+          "indexedLevel": "2"
+        },
+        {
+          "text": "以后",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "然后",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "然后",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "先",
+          "indexedLevel": "3"
+        },
+        {
+          "text": "每",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00059-2",
+      "revision": 1,
+      "sourceFingerprint": "ee2976573a60308ea884cb518fa235fd93996a094f60991a2f207df83957c130",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00061-1",
+      "revision": 1,
+      "sourceFingerprint": "98b9f7c3ab6f5daa408aaf468ac24ac85c2db3c5272046f72ac96c958e041fe9",
+      "tokensToReview": [
+        {
+          "text": "支",
+          "indexedLevel": "5"
+        },
+        {
+          "text": "笔",
+          "indexedLevel": "2"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "recognition",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00061-2",
+      "revision": 1,
+      "sourceFingerprint": "adaaaac39308af259d694f5896d8f9b0b67b3c566f3c0355f7c03ab7d269134a",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00066-1",
+      "revision": 1,
+      "sourceFingerprint": "78d0ed7ec458ff74139f1bcfbdb77fc277f7e1944ec2b33c839e050c6a056641",
+      "tokensToReview": [
+        {
+          "text": "厨房",
+          "indexedLevel": "4"
+        }
+      ],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "fill-gap",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00066-2",
+      "revision": 1,
+      "sourceFingerprint": "e99858116087a684d263a95a874e8f6bda16102f5be4ec21c558c6db7b4eb79e",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "context",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00068-1",
+      "revision": 1,
+      "sourceFingerprint": "9a3101817207134fc5a3dbf957eb5a44fa6d26ab4bbf21efffedd8fe2bc25e5c",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "similar-structure",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v9-hsk1-grammar-00068-2",
+      "revision": 1,
+      "sourceFingerprint": "d9cb6b231c6ed611323f36f21305449277a077c1f3ad6846314c244cbbdc1620",
+      "tokensToReview": [],
+      "pinyin": null,
+      "schema": "PASS",
+      "references": "PASS",
+      "answerStructure": "PASS",
+      "context": "word-order",
+      "semanticStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    }
+  ],
+  "nearDuplicates": [],
+  "technicalErrors": 0,
+  "humanApproved": 0
+}

@@ -1,0 +1,5 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const f='scripts/exam-browser-check.mjs';let s=await readFile(f,'utf8');s="import {runV9BrowserFlows} from './v9-browser-flows.mjs';\nif(process.argv.includes('--v9'))process.env.HSK_SCREENSHOT_ROOT='docs/screenshots/v9/after-'+(process.env.HSK_BROWSER_PATH?'edge':'chrome');\n"+s;
+s=s.replace("if(process.argv.includes('--v8-extra')){await runV8ExtraCaptures", "if(process.argv.includes('--v9')){await runV9BrowserFlows({rpc,evaluate,waitFor,click,navigate,screenshot});assert.equal(exceptions.length,0,JSON.stringify(exceptions));}else if(process.argv.includes('--v8-extra')){await runV8ExtraCaptures");
+s=s.replace("const suite=process.argv.includes('--v6-stress')?", "const suite=process.argv.includes('--v9')?'v9':process.argv.includes('--v6-stress')?");s=s.replace("(suite.startsWith('v6')?'data/reports/v6/':'data/reports/v5/')", "(suite==='v9'?'data/reports/v9/':suite.startsWith('v6')?'data/reports/v6/':'data/reports/v5/')");
+await writeFile(f,s);console.log('V9 browser journey wired; V8/legacy modes retained');

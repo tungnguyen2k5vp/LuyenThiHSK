@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-16T10:30:39.976Z",
+  "status": "PASS",
+  "assertions": 11,
+  "execution": "Frontend storage + fetch double. Offline/reconnect/503/replay op ID/conflict/SRS event retention/logout-login owner selection.",
+  "liveMultiDevice": "NOT_VERIFIED",
+  "multiTabAtomicCapture": "NOT_VERIFIED_LOCALSTORAGE_SHARED_QUEUE"
+}

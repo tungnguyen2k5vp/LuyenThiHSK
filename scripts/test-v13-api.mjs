@@ -1,0 +1,47 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile,mkdtemp,copyFile,readdir} from 'node:fs/promises';
+import {spawn} from 'node:child_process';
+import {createServer} from 'node:net';
+import {DatabaseSync} from 'node:sqlite';
+import path from 'node:path';
+import os from 'node:os';
+import {v13Signature,v13Validation} from '../shared/v13-content.mjs';
+import {digest} from '../shared/v5-quality.mjs';
+const baseline=JSON.parse(await readFile('data/reports/v13/baseline.json','utf8')),runtime=await mkdtemp(path.join(os.tmpdir(),'hsk-v13-api-'));await copyFile(path.join(baseline.backup,'hsk-content.sqlite'),path.join(runtime,'hsk-content.sqlite'));
+const socket=createServer();await new Promise(r=>socket.listen(0,'127.0.0.1',r));const port=socket.address().port;await new Promise(r=>socket.close(r));
+const child=spawn(process.execPath,['server/admin-server.mjs'],{env:{...process.env,HSK_API_PORT:String(port),HSK_RUNTIME_DIR:runtime,HSK_REVIEWERS_JSON:'[]',HSK_ENABLE_LOCAL_QWEN:'false',HSK_ENABLE_PAID_TTS:'false'},windowsHide:true,stdio:['ignore','ignore','pipe']});let stderr='',n=0;child.stderr.on('data',b=>stderr+=b);const check=f=>{f();n++;};
+try{
+ const deadline=Date.now()+20000;while(true){try{if((await fetch('http://127.0.0.1:'+port+'/api/health')).ok)break;}catch{}if(Date.now()>deadline||child.exitCode!==null)throw Error('API_START_FAILED '+stderr);await new Promise(r=>setTimeout(r,50));}
+ const token=(await readFile(path.join(runtime,'admin-access.txt'),'utf8')).trim().split(/\r?\n/).at(-1),url='http://127.0.0.1:'+port+'/api/',headers={Authorization:'Bearer '+token,'Content-Type':'application/json'},api=async(route,input)=>{const r=await fetch(url+'admin/'+route,{method:input?'POST':'GET',headers,body:input?JSON.stringify(input):undefined});return {status:r.status,data:await r.json()};};
+ const pendingBefore=(await api('v7/dashboard')).data.totalPending;let r=await api('v13/practice');check(()=>assert.equal(r.status,200));check(()=>assert.equal(r.data.wordDrafts.length,124));
+ r=await api('v13/stage',{batch:'VOCABULARY'});check(()=>assert.equal(r.data.planned,20));check(()=>assert.equal(r.data.changed,0));const planHash=r.data.planHash;
+ check(()=>assert.equal(r.status,200));
+ r=await api('v13/stage',{batch:'GRAMMAR'});check(()=>assert.equal(r.status,422));r=await api('v13/stage',{batch:'VOCABULARY',dryRun:'false'});check(()=>assert.equal(r.status,422));
+ r=await api('v13/stage',{batch:'VOCABULARY',dryRun:false,planHash:'stale'});check(()=>assert.equal(r.status,409));
+ const read=new DatabaseSync(path.join(runtime,'hsk-content.sqlite'),{readOnly:true}),before=read.prepare('SELECT COUNT(*) n FROM content').get().n;read.close();
+ r=await api('v13/stage',{batch:'VOCABULARY',dryRun:false,planHash});check(()=>assert.equal(r.status,200,JSON.stringify(r.data)));check(()=>assert.equal(r.data.added,20));check(()=>assert.equal(r.data.humanReviewed,0));
+ r=await api('v13/stage',{batch:'VOCABULARY'});check(()=>assert.equal(r.data.planned,0));r=await api('v13/stage',{batch:'VOCABULARY',dryRun:false,planHash:r.data.planHash});check(()=>assert.equal(r.data.added,0));
+ const backups=await readdir(path.join(runtime,'backups'));check(()=>assert.ok(backups.some(f=>f.startsWith('v13-vocabulary-'))));
+ const p=(await api('v13/practice')).data;check(()=>assert.equal(p.wordDrafts.length,144));check(()=>assert.equal(p.referenceWords.filter(w=>w.level==='2').length,200));check(()=>assert.equal(p.questions.length+p.grammarQuestions.length,246));check(()=>assert.equal(p.audioJobs.length,40));
+ const w=p.wordDrafts.find(w=>w.editorialRelease==='v13-hsk2');check(()=>assert.equal(v13Validation(w),true));check(()=>assert.equal(w.sourceType,'AI_GENERATED'));check(()=>assert.equal(w.reviewStatus,'NEEDS_REVIEW'));check(()=>assert.equal(w.humanReview.status,'BLOCKED_FOR_HUMAN_REVIEW'));
+ const canonical=p.referenceWords.find(x=>x.id===w.vocabularyPointId);check(()=>assert.equal(canonical.id,w.vocabularyPointId));check(()=>assert.equal(canonical.editorialId,w.id));
+ const legacy=(await api('v12/practice')).data;check(()=>assert.equal(legacy.wordDrafts.length,124));
+ r=await api('v13/quality');check(()=>assert.equal(r.data.vocabulary.filter(x=>x.flags.includes('MISSING_EXAMPLE')).length,56));check(()=>assert.equal(r.data.questionCount,246));
+ r=await api('content',{kind:'vocabulary',payload:{...w,meaningVi:'no CAS'}});check(()=>assert.equal(r.status,409));r=await api('content',{kind:'vocabulary',expectedRevision:w.revision,payload:{...w,editorialRelease:'untracked'}});check(()=>assert.equal(r.status,409));r=await api('content',{kind:'vocabulary',expectedRevision:w.revision,payload:{...w,sourceType:'OFFICIAL',sourceUrl:'https://www.chinesetest.cn/HSK'}});check(()=>assert.equal(r.status,409));
+ r=await api('v3/bulk',{ids:[w.id],changes:{level:'1'}});check(()=>assert.equal(r.status,409));
+ r=await api('content',{kind:'vocabulary',expectedRevision:w.revision,payload:{...w,lexicalScope:w.lexicalScope+' QA draft edit'}});check(()=>assert.equal(r.status,201,JSON.stringify(r.data)));const revised=r.data.record;check(()=>assert.equal(revised.revision,2));check(()=>assert.equal(revised.internalValidation.status,'INVALIDATED'));
+ r=await api('v13/practice');check(()=>assert.equal(r.data.wordDrafts.length,143));check(()=>assert.ok(!r.data.referenceWords.find(x=>x.id===w.vocabularyPointId).editorialId));
+ r=await api('v13/revalidate',{id:w.id,revision:2,contentSignature:v13Signature(w)});check(()=>assert.equal(r.status,409));r=await api('v13/revalidate',{id:w.id,revision:2,contentSignature:v13Signature(revised)});check(()=>assert.equal(r.status,200));check(()=>assert.equal(r.data.humanReviewed,false));
+ r=await api('v13/practice');check(()=>assert.equal(r.data.wordDrafts.length,144));
+ r=await api('status',{id:w.id,revision:2,status:'LANGUAGE_REVIEW',reviewed:true,reviewer:'fake',comment:'Not a real reviewer'});check(()=>assert.equal(r.status,403));
+ r=await api('status',{id:w.id,revision:2,status:'APPROVED',reviewed:true,reviewer:'fake',comment:'Not a real reviewer'});check(()=>assert.notEqual(r.status,200));
+ r=await api('v12/build',{kind:'full',mode:'PREVIEW',seed:'v13-gate'});check(()=>assert.equal(r.status,409));check(()=>assert.equal(r.data.readiness.counts.missingAudio,25));
+ r=await api('v13/build',{kind:'full',mode:'PRODUCTION',seed:'v13-bypass'});check(()=>assert.equal(r.status,404));
+ const unauth=await fetch(url+'admin/v13/practice');check(()=>assert.equal(unauth.status,401));const hostile=await fetch(url+'admin/v13/stage',{method:'POST',headers:{...headers,Origin:'https://attacker.invalid'},body:JSON.stringify({batch:'VOCABULARY'})});check(()=>assert.equal(hostile.status,403));
+ r=await api('v7/dashboard');check(()=>assert.equal(r.status,200));check(()=>assert.equal(r.data.totalPending,pendingBefore+20));
+ const work=(await api('v7/work?id='+w.id)).data,decision={id:w.id,revision:2,sourceFingerprint:work.sourceFingerprint,workVersion:work.workVersion,decision:'NOTED',notes:'QA ONLY: isolated note, not a language review'};
+ r=await api('v7/work',decision);check(()=>assert.equal(r.status,200));check(()=>assert.equal(r.data.humanApproval,false));r=await api('v7/work',decision);check(()=>assert.equal(r.status,409));
+ const db=new DatabaseSync(path.join(runtime,'hsk-content.sqlite'),{readOnly:true});check(()=>assert.equal(db.prepare('SELECT COUNT(*) n FROM content').get().n,before+21));check(()=>assert.equal(db.prepare("SELECT COUNT(*) n FROM content WHERE status IN ('PUBLISHED','APPROVED','LANGUAGE_REVIEW','HSK_LEVEL_REVIEW') AND json_extract(payload,'$.editorialRelease')='v13-hsk2'").get().n,0));
+ for(const old of baseline.records){const row=db.prepare('SELECT payload,status FROM content WHERE id=? AND revision=?').get(old.id,old.revision);check(()=>assert.equal(digest(row.payload),old.payloadHash));check(()=>assert.equal(row.status,old.status));}db.close();check(()=>assert.ok(!stderr.includes(token)));
+ await writeFile('data/reports/v13/api-tests.json',JSON.stringify({at:new Date().toISOString(),status:'PASS',checks:n,scope:'Disposable database from V13 backup; no main bank mutation or reviewer credentials',runtime,paidCalls:0},null,2));console.log('PASS V13 API '+n+' checks');
+}finally{child.kill();}

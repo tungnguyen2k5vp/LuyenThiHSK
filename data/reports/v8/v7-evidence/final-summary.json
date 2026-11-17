@@ -1,0 +1,94 @@
+{
+  "at": "2026-10-16T10:56:11.488Z",
+  "engineering": "PASS",
+  "sourceHash": "eff5cdfad4a6745537afdfd4366868e8e3dd3c6dbc63862ea12ca83263f9016a",
+  "counts": {
+    "vocabulary": {
+      "total": 300,
+      "draft": 0,
+      "needsReview": 300,
+      "internallyValidated": 300,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "grammar": {
+      "total": 68,
+      "draft": 0,
+      "needsReview": 68,
+      "internallyValidated": 68,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "questions": {
+      "total": 396,
+      "draft": 0,
+      "needsReview": 396,
+      "internallyValidated": 396,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "audio": {
+      "total": 80,
+      "draft": 0,
+      "needsReview": 80,
+      "internallyValidated": 80,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "templates": {
+      "total": 1,
+      "draft": 0,
+      "needsReview": 1,
+      "internallyValidated": 1,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "images": {
+      "total": 30,
+      "draft": 0,
+      "needsReview": 30,
+      "internallyValidated": 30,
+      "humanReviewed": 0,
+      "published": 0
+    },
+    "optionBanks": {
+      "total": 8,
+      "draft": 0,
+      "needsReview": 8,
+      "internallyValidated": 8,
+      "humanReviewed": 0,
+      "published": 0
+    }
+  },
+  "suitability": {
+    "EXAM_CANDIDATE": 80,
+    "GUIDED_PRACTICE": 130,
+    "INDEPENDENT_PRACTICE": 186
+  },
+  "flaggedQuestions": 199,
+  "questionsEdited": 0,
+  "lessonsEdited": 2,
+  "human": 0,
+  "published": 0,
+  "account": {
+    "configured": false,
+    "deployment": "NOT_CONFIGURED",
+    "guestAvailable": true,
+    "googleOAuth": "NOT_CONFIGURED",
+    "productionContent": "BLOCKED_FOR_HUMAN_REVIEW"
+  },
+  "release": "PRIVATE_BETA_CONTENT_PENDING_HUMAN_REVIEW",
+  "blockers": [
+    "BLOCKED_FOR_HUMAN_REVIEW: ngôn ngữ, pinyin, cấp, đáp án, ảnh và phát âm chưa có người duyệt chuyên môn",
+    "MEDIA_RIGHTS_BLOCKED: 80 giọng huayan synthetic chưa xác minh quyền phân phối production",
+    "EXAM_RULES_NOT_VERIFIED: quy tắc IBT, replay, điều hướng và điểm HSK chính thức",
+    "CLOUD_NOT_DEPLOYED: chưa cấu hình Supabase/PostgreSQL/SMTP/HTTPS/RLS runtime; đa thiết bị thật chưa kiểm",
+    "CLOUD_MULTI_TAB_CAPTURE_NOT_VERIFIED: capture queue dùng localStorage chia sẻ, chưa chứng minh tính nguyên tử giữa nhiều tab; phải khóa production cloud cho tới khi khắc phục/kiểm thử",
+    "PRODUCTION_EXAM_SECRECY_NOT_VERIFIED: adapter server grading mới được kiểm tra cô lập; private offline Preview còn answer keys ở client",
+    "ACCESSIBILITY_PARTIAL: chưa kiểm screen reader/Firefox/WebKit/mobile thật; không chứng nhận WCAG",
+    "HSK2_BLOCKED: chưa có question/audio bank; xung đột đánh số đáp án phần Viết; chưa đủ cơ sở mở mock"
+  ],
+  "suites": true,
+  "browser": true,
+  "performanceMeasured": true
+}

@@ -1,0 +1,666 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LuyenThiHSK question types v1",
+  "oneOf": [
+    {
+      "$ref": "#/$defs/multiple-choice"
+    },
+    {
+      "$ref": "#/$defs/true-false"
+    },
+    {
+      "$ref": "#/$defs/picture-choice"
+    },
+    {
+      "$ref": "#/$defs/picture-true-false"
+    },
+    {
+      "$ref": "#/$defs/matching"
+    },
+    {
+      "$ref": "#/$defs/shared-options"
+    },
+    {
+      "$ref": "#/$defs/short-passage"
+    },
+    {
+      "$ref": "#/$defs/dialogue"
+    },
+    {
+      "$ref": "#/$defs/fill-blank"
+    },
+    {
+      "$ref": "#/$defs/grammar-practice"
+    },
+    {
+      "$ref": "#/$defs/sentence-order"
+    },
+    {
+      "$ref": "#/$defs/short-answer"
+    },
+    {
+      "$ref": "#/$defs/speaking"
+    }
+  ],
+  "$defs": {
+    "multiple-choice": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "multiple-choice"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "true-false": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "true-false"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "picture-choice": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "picture-choice"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "picture-true-false": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "picture-true-false"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "matching": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "matching"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        },
+        "matching": {
+          "type": "object",
+          "required": [
+            "items",
+            "correct"
+          ],
+          "properties": {
+            "items": {
+              "type": "array",
+              "minItems": 2
+            },
+            "correct": {
+              "type": "object"
+            }
+          }
+        }
+      }
+    },
+    "shared-options": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus",
+        "optionBankId",
+        "optionBank"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "shared-options"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        },
+        "optionBankId": {
+          "type": "string"
+        },
+        "optionBank": {
+          "type": "object",
+          "required": [
+            "id",
+            "revision",
+            "options"
+          ]
+        }
+      }
+    },
+    "short-passage": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "short-passage"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "dialogue": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "dialogue"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "fill-blank": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "fill-blank"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "grammar-practice": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "grammar-practice"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "sentence-order": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "sentence-order"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "short-answer": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "short-answer"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "speaking": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "skill",
+        "promptZh",
+        "instruction",
+        "options",
+        "sourceType",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "const": "speaking"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "image": {
+                "$ref": "#/$defs/image"
+              }
+            }
+          }
+        }
+      }
+    },
+    "image": {
+      "type": "object",
+      "required": [
+        "assetId",
+        "src",
+        "altText",
+        "width",
+        "height"
+      ],
+      "properties": {
+        "assetId": {
+          "type": "string"
+        },
+        "src": {
+          "type": "string",
+          "pattern": "^/api/admin/v6/image/[a-z0-9-]+$"
+        },
+        "altText": {
+          "type": "string",
+          "minLength": 1
+        },
+        "width": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "height": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    }
+  }
+}

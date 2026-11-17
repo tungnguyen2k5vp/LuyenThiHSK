@@ -1,0 +1,6 @@
+{
+  "at": "2026-10-17T15:48:02.062Z",
+  "error": "Error: SyntaxError: missing ) after argument list\n    at evaluate (file:///D:/ReactJS/LuyenThiHSK/scripts/exam-browser-check.mjs:42:165)\n    at async runV10BrowserFlows (file:///D:/ReactJS/LuyenThiHSK/scripts/v10-browser-flows.mjs:13:283)\n    at async file:///D:/ReactJS/LuyenThiHSK/scripts/exam-browser-check.mjs:58:37",
+  "exceptions": [],
+  "consoleErrors": []
+}

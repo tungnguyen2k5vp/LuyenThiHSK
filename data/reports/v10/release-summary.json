@@ -1,0 +1,36 @@
+{
+  "at": "2026-10-18T02:25:25.435Z",
+  "total": 1123,
+  "workflow": {
+    "draft": 5,
+    "needsReview": 1118,
+    "internallyValidated": 1123,
+    "humanReviewed": 0,
+    "published": 0
+  },
+  "hsk1Questions": 435,
+  "hsk2Questions": 152,
+  "hsk2PartQuestions": 116,
+  "hsk2PlayablePart": 76,
+  "hsk2GrammarPractice": 36,
+  "hsk2PlayableAll": 112,
+  "grammarLessons": 12,
+  "vocabularyEnriched": 20,
+  "audioJobs": 40,
+  "usableAudio": 0,
+  "fullMock": "NOT_READY",
+  "reviewPackage": 1123,
+  "qa": {
+    "regression": 27,
+    "browser": 10,
+    "repeatedUnitApi": 20,
+    "repeatedBrowser": 20
+  },
+  "blockers": [
+    "HUMAN_REVIEW",
+    "MEDIA_RIGHTS",
+    "HSK2_USABLE_AUDIO",
+    "LIVE_CLOUD_NOT_VERIFIED"
+  ],
+  "publicProduction": false
+}

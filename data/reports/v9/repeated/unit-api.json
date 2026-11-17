@@ -1,0 +1,127 @@
+{
+  "at": "2026-10-16T17:06:11.119Z",
+  "results": [
+    {
+      "name": "unit",
+      "run": 1,
+      "status": "PASS",
+      "durationMs": 10521
+    },
+    {
+      "name": "unit",
+      "run": 2,
+      "status": "PASS",
+      "durationMs": 11234
+    },
+    {
+      "name": "unit",
+      "run": 3,
+      "status": "PASS",
+      "durationMs": 11266
+    },
+    {
+      "name": "unit",
+      "run": 4,
+      "status": "PASS",
+      "durationMs": 13293
+    },
+    {
+      "name": "unit",
+      "run": 5,
+      "status": "PASS",
+      "durationMs": 10607
+    },
+    {
+      "name": "unit",
+      "run": 6,
+      "status": "PASS",
+      "durationMs": 11211
+    },
+    {
+      "name": "unit",
+      "run": 7,
+      "status": "PASS",
+      "durationMs": 9494
+    },
+    {
+      "name": "unit",
+      "run": 8,
+      "status": "PASS",
+      "durationMs": 11071
+    },
+    {
+      "name": "unit",
+      "run": 9,
+      "status": "PASS",
+      "durationMs": 11395
+    },
+    {
+      "name": "unit",
+      "run": 10,
+      "status": "PASS",
+      "durationMs": 11830
+    },
+    {
+      "name": "api",
+      "run": 1,
+      "status": "PASS",
+      "durationMs": 969
+    },
+    {
+      "name": "api",
+      "run": 2,
+      "status": "PASS",
+      "durationMs": 997
+    },
+    {
+      "name": "api",
+      "run": 3,
+      "status": "PASS",
+      "durationMs": 1309
+    },
+    {
+      "name": "api",
+      "run": 4,
+      "status": "PASS",
+      "durationMs": 1363
+    },
+    {
+      "name": "api",
+      "run": 5,
+      "status": "PASS",
+      "durationMs": 1355
+    },
+    {
+      "name": "api",
+      "run": 6,
+      "status": "PASS",
+      "durationMs": 1054
+    },
+    {
+      "name": "api",
+      "run": 7,
+      "status": "PASS",
+      "durationMs": 1015
+    },
+    {
+      "name": "api",
+      "run": 8,
+      "status": "PASS",
+      "durationMs": 1408
+    },
+    {
+      "name": "api",
+      "run": 9,
+      "status": "PASS",
+      "durationMs": 1321
+    },
+    {
+      "name": "api",
+      "run": 10,
+      "status": "PASS",
+      "durationMs": 997
+    }
+  ],
+  "retries": 0,
+  "ci": "NOT_RUN_NO_CI_ENVIRONMENT"
+}

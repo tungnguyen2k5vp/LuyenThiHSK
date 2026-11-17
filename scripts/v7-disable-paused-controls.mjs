@@ -1,0 +1,7 @@
+import {readFile,writeFile} from 'node:fs/promises';let f='src/components/exam/ExamRoom.tsx',s=await readFile(f,'utf8');
+s=s.replace('<QuestionTypeRenderer question={question} answer={answer} onAnswer={setAnswer}/>','<QuestionTypeRenderer question={question} answer={answer} onAnswer={setAnswer} readOnly={Boolean(state.audioPausedAt)}/>');
+s=s.replace("role=\"radio\" aria-checked={answer === option.id} onClick", "role=\"radio\" disabled={Boolean(state.audioPausedAt)} aria-checked={answer === option.id} onClick");
+s=s.replace('<textarea value={answer} maxLength={4000}', '<textarea disabled={Boolean(state.audioPausedAt)} value={answer} maxLength={4000}');
+s=s.replace('disabled={!canNavigate(', 'disabled={Boolean(state.audioPausedAt)||!canNavigate(');
+s=s.replace('<select className="part-jump"', '<select disabled={Boolean(state.audioPausedAt)} className="part-jump"');await writeFile(f,s);
+f='scripts/v7-browser-flows.mjs';s=await readFile(f,'utf8');s=s.replace("await navigate('view=content-review');await click('Mở hàng đợi duyệt');", "await navigate('view=content-review');await waitFor('document.querySelector(\".content-review input[type=password]\")');await click('Mở hàng đợi duyệt');");s=s.replace("assert.ok(paused.audioPausedAt);", "assert.ok(paused.audioPausedAt);assert.ok(await evaluate('[...document.querySelectorAll(\".room-question .exam-choice\")].every(b=>b.disabled)')); ");await writeFile(f,s);

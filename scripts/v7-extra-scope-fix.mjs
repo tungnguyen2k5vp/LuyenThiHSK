@@ -1,0 +1,1 @@
+import {readFile,writeFile} from 'node:fs/promises';const f='scripts/v7-extra-captures.mjs';let s=await readFile(f,'utf8');s=s.replaceAll("evaluate('const d=","evaluate('var d=");await writeFile(f,s);

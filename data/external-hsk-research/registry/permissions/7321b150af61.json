@@ -1,0 +1,8 @@
+{
+  "allowed": true,
+  "text": "Crawl-delay: 5\n\nUser-agent: *\nAllow: /\nCrawl-delay: 5\n\nUser-agent: rogerbot\nDisallow: /\n\nUser-agent: WebReaper\nDisallow: /\n\nUser-agent: NPBot\nDisallow: /\n\nUser-agent: BLEXBot\nDisallow: /",
+  "status": 200,
+  "url": "https://www.mdbg.net/robots.txt",
+  "sha256": "89907e2a63e88f31b6879ba374b3e58549aa49a498bdef9210bab4cb41ad7ef6",
+  "effectiveMinIntervalMs": 5000
+}

@@ -1,0 +1,2 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const p='scripts/export-v5-review.mjs';let s=await readFile(p,'utf8');s=s.replace("'sourceUrl','licenseStatus'","'sourceUrl','syllabusSourceUrl','sourcePage','licenseStatus'");s=s.replace('sourceUrl:r.sourceUrl,licenseStatus:',"sourceUrl:r.sourceUrl,syllabusSourceUrl:r.syllabusMapping?.sourceUrl??r.taxonomySourceUrl??'https://www.chinesetest.cn/syllabus',sourcePage:r.syllabusMapping?.sourcePage??r.sourcePage??'',licenseStatus:");await writeFile(p,s);

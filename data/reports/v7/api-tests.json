@@ -1,0 +1,18 @@
+{
+  "at": "2026-10-19T06:11:29.789Z",
+  "status": "PASS",
+  "assertions": 23,
+  "isolatedRuntime": true,
+  "reviewer": "TEST_FIXTURE_ONLY_NO_LIVE_APPROVALS",
+  "areas": [
+    "auth/origin",
+    "export",
+    "note CAS same revision",
+    "revision CAS",
+    "fingerprint",
+    "unauthorized reviewer rejected",
+    "authorized fixture staged decisions",
+    "atomic rejection",
+    "public remains empty"
+  ]
+}

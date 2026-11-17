@@ -1,0 +1,1 @@
+import {readFile,writeFile} from 'node:fs/promises';const p='scripts/v10-write-reports.mjs';let s=await readFile(p,'utf8');const at=s.indexOf("await writeFile('FINAL_IMPLEMENTATION_REPORT_V10.md'");if(at<0)throw Error('Missing root report');s=s.slice(0,at)+"await import('./v10-write-final.mjs');console.log('V10 reports written from current evidence');\n";await writeFile(p,s);

@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-16T06:15:21.671Z",
+  "level": "2",
+  "status": "DATA_ONLY",
+  "mappingStatus": "NEEDS_VERIFICATION",
+  "parts": [],
+  "words": 200,
+  "grammar": 71,
+  "hanzi": 125,
+  "questions": 0,
+  "audio": 0,
+  "note": "Incremental level2 records; vocabulary cumulative levels1+2=500. Do not copy HSK1 part structure.",
+  "officialSampleIndexEntry": "HSK/HSK（二级）样卷.pdf",
+  "source": "https://www.chinesetest.cn/syllabus"
+}

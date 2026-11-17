@@ -1,0 +1,175 @@
+{
+  "at": "2026-10-16T16:24:38.472Z",
+  "phase": "before",
+  "method": "20 direct server-side runs, fixed V8 baseline SQLite copy, real asset checksum validation; separate from full browser benchmark",
+  "samples": [
+    {
+      "releaseMs": 84.2948,
+      "validationMs": 116.3578,
+      "selectionMs": 25.486199999999997,
+      "totalMs": 226.1388,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 67.3827,
+      "validationMs": 105.28539999999998,
+      "selectionMs": 20.351300000000037,
+      "totalMs": 193.01940000000002,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 59.06909999999999,
+      "validationMs": 101.28809999999999,
+      "selectionMs": 21.13600000000008,
+      "totalMs": 181.49320000000006,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 68.82679999999993,
+      "validationMs": 88.31690000000003,
+      "selectionMs": 20.246399999999994,
+      "totalMs": 177.39009999999996,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 61.551900000000046,
+      "validationMs": 89.6810999999999,
+      "selectionMs": 19.953200000000038,
+      "totalMs": 171.18619999999999,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 76.73199999999997,
+      "validationMs": 127.62630000000013,
+      "selectionMs": 19.16689999999994,
+      "totalMs": 223.52520000000004,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 68.9665,
+      "validationMs": 94.2319,
+      "selectionMs": 17.31809999999996,
+      "totalMs": 180.51649999999995,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 59.49270000000001,
+      "validationMs": 80.25939999999991,
+      "selectionMs": 17.25579999999991,
+      "totalMs": 157.00789999999984,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 67.59809999999993,
+      "validationMs": 79.22500000000014,
+      "selectionMs": 16.958999999999833,
+      "totalMs": 163.7820999999999,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 59.10730000000012,
+      "validationMs": 89.88459999999986,
+      "selectionMs": 17.330000000000155,
+      "totalMs": 166.32190000000014,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 59.806100000000015,
+      "validationMs": 78.66789999999992,
+      "selectionMs": 20.022899999999936,
+      "totalMs": 158.49689999999987,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 73.67100000000028,
+      "validationMs": 77.93370000000004,
+      "selectionMs": 18.86389999999983,
+      "totalMs": 170.46860000000015,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 61.8752999999997,
+      "validationMs": 90.1576,
+      "selectionMs": 17.47569999999996,
+      "totalMs": 169.50859999999966,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 61.93849999999975,
+      "validationMs": 80.47520000000031,
+      "selectionMs": 17.790199999999913,
+      "totalMs": 160.20389999999998,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 69.1839,
+      "validationMs": 79.52019999999993,
+      "selectionMs": 18.146600000000035,
+      "totalMs": 166.85069999999996,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 61.61189999999988,
+      "validationMs": 79.69210000000021,
+      "selectionMs": 17.486499999999978,
+      "totalMs": 158.79050000000007,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 56.96189999999979,
+      "validationMs": 78.2532000000001,
+      "selectionMs": 17.647199999999884,
+      "totalMs": 152.86229999999978,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 66.84979999999996,
+      "validationMs": 79.85620000000017,
+      "selectionMs": 17.344100000000253,
+      "totalMs": 164.05010000000038,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 57.25590000000011,
+      "validationMs": 86.56439999999975,
+      "selectionMs": 17.82490000000007,
+      "totalMs": 161.64519999999993,
+      "releasePreparedStatements": 884
+    },
+    {
+      "releaseMs": 57.95839999999998,
+      "validationMs": 87.4417999999996,
+      "selectionMs": 18.381700000000365,
+      "totalMs": 163.78189999999995,
+      "releasePreparedStatements": 884
+    }
+  ],
+  "summary": {
+    "releaseMs": {
+      "n": 20,
+      "p50": 61.8752999999997,
+      "p95": 76.73199999999997
+    },
+    "validationMs": {
+      "n": 20,
+      "p50": 86.56439999999975,
+      "p95": 116.3578
+    },
+    "selectionMs": {
+      "n": 20,
+      "p50": 17.82490000000007,
+      "p95": 21.13600000000008
+    },
+    "totalMs": {
+      "n": 20,
+      "p50": 166.32190000000014,
+      "p95": 223.52520000000004
+    },
+    "releasePreparedStatements": {
+      "n": 20,
+      "p50": 884,
+      "p95": 884
+    }
+  },
+  "mutatedLiveDatabase": false
+}

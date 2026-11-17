@@ -1,0 +1,1750 @@
+{
+  "at": "2026-10-16T15:45:31.505Z",
+  "before": [
+    {
+      "id": "v4-lesson-00001",
+      "revision": 3,
+      "title": "Tiền tố 小 và 第",
+      "pattern": "小 + tên; 第 + số",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00001"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00002",
+      "revision": 3,
+      "title": "Hậu tố 们 và 边",
+      "pattern": "đại từ người + 们; phương hướng + 边",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00002"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00003",
+      "revision": 3,
+      "title": "Từ chỉ vị trí",
+      "pattern": "danh từ + 上/下/里/外/前/后",
+      "related": 10,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00004",
+      "revision": 3,
+      "title": "会 và 能",
+      "pattern": "chủ ngữ + 会/能 + động từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00005",
+      "revision": 3,
+      "title": "想 và 要",
+      "pattern": "chủ ngữ + 想/要 + động từ",
+      "related": 11,
+      "independentWithoutExampleOverlap": 10,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00006",
+      "revision": 4,
+      "title": "可以 xin phép",
+      "pattern": "chủ ngữ + 可以 + động từ",
+      "related": 9,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00007",
+      "revision": 3,
+      "title": "Động từ ly hợp",
+      "pattern": "động từ + thành tố danh từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [
+        "v4-gq-00007"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00008",
+      "revision": 3,
+      "title": "Từ nghi vấn",
+      "pattern": "ai/cái gì/ở đâu ở vị trí thông tin cần hỏi",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00008"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00009",
+      "revision": 3,
+      "title": "Đại từ nhân xưng",
+      "pattern": "我/你/他/她/它 + vị ngữ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00010",
+      "revision": 3,
+      "title": "Đại từ chỉ định",
+      "pattern": "这/那 + lượng từ + danh từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00011",
+      "revision": 3,
+      "title": "Số đếm và 二/两",
+      "pattern": "số + lượng từ + danh từ",
+      "related": 11,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00012",
+      "revision": 4,
+      "title": "Lượng từ danh từ",
+      "pattern": "số + lượng từ + danh từ",
+      "related": 16,
+      "independentWithoutExampleOverlap": 10,
+      "exampleOverlap": [
+        "v4-gq-00012"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00013",
+      "revision": 3,
+      "title": "杯 làm lượng từ",
+      "pattern": "số + 杯 + đồ uống",
+      "related": 7,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00014",
+      "revision": 3,
+      "title": "Đơn vị thời gian và tuổi",
+      "pattern": "số + 年/月/日/号/岁/点/分",
+      "related": 11,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [
+        "v4-gq-00014"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00015",
+      "revision": 3,
+      "title": "Phó từ mức độ",
+      "pattern": "很/非常/太/真 + tính từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00016",
+      "revision": 3,
+      "title": "都 diễn đạt toàn bộ",
+      "pattern": "phạm vi nhiều + 都 + vị ngữ",
+      "related": 10,
+      "independentWithoutExampleOverlap": 9,
+      "exampleOverlap": [
+        "v4-gq-00016"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00017",
+      "revision": 3,
+      "title": "在 và 正在 trước hành động",
+      "pattern": "chủ ngữ + 在/正在 + động từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00018",
+      "revision": 3,
+      "title": "再 diễn đạt làm thêm",
+      "pattern": "再 + động từ",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00018"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00019",
+      "revision": 3,
+      "title": "也 và 还",
+      "pattern": "chủ ngữ + 也/还 + vị ngữ",
+      "related": 14,
+      "independentWithoutExampleOverlap": 10,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00020",
+      "revision": 3,
+      "title": "不、没 và 不要",
+      "pattern": "不/没 + động từ; 不要 + hành động",
+      "related": 16,
+      "independentWithoutExampleOverlap": 15,
+      "exampleOverlap": [
+        "v4-gq-00020"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00021",
+      "revision": 3,
+      "title": "在 giới thiệu nơi hành động",
+      "pattern": "在 + nơi chốn + động từ",
+      "related": 15,
+      "independentWithoutExampleOverlap": 13,
+      "exampleOverlap": [
+        "v4-gq-00021"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00022",
+      "revision": 3,
+      "title": "和、对 giới thiệu đối tượng",
+      "pattern": "和 + người + động từ; 对 + người + tính từ",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00022"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00023",
+      "revision": 3,
+      "title": "和 nối danh từ",
+      "pattern": "danh từ A + 和 + danh từ B",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [
+        "v4-gq-00023"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00024",
+      "revision": 4,
+      "title": "的 và sở hữu",
+      "pattern": "người sở hữu + 的 + danh từ",
+      "related": 19,
+      "independentWithoutExampleOverlap": 13,
+      "exampleOverlap": [
+        "v4-gq-00024"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00025",
+      "revision": 3,
+      "title": "了 sau động từ",
+      "pattern": "động từ + 了 + tân ngữ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [
+        "v4-gq-00025"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00026",
+      "revision": 3,
+      "title": "Trợ từ cuối câu",
+      "pattern": "câu + 吗/呢/吧/了",
+      "related": 9,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [
+        "v4-gq-00026"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00027",
+      "revision": 3,
+      "title": "喂 khi gọi điện",
+      "pattern": "喂，+ lời chào",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00028",
+      "revision": 3,
+      "title": "Cụm đẳng lập",
+      "pattern": "A + 和 + B",
+      "related": 7,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [
+        "v4-gq-00028"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00029",
+      "revision": 3,
+      "title": "Cụm chính phụ",
+      "pattern": "thành phần bổ nghĩa + danh từ",
+      "related": 7,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00030",
+      "revision": 3,
+      "title": "Cụm động tân",
+      "pattern": "động từ + tân ngữ",
+      "related": 10,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00031",
+      "revision": 3,
+      "title": "Cụm chủ vị",
+      "pattern": "chủ thể + lời nói về chủ thể",
+      "related": 6,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00032",
+      "revision": 3,
+      "title": "Cụm số lượng",
+      "pattern": "số + lượng từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [
+        "v4-gq-00032"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00033",
+      "revision": 3,
+      "title": "Cụm giới tân",
+      "pattern": "giới từ + đối tượng",
+      "related": 7,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [
+        "v4-gq-00033"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00034",
+      "revision": 3,
+      "title": "Cụm phương vị",
+      "pattern": "vật làm mốc + phương vị",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [
+        "v4-gq-00034"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00035",
+      "revision": 3,
+      "title": "Danh từ làm chủ ngữ",
+      "pattern": "danh từ/đại từ + vị ngữ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00036",
+      "revision": 3,
+      "title": "Vị ngữ danh từ",
+      "pattern": "chủ ngữ + cụm danh từ chỉ ngày/tuổi",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00037",
+      "revision": 3,
+      "title": "Vị ngữ động từ và tính từ",
+      "pattern": "chủ ngữ + động từ; chủ ngữ + 很 + tính từ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00037"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00038",
+      "revision": 3,
+      "title": "Danh từ làm tân ngữ",
+      "pattern": "động từ + danh từ/đại từ",
+      "related": 7,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [
+        "v4-gq-00038"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00039",
+      "revision": 3,
+      "title": "Định ngữ trước danh từ",
+      "pattern": "mô tả/số lượng + danh từ",
+      "related": 7,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [
+        "v4-gq-00039"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00041",
+      "revision": 3,
+      "title": "Bổ ngữ động lượng",
+      "pattern": "động từ + số + 次",
+      "related": 6,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00041"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00042",
+      "revision": 3,
+      "title": "Câu vị ngữ động từ",
+      "pattern": "chủ ngữ + động từ + tân ngữ",
+      "related": 9,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [
+        "v4-gq-00042"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00043",
+      "revision": 3,
+      "title": "Câu vị ngữ tính từ",
+      "pattern": "chủ ngữ + 很 + tính từ",
+      "related": 10,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [
+        "v4-gq-00043"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00044",
+      "revision": 4,
+      "title": "Câu vị ngữ danh từ",
+      "pattern": "chủ ngữ + thời gian/tuổi",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00045",
+      "revision": 3,
+      "title": "Câu phi chủ vị",
+      "pattern": "lời gọi/lời đáp/cụm ngắn",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00046",
+      "revision": 3,
+      "title": "Câu trần thuật",
+      "pattern": "câu kể + dấu chấm",
+      "related": 21,
+      "independentWithoutExampleOverlap": 19,
+      "exampleOverlap": [
+        "v4-gq-00046"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00047",
+      "revision": 4,
+      "title": "Câu hỏi 吗",
+      "pattern": "câu trần thuật + 吗？",
+      "related": 14,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [
+        "v4-gq-00047"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00048",
+      "revision": 3,
+      "title": "Câu hỏi thông tin",
+      "pattern": "từ nghi vấn ở vị trí thông tin cần hỏi",
+      "related": 14,
+      "independentWithoutExampleOverlap": 11,
+      "exampleOverlap": [
+        "v4-gq-00048"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00049",
+      "revision": 3,
+      "title": "Câu hỏi chính phản",
+      "pattern": "động từ + 不 + động từ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [
+        "v4-gq-00049"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00050",
+      "revision": 3,
+      "title": "Câu cầu khiến",
+      "pattern": "请/不要 + hành động",
+      "related": 10,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00051",
+      "revision": 3,
+      "title": "Câu cảm thán",
+      "pattern": "太/真 + tính từ + 了/！",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00052",
+      "revision": 3,
+      "title": "是 diễn đạt đồng nhất",
+      "pattern": "A + 是 + B",
+      "related": 13,
+      "independentWithoutExampleOverlap": 9,
+      "exampleOverlap": [
+        "v4-gq-00052"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00053",
+      "revision": 4,
+      "title": "有 diễn đạt sở hữu",
+      "pattern": "người + 有 + vật",
+      "related": 15,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [
+        "v4-gq-00053"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00054",
+      "revision": 3,
+      "title": "是 xác định vật ở một vị trí",
+      "pattern": "nơi chốn + 是 + danh từ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00055",
+      "revision": 3,
+      "title": "有 giới thiệu vật ở nơi chốn",
+      "pattern": "nơi chốn + 有 + số lượng + danh từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [
+        "v4-gq-00055"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00056",
+      "revision": 3,
+      "title": "Liên động chỉ mục đích",
+      "pattern": "đi/đến + nơi + hành động",
+      "related": 10,
+      "independentWithoutExampleOverlap": 9,
+      "exampleOverlap": [
+        "v4-gq-00056"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00057",
+      "revision": 3,
+      "title": "Liên động chỉ phương thức",
+      "pattern": "đi bằng phương tiện + đi/đến nơi",
+      "related": 9,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [
+        "v4-gq-00057"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00058",
+      "revision": 3,
+      "title": "Câu hai tân ngữ",
+      "pattern": "người + 给 + người nhận + vật",
+      "related": 14,
+      "independentWithoutExampleOverlap": 12,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00059",
+      "revision": 3,
+      "title": "Câu ghép đẳng lập",
+      "pattern": "mệnh đề A，mệnh đề B",
+      "related": 7,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00060",
+      "revision": 3,
+      "title": "Câu ghép với 也",
+      "pattern": "mệnh đề A，chủ ngữ B + 也 + vị ngữ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [
+        "v4-gq-00060"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00061",
+      "revision": 3,
+      "title": "Câu ghép với 还",
+      "pattern": "mệnh đề A，chủ ngữ + 还 + vị ngữ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00061"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00062",
+      "revision": 3,
+      "title": "Hoàn tất hành động với 了",
+      "pattern": "động từ + 了 + lượng/tân ngữ",
+      "related": 10,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [
+        "v4-gq-00062"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00064",
+      "revision": 4,
+      "title": "Đang làm gì với 在/正在",
+      "pattern": "chủ ngữ + 正在 + động từ",
+      "related": 15,
+      "independentWithoutExampleOverlap": 9,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00065",
+      "revision": 3,
+      "title": "Tiếp diễn có 呢",
+      "pattern": "chủ ngữ + 在/正在 + động từ + 呢",
+      "related": 9,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00066",
+      "revision": 3,
+      "title": "呢 diễn đạt tiếp diễn",
+      "pattern": "chủ ngữ + động từ + 呢",
+      "related": 6,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00067",
+      "revision": 3,
+      "title": "Nói giá tiền",
+      "pattern": "số + 块/元 + 钱",
+      "related": 9,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00068",
+      "revision": 3,
+      "title": "Số thứ tự với 第",
+      "pattern": "第 + số (+ lượng từ) + danh từ",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00068"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00069",
+      "revision": 3,
+      "title": "Ngày tháng năm và thứ",
+      "pattern": "năm + 年 + tháng + 月 + ngày + 日/号",
+      "related": 10,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [
+        "v4-gq-00069"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00070",
+      "revision": 3,
+      "title": "Nói giờ đồng hồ",
+      "pattern": "số + 点 + số + 分",
+      "related": 12,
+      "independentWithoutExampleOverlap": 10,
+      "exampleOverlap": [
+        "v4-gq-00070"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    }
+  ],
+  "after": [
+    {
+      "id": "v4-lesson-00001",
+      "revision": 3,
+      "title": "Tiền tố 小 và 第",
+      "pattern": "小 + tên; 第 + số",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [
+        "v4-gq-00001"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00002",
+      "revision": 3,
+      "title": "Hậu tố 们 và 边",
+      "pattern": "đại từ người + 们; phương hướng + 边",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [
+        "v4-gq-00002"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00003",
+      "revision": 3,
+      "title": "Từ chỉ vị trí",
+      "pattern": "danh từ + 上/下/里/外/前/后",
+      "related": 10,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00004",
+      "revision": 3,
+      "title": "会 và 能",
+      "pattern": "chủ ngữ + 会/能 + động từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00005",
+      "revision": 3,
+      "title": "想 và 要",
+      "pattern": "chủ ngữ + 想/要 + động từ",
+      "related": 11,
+      "independentWithoutExampleOverlap": 10,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00006",
+      "revision": 4,
+      "title": "可以 xin phép",
+      "pattern": "chủ ngữ + 可以 + động từ",
+      "related": 9,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00007",
+      "revision": 3,
+      "title": "Động từ ly hợp",
+      "pattern": "động từ + thành tố danh từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [
+        "v4-gq-00007"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00008",
+      "revision": 3,
+      "title": "Từ nghi vấn",
+      "pattern": "ai/cái gì/ở đâu ở vị trí thông tin cần hỏi",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [
+        "v4-gq-00008"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00009",
+      "revision": 3,
+      "title": "Đại từ nhân xưng",
+      "pattern": "我/你/他/她/它 + vị ngữ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00010",
+      "revision": 3,
+      "title": "Đại từ chỉ định",
+      "pattern": "这/那 + lượng từ + danh từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00011",
+      "revision": 3,
+      "title": "Số đếm và 二/两",
+      "pattern": "số + lượng từ + danh từ",
+      "related": 11,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00012",
+      "revision": 4,
+      "title": "Lượng từ danh từ",
+      "pattern": "số + lượng từ + danh từ",
+      "related": 16,
+      "independentWithoutExampleOverlap": 10,
+      "exampleOverlap": [
+        "v4-gq-00012"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00013",
+      "revision": 3,
+      "title": "杯 làm lượng từ",
+      "pattern": "số + 杯 + đồ uống",
+      "related": 7,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00014",
+      "revision": 3,
+      "title": "Đơn vị thời gian và tuổi",
+      "pattern": "số + 年/月/日/号/岁/点/分",
+      "related": 11,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [
+        "v4-gq-00014"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00015",
+      "revision": 3,
+      "title": "Phó từ mức độ",
+      "pattern": "很/非常/太/真 + tính từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00016",
+      "revision": 3,
+      "title": "都 diễn đạt toàn bộ",
+      "pattern": "phạm vi nhiều + 都 + vị ngữ",
+      "related": 10,
+      "independentWithoutExampleOverlap": 9,
+      "exampleOverlap": [
+        "v4-gq-00016"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00017",
+      "revision": 3,
+      "title": "在 và 正在 trước hành động",
+      "pattern": "chủ ngữ + 在/正在 + động từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00018",
+      "revision": 3,
+      "title": "再 diễn đạt làm thêm",
+      "pattern": "再 + động từ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [
+        "v4-gq-00018"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00019",
+      "revision": 3,
+      "title": "也 và 还",
+      "pattern": "chủ ngữ + 也/还 + vị ngữ",
+      "related": 14,
+      "independentWithoutExampleOverlap": 10,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00020",
+      "revision": 3,
+      "title": "不、没 và 不要",
+      "pattern": "不/没 + động từ; 不要 + hành động",
+      "related": 16,
+      "independentWithoutExampleOverlap": 15,
+      "exampleOverlap": [
+        "v4-gq-00020"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00021",
+      "revision": 3,
+      "title": "在 giới thiệu nơi hành động",
+      "pattern": "在 + nơi chốn + động từ",
+      "related": 15,
+      "independentWithoutExampleOverlap": 13,
+      "exampleOverlap": [
+        "v4-gq-00021"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00022",
+      "revision": 3,
+      "title": "和、对 giới thiệu đối tượng",
+      "pattern": "和 + người + động từ; 对 + người + tính từ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [
+        "v4-gq-00022"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00023",
+      "revision": 3,
+      "title": "和 nối danh từ",
+      "pattern": "danh từ A + 和 + danh từ B",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [
+        "v4-gq-00023"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00024",
+      "revision": 4,
+      "title": "的 và sở hữu",
+      "pattern": "người sở hữu + 的 + danh từ",
+      "related": 19,
+      "independentWithoutExampleOverlap": 13,
+      "exampleOverlap": [
+        "v4-gq-00024"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00025",
+      "revision": 3,
+      "title": "了 sau động từ",
+      "pattern": "động từ + 了 + tân ngữ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [
+        "v4-gq-00025"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00026",
+      "revision": 3,
+      "title": "Trợ từ cuối câu",
+      "pattern": "câu + 吗/呢/吧/了",
+      "related": 9,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [
+        "v4-gq-00026"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00027",
+      "revision": 3,
+      "title": "喂 khi gọi điện",
+      "pattern": "喂，+ lời chào",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00028",
+      "revision": 3,
+      "title": "Cụm đẳng lập",
+      "pattern": "A + 和 + B",
+      "related": 7,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [
+        "v4-gq-00028"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00029",
+      "revision": 3,
+      "title": "Cụm chính phụ",
+      "pattern": "thành phần bổ nghĩa + danh từ",
+      "related": 7,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00030",
+      "revision": 3,
+      "title": "Cụm động tân",
+      "pattern": "động từ + tân ngữ",
+      "related": 10,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00031",
+      "revision": 3,
+      "title": "Cụm chủ vị",
+      "pattern": "chủ thể + lời nói về chủ thể",
+      "related": 6,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00032",
+      "revision": 3,
+      "title": "Cụm số lượng",
+      "pattern": "số + lượng từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [
+        "v4-gq-00032"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00033",
+      "revision": 3,
+      "title": "Cụm giới tân",
+      "pattern": "giới từ + đối tượng",
+      "related": 7,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [
+        "v4-gq-00033"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00034",
+      "revision": 3,
+      "title": "Cụm phương vị",
+      "pattern": "vật làm mốc + phương vị",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [
+        "v4-gq-00034"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00035",
+      "revision": 3,
+      "title": "Danh từ làm chủ ngữ",
+      "pattern": "danh từ/đại từ + vị ngữ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00036",
+      "revision": 3,
+      "title": "Vị ngữ danh từ",
+      "pattern": "chủ ngữ + cụm danh từ chỉ ngày/tuổi",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00037",
+      "revision": 3,
+      "title": "Vị ngữ động từ và tính từ",
+      "pattern": "chủ ngữ + động từ; chủ ngữ + 很 + tính từ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00037"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00038",
+      "revision": 3,
+      "title": "Danh từ làm tân ngữ",
+      "pattern": "động từ + danh từ/đại từ",
+      "related": 7,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [
+        "v4-gq-00038"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00039",
+      "revision": 3,
+      "title": "Định ngữ trước danh từ",
+      "pattern": "mô tả/số lượng + danh từ",
+      "related": 7,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [
+        "v4-gq-00039"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00041",
+      "revision": 3,
+      "title": "Bổ ngữ động lượng",
+      "pattern": "động từ + số + 次",
+      "related": 6,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00041"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00042",
+      "revision": 3,
+      "title": "Câu vị ngữ động từ",
+      "pattern": "chủ ngữ + động từ + tân ngữ",
+      "related": 9,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [
+        "v4-gq-00042"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00043",
+      "revision": 3,
+      "title": "Câu vị ngữ tính từ",
+      "pattern": "chủ ngữ + 很 + tính từ",
+      "related": 10,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [
+        "v4-gq-00043"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00044",
+      "revision": 4,
+      "title": "Câu vị ngữ danh từ",
+      "pattern": "chủ ngữ + thời gian/tuổi",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00045",
+      "revision": 3,
+      "title": "Câu phi chủ vị",
+      "pattern": "lời gọi/lời đáp/cụm ngắn",
+      "related": 8,
+      "independentWithoutExampleOverlap": 5,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00046",
+      "revision": 3,
+      "title": "Câu trần thuật",
+      "pattern": "câu kể + dấu chấm",
+      "related": 21,
+      "independentWithoutExampleOverlap": 19,
+      "exampleOverlap": [
+        "v4-gq-00046"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00047",
+      "revision": 4,
+      "title": "Câu hỏi 吗",
+      "pattern": "câu trần thuật + 吗？",
+      "related": 14,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [
+        "v4-gq-00047"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00048",
+      "revision": 3,
+      "title": "Câu hỏi thông tin",
+      "pattern": "từ nghi vấn ở vị trí thông tin cần hỏi",
+      "related": 14,
+      "independentWithoutExampleOverlap": 11,
+      "exampleOverlap": [
+        "v4-gq-00048"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00049",
+      "revision": 3,
+      "title": "Câu hỏi chính phản",
+      "pattern": "động từ + 不 + động từ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [
+        "v4-gq-00049"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00050",
+      "revision": 3,
+      "title": "Câu cầu khiến",
+      "pattern": "请/不要 + hành động",
+      "related": 10,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00051",
+      "revision": 3,
+      "title": "Câu cảm thán",
+      "pattern": "太/真 + tính từ + 了/！",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00052",
+      "revision": 3,
+      "title": "是 diễn đạt đồng nhất",
+      "pattern": "A + 是 + B",
+      "related": 13,
+      "independentWithoutExampleOverlap": 9,
+      "exampleOverlap": [
+        "v4-gq-00052"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00053",
+      "revision": 4,
+      "title": "有 diễn đạt sở hữu",
+      "pattern": "người + 有 + vật",
+      "related": 15,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [
+        "v4-gq-00053"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00054",
+      "revision": 3,
+      "title": "是 xác định vật ở một vị trí",
+      "pattern": "nơi chốn + 是 + danh từ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 4,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00055",
+      "revision": 3,
+      "title": "有 giới thiệu vật ở nơi chốn",
+      "pattern": "nơi chốn + 有 + số lượng + danh từ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [
+        "v4-gq-00055"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00056",
+      "revision": 3,
+      "title": "Liên động chỉ mục đích",
+      "pattern": "đi/đến + nơi + hành động",
+      "related": 10,
+      "independentWithoutExampleOverlap": 9,
+      "exampleOverlap": [
+        "v4-gq-00056"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00057",
+      "revision": 3,
+      "title": "Liên động chỉ phương thức",
+      "pattern": "đi bằng phương tiện + đi/đến nơi",
+      "related": 9,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [
+        "v4-gq-00057"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00058",
+      "revision": 3,
+      "title": "Câu hai tân ngữ",
+      "pattern": "người + 给 + người nhận + vật",
+      "related": 14,
+      "independentWithoutExampleOverlap": 12,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00059",
+      "revision": 3,
+      "title": "Câu ghép đẳng lập",
+      "pattern": "mệnh đề A，mệnh đề B",
+      "related": 7,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00060",
+      "revision": 3,
+      "title": "Câu ghép với 也",
+      "pattern": "mệnh đề A，chủ ngữ B + 也 + vị ngữ",
+      "related": 8,
+      "independentWithoutExampleOverlap": 6,
+      "exampleOverlap": [
+        "v4-gq-00060"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00061",
+      "revision": 3,
+      "title": "Câu ghép với 还",
+      "pattern": "mệnh đề A，chủ ngữ + 还 + vị ngữ",
+      "related": 6,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00061"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00062",
+      "revision": 3,
+      "title": "Hoàn tất hành động với 了",
+      "pattern": "động từ + 了 + lượng/tân ngữ",
+      "related": 10,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [
+        "v4-gq-00062"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00064",
+      "revision": 4,
+      "title": "Đang làm gì với 在/正在",
+      "pattern": "chủ ngữ + 正在 + động từ",
+      "related": 15,
+      "independentWithoutExampleOverlap": 9,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00065",
+      "revision": 3,
+      "title": "Tiếp diễn có 呢",
+      "pattern": "chủ ngữ + 在/正在 + động từ + 呢",
+      "related": 9,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00066",
+      "revision": 3,
+      "title": "呢 diễn đạt tiếp diễn",
+      "pattern": "chủ ngữ + động từ + 呢",
+      "related": 6,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00067",
+      "revision": 3,
+      "title": "Nói giá tiền",
+      "pattern": "số + 块/元 + 钱",
+      "related": 9,
+      "independentWithoutExampleOverlap": 7,
+      "exampleOverlap": [],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00068",
+      "revision": 3,
+      "title": "Số thứ tự với 第",
+      "pattern": "第 + số (+ lượng từ) + danh từ",
+      "related": 5,
+      "independentWithoutExampleOverlap": 3,
+      "exampleOverlap": [
+        "v4-gq-00068"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00069",
+      "revision": 3,
+      "title": "Ngày tháng năm và thứ",
+      "pattern": "năm + 年 + tháng + 月 + ngày + 日/号",
+      "related": 10,
+      "independentWithoutExampleOverlap": 8,
+      "exampleOverlap": [
+        "v4-gq-00069"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    },
+    {
+      "id": "v4-lesson-00070",
+      "revision": 3,
+      "title": "Nói giờ đồng hồ",
+      "pattern": "số + 点 + số + 分",
+      "related": 12,
+      "independentWithoutExampleOverlap": 10,
+      "exampleOverlap": [
+        "v4-gq-00070"
+      ],
+      "missing": [],
+      "expertStatus": "BLOCKED_FOR_HUMAN_REVIEW"
+    }
+  ],
+  "additions": [
+    {
+      "id": "v8-hsk1-grammar-00001",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00001"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v8-hsk1-grammar-00002",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00002"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v8-hsk1-grammar-00008",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00008"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v8-hsk1-grammar-00018",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00018"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v8-hsk1-grammar-00022",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00022"
+      ],
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "id": "v8-hsk1-grammar-00027",
+      "grammarIds": [
+        "HSK30-2025-GRA-HSK1-00027"
+      ],
+      "status": "NEEDS_REVIEW"
+    }
+  ],
+  "overlapAfter": [
+    "v4-gq-00001",
+    "v4-gq-00002",
+    "v4-gq-00007",
+    "v4-gq-00008",
+    "v4-gq-00012",
+    "v4-gq-00014",
+    "v4-gq-00016",
+    "v4-gq-00018",
+    "v4-gq-00020",
+    "v4-gq-00021",
+    "v4-gq-00022",
+    "v4-gq-00023",
+    "v4-gq-00024",
+    "v4-gq-00025",
+    "v4-gq-00026",
+    "v4-gq-00028",
+    "v4-gq-00032",
+    "v4-gq-00033",
+    "v4-gq-00034",
+    "v4-gq-00037",
+    "v4-gq-00038",
+    "v4-gq-00039",
+    "v4-gq-00041",
+    "v4-gq-00042",
+    "v4-gq-00043",
+    "v4-gq-00046",
+    "v4-gq-00047",
+    "v4-gq-00048",
+    "v4-gq-00049",
+    "v4-gq-00052",
+    "v4-gq-00053",
+    "v4-gq-00055",
+    "v4-gq-00056",
+    "v4-gq-00057",
+    "v4-gq-00060",
+    "v4-gq-00061",
+    "v4-gq-00062",
+    "v4-gq-00068",
+    "v4-gq-00069",
+    "v4-gq-00070"
+  ],
+  "note": "Independent here means unique IDs, not guided, no exact teaching-example overlap. It is not expert approval."
+}

@@ -1,0 +1,2043 @@
+{
+  "at": "2026-10-19T06:11:34.764Z",
+  "status": "PASS",
+  "assertions": 20,
+  "transport": "Actual loopback HTTP; QA authentication fixture only",
+  "durability": "Separate temporary SQLite; closed/reopened before idempotent replay",
+  "payloads": [
+    {
+      "route": "/start",
+      "body": {
+        "id": "1d6a0586947a4f303eb9df14ed0c4bf7d8af",
+        "nonce": "479229f0ef5b065e397586b438ed7943d860d61e6d927b0c",
+        "questions": [
+          {
+            "id": "v6-L1-6",
+            "revision": 3,
+            "type": "picture-choice",
+            "skill": "listening",
+            "partId": "L1",
+            "instruction": "Nghe và chọn hình phù hợp",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-train-c7243219bdaa",
+                  "src": "/api/admin/v6/image/v6-image-train-c7243219bdaa",
+                  "altText": "Một đoàn tàu chạy trên đường ray.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-chair-c29d3e2974d9",
+                  "src": "/api/admin/v6/image/v6-image-chair-c29d3e2974d9",
+                  "altText": "Một chiếc ghế có tựa lưng.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-table-6566c94ab34c",
+                  "src": "/api/admin/v6/image/v6-image-table-6566c94ab34c",
+                  "altText": "Một chiếc bàn bốn chân.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-72560e39241e2f6b5c4c6468"
+            }
+          },
+          {
+            "id": "v6-L1-4",
+            "revision": 3,
+            "type": "picture-choice",
+            "skill": "listening",
+            "partId": "L1",
+            "instruction": "Nghe và chọn hình phù hợp",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-book-df9916f87ab6",
+                  "src": "/api/admin/v6/image/v6-image-book-df9916f87ab6",
+                  "altText": "Một cuốn sách đang mở.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-shirt-01c71b00acfa",
+                  "src": "/api/admin/v6/image/v6-image-shirt-01c71b00acfa",
+                  "altText": "Một chiếc áo có tay.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-phone-b951537b3e3c",
+                  "src": "/api/admin/v6/image/v6-image-phone-b951537b3e3c",
+                  "altText": "Một chiếc điện thoại cầm tay.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-af4bde9d49ff0613d0c9f8c1"
+            }
+          },
+          {
+            "id": "v6-L1-10",
+            "revision": 3,
+            "type": "picture-choice",
+            "skill": "listening",
+            "partId": "L1",
+            "instruction": "Nghe và chọn hình phù hợp",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-dog-a7eec4c5a959",
+                  "src": "/api/admin/v6/image/v6-image-dog-a7eec4c5a959",
+                  "altText": "Một con chó có tai rủ.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-cat-ae5d67c7847b",
+                  "src": "/api/admin/v6/image/v6-image-cat-ae5d67c7847b",
+                  "altText": "Một con mèo có tai nhọn và ria mép.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-chair-c29d3e2974d9",
+                  "src": "/api/admin/v6/image/v6-image-chair-c29d3e2974d9",
+                  "altText": "Một chiếc ghế có tựa lưng.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-371520ca7f7853f61c5508c5"
+            }
+          },
+          {
+            "id": "v6-L1-8",
+            "revision": 3,
+            "type": "picture-choice",
+            "skill": "listening",
+            "partId": "L1",
+            "instruction": "Nghe và chọn hình phù hợp",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-bread-9bc75841206a",
+                  "src": "/api/admin/v6/image/v6-image-bread-9bc75841206a",
+                  "altText": "Một ổ bánh mì.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-rice-748e01963474",
+                  "src": "/api/admin/v6/image/v6-image-rice-748e01963474",
+                  "altText": "Một bát cơm có đũa.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-apple-0b7e884cce97",
+                  "src": "/api/admin/v6/image/v6-image-apple-0b7e884cce97",
+                  "altText": "Một quả táo có cuống và lá.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-8d40a64892bd110f7f89af63"
+            }
+          },
+          {
+            "id": "v6-L1-7",
+            "revision": 3,
+            "type": "picture-choice",
+            "skill": "listening",
+            "partId": "L1",
+            "instruction": "Nghe và chọn hình phù hợp",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-computer-8ea36c01d77e",
+                  "src": "/api/admin/v6/image/v6-image-computer-8ea36c01d77e",
+                  "altText": "Một máy tính có màn hình và bàn phím.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-phone-b951537b3e3c",
+                  "src": "/api/admin/v6/image/v6-image-phone-b951537b3e3c",
+                  "altText": "Một chiếc điện thoại cầm tay.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-book-df9916f87ab6",
+                  "src": "/api/admin/v6/image/v6-image-book-df9916f87ab6",
+                  "altText": "Một cuốn sách đang mở.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-b0c06f30b0e7e086da40ef7b"
+            }
+          },
+          {
+            "id": "v6-L2-8",
+            "revision": 3,
+            "type": "dialogue",
+            "skill": "listening",
+            "partId": "L2",
+            "instruction": "Nghe câu hỏi và chọn lời đáp",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "公司很大。"
+              },
+              {
+                "id": "B",
+                "text": "我在公司。"
+              },
+              {
+                "id": "C",
+                "text": "我坐出租车去。"
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-0499f70250ccf11996a79e7d"
+            }
+          },
+          {
+            "id": "v6-L2-5",
+            "revision": 3,
+            "type": "dialogue",
+            "skill": "listening",
+            "partId": "L2",
+            "instruction": "Nghe câu hỏi và chọn lời đáp",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "在商店。"
+              },
+              {
+                "id": "B",
+                "text": "她很好看。"
+              },
+              {
+                "id": "C",
+                "text": "可以，请坐。"
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-a717fde949827c7a3915b8af"
+            }
+          },
+          {
+            "id": "v6-L2-1",
+            "revision": 3,
+            "type": "dialogue",
+            "skill": "listening",
+            "partId": "L2",
+            "instruction": "Nghe câu hỏi và chọn lời đáp",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "我在小学上学。"
+              },
+              {
+                "id": "B",
+                "text": "我六岁。"
+              },
+              {
+                "id": "C",
+                "text": "我喝水。"
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-a971a87918eeb9cf55e71130"
+            }
+          },
+          {
+            "id": "v6-L2-10",
+            "revision": 3,
+            "type": "dialogue",
+            "skill": "listening",
+            "partId": "L2",
+            "instruction": "Nghe câu hỏi và chọn lời đáp",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "不客气。"
+              },
+              {
+                "id": "B",
+                "text": "你好。"
+              },
+              {
+                "id": "C",
+                "text": "再见。"
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-6259df457076c030f5e0a452"
+            }
+          },
+          {
+            "id": "v6-L2-3",
+            "revision": 3,
+            "type": "dialogue",
+            "skill": "listening",
+            "partId": "L2",
+            "instruction": "Nghe câu hỏi và chọn lời đáp",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "他不是学生。"
+              },
+              {
+                "id": "B",
+                "text": "不贵，很便宜。"
+              },
+              {
+                "id": "C",
+                "text": "我不去。"
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-9f3b33fc1b18fd623b8e430f"
+            }
+          },
+          {
+            "id": "v6-L3-1",
+            "revision": 3,
+            "type": "matching",
+            "skill": "listening",
+            "partId": "L3",
+            "instruction": "Nghe hội thoại và ghép hình",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-sleeping-8190c7c819f6",
+                  "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+                  "altText": "Một người nằm ngủ trên giường.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-reading-2b4d2ae6b38c",
+                  "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+                  "altText": "Một người đang ngồi đọc sách.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-chair-c29d3e2974d9",
+                  "src": "/api/admin/v6/image/v6-image-chair-c29d3e2974d9",
+                  "altText": "Một chiếc ghế có tựa lưng.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "D",
+                "text": "Hình D",
+                "image": {
+                  "assetId": "v6-image-drinking-f9fd9a88a84c",
+                  "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+                  "altText": "Một người đưa cốc lên miệng uống.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "E",
+                "text": "Hình E",
+                "image": {
+                  "assetId": "v6-image-cooking-ecdb34052249",
+                  "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+                  "altText": "Một người đang nấu ăn bên bếp.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "F",
+                "text": "Hình F",
+                "image": {
+                  "assetId": "v6-image-calling-a391e185d990",
+                  "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+                  "altText": "Một người cầm điện thoại cạnh tai.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-5285413559ee366b040a6839"
+            }
+          },
+          {
+            "id": "v6-L3-2",
+            "revision": 3,
+            "type": "matching",
+            "skill": "listening",
+            "partId": "L3",
+            "instruction": "Nghe hội thoại và ghép hình",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-sleeping-8190c7c819f6",
+                  "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+                  "altText": "Một người nằm ngủ trên giường.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-reading-2b4d2ae6b38c",
+                  "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+                  "altText": "Một người đang ngồi đọc sách.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-chair-c29d3e2974d9",
+                  "src": "/api/admin/v6/image/v6-image-chair-c29d3e2974d9",
+                  "altText": "Một chiếc ghế có tựa lưng.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "D",
+                "text": "Hình D",
+                "image": {
+                  "assetId": "v6-image-drinking-f9fd9a88a84c",
+                  "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+                  "altText": "Một người đưa cốc lên miệng uống.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "E",
+                "text": "Hình E",
+                "image": {
+                  "assetId": "v6-image-cooking-ecdb34052249",
+                  "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+                  "altText": "Một người đang nấu ăn bên bếp.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "F",
+                "text": "Hình F",
+                "image": {
+                  "assetId": "v6-image-calling-a391e185d990",
+                  "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+                  "altText": "Một người cầm điện thoại cạnh tai.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-a378cd2ca95ecb246706d6b7"
+            }
+          },
+          {
+            "id": "v6-L3-3",
+            "revision": 3,
+            "type": "matching",
+            "skill": "listening",
+            "partId": "L3",
+            "instruction": "Nghe hội thoại và ghép hình",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-sleeping-8190c7c819f6",
+                  "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+                  "altText": "Một người nằm ngủ trên giường.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-reading-2b4d2ae6b38c",
+                  "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+                  "altText": "Một người đang ngồi đọc sách.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-chair-c29d3e2974d9",
+                  "src": "/api/admin/v6/image/v6-image-chair-c29d3e2974d9",
+                  "altText": "Một chiếc ghế có tựa lưng.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "D",
+                "text": "Hình D",
+                "image": {
+                  "assetId": "v6-image-drinking-f9fd9a88a84c",
+                  "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+                  "altText": "Một người đưa cốc lên miệng uống.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "E",
+                "text": "Hình E",
+                "image": {
+                  "assetId": "v6-image-cooking-ecdb34052249",
+                  "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+                  "altText": "Một người đang nấu ăn bên bếp.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "F",
+                "text": "Hình F",
+                "image": {
+                  "assetId": "v6-image-calling-a391e185d990",
+                  "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+                  "altText": "Một người cầm điện thoại cạnh tai.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-a1cc6597c294e031a742ad55"
+            }
+          },
+          {
+            "id": "v6-L3-4",
+            "revision": 3,
+            "type": "matching",
+            "skill": "listening",
+            "partId": "L3",
+            "instruction": "Nghe hội thoại và ghép hình",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-sleeping-8190c7c819f6",
+                  "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+                  "altText": "Một người nằm ngủ trên giường.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-reading-2b4d2ae6b38c",
+                  "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+                  "altText": "Một người đang ngồi đọc sách.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-chair-c29d3e2974d9",
+                  "src": "/api/admin/v6/image/v6-image-chair-c29d3e2974d9",
+                  "altText": "Một chiếc ghế có tựa lưng.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "D",
+                "text": "Hình D",
+                "image": {
+                  "assetId": "v6-image-drinking-f9fd9a88a84c",
+                  "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+                  "altText": "Một người đưa cốc lên miệng uống.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "E",
+                "text": "Hình E",
+                "image": {
+                  "assetId": "v6-image-cooking-ecdb34052249",
+                  "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+                  "altText": "Một người đang nấu ăn bên bếp.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "F",
+                "text": "Hình F",
+                "image": {
+                  "assetId": "v6-image-calling-a391e185d990",
+                  "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+                  "altText": "Một người cầm điện thoại cạnh tai.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-6ab7c48e9198d019c77de0aa"
+            }
+          },
+          {
+            "id": "v6-L3-5",
+            "revision": 3,
+            "type": "matching",
+            "skill": "listening",
+            "partId": "L3",
+            "instruction": "Nghe hội thoại và ghép hình",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-sleeping-8190c7c819f6",
+                  "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+                  "altText": "Một người nằm ngủ trên giường.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-reading-2b4d2ae6b38c",
+                  "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+                  "altText": "Một người đang ngồi đọc sách.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-chair-c29d3e2974d9",
+                  "src": "/api/admin/v6/image/v6-image-chair-c29d3e2974d9",
+                  "altText": "Một chiếc ghế có tựa lưng.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "D",
+                "text": "Hình D",
+                "image": {
+                  "assetId": "v6-image-drinking-f9fd9a88a84c",
+                  "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+                  "altText": "Một người đưa cốc lên miệng uống.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "E",
+                "text": "Hình E",
+                "image": {
+                  "assetId": "v6-image-cooking-ecdb34052249",
+                  "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+                  "altText": "Một người đang nấu ăn bên bếp.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "F",
+                "text": "Hình F",
+                "image": {
+                  "assetId": "v6-image-calling-a391e185d990",
+                  "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+                  "altText": "Một người cầm điện thoại cạnh tai.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-214a49c7f17156d5643773e3"
+            }
+          },
+          {
+            "id": "v6-L4-10",
+            "revision": 3,
+            "type": "short-passage",
+            "skill": "listening",
+            "partId": "L4",
+            "instruction": "Nghe thông tin ngắn và chọn đáp án",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "十元"
+              },
+              {
+                "id": "B",
+                "text": "二十元"
+              },
+              {
+                "id": "C",
+                "text": "一元"
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-2966c093e8b4c8edaf9a3a6e"
+            }
+          },
+          {
+            "id": "v6-L4-7",
+            "revision": 3,
+            "type": "short-passage",
+            "skill": "listening",
+            "partId": "L4",
+            "instruction": "Nghe thông tin ngắn và chọn đáp án",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "椅子上"
+              },
+              {
+                "id": "B",
+                "text": "桌子上"
+              },
+              {
+                "id": "C",
+                "text": "书里"
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-c0a3c33d6780a1e52b2dcdfb"
+            }
+          },
+          {
+            "id": "v6-L4-5",
+            "revision": 3,
+            "type": "short-passage",
+            "skill": "listening",
+            "partId": "L4",
+            "instruction": "Nghe thông tin ngắn và chọn đáp án",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "八点"
+              },
+              {
+                "id": "B",
+                "text": "八点半"
+              },
+              {
+                "id": "C",
+                "text": "九点"
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-b38ba0630e1053c5efc13594"
+            }
+          },
+          {
+            "id": "v6-L4-2",
+            "revision": 3,
+            "type": "short-passage",
+            "skill": "listening",
+            "partId": "L4",
+            "instruction": "Nghe thông tin ngắn và chọn đáp án",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "两本"
+              },
+              {
+                "id": "B",
+                "text": "三本"
+              },
+              {
+                "id": "C",
+                "text": "一本"
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-ba66c4f0b80e703a06152dcb"
+            }
+          },
+          {
+            "id": "v6-L4-1",
+            "revision": 3,
+            "type": "short-passage",
+            "skill": "listening",
+            "partId": "L4",
+            "instruction": "Nghe thông tin ngắn và chọn đáp án",
+            "candidatePromptZh": "Nghe nội dung và chọn đáp án.",
+            "options": [
+              {
+                "id": "A",
+                "text": "医院"
+              },
+              {
+                "id": "B",
+                "text": "公司"
+              },
+              {
+                "id": "C",
+                "text": "商店"
+              }
+            ],
+            "audio": {
+              "kind": "file",
+              "src": "/api/admin/v6/audio/v6-audio-10f922da1985a7a57be91133"
+            }
+          },
+          {
+            "id": "v6-R1-6",
+            "revision": 3,
+            "type": "matching",
+            "skill": "reading",
+            "partId": "R1",
+            "instruction": "Đọc câu và ghép hình",
+            "promptZh": "这个人正在读一本书，没有看电视。",
+            "candidatePromptZh": "这个人正在读一本书，没有看电视。",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-drinking-f9fd9a88a84c",
+                  "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+                  "altText": "Một người đưa cốc lên miệng uống.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-calling-a391e185d990",
+                  "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+                  "altText": "Một người cầm điện thoại cạnh tai.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-reading-2b4d2ae6b38c",
+                  "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+                  "altText": "Một người đang ngồi đọc sách.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "D",
+                "text": "Hình D",
+                "image": {
+                  "assetId": "v6-image-sleeping-8190c7c819f6",
+                  "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+                  "altText": "Một người nằm ngủ trên giường.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "E",
+                "text": "Hình E",
+                "image": {
+                  "assetId": "v6-image-writing-189d14996dc3",
+                  "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+                  "altText": "Một người dùng bút viết trên giấy.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "F",
+                "text": "Hình F",
+                "image": {
+                  "assetId": "v6-image-cooking-ecdb34052249",
+                  "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+                  "altText": "Một người đang nấu ăn bên bếp.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ]
+          },
+          {
+            "id": "v6-R1-7",
+            "revision": 3,
+            "type": "matching",
+            "skill": "reading",
+            "partId": "R1",
+            "instruction": "Đọc câu và ghép hình",
+            "promptZh": "他正在做饭，桌子上有米饭。",
+            "candidatePromptZh": "他正在做饭，桌子上有米饭。",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-drinking-f9fd9a88a84c",
+                  "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+                  "altText": "Một người đưa cốc lên miệng uống.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-calling-a391e185d990",
+                  "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+                  "altText": "Một người cầm điện thoại cạnh tai.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-reading-2b4d2ae6b38c",
+                  "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+                  "altText": "Một người đang ngồi đọc sách.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "D",
+                "text": "Hình D",
+                "image": {
+                  "assetId": "v6-image-sleeping-8190c7c819f6",
+                  "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+                  "altText": "Một người nằm ngủ trên giường.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "E",
+                "text": "Hình E",
+                "image": {
+                  "assetId": "v6-image-writing-189d14996dc3",
+                  "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+                  "altText": "Một người dùng bút viết trên giấy.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "F",
+                "text": "Hình F",
+                "image": {
+                  "assetId": "v6-image-cooking-ecdb34052249",
+                  "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+                  "altText": "Một người đang nấu ăn bên bếp.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ]
+          },
+          {
+            "id": "v6-R1-8",
+            "revision": 3,
+            "type": "matching",
+            "skill": "reading",
+            "partId": "R1",
+            "instruction": "Đọc câu và ghép hình",
+            "promptZh": "她想喝水，杯子里的水不太热。",
+            "candidatePromptZh": "她想喝水，杯子里的水不太热。",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-drinking-f9fd9a88a84c",
+                  "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+                  "altText": "Một người đưa cốc lên miệng uống.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-calling-a391e185d990",
+                  "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+                  "altText": "Một người cầm điện thoại cạnh tai.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-reading-2b4d2ae6b38c",
+                  "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+                  "altText": "Một người đang ngồi đọc sách.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "D",
+                "text": "Hình D",
+                "image": {
+                  "assetId": "v6-image-sleeping-8190c7c819f6",
+                  "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+                  "altText": "Một người nằm ngủ trên giường.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "E",
+                "text": "Hình E",
+                "image": {
+                  "assetId": "v6-image-writing-189d14996dc3",
+                  "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+                  "altText": "Một người dùng bút viết trên giấy.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "F",
+                "text": "Hình F",
+                "image": {
+                  "assetId": "v6-image-cooking-ecdb34052249",
+                  "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+                  "altText": "Một người đang nấu ăn bên bếp.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ]
+          },
+          {
+            "id": "v6-R1-9",
+            "revision": 3,
+            "type": "matching",
+            "skill": "reading",
+            "partId": "R1",
+            "instruction": "Đọc câu và ghép hình",
+            "promptZh": "老师说：请在这里写你的名字。",
+            "candidatePromptZh": "老师说：请在这里写你的名字。",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-drinking-f9fd9a88a84c",
+                  "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+                  "altText": "Một người đưa cốc lên miệng uống.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-calling-a391e185d990",
+                  "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+                  "altText": "Một người cầm điện thoại cạnh tai.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-reading-2b4d2ae6b38c",
+                  "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+                  "altText": "Một người đang ngồi đọc sách.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "D",
+                "text": "Hình D",
+                "image": {
+                  "assetId": "v6-image-sleeping-8190c7c819f6",
+                  "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+                  "altText": "Một người nằm ngủ trên giường.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "E",
+                "text": "Hình E",
+                "image": {
+                  "assetId": "v6-image-writing-189d14996dc3",
+                  "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+                  "altText": "Một người dùng bút viết trên giấy.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "F",
+                "text": "Hình F",
+                "image": {
+                  "assetId": "v6-image-cooking-ecdb34052249",
+                  "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+                  "altText": "Một người đang nấu ăn bên bếp.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ]
+          },
+          {
+            "id": "v6-R1-10",
+            "revision": 3,
+            "type": "matching",
+            "skill": "reading",
+            "partId": "R1",
+            "instruction": "Đọc câu và ghép hình",
+            "promptZh": "她现在给妈妈打电话。",
+            "candidatePromptZh": "她现在给妈妈打电话。",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hình A",
+                "image": {
+                  "assetId": "v6-image-drinking-f9fd9a88a84c",
+                  "src": "/api/admin/v6/image/v6-image-drinking-f9fd9a88a84c",
+                  "altText": "Một người đưa cốc lên miệng uống.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "B",
+                "text": "Hình B",
+                "image": {
+                  "assetId": "v6-image-calling-a391e185d990",
+                  "src": "/api/admin/v6/image/v6-image-calling-a391e185d990",
+                  "altText": "Một người cầm điện thoại cạnh tai.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "C",
+                "text": "Hình C",
+                "image": {
+                  "assetId": "v6-image-reading-2b4d2ae6b38c",
+                  "src": "/api/admin/v6/image/v6-image-reading-2b4d2ae6b38c",
+                  "altText": "Một người đang ngồi đọc sách.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "D",
+                "text": "Hình D",
+                "image": {
+                  "assetId": "v6-image-sleeping-8190c7c819f6",
+                  "src": "/api/admin/v6/image/v6-image-sleeping-8190c7c819f6",
+                  "altText": "Một người nằm ngủ trên giường.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "E",
+                "text": "Hình E",
+                "image": {
+                  "assetId": "v6-image-writing-189d14996dc3",
+                  "src": "/api/admin/v6/image/v6-image-writing-189d14996dc3",
+                  "altText": "Một người dùng bút viết trên giấy.",
+                  "width": 640,
+                  "height": 420
+                }
+              },
+              {
+                "id": "F",
+                "text": "Hình F",
+                "image": {
+                  "assetId": "v6-image-cooking-ecdb34052249",
+                  "src": "/api/admin/v6/image/v6-image-cooking-ecdb34052249",
+                  "altText": "Một người đang nấu ăn bên bếp.",
+                  "width": 640,
+                  "height": 420
+                }
+              }
+            ]
+          },
+          {
+            "id": "v6-R2-1",
+            "revision": 3,
+            "type": "shared-options",
+            "skill": "reading",
+            "partId": "R2",
+            "instruction": "Ghép câu với lời đáp phù hợp",
+            "promptZh": "请问，这杯茶多少钱？",
+            "candidatePromptZh": "请问，这杯茶多少钱？",
+            "options": [
+              {
+                "id": "A",
+                "text": "你好！"
+              },
+              {
+                "id": "B",
+                "text": "三块钱。"
+              },
+              {
+                "id": "C",
+                "text": "我住这里。"
+              },
+              {
+                "id": "D",
+                "text": "他是医生。"
+              },
+              {
+                "id": "E",
+                "text": "在桌子上。"
+              },
+              {
+                "id": "F",
+                "text": "不客气。"
+              }
+            ]
+          },
+          {
+            "id": "v6-R2-2",
+            "revision": 3,
+            "type": "shared-options",
+            "skill": "reading",
+            "partId": "R2",
+            "instruction": "Ghép câu với lời đáp phù hợp",
+            "promptZh": "我的书在哪儿？",
+            "candidatePromptZh": "我的书在哪儿？",
+            "options": [
+              {
+                "id": "A",
+                "text": "你好！"
+              },
+              {
+                "id": "B",
+                "text": "三块钱。"
+              },
+              {
+                "id": "C",
+                "text": "我住这里。"
+              },
+              {
+                "id": "D",
+                "text": "他是医生。"
+              },
+              {
+                "id": "E",
+                "text": "在桌子上。"
+              },
+              {
+                "id": "F",
+                "text": "不客气。"
+              }
+            ]
+          },
+          {
+            "id": "v6-R2-3",
+            "revision": 3,
+            "type": "shared-options",
+            "skill": "reading",
+            "partId": "R2",
+            "instruction": "Ghép câu với lời đáp phù hợp",
+            "promptZh": "他做什么工作？",
+            "candidatePromptZh": "他做什么工作？",
+            "options": [
+              {
+                "id": "A",
+                "text": "你好！"
+              },
+              {
+                "id": "B",
+                "text": "三块钱。"
+              },
+              {
+                "id": "C",
+                "text": "我住这里。"
+              },
+              {
+                "id": "D",
+                "text": "他是医生。"
+              },
+              {
+                "id": "E",
+                "text": "在桌子上。"
+              },
+              {
+                "id": "F",
+                "text": "不客气。"
+              }
+            ]
+          },
+          {
+            "id": "v6-R2-4",
+            "revision": 3,
+            "type": "shared-options",
+            "skill": "reading",
+            "partId": "R2",
+            "instruction": "Ghép câu với lời đáp phù hợp",
+            "promptZh": "你好！",
+            "candidatePromptZh": "你好！",
+            "options": [
+              {
+                "id": "A",
+                "text": "你好！"
+              },
+              {
+                "id": "B",
+                "text": "三块钱。"
+              },
+              {
+                "id": "C",
+                "text": "我住这里。"
+              },
+              {
+                "id": "D",
+                "text": "他是医生。"
+              },
+              {
+                "id": "E",
+                "text": "在桌子上。"
+              },
+              {
+                "id": "F",
+                "text": "不客气。"
+              }
+            ]
+          },
+          {
+            "id": "v6-R2-5",
+            "revision": 3,
+            "type": "shared-options",
+            "skill": "reading",
+            "partId": "R2",
+            "instruction": "Ghép câu với lời đáp phù hợp",
+            "promptZh": "谢谢您！",
+            "candidatePromptZh": "谢谢您！",
+            "options": [
+              {
+                "id": "A",
+                "text": "你好！"
+              },
+              {
+                "id": "B",
+                "text": "三块钱。"
+              },
+              {
+                "id": "C",
+                "text": "我住这里。"
+              },
+              {
+                "id": "D",
+                "text": "他是医生。"
+              },
+              {
+                "id": "E",
+                "text": "在桌子上。"
+              },
+              {
+                "id": "F",
+                "text": "不客气。"
+              }
+            ]
+          },
+          {
+            "id": "v6-R3-1",
+            "revision": 3,
+            "type": "shared-options",
+            "skill": "reading",
+            "partId": "R3",
+            "instruction": "Chọn từ trong nhóm để hoàn thành câu",
+            "promptZh": "我很___汉语，想学习汉字。",
+            "candidatePromptZh": "我很___汉语，想学习汉字。",
+            "options": [
+              {
+                "id": "A",
+                "text": "在"
+              },
+              {
+                "id": "B",
+                "text": "喜欢"
+              },
+              {
+                "id": "C",
+                "text": "也"
+              },
+              {
+                "id": "D",
+                "text": "本"
+              },
+              {
+                "id": "E",
+                "text": "喝"
+              },
+              {
+                "id": "F",
+                "text": "谁"
+              }
+            ]
+          },
+          {
+            "id": "v6-R3-2",
+            "revision": 3,
+            "type": "shared-options",
+            "skill": "reading",
+            "partId": "R3",
+            "instruction": "Chọn từ trong nhóm để hoàn thành câu",
+            "promptZh": "妈妈今天早上___牛奶。",
+            "candidatePromptZh": "妈妈今天早上___牛奶。",
+            "options": [
+              {
+                "id": "A",
+                "text": "在"
+              },
+              {
+                "id": "B",
+                "text": "喜欢"
+              },
+              {
+                "id": "C",
+                "text": "也"
+              },
+              {
+                "id": "D",
+                "text": "本"
+              },
+              {
+                "id": "E",
+                "text": "喝"
+              },
+              {
+                "id": "F",
+                "text": "谁"
+              }
+            ]
+          },
+          {
+            "id": "v6-R3-3",
+            "revision": 3,
+            "type": "shared-options",
+            "skill": "reading",
+            "partId": "R3",
+            "instruction": "Chọn từ trong nhóm để hoàn thành câu",
+            "promptZh": "这是三___中文书，不是三杯水。",
+            "candidatePromptZh": "这是三___中文书，不是三杯水。",
+            "options": [
+              {
+                "id": "A",
+                "text": "在"
+              },
+              {
+                "id": "B",
+                "text": "喜欢"
+              },
+              {
+                "id": "C",
+                "text": "也"
+              },
+              {
+                "id": "D",
+                "text": "本"
+              },
+              {
+                "id": "E",
+                "text": "喝"
+              },
+              {
+                "id": "F",
+                "text": "谁"
+              }
+            ]
+          },
+          {
+            "id": "v6-R3-4",
+            "revision": 3,
+            "type": "shared-options",
+            "skill": "reading",
+            "partId": "R3",
+            "instruction": "Chọn từ trong nhóm để hoàn thành câu",
+            "promptZh": "弟弟___家里看书，没有去学校。",
+            "candidatePromptZh": "弟弟___家里看书，没有去学校。",
+            "options": [
+              {
+                "id": "A",
+                "text": "在"
+              },
+              {
+                "id": "B",
+                "text": "喜欢"
+              },
+              {
+                "id": "C",
+                "text": "也"
+              },
+              {
+                "id": "D",
+                "text": "本"
+              },
+              {
+                "id": "E",
+                "text": "喝"
+              },
+              {
+                "id": "F",
+                "text": "谁"
+              }
+            ]
+          },
+          {
+            "id": "v6-R3-5",
+            "revision": 3,
+            "type": "shared-options",
+            "skill": "reading",
+            "partId": "R3",
+            "instruction": "Chọn từ trong nhóm để hoàn thành câu",
+            "promptZh": "___是你的老师？是那个人吗？",
+            "candidatePromptZh": "___是你的老师？是那个人吗？",
+            "options": [
+              {
+                "id": "A",
+                "text": "在"
+              },
+              {
+                "id": "B",
+                "text": "喜欢"
+              },
+              {
+                "id": "C",
+                "text": "也"
+              },
+              {
+                "id": "D",
+                "text": "本"
+              },
+              {
+                "id": "E",
+                "text": "喝"
+              },
+              {
+                "id": "F",
+                "text": "谁"
+              }
+            ]
+          },
+          {
+            "id": "v6-R4-4",
+            "revision": 3,
+            "type": "short-passage",
+            "skill": "reading",
+            "partId": "R4",
+            "instruction": "Đọc thông tin ngắn và chọn đáp án",
+            "promptZh": "这件衣服一百元，那件五十元。我买那件。\n他买哪件？",
+            "candidatePromptZh": "这件衣服一百元，那件五十元。我买那件。\n他买哪件？",
+            "options": [
+              {
+                "id": "A",
+                "text": "五十元的"
+              },
+              {
+                "id": "B",
+                "text": "一百元的"
+              },
+              {
+                "id": "C",
+                "text": "两件都买"
+              }
+            ]
+          },
+          {
+            "id": "v6-R4-1",
+            "revision": 3,
+            "type": "short-passage",
+            "skill": "reading",
+            "partId": "R4",
+            "instruction": "Đọc thông tin ngắn và chọn đáp án",
+            "promptZh": "小李今天到学校很早。老师还没有来，他在学校外边看书。\n谁还没有来？",
+            "candidatePromptZh": "小李今天到学校很早。老师还没有来，他在学校外边看书。\n谁还没有来？",
+            "options": [
+              {
+                "id": "A",
+                "text": "老师"
+              },
+              {
+                "id": "B",
+                "text": "小李"
+              },
+              {
+                "id": "C",
+                "text": "他们都来了"
+              }
+            ]
+          },
+          {
+            "id": "v6-R4-8",
+            "revision": 3,
+            "type": "short-passage",
+            "skill": "reading",
+            "partId": "R4",
+            "instruction": "Đọc thông tin ngắn và chọn đáp án",
+            "promptZh": "这只猫是小张的。小张的狗在家，猫不在家。\n什么不在家？",
+            "candidatePromptZh": "这只猫是小张的。小张的狗在家，猫不在家。\n什么不在家？",
+            "options": [
+              {
+                "id": "A",
+                "text": "狗"
+              },
+              {
+                "id": "B",
+                "text": "猫和狗"
+              },
+              {
+                "id": "C",
+                "text": "猫"
+              }
+            ]
+          },
+          {
+            "id": "v6-R4-9",
+            "revision": 3,
+            "type": "short-passage",
+            "skill": "reading",
+            "partId": "R4",
+            "instruction": "Đọc thông tin ngắn và chọn đáp án",
+            "promptZh": "电影是九点的。现在八点，我们还有一个小时。\n电影是几点的？",
+            "candidatePromptZh": "电影是九点的。现在八点，我们还有一个小时。\n电影是几点的？",
+            "options": [
+              {
+                "id": "A",
+                "text": "十点"
+              },
+              {
+                "id": "B",
+                "text": "九点"
+              },
+              {
+                "id": "C",
+                "text": "八点"
+              }
+            ]
+          },
+          {
+            "id": "v6-R4-5",
+            "revision": 3,
+            "type": "short-passage",
+            "skill": "reading",
+            "partId": "R4",
+            "instruction": "Đọc thông tin ngắn và chọn đáp án",
+            "promptZh": "我上午学汉语，下午也学汉语。晚上我看电影。\n他晚上做什么？",
+            "candidatePromptZh": "我上午学汉语，下午也学汉语。晚上我看电影。\n他晚上做什么？",
+            "options": [
+              {
+                "id": "A",
+                "text": "学汉语"
+              },
+              {
+                "id": "B",
+                "text": "上班"
+              },
+              {
+                "id": "C",
+                "text": "看电影"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "route": "/submit",
+      "body": {
+        "id": "1d6a0586947a4f303eb9df14ed0c4bf7d8af",
+        "rows": [
+          {
+            "id": "v6-L1-6",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L1-4",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L1-10",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L1-8",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L1-7",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L2-8",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L2-5",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L2-1",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L2-10",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L2-3",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L3-1",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L3-2",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L3-3",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L3-4",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L3-5",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L4-10",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L4-7",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L4-5",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L4-2",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-L4-1",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R1-6",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R1-7",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R1-8",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R1-9",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R1-10",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R2-1",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R2-2",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R2-3",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R2-4",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R2-5",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R3-1",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R3-2",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R3-3",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R3-4",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R3-5",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R4-4",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R4-1",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R4-8",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R4-9",
+            "revision": 3,
+            "correct": true
+          },
+          {
+            "id": "v6-R4-5",
+            "revision": 3,
+            "correct": true
+          }
+        ],
+        "correct": 40,
+        "total": 40,
+        "rawAccuracy": 100,
+        "officialScaledScore": null,
+        "authority": "PLATFORM_PRACTICE"
+      }
+    }
+  ],
+  "audits": [
+    {
+      "event": "START",
+      "id": "1d6a0586947a4f303eb9df14ed0c4bf7d8af",
+      "ownerId": "fixture-owner",
+      "at": 0
+    },
+    {
+      "event": "SUBMIT",
+      "id": "1d6a0586947a4f303eb9df14ed0c4bf7d8af",
+      "ownerId": "fixture-owner",
+      "at": 0
+    },
+    {
+      "event": "REPLAY",
+      "id": "1d6a0586947a4f303eb9df14ed0c4bf7d8af",
+      "ownerId": "fixture-owner",
+      "at": 0
+    },
+    {
+      "event": "START",
+      "id": "c358d8829f4a5eb59c48b3db25d7b299e078",
+      "ownerId": "fixture-owner",
+      "at": 0
+    }
+  ],
+  "production": "NOT_VERIFIED_NOT_MOUNTED"
+}

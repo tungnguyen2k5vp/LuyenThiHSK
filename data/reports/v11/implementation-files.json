@@ -1,0 +1,368 @@
+{
+  "at": "2026-10-18T03:51:58.381Z",
+  "git": "NO_REPOSITORY",
+  "baselineSnapshot": ".runtime/backups/before-v11-2026-10-18T02-48-40-823Z",
+  "changed": [
+    {
+      "file": "src/components/admin/AudioWorkbenchV10.tsx",
+      "status": "MODIFIED",
+      "before": "50c6b6b4ccded2c5bac58c1ecdd61200dde4b992149c01ec3c587394bce39f04",
+      "after": "8f491d36bf865731ae9e7402bf55483b5812596705ff12ba2ddf1bf748bf40c8"
+    },
+    {
+      "file": "src/components/admin/ContentReviewV5.tsx",
+      "status": "MODIFIED",
+      "before": "168005114b3e005af74a08c7bd0e73463d141b0c33bf64e8cb15ee53186b8e9e",
+      "after": "41c410be18bd5b0025d47d175b6d400fc97ce713d40cb97d588fa3b1a16c1802"
+    },
+    {
+      "file": "src/components/admin/MediaRightsV11.tsx",
+      "status": "ADDED",
+      "before": null,
+      "after": "49f28214060af839451f96a4cfa69329182837a102989a12bb61ed5c99e59414"
+    },
+    {
+      "file": "src/components/exam/AttemptResult.tsx",
+      "status": "MODIFIED",
+      "before": "8c5b0dff16c363518c00db31c2dc638cf5922984bfcfdc600139bcc906e5ebf7",
+      "after": "cde12f041d2c55e4063acb1a7a2afcc79e13e1c5f1ed1bc318d18bfd9552b277"
+    },
+    {
+      "file": "src/components/exam/ExamAudio.tsx",
+      "status": "MODIFIED",
+      "before": "c1eee2649bfdcb042dc50bd764e2fd79f8919d83970c7d509f6d3fd99a641340",
+      "after": "3c3fd39156adf6f1692eea73cace54fddf1f3d793fa4735782ac4f69e8be0f1d"
+    },
+    {
+      "file": "src/components/learning/CourseWorkspace.tsx",
+      "status": "MODIFIED",
+      "before": "a402612fc9a99b59c673626896cb9cc7b86a6f79b7fecb5dc42fdb417ce5ddf3",
+      "after": "67b3f813a2614d79901987c7c0492c4d2393d3339d69413eac0bb3095cd5f2fc"
+    },
+    {
+      "file": "src/components/preparation/HSK2MockStatus.tsx",
+      "status": "MODIFIED",
+      "before": "671505757d9e0d9e431cd38111a5ac2bcfc6b08c6e370fe2d6c15e55c196dae2",
+      "after": "618e4279027d47b9e07cb5d9c9b7d266d2e5fae8c7bdd1ef963ca9b1a485d09d"
+    },
+    {
+      "file": "src/components/preparation/HSK2Today.tsx",
+      "status": "MODIFIED",
+      "before": "2bf50d2e487377d359b4d91c55af5e9043fc037e212aebed3b63761c1f01fe3f",
+      "after": "0288f9dea94acd28ae4160bb14456a65e8d1e64e8dd0fe5c9531a897a1dccc21"
+    },
+    {
+      "file": "src/components/preparation/PreviewWorkspace.tsx",
+      "status": "MODIFIED",
+      "before": "71d04274604f938b0c1ef761f62b475a5936b25a7128e37c5b5a2dffbc1ab802",
+      "after": "5fa68f7d3174576c388d85a449239db1bc6248cd8c0cf50712f40bb644155436"
+    },
+    {
+      "file": "src/components/preparation/WeaknessWorkspace.tsx",
+      "status": "MODIFIED",
+      "before": "c622b0f33d0f4947f4e88c7b70f51bef965ad19ad208584a0ec85e1370d605f2",
+      "after": "c264825c635e66f7205f5c6d9ef38494c694687ae163232965b3ed5d67f3e924"
+    },
+    {
+      "file": "src/services/weaknessEngine.ts",
+      "status": "MODIFIED",
+      "before": "ffe6338b4f806922bae7eaa72ffbac542114d90488b260685cf8cd33d548d198",
+      "after": "7becae5b6d2db72089be02ce81904bffce9e0bef0c12c5b837d96d185288dda0"
+    },
+    {
+      "file": "src/styles/preview.css",
+      "status": "MODIFIED",
+      "before": "c4beca23a057361688cc3f42a4d6f718cd00e91984f4deceb94b67f43997bd21",
+      "after": "6b7850b12f816aa615c492ecc1e20fe6503f216497b6922107cf159ba8aa1685"
+    },
+    {
+      "file": "shared/v10-audio.mjs",
+      "status": "MODIFIED",
+      "before": "4585c485419f9c74a050e4c9fe7b56b3d3ca98a39abecf2540bec8d969c3ff3f",
+      "after": "1d8ce58dc4db45b81afd2c4b7707e87fff08110552f793909032ba3df661dbc0"
+    },
+    {
+      "file": "shared/v10-content.mjs",
+      "status": "MODIFIED",
+      "before": "e20e40521eaa57349544a937ee6e07d57b169c0413b9e079b056351e1cdbd0b9",
+      "after": "d43785c97eaa4e1b1fe1042a195fb09ac46aed405bb04bf60be6fe292e8cb7eb"
+    },
+    {
+      "file": "shared/v11-content.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "8b7f09e556e62d6bf5f2bae057edfdd3f42cf3cc745444f488d1c5f6cb47fbf4"
+    },
+    {
+      "file": "shared/v11-quality.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "6d2c4a08e0bf9af0322816657427a421421a41618e62949c1acd896569b2ecde"
+    },
+    {
+      "file": "shared/v5-quality.mjs",
+      "status": "MODIFIED",
+      "before": "63c0f52110b540ab020b215e960f9639e0547c1ec17f95afc223dccb44742393",
+      "after": "e099e91106a64da99886834ac8a930522f51b9ed7a9437435f946365ba46e69c"
+    },
+    {
+      "file": "server/admin-server.mjs",
+      "status": "MODIFIED",
+      "before": "45518b750c2862c89640fecc8b38e0ddd2d7898b4a91aed5099dc173d5f15cc4",
+      "after": "dad92200dd2787cf163343327e6359f8dfa8351a55eabf8486a5fde23b052db9"
+    },
+    {
+      "file": "server/speech-providers.mjs",
+      "status": "MODIFIED",
+      "before": "a771d9d54a1a2e05216738af5119e791949ac0cee5a74501eea76b11fa2d1335",
+      "after": "ea5b3d80fcec534bde6d058dde148ff8e72894bde96657d2a88f30d24ddcf2bb"
+    },
+    {
+      "file": "server/v10-content-service.mjs",
+      "status": "MODIFIED",
+      "before": "db49ba1a55819637ea0e1ded586bd9d8b2487ad32fd3840cc6091bc1ec9f4d4d",
+      "after": "9d65f406cbeb1e8489623a913676dabfdcb332e28f758d541399eca6d20f1f3f"
+    },
+    {
+      "file": "server/v10-speech.mjs",
+      "status": "MODIFIED",
+      "before": "90155b450a4e6e532b21af4fd92efc0ec393cb4c30365000585c04319b2d33a4",
+      "after": "eaad1dfeb9c4b0b17710b2eccd8da2f351138c6fd704c530f47036a2f7b3f8a6"
+    },
+    {
+      "file": "server/v11-content-service.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "cd48790d834bb53aa84f404e3a7319eeda310ed891cdba12ecb9fefbb21e1dbc"
+    },
+    {
+      "file": "server/v3-content-service.mjs",
+      "status": "MODIFIED",
+      "before": "5d524a936945f1d08a2c8b0568fbe1891252e09435936f8eefffc925a0c72b8f",
+      "after": "0918a3fe97e89063b7de374c6dc5620a8cb3aee3e316613a440eeef53e3bd995"
+    },
+    {
+      "file": "server/v5-content-service.mjs",
+      "status": "MODIFIED",
+      "before": "d18df86b5fff34700512bda1ade17fbbdd895dfdea68b13934ccd8a0db372828",
+      "after": "8ee21d8c4805432828067aa13693323217de9f12e87a04adf79f635f1f73656c"
+    },
+    {
+      "file": "server/v7-review-service.mjs",
+      "status": "MODIFIED",
+      "before": "5989ccfac2a036fa50c8cac47075962e26337773b004e4785f3f090667017ea7",
+      "after": "d7a12a7a538fe95c9e20e404fde08e4b019140fdeaad4023e4bc2dbf6d540d53"
+    },
+    {
+      "file": "scripts/build-v11-content.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "71eb8af334b82bdc7f3fa8449ca72bf55c66d7807bbaa829e3d6222925c0df7a"
+    },
+    {
+      "file": "scripts/check-v11-handoff.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "371f0355d4e3af4bf2def2aee1715a93d46fb8d81e48fd8043f51eada8b46c7c"
+    },
+    {
+      "file": "scripts/exam-browser-check.mjs",
+      "status": "MODIFIED",
+      "before": "3d8113debbfae0aaa5e7e75ff8c816f28f6af45940cd84b320c7af4794dd34df",
+      "after": "ee8c02c67a3ccbb5dbd406793225621542b99a33f10b38a98865d8520aa8dfc0"
+    },
+    {
+      "file": "scripts/test-v11-api.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "65f4c4912ad509a422f62bcf7f7ebec8128b36e07d848a8732a1feb006760f6b"
+    },
+    {
+      "file": "scripts/test-v11.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "88ae60242f960745793c3ddcc6d5cdb0963e572dbd01cb15fcbbe64dc6d8d364"
+    },
+    {
+      "file": "scripts/v11-a11y-browser.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "790d1792562b3ffb170af0a236fcf6ab70e31a45f8a258419d749b2098af5faf"
+    },
+    {
+      "file": "scripts/v11-audio-metadata.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "ea39d09168b945cd3bd818e03f4d5574e92c9a848209b3d03f4c73ba3cb45335"
+    },
+    {
+      "file": "scripts/v11-audio-poc-plan.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "4749eddcf8a9ca65ea18a7b553e9f9557b125cb8470910b53e4aec72cb3b9fb0"
+    },
+    {
+      "file": "scripts/v11-audit.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "54446618919e188552f834cfc8609a33208c39cb06cf8d6a5c18845e5329a684"
+    },
+    {
+      "file": "scripts/v11-browser-flows.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "2d2be2a58a62a20160b67cbd7b42e9f5ceb762575414020e90cfcd3093942521"
+    },
+    {
+      "file": "scripts/v11-browser-matrix.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "0108b2287e65057305454e71b24db4b5470e60d39c62c38d2811434125b06622"
+    },
+    {
+      "file": "scripts/v11-check-images.py",
+      "status": "ADDED",
+      "before": null,
+      "after": "3cfd254d578df81f6e9efce8609e4c04e614a929ffc0b623066aac5583aaf7a3"
+    },
+    {
+      "file": "scripts/v11-delivery-polish.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "5edbdba593f244d4bada10545b417ba0e0674614ff118fa6996c0f803ef6fefd"
+    },
+    {
+      "file": "scripts/v11-final-qa.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "52c91834912b4bcf56e947b98aa4930c8992554bedf3b98d58b709811c65e36c"
+    },
+    {
+      "file": "scripts/v11-finalize.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "b16a850412faecf845a5adee9af92e9870abd74cf2c201173ef9cc1759a70e5f"
+    },
+    {
+      "file": "scripts/v11-integrate.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "7922a6f8dc2ddeaf4919a561acffe49197e058108a49f175fe084561af713e03"
+    },
+    {
+      "file": "scripts/v11-live-smoke.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "0fbd5d2c899660aa12d92eeaa55af30a8394758514894bc04cd15345deaf2187"
+    },
+    {
+      "file": "scripts/v11-live-stage.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "2204e50bc850be73f8548e631b352232750303ec47ec545ca32e4a7397437892"
+    },
+    {
+      "file": "scripts/v11-mock-browser.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "aba6e52c2b2be4ea31a3e2cbb8cc238fd515e95f8adbb6588a02efb20bfde5bc"
+    },
+    {
+      "file": "scripts/v11-package-zips.py",
+      "status": "ADDED",
+      "before": null,
+      "after": "133d6a37dccbb680740d1691ac8f17ac74dbab82075d7fe597425f9220a6dce2"
+    },
+    {
+      "file": "scripts/v11-performance-flows.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "d851a582277fd3f4a1eab101272547f9e0151895bac44404897cba8581c00e20"
+    },
+    {
+      "file": "scripts/v11-pinyin-screen.py",
+      "status": "ADDED",
+      "before": null,
+      "after": "d46806e056a07aa786429b8f4e7cf1252d55bfd5929158dbf65bc9789b703f93"
+    },
+    {
+      "file": "scripts/v11-prepare-browser.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "560ca450b2cc82cd4062d451089a99b9c6c9648b2fcd55607b76411d37ad097c"
+    },
+    {
+      "file": "scripts/v11-prepare-review.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "0e5ae350e7dfaf0c2c6815f3bbe58cda11e688b7416f3f8b8c3e6087cee397af"
+    },
+    {
+      "file": "scripts/v11-regression.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "39fc2a009cf92b7d97987d2086176353c63aeacbee743bbcd710f2b792f2238c"
+    },
+    {
+      "file": "scripts/v11-repeat-checks.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "1d05e05b195ac0c2976c754896d6503475bd341713faa845e285ae2c58183580"
+    },
+    {
+      "file": "scripts/v11-result-connect.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "6a1c2573468cb669a9a5919318f8b51c2430d232d82fa059329b3d155a38b926"
+    },
+    {
+      "file": "scripts/v11-review-html-flow.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "3cc73cac8266f48c51a4423960c24121f5423e8d9fbe4943b7331e3b307e6031"
+    },
+    {
+      "file": "scripts/v11-review-package.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "4373e61be70e5642250fe184e8c1abf104ec1cae9df7350de9aff83b64e99fba"
+    },
+    {
+      "file": "scripts/v11-revise-question-ids.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "20f144a7c60f253fa804b9f9da675597f0f9cfe92bb259113607f28db4e9fee8"
+    },
+    {
+      "file": "scripts/v11-revise-words.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "cbe4320362906197660f1ccf38bd2ac0f4a12b5b434f2409a44930ef1aeabf67"
+    },
+    {
+      "file": "scripts/v11-source-evidence.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "a0d8f1cb6b7392ed643b323442582f02c8d9370559f46561964a3d653f13d035"
+    },
+    {
+      "file": "scripts/v11-staging-audit.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "332aa5dae93d0edb89a294428ce517b263ceae12dff1ed59b0b7d6f03164ab34"
+    },
+    {
+      "file": "scripts/v11-ux-connect.mjs",
+      "status": "ADDED",
+      "before": null,
+      "after": "4f50cb31fd3c11e19ffb7183beafd579516f9f44d9ac6f515d6f30b881942d88"
+    },
+    {
+      "file": "package.json",
+      "status": "MODIFIED",
+      "before": "c0b956c126922268e7d1ce157dd24b6adc544f8bc749476a7c77a05af9937c04",
+      "after": "95f2266d9a6133478cb286e8feeac11d7f0e3e7da6b6fc6866850eb861ac6f21"
+    }
+  ],
+  "scope": "Application/tooling paths only, no sibling project edits"
+}

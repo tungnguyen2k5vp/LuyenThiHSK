@@ -1,0 +1,8 @@
+{
+  "allowed": true,
+  "text": "User-Agent: *\nCrawl-delay: 8\n\nDisallow: /*.css$\nDisallow: /*.js$\n\nDisallow: */page:*\n\nDisallow: */activities/*\n\nDisallow: */contributions/*\n\nDisallow: */private_messages/*\n\nDisallow: */sentences/*\nAllow: */sentences/show/*\n\nDisallow: */sentence_comments/*\n\nDisallow: */users/*\n",
+  "status": 200,
+  "url": "https://tatoeba.org/robots.txt",
+  "sha256": "9551077506ecb04ed3a237dfe6c674ad6540386337d8f63ef2117c66232a91ca",
+  "effectiveMinIntervalMs": 8000
+}

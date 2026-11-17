@@ -1,0 +1,35 @@
+{
+  "source": {
+    "sourceId": "src-3b38fca42716",
+    "name": "ph0ngp/CVDICT",
+    "baseUrl": "https://github.com/ph0ngp/CVDICT",
+    "sourceType": "GITHUB",
+    "organization": null,
+    "accessedAt": null,
+    "termsUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "robotsUrl": "https://github.com/robots.txt",
+    "licenseName": null,
+    "licenseUrl": null,
+    "sourceEdition": "unknown",
+    "hskVersion": "unknown",
+    "allowedScope": [
+      "SOURCE_METADATA"
+    ],
+    "rightsStatus": "RIGHTS_UNKNOWN",
+    "attribution": null,
+    "shareAlikeRequired": null,
+    "commercialUseAllowed": null,
+    "redistributionAllowed": null,
+    "downloadAllowed": false,
+    "crawlDepth": 2,
+    "rateLimit": {
+      "minIntervalMs": 2000,
+      "maxConcurrency": 1
+    },
+    "notes": [
+      "REPOSITORY_HTTP_404"
+    ],
+    "repo": "ph0ngp/CVDICT"
+  },
+  "error": "REPOSITORY_HTTP_404"
+}

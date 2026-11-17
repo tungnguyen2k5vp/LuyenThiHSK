@@ -1,0 +1,6 @@
+{
+  "file": "HocTiengTrungApp/DATA_LICENSES.md",
+  "sha256": "f43bc0da03f266647009eafc51bcabcd63064415a14a2ef6707746061d9e46aa",
+  "evidenceKind": "EXISTING_LOCAL_LICENSE",
+  "text": "# Data licenses and attribution\n\nThe generated offline vocabulary file combines these open datasets:\n\n- **complete-hsk-vocabulary**, copyright Yanis Zafirópulos, MIT License: https://github.com/drkameleon/complete-hsk-vocabulary\n- **CVDICT**, Phong Phan, Creative Commons Attribution-ShareAlike 4.0: https://github.com/ph0ngp/CVDICT\n\nVietnamese definitions derived from CVDICT remain under CC BY-SA 4.0. The app marks these translations as `machine` because CVDICT documents that most definitions were machine-translated and later partially reviewed.\n\nThe hand-curated starter examples and Vietnamese gloss corrections in `src/data/starter-vocabulary.ts` are project-authored content.\n"
+}

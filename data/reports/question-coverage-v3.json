@@ -1,0 +1,138 @@
+{
+  "config": {
+    "levels": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7-9"
+    ],
+    "perSkill": 20,
+    "perTypeDifficulty": 5,
+    "note": "Internal product target; not a CTI syllabus requirement"
+  },
+  "rows": [
+    {
+      "level": "1",
+      "skill": "reading",
+      "type": "fill-blank",
+      "difficulty": "easy",
+      "published": 0,
+      "needsReview": 8,
+      "missingAudio": 0,
+      "missingExplanation": 0
+    },
+    {
+      "level": "unverified",
+      "skill": "listening",
+      "type": "multiple-choice",
+      "difficulty": "unverified",
+      "published": 0,
+      "needsReview": 5,
+      "missingAudio": 5,
+      "missingExplanation": 0
+    },
+    {
+      "level": "unverified",
+      "skill": "reading",
+      "type": "fill-blank",
+      "difficulty": "unverified",
+      "published": 0,
+      "needsReview": 2,
+      "missingAudio": 0,
+      "missingExplanation": 0
+    },
+    {
+      "level": "unverified",
+      "skill": "reading",
+      "type": "multiple-choice",
+      "difficulty": "unverified",
+      "published": 0,
+      "needsReview": 4,
+      "missingAudio": 0,
+      "missingExplanation": 0
+    },
+    {
+      "level": "unverified",
+      "skill": "reading",
+      "type": "true-false",
+      "difficulty": "unverified",
+      "published": 0,
+      "needsReview": 2,
+      "missingAudio": 0,
+      "missingExplanation": 0
+    },
+    {
+      "level": "unverified",
+      "skill": "speaking",
+      "type": "speaking",
+      "difficulty": "unverified",
+      "published": 0,
+      "needsReview": 1,
+      "missingAudio": 0,
+      "missingExplanation": 1
+    },
+    {
+      "level": "unverified",
+      "skill": "translation",
+      "type": "short-answer",
+      "difficulty": "unverified",
+      "published": 0,
+      "needsReview": 2,
+      "missingAudio": 0,
+      "missingExplanation": 1
+    },
+    {
+      "level": "unverified",
+      "skill": "writing",
+      "type": "sentence-order",
+      "difficulty": "unverified",
+      "published": 0,
+      "needsReview": 3,
+      "missingAudio": 0,
+      "missingExplanation": 0
+    },
+    {
+      "level": "unverified",
+      "skill": "writing",
+      "type": "short-answer",
+      "difficulty": "unverified",
+      "published": 0,
+      "needsReview": 1,
+      "missingAudio": 0,
+      "missingExplanation": 1
+    }
+  ],
+  "levels": [
+    {
+      "level": "1",
+      "status": "Needs More Content"
+    },
+    {
+      "level": "2",
+      "status": "Needs More Content"
+    },
+    {
+      "level": "3",
+      "status": "Needs More Content"
+    },
+    {
+      "level": "4",
+      "status": "Needs More Content"
+    },
+    {
+      "level": "5",
+      "status": "Needs More Content"
+    },
+    {
+      "level": "6",
+      "status": "Needs More Content"
+    },
+    {
+      "level": "7-9",
+      "status": "Needs More Content"
+    }
+  ]
+}

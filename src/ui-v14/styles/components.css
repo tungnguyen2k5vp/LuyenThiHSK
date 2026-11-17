@@ -1,0 +1,368 @@
+/**
+ * HSK UI V14 - PRIMITIVE COMPONENT STYLES
+ * Scoped strictly under .hsk-ui-v14
+ */
+
+/* ==========================================================================
+   BUTTONS (Touch Target >= 44px)
+   ========================================================================== */
+.hsk-ui-v14 .v14-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--v14-space-2);
+  border-radius: var(--v14-radius-lg);
+  font-family: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1.5px solid transparent;
+  transition: all var(--v14-transition-fast);
+  white-space: nowrap;
+  user-select: none;
+  text-decoration: none;
+  outline: none;
+}
+
+.hsk-ui-v14 .v14-btn-md {
+  min-height: 44px;
+  padding: 0 var(--v14-space-5);
+  font-size: var(--v14-text-sm);
+}
+
+.hsk-ui-v14 .v14-btn-lg {
+  min-height: 50px;
+  padding: 0 var(--v14-space-6);
+  font-size: var(--v14-text-base);
+}
+
+.hsk-ui-v14 .v14-btn-sm {
+  min-height: 36px;
+  padding: 0 var(--v14-space-3);
+  font-size: var(--v14-text-xs);
+  border-radius: var(--v14-radius-md);
+}
+
+.hsk-ui-v14 .v14-btn-primary {
+  background-color: var(--v14-color-primary);
+  color: #ffffff;
+}
+
+.hsk-ui-v14 .v14-btn-primary:hover:not(:disabled) {
+  background-color: var(--v14-color-primary-hover);
+  box-shadow: 0 4px 12px rgba(13, 148, 136, 0.25);
+}
+
+.hsk-ui-v14 .v14-btn-secondary {
+  background-color: var(--v14-color-surface-soft);
+  color: var(--v14-color-text-main);
+  border-color: var(--v14-color-border);
+}
+
+.hsk-ui-v14 .v14-btn-secondary:hover:not(:disabled) {
+  background-color: var(--v14-color-surface-hover);
+}
+
+.hsk-ui-v14 .v14-btn-outline {
+  background-color: transparent;
+  color: var(--v14-color-text-body);
+  border-color: var(--v14-color-border-strong);
+}
+
+.hsk-ui-v14 .v14-btn-outline:hover:not(:disabled) {
+  background-color: var(--v14-color-surface-soft);
+  border-color: var(--v14-color-primary);
+  color: var(--v14-color-primary);
+}
+
+.hsk-ui-v14 .v14-btn-ghost {
+  background-color: transparent;
+  color: var(--v14-color-text-secondary);
+}
+
+.hsk-ui-v14 .v14-btn-ghost:hover:not(:disabled) {
+  background-color: var(--v14-color-surface-soft);
+  color: var(--v14-color-text-main);
+}
+
+.hsk-ui-v14 .v14-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  box-shadow: none !important;
+}
+
+/* ==========================================================================
+   CARDS
+   ========================================================================== */
+.hsk-ui-v14 .v14-card {
+  background-color: var(--v14-color-surface);
+  border-radius: var(--v14-radius-xl);
+  border: 1px solid var(--v14-color-border);
+  box-shadow: var(--v14-shadow-xs);
+  transition: all var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-card-interactive {
+  cursor: pointer;
+}
+
+.hsk-ui-v14 .v14-card-interactive:hover {
+  transform: translateY(-2px);
+  border-color: var(--v14-color-primary-border);
+  box-shadow: var(--v14-shadow-md);
+}
+
+/* ==========================================================================
+   BADGES & PILLS
+   ========================================================================== */
+.hsk-ui-v14 .v14-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 10px;
+  border-radius: var(--v14-radius-full);
+  font-size: var(--v14-text-xs);
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.hsk-ui-v14 .v14-badge-teal {
+  background-color: var(--v14-color-primary-light);
+  color: var(--v14-color-primary-active);
+  border: 1px solid var(--v14-color-primary-border);
+}
+
+.hsk-ui-v14 .v14-badge-amber {
+  background-color: var(--v14-color-amber-light);
+  color: var(--v14-color-amber);
+  border: 1px solid var(--v14-color-amber-border);
+}
+
+.hsk-ui-v14 .v14-badge-green {
+  background-color: var(--v14-color-success-light);
+  color: var(--v14-color-success);
+  border: 1px solid var(--v14-color-success-border);
+}
+
+.hsk-ui-v14 .v14-badge-neutral {
+  background-color: var(--v14-color-surface-soft);
+  color: var(--v14-color-text-secondary);
+  border: 1px solid var(--v14-color-border);
+}
+
+/* ==========================================================================
+   DIGITAL TIMER (Migii-Style Countdown Box)
+   ========================================================================== */
+.hsk-ui-v14 .v14-digital-timer-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--v14-space-3) var(--v14-space-5);
+  background-color: #f8fafc;
+  border-radius: var(--v14-radius-lg);
+  border: 1px solid var(--v14-color-border);
+}
+
+.hsk-ui-v14 .v14-timer-segment {
+  font-family: var(--v14-font-mono), sans-serif;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--v14-color-text-main);
+  letter-spacing: 0.05em;
+}
+
+.hsk-ui-v14 .v14-timer-separator {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--v14-color-text-muted);
+  margin: 0 var(--v14-space-2);
+}
+
+/* ==========================================================================
+   TOGGLE SWITCH (Practice vs Exam mode)
+   ========================================================================== */
+.hsk-ui-v14 .v14-toggle-wrap {
+  display: flex;
+  align-items: center;
+  gap: var(--v14-space-3);
+  cursor: pointer;
+  user-select: none;
+}
+
+.hsk-ui-v14 .v14-toggle-track {
+  position: relative;
+  width: 48px;
+  height: 26px;
+  border-radius: var(--v14-radius-full);
+  background-color: var(--v14-color-border-strong);
+  transition: background-color var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-toggle-track.is-checked {
+  background-color: var(--v14-color-primary);
+}
+
+.hsk-ui-v14 .v14-toggle-thumb {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 20px;
+  height: 20px;
+  border-radius: var(--v14-radius-full);
+  background-color: #ffffff;
+  box-shadow: var(--v14-shadow-xs);
+  transition: transform var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-toggle-track.is-checked .v14-toggle-thumb {
+  transform: translateX(22px);
+}
+
+/* ==========================================================================
+   AUDIO PLAYER BAR (Custom full-featured audio scrubber)
+   ========================================================================== */
+.hsk-ui-v14 .v14-audio-player-bar {
+  display: flex;
+  align-items: center;
+  gap: var(--v14-space-3);
+  padding: var(--v14-space-2) var(--v14-space-4);
+  background-color: var(--v14-color-surface-soft);
+  border-radius: var(--v14-radius-full);
+  border: 1px solid var(--v14-color-border);
+  width: 100%;
+  max-width: 620px;
+  margin: 0 auto;
+}
+
+.hsk-ui-v14 .v14-audio-play-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: var(--v14-radius-full);
+  background-color: var(--v14-color-primary);
+  color: #ffffff;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+  transition: all var(--v14-transition-fast);
+}
+
+.hsk-ui-v14 .v14-audio-play-btn:hover {
+  background-color: var(--v14-color-primary-hover);
+  transform: scale(1.05);
+}
+
+.hsk-ui-v14 .v14-audio-time {
+  font-family: var(--v14-font-mono), sans-serif;
+  font-size: var(--v14-text-xs);
+  color: var(--v14-color-text-secondary);
+  min-width: 36px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.hsk-ui-v14 .v14-audio-scrubber-track {
+  position: relative;
+  flex: 1;
+  height: 6px;
+  background-color: var(--v14-color-border);
+  border-radius: var(--v14-radius-full);
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.hsk-ui-v14 .v14-audio-scrubber-fill {
+  height: 100%;
+  background-color: var(--v14-color-primary);
+  border-radius: var(--v14-radius-full);
+  transition: width 0.1s linear;
+}
+
+.hsk-ui-v14 .v14-audio-vol-wrap {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
+.hsk-ui-v14 .v14-audio-vol-slider {
+  width: 50px;
+  height: 4px;
+  accent-color: var(--v14-color-primary);
+  cursor: pointer;
+}
+
+/* ==========================================================================
+   MINI AUDIO PLAYER (for matching rows)
+   ========================================================================== */
+.hsk-ui-v14 .v14-mini-audio-player {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--v14-space-2);
+  padding: 4px 10px;
+  background-color: var(--v14-color-surface-soft);
+  border-radius: var(--v14-radius-full);
+  border: 1px solid var(--v14-color-border);
+}
+
+.hsk-ui-v14 .v14-mini-audio-btn {
+  width: 24px;
+  height: 24px;
+  border-radius: var(--v14-radius-full);
+  background-color: var(--v14-color-primary);
+  color: #ffffff;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.7rem;
+}
+
+/* ==========================================================================
+   MODAL COMPONENT
+   ========================================================================== */
+.hsk-ui-v14 .v14-modal-backdrop,
+.hsk-ui-v14 .v14-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(15, 23, 42, 0.65);
+  backdrop-filter: blur(4px);
+  z-index: var(--v14-z-modal-backdrop);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--v14-space-4);
+  animation: v14FadeIn 0.2s ease-out;
+}
+
+.hsk-ui-v14 .v14-modal-window,
+.hsk-ui-v14 .v14-modal-container {
+  position: relative;
+  background-color: var(--v14-color-surface);
+  border-radius: var(--v14-radius-2xl);
+  max-width: 540px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: var(--v14-shadow-xl);
+  border: 1px solid var(--v14-color-border);
+  padding: var(--v14-space-6);
+  z-index: var(--v14-z-modal);
+  display: flex;
+  flex-direction: column;
+  gap: var(--v14-space-5);
+  animation: v14ScaleIn 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes v14FadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes v14ScaleIn {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}

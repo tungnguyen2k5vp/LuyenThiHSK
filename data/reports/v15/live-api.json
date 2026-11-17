@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-20T02:13:51.586Z",
+  "status": "PASS",
+  "pid": 45420,
+  "port": 8787,
+  "loopbackOnly": true,
+  "tokenPreserved": true,
+  "catalog": {
+    "total": 6,
+    "available": 5
+  },
+  "tokenWrittenToReport": false,
+  "contentSnapshotHash": "17276a241f4dea01c985d5ec69f4c31eb6c52403f16afd17e3b3e607f2b33f13"
+}

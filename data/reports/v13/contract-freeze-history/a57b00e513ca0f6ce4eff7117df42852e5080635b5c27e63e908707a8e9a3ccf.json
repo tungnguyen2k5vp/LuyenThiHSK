@@ -1,0 +1,11 @@
+{
+  "at": "2026-10-19T01:51:44.555Z",
+  "UI_CONTRACT_VERSION": "13.0",
+  "CONTRACT_STATUS": "FROZEN",
+  "handoff": "CONTRACT_READY — Gemini can begin UI Batch 1.",
+  "file": "src/contracts/ui-v13.ts",
+  "sha256": "a57b00e513ca0f6ce4eff7117df42852e5080635b5c27e63e908707a8e9a3ccf",
+  "assertions": 2847,
+  "baselineChecks": 32,
+  "geminiFilesModified": false
+}

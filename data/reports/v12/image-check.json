@@ -1,0 +1,329 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-audio-workbench.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1008,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-grammar-lesson.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1739,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-hsk2-hub.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1904,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-image-error.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1289,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-images-loaded.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1689,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-internal-mock-result.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1618,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-internal-mock-writing.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1303,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-listening-blocked.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1808,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-media-rights.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1250,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-microphone-draft.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1055,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-mixed-mini.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1290,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-mobile-grammar.png",
+      "width": 390,
+      "height": 900,
+      "sampleColors": 4124,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-mobile-home.png",
+      "width": 390,
+      "height": 900,
+      "sampleColors": 4152,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-mobile-hub.png",
+      "width": 390,
+      "height": 900,
+      "sampleColors": 3837,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-mobile-writing.png",
+      "width": 390,
+      "height": 900,
+      "sampleColors": 2764,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-offline-review-package.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1379,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-reading-result.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1483,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-review-queue.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 620,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-rights-attestation.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 799,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-study-plan.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1725,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-vocabulary-detail.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1312,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-writing-restored.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1159,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-chrome/v12-writing-ungraded.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1564,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-audio-workbench.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1002,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-grammar-lesson.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1736,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-hsk2-hub.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1905,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-image-error.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1328,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-images-loaded.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1687,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-internal-mock-result.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1616,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-internal-mock-writing.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1303,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-listening-blocked.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1809,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-media-rights.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1246,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-microphone-draft.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1065,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-mixed-mini.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1292,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-mobile-grammar.png",
+      "width": 390,
+      "height": 900,
+      "sampleColors": 4124,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-mobile-home.png",
+      "width": 390,
+      "height": 900,
+      "sampleColors": 4152,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-mobile-hub.png",
+      "width": 390,
+      "height": 900,
+      "sampleColors": 3837,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-mobile-writing.png",
+      "width": 390,
+      "height": 900,
+      "sampleColors": 2764,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-offline-review-package.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1378,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-reading-result.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1484,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-review-queue.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 617,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-rights-attestation.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 797,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-study-plan.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1724,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-vocabulary-detail.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1313,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-writing-restored.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1159,
+      "status": "PASS"
+    },
+    {
+      "file": "docs/screenshots/v12/after-edge/v12-writing-ungraded.png",
+      "width": 1280,
+      "height": 900,
+      "sampleColors": 1566,
+      "status": "PASS"
+    }
+  ],
+  "method": "Pillow PNG decode and >32 colors at 160x120; visual inspection recorded separately",
+  "realDevices": false
+}

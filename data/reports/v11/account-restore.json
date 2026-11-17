@@ -1,0 +1,6 @@
+{
+  "at": "2026-10-18T03:51:57.159Z",
+  "status": "PASS",
+  "scope": "Consistent baseline account SQLite copied and opened separately; integrity and schema match. No real session/token rows printed or browser profiles extracted.",
+  "path": ".tmp/v11-account-restore-1792295517155.sqlite"
+}

@@ -1,0 +1,205 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  "environment": {
+    "locale": "vi-VN",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  "capture": {
+    "after_each_step": [
+      "url"
+    ],
+    "at_end": [
+      "url",
+      "accessibility",
+      "screenshot"
+    ],
+    "events": [
+      "console"
+    ]
+  },
+  "start_url": {
+    "url": "http://127.0.0.1:4173/?view=exams&level=HSK%203&section=all"
+  },
+  "actions": [
+    {
+      "step_id": "catalog",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".catalog-practice-card[data-bank-id^=no7z-hsk3] >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "search",
+      "action": "fill",
+      "locator": {
+        "kind": "css",
+        "selector": "input[type=search]"
+      },
+      "value": {
+        "source": "literal",
+        "value": "no7z-hsk3-sentence-order-01"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "skill",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": "[data-bank-id=no7z-hsk3-sentence-order-01] .catalog-skill-actions button"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "intro",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "[data-exam-intro] >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "cancel",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Quay lại"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "skill_again",
+      "action": "click",
+      "locator": {
+        "kind": "css",
+        "selector": "[data-bank-id=no7z-hsk3-sentence-order-01] .catalog-skill-actions button"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "begin",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Bắt đầu luyện"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "room",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "textarea >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "answer",
+      "action": "fill",
+      "locator": {
+        "kind": "css",
+        "selector": "textarea"
+      },
+      "value": {
+        "source": "literal",
+        "value": "我父亲是工程师，母亲是公务员。"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "next",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Câu sau"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "previous",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Câu trước"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "answer_preserved",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": "textarea:has-text(\"我父亲是工程师，母亲是公务员。\") >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "check",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Kiểm tra câu"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "correct",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".answer-feedback.correct >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    },
+    {
+      "step_id": "submit",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Nộp bài"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "confirm",
+      "action": "click",
+      "locator": {
+        "kind": "role",
+        "role": "button",
+        "name": "Nộp bài và xem kết quả"
+      },
+      "timeout_ms": 10000
+    },
+    {
+      "step_id": "result",
+      "action": "wait_for",
+      "locator": {
+        "kind": "css",
+        "selector": ".attempt-result >> nth=0"
+      },
+      "state": "visible",
+      "timeout_ms": 15000
+    }
+  ]
+}
